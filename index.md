@@ -4,9 +4,12 @@ layout: default
 
 <!-- Section -->
 <section>
-	<!-- <header class="major">
-		<h2>Ipsum sed dolor</h2>
-	</header> -->
+	<p>
+	<h3>A dynamic nomenclature proposal for SARS-CoV-2 to assist genomic epidemiology</h3>
+	Andrew Rambaut, Edward C. Holmes, Áine O’Toole, Verity Hill, JT McCrone, Chris Ruis, Louis du Plessis, Oliver G. Pybus
+
+	A pre-print of the paper can be found <a href="https://doi.org/10.1101/2020.04.17.046086">here</a> <i>in press Nature Microbiology</i>
+</p>
 	<div class="posts">
 		<article>
 			<a href="https://github.com/cov-lineages/pangolin" class="image"><img src="assets/images/pangolin_logo.png" style="height:100%;max-height:350px;max-width:350px" alt="" /></a>
