@@ -12,7 +12,7 @@ layout: default
 </div>
 	<div class="posts">
 		<article>
-			<a href="https://github.com/cov-lineages/pangolin" class="image"><img src="assets/images/pangolin_logo.png" style="height:300px;max-height:300px;max-width:350px" alt="" /></a>
+			<a href="https://github.com/cov-lineages/pangolin" class="image"><img src="assets/images/pangolin_logo.png" style="height:300px;max-height:300px;max-width:320px" alt="" /></a>
 			<h3>pangolin</h3>
 			<p>Assign your CoV sequences a global lineage<br>
 			Command line tool</p>
