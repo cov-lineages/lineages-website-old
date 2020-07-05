@@ -1,17 +1,17 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+title: SARS-CoV-2 
+subtitle: lineages
+email: aine.otoole@ed.ac.uk
+description: Resources for assigning global lineages
 baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
 
 # Social settings
 500px_url:
