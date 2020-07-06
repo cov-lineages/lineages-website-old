@@ -2,6 +2,13 @@
   <div id="sidebar">
     <div class="inner">
 
+    <!-- Search -->
+    <section id="search" class="alt">
+        <form method="post" action="#">
+        <input type="text" name="query" id="query" placeholder="Search" />
+        </form>
+    </section>
+    
       <!-- Menu -->
         <nav id="menu">
           <header class="major">
@@ -13,8 +20,8 @@
             <li>
               <span class="opener">Lineages</span>
               <ul>
-                <li><a href="#">A</a></li>
-                <li><a href="#">B</a></li>
+                <li><a href="{{ 'lineage_A.html' | absolute_url }}">A</a></li>
+                <li><a href="{{ 'lineage_B.html' | absolute_url }}">B</a></li>
                 <li><a href="#">B.1</a></li>
                 <li><a href="#">B.1.1</a></li>
               </ul>
@@ -28,11 +35,20 @@
 
       <!-- Section -->
         <section>
-          <div class="mini-posts">
             <article>
-              <a href="https://pangolin.cog-uk.io/" class="image"><img src="assets/images/pangolin_logo.png" style="height:50px;max-height:50px;max-width:55px" alt="" /></a>
+                <a href="https://pangolin.cog-uk.io/" class="image fit"><img src="assets/images/pangolin_logo.png" style="text-align:center;height:100px;max-width:100px" alt=""/></a>
             </article>
-          </div>
         </section>
+        
+
+      <!-- Footer -->
+      <footer id="footer">
+        <p class="copyright">&copy; {{ site.title }} lineages <br>
+            Design: <a href="https://html5up.net">HTML5 UP</a> <br>
+             <a href="https://andrewbanchi.ch">Andrew Banchich</a> <br>
+             <a href="https://aineotoole.ed.ac.uk">Aine O'Toole</a>
+            </p>
+      </footer>
+
     </div>
   </div>
