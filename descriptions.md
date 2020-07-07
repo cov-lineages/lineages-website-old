@@ -27,8 +27,6 @@ Sequences which were replicates or too error-prone were removed from this analys
 <hr class="major" />
 <p>
 Note that the status of a lineage is highly likely to be due to heterogeneity in sampling, and not necessarily indicative of the real decline of lineages.
-
-The table below shows summary information of each lineage. 
 </p>
 <p>
 The "most common countries" column shows the three countries with the most sequences from each lineage, and the percentages by the country represent the percentage of sequences in that lineage taken from that location.
@@ -36,7 +34,6 @@ The "most common countries" column shows the three countries with the most seque
 <hr class="major" />
 <p>
 Again, please interpret this with caution. Some countries are sequencing much more than others, and so locations of lineages may be at least partially due to this. It does not imply direction of transmission from one country to another. 
-Sometimes we have been able to examine lineages which we know are circulating in one country by looking at sequences from another country due to associated epidemiological information.
 </p>
 
 
