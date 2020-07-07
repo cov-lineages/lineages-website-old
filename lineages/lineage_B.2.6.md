@@ -1,0 +1,21 @@
+---
+layout: page
+title: Lineage B.2.6
+---
+
+
+
+<embed src="../assets/images/B.2.6.pdf" type="application/pdf" width="90%" height="800px" />
+
+
+| Lineage | Notes |
+|:-----|:-----|
+| B.2.6 | UK/ Singapore/ Jordan/ Iceland, previously just UK & Australia (BS=11, low support) |
+
+<h2>Lineage B.2.6 composition summary </h2>
+
+<strong>Total number of sequences:</strong> 47
+
+| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+|:-----|:-----|:-------|-------:|-------:|:---------|--------:|
+| B.2.6 | UK (77%), Australia (9%), Iceland (6%) | March 05 to May 04 | 47 | 6 |  | 97.92 |
