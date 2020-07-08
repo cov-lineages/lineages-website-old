@@ -5,7 +5,7 @@ title: Lineage A.6
 
 
 
-<embed src="../assets/images/A.6.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/A.6.svg" alt="A.6 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

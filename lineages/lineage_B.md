@@ -5,7 +5,7 @@ title: Lineage B
 
 
 
-<embed src="../assets/images/B.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/B.svg" alt="B lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

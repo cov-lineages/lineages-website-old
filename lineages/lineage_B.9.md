@@ -5,7 +5,7 @@ title: Lineage B.9
 
 
 
-<embed src="../assets/images/B.9.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/B.9.svg" alt="B.9 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

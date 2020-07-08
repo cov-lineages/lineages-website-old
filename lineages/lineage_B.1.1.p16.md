@@ -5,7 +5,7 @@ title: Lineage B.1.1.p16
 
 
 
-<embed src="../assets/images/B.1.1.p16.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/B.1.1.p16.svg" alt="B.1.1.p16 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

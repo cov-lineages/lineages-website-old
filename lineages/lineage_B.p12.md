@@ -5,7 +5,7 @@ title: Lineage B.p12
 
 
 
-<embed src="../assets/images/B.p12.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/B.p12.svg" alt="B.p12 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

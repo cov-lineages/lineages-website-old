@@ -5,7 +5,7 @@ title: Lineage A.p7
 
 
 
-<embed src="../assets/images/A.p7.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/A.p7.svg" alt="A.p7 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

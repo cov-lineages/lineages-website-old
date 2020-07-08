@@ -5,7 +5,7 @@ title: Lineage A.1.3
 
 
 
-<embed src="../assets/images/A.1.3.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/A.1.3.svg" alt="A.1.3 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

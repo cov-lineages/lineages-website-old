@@ -5,7 +5,7 @@ title: Lineage B.1.p25
 
 
 
-<embed src="../assets/images/B.1.p25.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/B.1.p25.svg" alt="B.1.p25 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

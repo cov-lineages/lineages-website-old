@@ -5,7 +5,7 @@ title: Lineage B.1.p42
 
 
 
-<embed src="../assets/images/B.1.p42.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/B.1.p42.svg" alt="B.1.p42 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

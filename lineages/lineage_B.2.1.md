@@ -5,7 +5,7 @@ title: Lineage B.2.1
 
 
 
-<embed src="../assets/images/B.2.1.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/B.2.1.svg" alt="B.2.1 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

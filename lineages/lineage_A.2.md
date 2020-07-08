@@ -5,7 +5,7 @@ title: Lineage A.2
 
 
 
-<embed src="../assets/images/A.2.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/A.2.svg" alt="A.2 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |

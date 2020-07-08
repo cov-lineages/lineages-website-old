@@ -5,7 +5,7 @@ title: Lineage B.10
 
 
 
-<embed src="../assets/images/B.10.pdf" type="application/pdf" width="90%" height="800px" />
+<img src="../assets/images/B.10.svg" alt="B.10 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage | Notes |
