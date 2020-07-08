@@ -4,121 +4,110 @@ title: Lineage descriptions
 image: assets/images/global_lineages_tree.png
 ---
 
-<p>Each week as more data is produced and analysed, new lineages may be called and it may turn out that older lineages are in fact not lineages. We take into account both phylogenetic and 
-epidemiological information and use all available evidence to informed lineage calls weekly.
-</p>
-<hr class="major" />
 
+
+<p>Lineages as described in Rambaut et al 2020, which the software tool pangolin assigns, are characterised by a combination of genetic and epidemiological support. This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequences seen in a geographically distinct region with evidence of ongoing transmission in that region. Multiple sources of information are taken into account, including phylogenetic information as well as a variety of metadata associated with that sequence. For example, lineage B.4 was characterised as a lineage corresponding to the large outbreak in Iran early this year long any genome sequences from Iran were available due to travel history information associated with exported cases. The finer scale of this nomenclature system can help tease apart outbreak investigations and as rates of international travel increases will facilitate tracking viral imports across the globe.</p>
+
+<hr class="major" /><h3>Lineage links</h3>
 <p>
-This report gives summaries of globally circulating lineages as of 2020-05-10. 
-27763 sequences have been included in this analysis.
-98 lineages have been assigned in this dataset.
-Sequences which were replicates or too error-prone were removed from this analysis.
-
+	<ul class="alt">
+		<li><a href="{{ 'lineages/lineage_A.html' | absolute_url }}">Lineage A</a> <br>Root of the pandemic lies within lineage A. Many sequences originating from China and many global exports; including to South East Asia, Japan, South Korea, Australia, the USA and Europe, represented in this lineage<br></li>
+		<li><a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">Lineage A.1</a> <br>A North American lineage, with some sequences from Australia in (BS=95)<br></li>
+		<li><a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">Lineage A.1.1</a> <br>Iceland lineage (BS:100->79)<br></li>
+		<li><a href="{{ 'lineages/lineage_A.1.3.html' | absolute_url }}">Lineage A.1.3</a> <br>Australian lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">Lineage A.2</a> <br>Spain/ Chile/ Australia/ Europe (BS=93)<br></li>
+		<li><a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">Lineage A.3</a> <br>USA and Australian lineage (BS: 100 -> 44). Low BS likely due to India/NCDC-3279/2020, which was misassigned and likely jumps around the tree.<br></li>
+		<li><a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">Lineage A.4</a> <br>Lineage circulating in USA (all sequences Wisconsin) (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">Lineage A.5</a> <br>A lineage with a lot of representation from Spanish-speaking countries. A majoritively Spain/ South-American lineage, lower bootstrap this week BS 87->20. <br></li>
+		<li><a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">Lineage A.6</a> <br>Lineage in Thailand (BS=87)<br></li>
+		<li><a href="{{ 'lineages/lineage_A.p7.html' | absolute_url }}">Lineage A.p7</a> <br>Potential lineage: Saudi Arabia, Russia, Turkey, India (BS=50)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.html' | absolute_url }}">Lineage B</a> <br>Base of this lineage also lies in China, with many global exports, two distinct SNPs `8782TC` and `28144CT` define this lineage<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}">Lineage B.1</a> <br>A large European lineage that corresponds to the Italian outbreak.<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}">Lineage B.1.1</a> <br>New European lineage that's been assigned due to high support and 3 clear SNPs `28881GA`,`28882GA`,`28883GC`. Note: Sub-lineages that previously existed within this lineage have been reassigned a new lineage name.<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">Lineage B.1.1.1</a> <br>Formerly B.1.1, UK/ Europe (BS=80)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">Lineage B.1.1.10</a> <br>Formerly B.1.10, UK/ Iceland (BS lower this week 70 -> 11), a lot of diversity in this lineage, now has a Turkish sequence. <br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.13.html' | absolute_url }}">Lineage B.1.1.13</a> <br>Formerly B.1.61, UK lineage (BS=95)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.14.html' | absolute_url }}">Lineage B.1.1.14</a> <br>Formerly B.1.60, Scottish lineage (BS=89)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.17.html' | absolute_url }}">Lineage B.1.1.17</a> <br>Formerly B.1.58, Iceland lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.18.html' | absolute_url }}">Lineage B.1.1.18</a> <br>Formerly B.1.57, Austrian lineage (BS=97)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.2.html' | absolute_url }}">Lineage B.1.1.2</a> <br>Formerly B.1.24, Welsh lineage (BS=100->47 this week)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.3.html' | absolute_url }}">Lineage B.1.1.3</a> <br>Formerly B.1.65, English lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.4.html' | absolute_url }}">Lineage B.1.1.4</a> <br>Formerly B.1.55, UK (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.5.html' | absolute_url }}">Lineage B.1.1.5</a> <br>Formerly B.1.54, Iceland/ Belgium/ UK (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.6.html' | absolute_url }}">Lineage B.1.1.6</a> <br>Formerly B.1.62, Austrian lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.7.html' | absolute_url }}">Lineage B.1.1.7</a> <br>Formerly B.1.1.56, UK/ Australia/ Iceland (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.8.html' | absolute_url }}">Lineage B.1.1.8</a> <br>Formerly B.1.63, UK/ USA/ Australia (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.9.html' | absolute_url }}">Lineage B.1.1.9</a> <br>Formerly B.1.53, England / USA (BS=83)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.p11.html' | absolute_url }}">Lineage B.1.1.p11</a> <br>Formerly B.1.50, Portugal/ Wales (BS=55 this week)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.p12.html' | absolute_url }}">Lineage B.1.1.p12</a> <br>Formerly B.1.49, Scottish lineage (BS=48)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.p15.html' | absolute_url }}">Lineage B.1.1.p15</a> <br>Formerly B.1.46, Luxembourg (BS=11, but internal nodes all 100 and all Luxembourg)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.p16.html' | absolute_url }}">Lineage B.1.1.p16</a> <br>Formerly B.1.59, Wales lineage (BS=70)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.1.p19.html' | absolute_url }}">Lineage B.1.1.p19</a> <br>Formerly B.1.45, Australian lineage (BS=91)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">Lineage B.1.12</a> <br>BeNeLux (BS=18 this week, lots of internal 100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.13.html' | absolute_url }}">Lineage B.1.13</a> <br>England/ Australia, may need refining parent node BS=59, internal node of 100<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.19.html' | absolute_url }}">Lineage B.1.19</a> <br>USA (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.22.html' | absolute_url }}">Lineage B.1.22</a> <br>Netherlands (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.23.html' | absolute_url }}">Lineage B.1.23</a> <br>Australia (BS=68)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.26.html' | absolute_url }}">Lineage B.1.26</a> <br>USA lineage (BS=83)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.29.html' | absolute_url }}">Lineage B.1.29</a> <br>USA (BS=86)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.3.html' | absolute_url }}">Lineage B.1.3</a> <br>USA(BS=39)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.30.html' | absolute_url }}">Lineage B.1.30</a> <br>England (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.31.html' | absolute_url }}">Lineage B.1.31</a> <br>Australia (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.32.html' | absolute_url }}">Lineage B.1.32</a> <br>Swedish lineage (BS=95)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.33.html' | absolute_url }}">Lineage B.1.33</a> <br>Australian lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.34.html' | absolute_url }}">Lineage B.1.34</a> <br>England (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">Lineage B.1.35</a> <br>Wales (BS=9)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.36.html' | absolute_url }}">Lineage B.1.36</a> <br>Turkey/ Saudi Arabia/ Egypt / Finland & England (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.37.html' | absolute_url }}">Lineage B.1.37</a> <br>USA lineage (BS=93)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.38.html' | absolute_url }}">Lineage B.1.38</a> <br>USA (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.39.html' | absolute_url }}">Lineage B.1.39</a> <br>Denmark (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.40.html' | absolute_url }}">Lineage B.1.40</a> <br>Scotland (BS=90)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.41.html' | absolute_url }}">Lineage B.1.41</a> <br>USA lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.43.html' | absolute_url }}">Lineage B.1.43</a> <br>USA (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.44.html' | absolute_url }}">Lineage B.1.44</a> <br>Wales (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}">Lineage B.1.5</a> <br>England/ Spain/ Turkey/ Australia/ USA/ Brasil. Low support at parent node now, potentially as a result of homoplasies (BS=5)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.1.html' | absolute_url }}">Lineage B.1.5.1</a> <br>Iceland (BS=27), but all sequences suggest an Icelandic lineage<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.2.html' | absolute_url }}">Lineage B.1.5.2</a> <br>Netherlands (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">Lineage B.1.5.3</a> <br>England (now containing an Australian & Swedish seqeuence) (BS=96)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.4.html' | absolute_url }}">Lineage B.1.5.4</a> <br>Spain (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.5.html' | absolute_url }}">Lineage B.1.5.5</a> <br>England (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.6.html' | absolute_url }}">Lineage B.1.5.6</a> <br>UK (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.6.html' | absolute_url }}">Lineage B.1.6</a> <br>Belgian lineage (BS=55)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.66.html' | absolute_url }}">Lineage B.1.66</a> <br>English lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.67.html' | absolute_url }}">Lineage B.1.67</a> <br>Wales lineage (BS=96)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.69.html' | absolute_url }}">Lineage B.1.69</a> <br>Scottish lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.70.html' | absolute_url }}">Lineage B.1.70</a> <br>Scottish lineage (BS=70)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.71.html' | absolute_url }}">Lineage B.1.71</a> <br>UK lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.72.html' | absolute_url }}">Lineage B.1.72</a> <br>UK lineage (BRIS) (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.8.html' | absolute_url }}">Lineage B.1.8</a> <br>Netherlands/ Europe (BS=47)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p11.html' | absolute_url }}">Lineage B.1.p11</a> <br>UK lineage but low support and splitting up, pruned down quite a lot, but may need to be removed next time (BS=31)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p16.html' | absolute_url }}">Lineage B.1.p16</a> <br>Belgium, low support (BS=19), keep an eye on this with new data <br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p2.html' | absolute_url }}">Lineage B.1.p2</a> <br>USA (low BS=9)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p21.html' | absolute_url }}">Lineage B.1.p21</a> <br>Washington (USA) (Low BS=9)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p25.html' | absolute_url }}">Lineage B.1.p25</a> <br>Australian lineage, some low internal bootstrap values and parent node BS=16. However all sequences within it are Australian and that's with quite a lot of diversity as well.<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p42.html' | absolute_url }}">Lineage B.1.p42</a> <br>Sweden/ Denmark lineage, split up in the tree this week<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p68.html' | absolute_url }}">Lineage B.1.p68</a> <br>USA lineage (UT) (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p73.html' | absolute_url }}">Lineage B.1.p73</a> <br>Scotland lineage (BS=5, so very low)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.p9.html' | absolute_url }}">Lineage B.1.p9</a> <br>Netherlands/ Belgium/ Turkey/ DRC (BS=9)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">Lineage B.10</a> <br>Northern Ireland/ England/ Scotland (BS=89)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">Lineage B.13</a> <br>USA (WI) lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.14.html' | absolute_url }}">Lineage B.14</a> <br>USA (CA) lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.15.html' | absolute_url }}">Lineage B.15</a> <br>UK lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.16.html' | absolute_url }}">Lineage B.16</a> <br>Mostly Scottish lineage (BS=95)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.2.html' | absolute_url }}">Lineage B.2</a> <br>A previously defined large European/ Australian lineage that with new data has low support (BS=13). This lineage and its sublineage will need to be re-examined and perhaps refined quite significantly in next weeks data<br></li>
+		<li><a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">Lineage B.2.1</a> <br>Large lineage with representation from UK, Europe, Jordan, Australia, USA, India, Ghana (BS=11) <br></li>
+		<li><a href="{{ 'lineages/lineage_B.2.2.html' | absolute_url }}">Lineage B.2.2</a> <br>BeNeLux/ UK/ Singapore /Australia /USA (BS=85)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.2.4.html' | absolute_url }}">Lineage B.2.4</a> <br>Australian lineage, took a subset of previously defined B.2.4 and reassigning them B.2<br></li>
+		<li><a href="{{ 'lineages/lineage_B.2.5.html' | absolute_url }}">Lineage B.2.5</a> <br>Spain/ England / Australia (BS=17) *flagged because of low bootstrap<br></li>
+		<li><a href="{{ 'lineages/lineage_B.2.6.html' | absolute_url }}">Lineage B.2.6</a> <br>UK/ Singapore/ Jordan/ Iceland, previously just UK & Australia (BS=11, low support)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.2.7.html' | absolute_url }}">Lineage B.2.7</a> <br>Iceland lineage (BS=60)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.3.html' | absolute_url }}">Lineage B.3</a> <br>A European lineage, including a large set of sequences from Wales, low parent node support (BS=14)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.4.html' | absolute_url }}">Lineage B.4</a> <br>Iran lineage, many sequences we have of this lineage are associated with travel histories from Iran (BS=43)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.5.html' | absolute_url }}">Lineage B.5</a> <br>Japanese lineage (BS=75) <br></li>
+		<li><a href="{{ 'lineages/lineage_B.6.html' | absolute_url }}">Lineage B.6</a> <br>India/ Philippines/ UK/ North America/ Australia/ Singapore (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.7.html' | absolute_url }}">Lineage B.7</a> <br>Hong Kong lineage (BS 73 -> 27)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.9.html' | absolute_url }}">Lineage B.9</a> <br>Australian/ England lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.p11.html' | absolute_url }}">Lineage B.p11</a> <br>Netherlands lineage (BS=100)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.p12.html' | absolute_url }}">Lineage B.p12</a> <br>Japan lineage (BS=99, but only a few sequences)<br></li>
+		</ul>
 </p>
-
-
-<p>
-30 are pending extinction ie last seen three weeks ago.
-34 have not been seen for more than one month, and so are viewed as extinct, but will continue to be monitored.
-21 lineages have gone quiet, ie haven't been seen this week.
-13 lineages have been continuously circulating.
-</p>
-<hr class="major" />
-<p>
-Note that the status of a lineage is highly likely to be due to heterogeneity in sampling, and not necessarily indicative of the real decline of lineages.
-</p>
-<p>
-The "most common countries" column shows the three countries with the most sequences from each lineage, and the percentages by the country represent the percentage of sequences in that lineage taken from that location.
-</p>
-<hr class="major" />
-<p>
-Again, please interpret this with caution. Some countries are sequencing much more than others, and so locations of lineages may be at least partially due to this. It does not imply direction of transmission from one country to another. 
-</p>
-
-
-| Lineage | Notes |
-|:-----|:-----|
-| A | Root of the pandemic lies within lineage A. Many sequences originating from China and many global exports; including to South East Asia, Japan, South Korea, Australia, the USA and Europe, represented in this lineage |
-| A.1 | A North American lineage, with some sequences from Australia in (BS=95) |
-| A.1.1 | Iceland lineage (BS=100) |
-| A.1.2 | USA/ Australia/ Canada (Parent node BS=now only 40, had two jump out of lineage, may remove this lineage in next release) |
-| A.2 | Spain/ Chile/ Australia/ Europe (BS=100) |
-| A.3 | USA and Australian lineage (BS=100) |
-| A.4 | Lineage circulating in USA (all sequences Wisconsin) (BS=100) |
-| A.5 | A lineage with high support and a lot of representation from Spanish-speaking countries. A majoritively Spain/ South-American lineage (BS=87) |
-| B | Base of this lineage also lies in China, with many global exports, two distinct SNPs `8782TC` and `28144CT` define this lineage |
-| B.1 | A large European lineage that corresponds to the Italian outbreak |
-| B.1.1 | UK/ Iceland/ Russia |
-| B.1.2 | USA/ Australia (low BS=8) |
-| B.1.3 | USA/ Argentina (low BS=8) |
-| B.1.5 | As more sequences have accumulated, quite a spread out lineage. European. Low support at parent node now (BS=9) |
-| B.1.5.1 | Iceland (BS=41), but Epi-data suggests an icelandic lineage |
-| B.1.5.2 | Netherlands (BS=100) |
-| B.1.5.3 | England (BS=97) |
-| B.1.5.4 | Spain (BS=100) |
-| B.1.5.5 | England (BS=100) |
-| B.1.5.6 | UK/ Netherlands (BS=100) |
-| B.1.6 | Belgian lineage (BS=70) |
-| *B.1.7 | Low support (BS=9), dissolved into B.1 |
-| B.1.8 | Netherlands/ Europe BS=58 |
-| B.1.9 | Netherlands/ Belgium/ Turkey (BS=100) |
-| B.1.10 | UK/ Iceland (BS=70) |
-| B.1.11 | UK lineage but now low support (BS=19) |
-| B.1.12 | BeNeLux (BS=63, lots of internal 100) |
-| B.1.13 | England/ Australia, may need refining parent node BS=55, internal node of 100 |
-| B.1.16 | Belgium, low support (BS=38) |
-| B.1.19 | Luxembourg/ USA (BS=66) |
-| B.1.21 | Washington (USA) (Low BS=8) |
-| B.1.20 | England/ Netherlands Low support (BS=25), will watch for new data |
-| B.1.22 | Netherlands (BS=100) |
-| B.1.23 | Australia (BS=41) |
-| B.1.24 | Wales (BS=100) |
-| B.1.25 | All quite low internal bootstrap values and parent node BS=27. However all sequences within it are Australian and that's with quite a lot of diversity as well. Will watch for more data in next weeks release |
-| B.1.26 | USA lineage (BS=87) |
-| B.1.27 | USA/ Argentina (BS=52) |
-| B.1.28 | Denmark / USA Parent BS=12, internal nodes BS all 100 |
-| B.1.29 | USA (BS=100) |
-| B.1.30 | England (BS=100) |
-| B.1.31 | Australia (BS=100) |
-| B.1.32 | Swedish lineage (BS=100) |
-| B.1.33 | Australian lineage (BS=100) |
-| B.1.34 | England (BS=99) |
-| B.1.35 | Wales (BS=96) |
-| B.1.36 | Turkey/ Saudi Arabia/ Egypt / Finland & England (BS=100) |
-| B.1.37 | USA lineage (BS=100) |
-| B.1.38 | USA (BS=100) |
-| B.1.39 | Denmark (BS=100) |
-| B.1.40 | Scotland (BS=92) |
-| B.1.41 | USA (BS=89) |
-| B.1.42 | Sweden/ Denmark (low BS=11, but convincing Epi-data) |
-| B.1.43 | USA (BS=72) |
-| B.1.44 | Wales (BS=100) |
-| B.1.45 | Australia middling BS=44, but all Australian sequences within a background of European and Asian |
-| B.1.46 | Luxembourg (BS=38, but internal nodes all 100 and all Luxembourg) |
-| B.1.47 | England (BS=100) |
-| B.1.48 | England (BS=39, but all other internal nodes 100, may refine this in next weeks release with more data) |
-| B.1.49 | Scotland (BS=92) |
-| B.1.50 | Portugal/ Wales (BS=100) |
-| B.1.51 | UK (BS=92) |
-| B.1.52 | England (BS=100) |
-| B.1.53 | England / USA (BS=95) |
-| B.1.54 | Iceland/ Belgium/ UK (BS=98) |
-| B.1.55 | UK (BS=100) |
-| B.1.56 | UK/ Australia/ Iceland (BS=100) |
-| B.2 | A previously defined large European/ Australian lineage that with new data has low support (BS=13). This lineage and its sublineage will need to be re-examined and perhaps refined quite significantly in next weeks data |
-| B.2.2 | Previously defined UK/ Belgium /USA (BS=20) |
-| *B.2.3 | Dissolved into B.2 (No good internal BS, misassignments) |
-| B.2.4 | Australian lineage, took a subset of previously defined B.2.4 and reassigning them B.2 |
-| B.2.5 | Spain/ England / Australia (BS=29), unique SNPs `23707CT`,`26144GT` |
-| B.2.6 | UK/ Australian lineage (BS=100) |
-| B.3 | A European lineage, including a large set of sequences from Wales, but new data has given a parent node with BS=8 |
-| B.4 | Iran lineage, many sequences we have of this lineage are associated with travel histories from Iran |
-| B.5 | Japanese lineage (BS=77). Originally also included USA/CruiseA samples, but they have been reassigned as B lineage due to lower BS=(64) in this weeks ML tree |
-| B.6 | India/ Philippines/ UK/ North America/ Australia (BS=100) |
-| B.7 | Hong Kong lineage (BS=is 73) |
-| B.8 | UK lineage (England and Wales), this week BS=was 27 so slightly problematic, next week's data will shed more light |
-| B.9 | Australian/ England lineage (BS=100) |
-| B.10 | Northern Ireland/ England (BS=99) |
-| B.11 | Netherlands lineage (BS=99) |
-
