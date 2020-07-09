@@ -16,6 +16,7 @@ layout: default
                     Aine O'Toole <br>
                     Verity Hill <br>
                     JT McCrone <br>
+                    Emily Scher
                 </ul>
 			</div>
 		</article>
