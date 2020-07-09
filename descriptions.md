@@ -1,14 +1,26 @@
 ---
 layout: page
-title: Lineage descriptions
-image: assets/images/global_lineages_tree.png
+# title: 
+# image: assets/images/global_lineages_tree.png
 ---
 
 
+  <section id="banner">
+    <div class="content">
+      <header>
+        <h1>Descriptions</h1>
+        <p>Descriptions of all circulating lineages</p>
+      </header>
+      <p>Lineages as described in Rambaut et al 2020, which the software tool pangolin assigns, are characterised by a combination of genetic and epidemiological support.</p>
+      <p>This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequences seen in a geographically distinct region with evidence of ongoing transmission in that region. Multiple sources of information are taken into account, including phylogenetic information as well as a variety of metadata associated with that sequence.</p>
+      <p> For example, lineage B.4 was characterised as a lineage corresponding to the large outbreak in Iran early this year long any genome sequences from Iran were available due to travel history information associated with exported cases. The finer scale of this nomenclature system can help tease apart outbreak investigations and as rates of international travel increases will facilitate tracking viral imports across the globe.</p>
+    </div>
+    <span class="image object">
+      <img src="assets/images/global_lineages_tree.png" alt="" />
+    </span>
+  </section>
 
-<p>Lineages as described in Rambaut et al 2020, which the software tool pangolin assigns, are characterised by a combination of genetic and epidemiological support. This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequences seen in a geographically distinct region with evidence of ongoing transmission in that region. Multiple sources of information are taken into account, including phylogenetic information as well as a variety of metadata associated with that sequence. For example, lineage B.4 was characterised as a lineage corresponding to the large outbreak in Iran early this year long any genome sequences from Iran were available due to travel history information associated with exported cases. The finer scale of this nomenclature system can help tease apart outbreak investigations and as rates of international travel increases will facilitate tracking viral imports across the globe.</p>
-
-<hr class="major" /><h3>Lineage links</h3>
+<hr class="major" /><h3>More information about each lineage</h3>
 <p>
 	<ul class="alt">
 		<li><a href="{{ 'lineages/lineage_A.html' | absolute_url }}">Lineage A</a> <br>Root of the pandemic lies within lineage A. Many sequences originating from China and many global exports; including to South East Asia, Japan, South Korea, Australia, the USA and Europe, represented in this lineage<br></li>
