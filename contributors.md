@@ -79,5 +79,12 @@ layout: default
 				<p>We acknowledge the COG-consortium for allowing direct and immediate access to the UK SARS-CoV-2 data and all individuals involved generating the genome sequences.</p>
 			</div>
 		</article>
+        <article>
+			<span class="icon fa-asterisk"></span>
+			<div class="content">
+				<h3>GitHub issues</h3>
+                <p> We thank the users of pangolin who provided feedback on the <a href="https://github.com/cov-lineages/pangolin/issues?q=is%3Aissue+is%3Aclosed">GitHub issues page</a> and recognise the software is much improved thanks to their patience and suggestions!</p>
+			</div>
+		</article>
 	</div>
 </section>
