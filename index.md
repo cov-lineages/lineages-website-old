@@ -22,7 +22,7 @@ layout: default
             </p>
         </article>
         <article>
-            <a href="https://github.com/cov-lineages/assignment" class="image"><img src="assets/images/global_lineages_tree.png" style="height:300px;max-height:300px;max-width:450px" alt="" /></a>
+            <a href="./assignment.html" class="image"><img src="assets/images/global_lineages_tree.png" style="height:300px;max-height:300px;max-width:450px" alt="" /></a>
             <h3>Suggest new lineages</h3>
             <p>Add your sequences to the list of circulating global lineages</p>
         </article>
