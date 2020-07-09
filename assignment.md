@@ -21,8 +21,36 @@ layout: page
       <img src="assets/images/global_tree.jpg" alt="" />
     </span>
   </section>
+  <section>
+    <div class="6u 12u$(small)">
+    <h2> What factors suggest your sequences form a new lineage?</h2>
+    <p>
+        <ul>
+            <li>Monophyly and cluster together on the global tree</li>
+            <li>Convincing support values on the base node of the lineage (e.g. transfer bootstrap or ultrafast bootstrap)</li>
+            <li>Epidemiological support (e.g. location, travel history)</li>
+            <li>Introduction into a novel geographic region</li>
+            <li>Evidence of circulation in that region (i.e. internal nodes within the lineage)</li>
+            <li>A defining SNP</li>
+        </ul>
+        </p>
+    </div>
+    </section>
 
-
-<!-- <section>
-<h3> What criteria define a new lineage?</h3>
-</section> -->
+  <section>
+    <div class="6u 12u$(small)">
+    <h2> How to suggest a lineage:</h2>
+    <p>
+    <ul>
+        <li>Press the button:
+        <ul class="actions">
+        <a href="https://github.com/cov-lineages/assignment" class="button special small">Suggest a lineage</a>
+        </ul></li>
+        <li>Clone the assignment repository</li>
+        <li>If your sequences are in GISAID, find them in the global tree if possible</li>
+        <li>Submit a pull request to the repository with evidence showing evidence of a selection of the above factors. We recognise that with heuristic tree searching, homoplasy, compute limitations and availability of metadata all of the criteria above may not be fulfilled. Feel free to suggest lineages and provide as much information as is available and we will incorporate it into the global lineage scheme if possible.</li>
+      </ul>
+      
+        </p>
+    </div>
+    </section>
