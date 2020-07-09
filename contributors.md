@@ -13,7 +13,7 @@ layout: default
 			<div class="content">
 				<h3>University of Edinburgh</h3>
 				<ul> Andrew Rambaut <br>
-                    Aine O'Toole <br>
+                    Áine O'Toole <br>
                     Verity Hill <br>
                     JT McCrone <br>
                     Emily Scher
