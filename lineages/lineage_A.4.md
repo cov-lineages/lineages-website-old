@@ -5,18 +5,23 @@ title: Lineage A.4
 
 
 
-<h2> Lineage summaries</h2>
+<p>
+<ul class="actions small">
+	 <a href="{{ 'lineages/lineage_A.html' | absolute_url }}" class="button special fit">Go to parent lineage: A</a>
+</ul>
+</p>
+<h3> Lineage summaries</h3>
 
 <img src="../assets/images/A.4.svg" alt="A.4 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| A.4 | USA (100%) | March 13 to April 10 | 25 | 30 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA (100%) | March 13 to April 10 | 25 | 30 |  | 100.0 |
 
-<h2>Lineage descriptions</h2>
+<h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| A.4 | Lineage circulating in USA (all sequences Wisconsin) (BS=100) |
+| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | Lineage circulating in USA (all sequences Wisconsin) (BS=100) |
 

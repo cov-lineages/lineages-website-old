@@ -5,18 +5,23 @@ title: Lineage B.1.5.1
 
 
 
-<h2> Lineage summaries</h2>
+<p>
+<ul class="actions small">
+	 <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.5</a>
+</ul>
+</p>
+<h3> Lineage summaries</h3>
 
 <img src="../assets/images/B.1.5.1.svg" alt="B.1.5.1 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| B.1.5.1 | Iceland (100%) | March 12 to March 28 | 93 | 43 | Argentina to Iceland (1)<br/> | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.5.1.html' | absolute_url }}">B.1.5.1</a> | Iceland (100%) | March 12 to March 28 | 93 | 43 | Argentina to Iceland (1)<br/> | 100.0 |
 
-<h2>Lineage descriptions</h2>
+<h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| B.1.5.1 | Iceland (BS=27), but all sequences suggest an Icelandic lineage |
+| <a href="{{ 'lineages/lineage_B.1.5.1.html' | absolute_url }}">B.1.5.1</a> | Iceland (BS=27), but all sequences suggest an Icelandic lineage |
 

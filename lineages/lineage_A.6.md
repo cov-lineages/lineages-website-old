@@ -5,18 +5,23 @@ title: Lineage A.6
 
 
 
-<h2> Lineage summaries</h2>
+<p>
+<ul class="actions small">
+	 <a href="{{ 'lineages/lineage_A.html' | absolute_url }}" class="button special fit">Go to parent lineage: A</a>
+</ul>
+</p>
+<h3> Lineage summaries</h3>
 
 <img src="../assets/images/A.6.svg" alt="A.6 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| A.6 | Thailand (100%) | January 23 to March 28 | 31 | 43 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Thailand (100%) | January 23 to March 28 | 31 | 43 |  | 100.0 |
 
-<h2>Lineage descriptions</h2>
+<h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| A.6 | Lineage in Thailand (BS=87) |
+| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Lineage in Thailand (BS=87) |
 

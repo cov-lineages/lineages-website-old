@@ -5,18 +5,23 @@ title: Lineage B.1.5.2
 
 
 
-<h2> Lineage summaries</h2>
+<p>
+<ul class="actions small">
+	 <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.5</a>
+</ul>
+</p>
+<h3> Lineage summaries</h3>
 
 <img src="../assets/images/B.1.5.2.svg" alt="B.1.5.2 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| B.1.5.2 | Netherlands (86%), Belgium (7%), UK (7%) | March 24 to April 06 | 14 | 34 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.5.2.html' | absolute_url }}">B.1.5.2</a> | Netherlands (86%), Belgium (7%), UK (7%) | March 24 to April 06 | 14 | 34 |  | 100.0 |
 
-<h2>Lineage descriptions</h2>
+<h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| B.1.5.2 | Netherlands (BS=100) |
+| <a href="{{ 'lineages/lineage_B.1.5.2.html' | absolute_url }}">B.1.5.2</a> | Netherlands (BS=100) |
 
