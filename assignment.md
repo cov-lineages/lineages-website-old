@@ -50,7 +50,6 @@ layout: page
         <li>If your sequences are in GISAID, find them in the global tree if possible</li>
         <li>Submit a pull request to the repository with evidence showing evidence of a selection of the above factors. We recognise that &#8212; with heuristic tree searching, homoplasy, compute limitations and availability of metadata &#8212; all of the criteria above may not be fulfilled. Feel free to suggest lineages and provide as much information as is available and we will incorporate it into the global lineage scheme if possible.</li>
       </ul>
-      
         </p>
     </div>
     </section>
