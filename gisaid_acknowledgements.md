@@ -1,3 +1,8 @@
+---
+layout: page
+title: GISAID acknowledgements
+---
+
 |Accession ID|Virus name|Location|Collection date|Originating lab|Submitting lab|Authors|
 |---|---|---|---|---|---|---|
 |EPI_ISL_417141|hCoV-19/USA/WA-S88/2020|North America / USA / Washington / King County|2020-03-01|Washington State Department of Health|Seattle Flu Study|Chu etl al|

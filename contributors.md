@@ -70,7 +70,7 @@ layout: default
 			<span class="icon fa-asterisk"></span>
 			<div class="content">
 				<h3>GISAID data </h3>
-                <p> We acknowledge the hard work and open-science of the individual research labs and public health bodies that have made their genome data accessible on GISAID. A detailed table of acknowledgements for the SARS-CoV-2 genome sequences used to build this lineage system is hosted <a href="https://raw.githubusercontent.com/hCoV-2019/lineages/master/gisaid_acknowledgements.tsv">here</a>.</p>
+                <p> We acknowledge the hard work and open-science of the individual research labs and public health bodies that have made their genome data accessible on GISAID. A detailed table of acknowledgements for the SARS-CoV-2 genome sequences used to build this lineage system is hosted <a href="./gisaid_acknowledgements.html">here</a>.</p>
 			</div>
 		</article>
 		<article>
