@@ -9,8 +9,8 @@ layout: page
         <h1>pangolin</h1>
         <p>Phylogenetic Assignment of Named Global Outbreak Lineages</p>
       </header>
-      <p>pangolin assigns lineages to query sequences as described in Rambaut et al 2020.</p>
-      <p>pangolin is available as a command line tool and a web application. The web application was developed by the <a href="https://www.pathogensurveillance.net/">Centre for Genomic Pathogen Surveillance</a>. The command line tool is open source software available under the GNU General Public License v3.0.</p>
+      <p><strong>pangolin</strong> assigns lineages to query sequences as described in Rambaut et al 2020.</p>
+      <p><strong>pangolin</strong> is available as a command line tool and a web application. The web application was developed by the <a href="https://www.pathogensurveillance.net/">Centre for Genomic Pathogen Surveillance</a>. The command line tool is open source software available under the GNU General Public License v3.0.</p>
     <p>
     <ul class="actions small">
         <a href="https://github.com/cov-lineages/pangolin" class="button special fit">Download pangolin</a>
@@ -27,9 +27,11 @@ layout: page
 
 <hr class="major" />
 
+## pangolin: command line
+
 ### Requirements
 
-Pangolin runs on MacOS and Linux. The conda environment recipe may not build on Windows (I haven't tested it) but can be run using the Windows subsystem for Linux.
+<strong>pangolin</strong> runs on MacOS and Linux. The conda environment recipe may not build on Windows (I haven't tested it), but can be run using the Windows subsystem for Linux.
 
 1. Some version of conda, we use Miniconda3. Can be downloaded from [here](https://docs.conda.io/en/latest/miniconda.html)
 2. Your query fasta file
@@ -39,42 +41,43 @@ Pangolin runs on MacOS and Linux. The conda environment recipe may not build on 
 1. Clone this repository and ``cd pangolin``
 2. ``conda env create -f environment.yml``
 3. ``conda activate pangolin``
-4. ``python setup.py install`` or ``pip install .``
+4. ``python setup.py install``
 5. That's it
 
-> Note: we recommend using pangolin in the conda environment specified in the ``environment.yml`` file as per the instructions above. If you can't use conda for some reason, bear in mind the data files are now hosted in a separate repository at [``hCoV-2019/lineages``](https://github.com/hCoV-2019/lineages.git) and you will need to pip install that alongside the other dependencies for pangolin (details found in [``environment.yml``](https://github.com/hCoV-2019/pangolin/blob/master/environment.yml)). 
+> Note: we recommend using <strong>pangolin</strong> in the conda environment specified in the ``environment.yml`` file as per the instructions above.<br> If you can't use conda for some reason, bear in mind the data files are hosted in a separate repository at [cov-lineages/lineages](https://github.com/cov-lineages/lineages.git) and you will need to pip install that alongside the other dependencies for pangolin (details found in [``environment.yml``](https://github.com/cov-lineages/pangolin/blob/master/environment.yml)).
+
 
 ### Check the install worked
 
-Type (in the pangolin environment):
+Type (in the <strong>pangolin</strong> environment):
 
 ```
 pangolin -v
 pangolin -lv
 ```
-and you should see the versions of pangolin and lineages data release printed respectively.
+and you should see the versions of <strong>pangolin</strong> and lineages data release printed respectively.
 
 ### Updating pangolin
 
-> Note: Even if you have previously installed ``pangolin``, as it is being worked on intensively, we recommend you check for updates before running.
+> Note: Even if you have previously installed <strong>pangolin</strong>, as it is being worked on intensively, we recommend you check for updates before running.
 
 To update:
 
 1. ``conda activate pangolin``
-2. ``git pull`` \
+2. ``git pull`` 
 pulls the latest changes from github
-3. ``python setup.py install`` \
-re-installs pangolin
-4. ``pip install git+https://github.com/hCoV-2019/lineages.git --upgrade`` \
+3. ``python setup.py install`` 
+re-installs <strong>pangolin</strong> (Note, if you have pip installed <strong>pangolin</strong> previously you will need to do that again to overwrite).
+4. ``pip install git+https://github.com/cov-lineages/lineages.git --upgrade`` 
 updates if there is a new data release
-5. ``conda env update -f environment.yml`` \
+5. ``conda env update -f environment.yml`` 
 updates the conda environment (you're unlikely to need to do this, but just in case!)
 
 
 ### Usage
 
 1. Activate the environment ``conda activate pangolin``
-2. Run ``pangolin <query>``, where ``<query>`` is the name of your input file.
+2. Run ``pangolin <query>``, where ``<query>`` is the name of your input file
 
 ```
 pangolin: Phylogenetic Assignment of Named Global Outbreak LINeages
@@ -122,26 +125,26 @@ Resources for interpreting the aLRT and UFbootstrap output can be found [here](h
 ### Recall rate
 Of 9,843 GISAID sequences assigned lineages by hand (taking sequence, phylogeny and metadata into account), pangolin accurately assigns the lineage of 97.85% of those sequences. Of the sequences that were not recalled correctly, 74.5% had 0 bootstrap and 0 alrt. We're continuing to work to improve this recall rate, but recommend interpreting the pangolin output cautiously with due attention to the UFbootstrap and aLRT values. 
 
-Given hCoV-2019 is relatively slow evolving for an RNA virus and there is still not a huge amount of diversity, missing or ambiguous data at key residues may lead to incorrect placement within the guide tree. We have a filter in place that by default with not call a lineage for any sequence with >50% N-content, but this can be made more conservative with the command line option `--max-ambig`.
+Given SARS-CoV-2 is relatively slow evolving for an RNA virus and there is still not a huge amount of diversity, missing or ambiguous data at key residues may lead to incorrect placement within the guide tree. We have a filter in place that by default with not call a lineage for any sequence with >50% N-content, but this can be made more conservative with the command line option `--max-ambig`.
 
 ### Source data
 
-``pangolin`` runs using a guide tree and alignment hosted at [``hCoV-2019/lineages``](https://github.com/hCoV-2019/lineages.git). Some of this data is sourced from GISAID, but anonymised and encrypted to fit with guidelines. Appropriate permissions have been given and acknowledgements for the teams that have worked to provide the original SARS-CoV-2 genome sequences to GISAID are also hosted in [``hCoV-2019/lineages``](https://raw.githubusercontent.com/hCoV-2019/lineages/master/gisaid_acknowledgements.tsv).
+<strong>pangolin</strong> runs using a guide tree and alignment hosted at [<strong>cov-lineages/lineages</strong>](https://github.com/cov-lineages/lineages.git). Some of this data is sourced from GISAID, but anonymised and encrypted to fit with guidelines. Appropriate permissions have been given and acknowledgements for the teams that have worked to provide the original SARS-CoV-2 genome sequences to GISAID are hosted <a href="./gisaid_acknowledgements.html">here</a>.
 
 
 ### Authors
 
-Pangolin was created by [Áine O'Toole](https://aineotoole.co.uk/) and [JT McCrone](https://jtmccr1.github.io/).
-It uses lineages from [Rambaut et al.](https://www.biorxiv.org/content/10.1101/2020.04.17.046086v1).
+<strong>pangolin</strong> was created by [Áine O'Toole](https://aineotoole.co.uk/) and [JT McCrone](https://jtmccr1.github.io/).
+It uses lineages from [Rambaut et al. 2020](https://www.biorxiv.org/content/10.1101/2020.04.17.046086v1) in press Nature Microbiology.
 
 
-### Citing ``pangolin``
+### Citing <strong>pangolin</strong>
 
-There is a publication in prep for ``pangolin``, but in the meantime please to link to this github [github.com/hCoV-2019/pangolin](github.com/hCoV-2019/pangolin) if you have used ``pangolin`` in your research. 
+There is a publication in prep for <strong>pangolin</strong>, but in the meantime please to link to this github [github.com/hCoV-2019/pangolin](github.com/hCoV-2019/pangolin) if you have used <strong>pangolin</strong> in your research. 
 
 ### References
 
-The following external software is run as part of pangolin:
+The following external software is run as part of <strong>pangolin</strong>:
 
 [iqtree](http://www.iqtree.org/#download)
 
