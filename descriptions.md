@@ -13,7 +13,6 @@ layout: page
       </header>
       <p>Lineages as described in <a href="https://doi.org/10.1038/s41564-020-0770-5">(Rambaut et al 2020)</a>, which the <a href="cov-lineages.org/pangolin">software tool pangolin assigns</a>, are characterised by a combination of genetic and epidemiological support.</p>
 
-
       <p>This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequences seen in a geographically distinct region with evidence of ongoing transmission in that region. Multiple sources of information are taken into account, including phylogenetic information as well as a variety of metadata associated with that sequence.</p>
       <p> For example, lineage B.4 was characterised as a lineage corresponding to the large outbreak in Iran early this year long any genome sequences from Iran were available due to travel history information associated with exported cases. The finer scale of this nomenclature system can help tease apart outbreak investigations and as rates of international travel increases will facilitate tracking viral imports across the globe.</p>
     </div>
