@@ -16,7 +16,7 @@ layout: default
             </p>
         </article>
 		<article>
-            <a href="./llama.html" class="image"><embed src="./assets/images/llama_logo.svg" style="height:300px;max-height:300px;max-width:450px" alt="" /></a>
+            <a href="./llama.html" class="image"><img src="./assets/images/llama_logo.svg" style="height:300px;max-height:300px;max-width:450px" alt="" /></a>
             <h3>llama</h3>
             <p>Local Lineage and Monophyly Assessment<br>Add your sequences to the global tree (Coming soon)</p>
         </article>
