@@ -5,8 +5,8 @@ layout: default
 <!-- Section -->
 <section>
     <div class="box">
-        <h3>A dynamic nomenclature proposal for SARS-CoV-2 to assist genomic epidemiology</h3>
-        Andrew Rambaut, Edward C. Holmes, Áine O’Toole, Verity Hill, JT McCrone, Chris Ruis, Louis du Plessis, Oliver G. Pybus<br><strong>Read the paper <a href="https://doi.org/10.1101/2020.04.17.046086">here</a> <i>in press Nature Microbiology</i></strong>
+        <h3>A dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology</h3>
+        <a href="https://doi.org/10.1038/s41564-020-0770-5">Rambaut A, Holmes EC, O’Toole Á, Hill V, McCrone JT,  Ruis C, du Plessis L & Pybus OG (2020) <i>Nature Microbiology</i> DOI:10.1038/s41564-020-0770-5</a>
 </div>
     <div class="posts">
         <article>
