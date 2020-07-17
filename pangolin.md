@@ -21,7 +21,7 @@ layout: page
     </p>
     </div>
     <span class="image object">
-      <img src="assets/images/pangolin_logo.svg" alt="" style="height:530px;width:555px;max-height:530px;max-width:555px"/>
+      <img src="assets/images/pangolin_logo.svg" alt="" style="max-height:460px;max-width:500px"/>
     </span>
   </section>
 

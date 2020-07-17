@@ -18,7 +18,7 @@ layout: page
     </p>
     </div>
     <span class="image object">
-      <img src="assets/images/llama_logo.svg" alt="" style="height:505px;width:500px;max-height:530px;max-width:555px"/>
+      <img src="assets/images/llama_logo.svg" alt="" style="max-height:505px;max-width:500px"/>
     </span>
   </section>
 
