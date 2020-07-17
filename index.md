@@ -10,10 +10,15 @@ layout: default
 </div>
     <div class="posts">
         <article>
-            <a href="./pangolin.html" class="image"><img src="assets/images/pangolin_logo.png" style="height:300px;max-height:300px;max-width:320px" alt="" /></a>
+            <a href="./pangolin.html" class="image"><img src="assets/images/pangolin_logo.svg" style="height:300px;max-height:300px;max-width:320px" alt="" /></a>
             <h3>pangolin</h3>
             <p><strong>Command line tool</strong><br>Assign your CoV sequences a global lineage
             </p>
+        </article>
+		<article>
+            <a href="./llama.html" class="image"><img src="assets/images/llama_logo.svg" style="height:300px;max-height:300px;max-width:450px" alt="" /></a>
+            <h3>llama</h3>
+            <p>Local Lineage and Monophyly Assessment<br>Add your sequences to the global tree (Coming soon)</p>
         </article>
         <article>
             <a href="https://github.com/roblanf/sarscov2phylo" class="image"><img src="assets/images/global_tree.jpg" style="height:300px;width:380px;max-width:380px" alt="" /></a>
