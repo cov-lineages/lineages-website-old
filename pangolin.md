@@ -29,6 +29,14 @@ layout: page
 
 <hr class="major" />
 
+<div class="box">
+    <h3>pangolin 2.0 release notes</h3>
+    <p>This release of pangolin comes with some major changes, including a significant speed-up and improvements in assignment accuracy for larger lineages.  The new assignment algorithm (that we have termed pangoLEARN) is described in detail below.</p>
+    <p>One significant benefit of this approach over the previous algorithm is that it allows us to incorporate all of the diversity of the large lineages into the assignment system rather than just picking a few representative sequences.</p>
+    <p>We have pulled out informative sites and this information is included in the data release on <a href="https://github.com/cov-lineages/pangoLEARN/tree/master/pangoLEARN/supporting_information">pangoLEARN</a>. The top SNPs that are  most positively and negatively associated with a given lineage are detailed in those files. More details on this release and its practicalities can be found  <a href="https://github.com/cov-lineages/pangolin/releases/tag/v2.0">here</a>.</p>
+
+</div>
+
 ## pangolin: command line
 
 ### Requirements
