@@ -35,19 +35,21 @@ layout: page
     <p>One significant benefit of this approach over the previous algorithm is that it allows us to incorporate all of the diversity of the large lineages into the assignment system rather than just picking a few representative sequences.</p>
     <p>We have pulled out informative sites and this information is included in the data release on <a href="https://github.com/cov-lineages/pangoLEARN/tree/master/pangoLEARN/supporting_information">pangoLEARN</a>. The top SNPs that are  most positively and negatively associated with a given lineage are detailed in those files. More details on this release and its practicalities can be found  <a href="https://github.com/cov-lineages/pangolin/releases/tag/v2.0">here</a>.</p>
 </div>
-<section>
-<div class=row>
-    <div class="6u 12u$(small)">
-        <h3>pangolin 2.0</h3>
-        <p>pangoLEARN is an alternative algorithm for lineage assignment, which uses machine learning, implemented as of pangolin 2.0. This new algorithm, which relies on machine learning, offers much faster lineage assignment, as the phylogenetic approach was struggling to scale with the increase in number of lineages needing to be represented in the guide tree. This new approach also takes into account all of the diversity present within a lineage rather than just selecting a representative few. The consequences of this approach mean that for large lineages, we have improved our recall and precision significantly. We are continuing to develop more sophisticated approaches to machine learning for lineage assignment, which we hope will offer even better improvements in both speed and accuracy.</p>
+
+
+<section id="banner">
+    <div class="content">
+      <h3>pangolin 2.0</h3>
+      <p>pangoLEARN is an alternative algorithm for lineage assignment, which uses machine learning, implemented as of pangolin 2.0. This new algorithm, which relies on machine learning, offers much faster lineage assignment, as the phylogenetic approach was struggling to scale with the increase in number of lineages needing to be represented in the guide tree. This new approach also takes into account all of the diversity present within a lineage rather than just selecting a representative few. The consequences of this approach mean that for large lineages, we have improved our recall and precision significantly. We are continuing to develop more sophisticated approaches to machine learning for lineage assignment, which we hope will offer even better improvements in both speed and accuracy.</p>
     </div>
-    <div class="6u$ 12u$(small)">
+    <div class="image object">
         <span class="image object">
             <img src="./assets/images/pangolearn.png" alt="" style="max-height:460px;max-width:500px"/>
         </span>
     </div>
-</div>
-<div class="row">
+</section>
+<section>
+  <div class="row">
     <div class="6u 12u$(small)">
         <h3>pangoLEARN description</h3>
         <p>The current version of <strong>pangoLEARN</strong> uses multinomial logistic regression, but the pipeline has been written so that as more complex models are developed,the user will be able to choose which model to use to assign their lineages.</p>
@@ -58,7 +60,7 @@ layout: page
         <p>While in standard regression a line of best fit is found for a set of training data, which represents a linear relationship between variables of interest, a logistic regression fits a <a href="https://en.wikipedia.org/wiki/Sigmoid_function">sigmoid function</a> to the training data, in order to tell two different classes apart. A multinomial logistic regression is an extension of a standard logistic regression in that it can be used to classify more than two classes. Each potential assignment (i.e. lineage) is modeled as a set of n-1 independent binary choices (sigmoid functions), where n is the number of classes.</p>
         <p> Multinomial logistic regression is an extremely commonly used model as it is able to simply and intuitively assign probabilities to class assignments. However, it does not incorporate any hierarchical structure. We are currently developing new models that do incorporate hierarchical structure. However, given the limitations of this simple model, it has performed surprisingly well with this data. While more complex models may offer improvements in assignment accuracies for smaller lineages, the logistic regression has the advantages of being intuitive, easy to implement, and relatively fast to train.</p>
     </div>
-</div>
+  </div>
 </section>
 
 ## pangolin: command line
