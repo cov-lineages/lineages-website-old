@@ -39,11 +39,11 @@ layout: page
 <div class=row>
     <div class="6u 12u$(small)">
         <h3>pangolin 2.0</h3>
-        <p><strong>pangoLEARN</strong> is an alternative algorithm for lineage assignment, which uses machine learning, implemented as of <strong>pangolin 2.0</strong>. This new algorithm, which relies on machine learning, offers much faster lineage assignment, as the phylogenetic approach was struggling to scale with the increase in number of lineages needing to be represented in the guide tree. This new approach also takes into account all of the diversity present within a lineage rather than just selecting a representative few. The consequences of this approach mean that for large lineages, we have improved our recall and precision significantly. We are continuing to develop more sophisticated approaches to machine learning for lineage assignment, which we hope will offer even better improvements in both speed and accuracy.</p>
+        <p>pangoLEARN is an alternative algorithm for lineage assignment, which uses machine learning, implemented as of pangolin 2.0. This new algorithm, which relies on machine learning, offers much faster lineage assignment, as the phylogenetic approach was struggling to scale with the increase in number of lineages needing to be represented in the guide tree. This new approach also takes into account all of the diversity present within a lineage rather than just selecting a representative few. The consequences of this approach mean that for large lineages, we have improved our recall and precision significantly. We are continuing to develop more sophisticated approaches to machine learning for lineage assignment, which we hope will offer even better improvements in both speed and accuracy.</p>
     </div>
     <div class="6u$ 12u$(small)">
         <span class="image object">
-        <img src="./assets/images/pangolearn.png" alt="" style="max-height:460px;max-width:500px"/>
+            <img src="./assets/images/pangolearn.png" alt="" style="max-height:460px;max-width:500px"/>
         </span>
     </div>
 </div>
