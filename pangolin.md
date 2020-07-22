@@ -35,7 +35,7 @@ layout: page
     <p>One significant benefit of this approach over the previous algorithm is that it allows us to incorporate all of the diversity of the large lineages into the assignment system rather than just picking a few representative sequences.</p>
     <p>We have pulled out informative sites and this information is included in the data release on <a href="https://github.com/cov-lineages/pangoLEARN/tree/master/pangoLEARN/supporting_information">pangoLEARN</a>. The top SNPs that are  most positively and negatively associated with a given lineage are detailed in those files. More details on this release and its practicalities can be found  <a href="https://github.com/cov-lineages/pangolin/releases/tag/v2.0">here</a>.</p>
 </div>
-<hr class="major" />
+<section>
 <div class=row>
     <div class="6u 12u$(small)">
         <h3>pangolin 2.0</h3>
@@ -59,7 +59,7 @@ layout: page
         <p> Multinomial logistic regression is an extremely commonly used model as it is able to simply and intuitively assign probabilities to class assignments. However, it does not incorporate any hierarchical structure. We are currently developing new models that do incorporate hierarchical structure. However, given the limitations of this simple model, it has performed surprisingly well with this data. While more complex models may offer improvements in assignment accuracies for smaller lineages, the logistic regression has the advantages of being intuitive, easy to implement, and relatively fast to train.</p>
     </div>
 </div>
-
+</section>
 
 ## pangolin: command line
 
