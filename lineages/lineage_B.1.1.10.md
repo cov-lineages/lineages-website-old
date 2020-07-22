@@ -17,11 +17,11 @@ title: Lineage B.1.1.10
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | UK (92%), Iceland (3%), Australia (2%) | March 06 to May 01 | 171 | 9 | UK to Iceland (1)<br/> USA to Iceland (1)<br/> Saudia_Arabia to Turkey (1)<br/> | 99.42 |
+| <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | UK (83%), Netherlands (8%), USA (4%) | March 08 to May 22 | 221 | 31 | USA to Iceland (1) | 0.864 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | Formerly B.1.10, UK/ Iceland (BS lower this week 70 -> 11), a lot of diversity in this lineage, now has a Turkish sequence.  |
+| <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | FormerlyUK/ Iceland (BS=13), a lot of diversity in this lineage, now has a Turkish sequence.  |
 

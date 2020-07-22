@@ -17,11 +17,11 @@ title: Lineage A.2
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | UK (34%), Spain (28%), Australia (28%) | February 26 to April 27 | 295 | 13 | Spain to Brazil (1)<br/> Italy to Chile, Spain (2)<br/> | 100.0 |
+| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spain (55%), UK (19%), Australia (16%) | February 26 to June 03 | 863 | 19 | Italy to Spain, Chile (2), Spain to China, Brazil (2) | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spain/ Chile/ Australia/ Europe (BS=93) |
+| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spanish lineage (BS=60) |
 

@@ -5,7 +5,7 @@ title: Lineage B.2.5
 
 
 
-<p>
+<strong>Lineage reassigned to parent lineage due to low support</strong><p>
 <ul class="actions small">
 	 <a href="{{ 'lineages/lineage_B.2.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.2</a>
 </ul>
@@ -17,11 +17,10 @@ title: Lineage B.2.5
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.5.html' | absolute_url }}">B.2.5</a> | UK (86%), Australia (10%), Slovenia (1%) | February 27 to April 27 | 143 | 13 |  | 99.3 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.2.5.html' | absolute_url }}">B.2.5</a> | Spain/ England / Australia (BS=17) *flagged because of low bootstrap |
+| <a href="{{ 'lineages/lineage_B.2.5.html' | absolute_url }}">B.2.5</a> | Reassigned to B.2 this week, consistently low support with similar metadata now present in parent lineage. |
 

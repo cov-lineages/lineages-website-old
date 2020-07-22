@@ -17,11 +17,11 @@ title: Lineage B.1.1.17
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.17.html' | absolute_url }}">B.1.1.17</a> | Iceland (100%) | March 06 to March 28 | 29 | 43 | Italy to Iceland (1)<br/> | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.17.html' | absolute_url }}">B.1.1.17</a> | Iceland (100%) | March 06 to March 28 | 29 | 86 | Italy to Iceland (1) | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.17.html' | absolute_url }}">B.1.1.17</a> | Formerly B.1.58, Iceland lineage (BS=100) |
+| <a href="{{ 'lineages/lineage_B.1.1.17.html' | absolute_url }}">B.1.1.17</a> | Iceland lineage (BS=100) |
 

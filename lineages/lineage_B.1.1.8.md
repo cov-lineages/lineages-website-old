@@ -17,11 +17,11 @@ title: Lineage B.1.1.8
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.8.html' | absolute_url }}">B.1.1.8</a> | UK (89%), Australia (8%), Gambia (2%) | March 17 to April 28 | 65 | 12 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.8.html' | absolute_url }}">B.1.1.8</a> | India (100%) | May 11 to June 02 | 39 | 20 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.8.html' | absolute_url }}">B.1.1.8</a> | Formerly B.1.63, UK/ USA/ Australia (BS=100) |
+| <a href="{{ 'lineages/lineage_B.1.1.8.html' | absolute_url }}">B.1.1.8</a> | Formerly UK/ USA/ Australia lineage. With new data, now refined to just include the Indian sequences. Indian lineage (BS=62) |
 

@@ -17,11 +17,11 @@ title: Lineage B.2.1
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | UK (93%), Australia (3%), USA (1%) | February 09 to May 02 | 1568 | 8 | UK to Iceland (1)<br/> | 100.0 |
+| <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | UK (89%), Australia (3%), USA (2%) | February 09 to June 02 | 1618 | 20 | UK to Iceland (1) | 0.992 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | Large lineage with representation from UK, Europe, Jordan, Australia, USA, India, Ghana (BS=11)  |
+| <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | Large lineage with representation from UK, Europe, Jordan, Australia, USA, India, Ghana (BS=21)  |
 

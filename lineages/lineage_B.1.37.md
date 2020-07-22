@@ -17,11 +17,11 @@ title: Lineage B.1.37
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.37.html' | absolute_url }}">B.1.37</a> | USA (100%) | March 12 to April 04 | 23 | 36 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.37.html' | absolute_url }}">B.1.37</a> | USA (100%) | March 10 to May 12 | 37 | 41 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.37.html' | absolute_url }}">B.1.37</a> | USA lineage (BS=93) |
+| <a href="{{ 'lineages/lineage_B.1.37.html' | absolute_url }}">B.1.37</a> | USA lineage  |
 

@@ -17,11 +17,11 @@ title: Lineage B.6
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.6.html' | absolute_url }}">B.6</a> | India (36%), Singapore (27%), Australia (19%) | March 04 to April 30 | 221 | 10 | Philippines to Taiwan (1)<br/> | 100.0 |
+| <a href="{{ 'lineages/lineage_B.6.html' | absolute_url }}">B.6</a> | India (41%), Singapore (34%), Australia (9%) | March 04 to June 06 | 629 | 16 | Philippines to Taiwan (1), Pakistan to China (1) | 0.987 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.6.html' | absolute_url }}">B.6</a> | India/ Philippines/ UK/ North America/ Australia/ Singapore (BS=100) |
+| <a href="{{ 'lineages/lineage_B.6.html' | absolute_url }}">B.6</a> | Quite a global lineage, lots of Indian and Singapore diversity. Representation from South East Asia/ North America/ Europe/ Israel/ Gambia/ Timor-leste (BS=21) |
 

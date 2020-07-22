@@ -17,11 +17,11 @@ title: Lineage A.3
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA (71%), Australia (21%), UK (7%) | January 28 to April 21 | 191 | 19 | USA to Taiwan, New_Zealand (2)<br/> | 99.48 |
+| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA (77%), Australia (15%), UK (4%) | January 28 to May 11 | 305 | 42 | USA to Taiwan, New_Zealand (2) | 0.989 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA and Australian lineage (BS: 100 -> 44). Low BS likely due to India/NCDC-3279/2020, which was misassigned and likely jumps around the tree. |
+| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA and Australian lineage (BS=20) |
 

@@ -17,11 +17,11 @@ title: Lineage B.1.26
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.26.html' | absolute_url }}">B.1.26</a> | USA (94%), Australia (3%), Taiwan (3%) | March 12 to April 20 | 31 | 20 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.26.html' | absolute_url }}">B.1.26</a> | USA (50%), New_Zealand (49%), Australia (1%) | March 15 to June 13 | 103 | 9 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.26.html' | absolute_url }}">B.1.26</a> | USA lineage (BS=83) |
+| <a href="{{ 'lineages/lineage_B.1.26.html' | absolute_url }}">B.1.26</a> | New Zealand/ USA lineage  |
 

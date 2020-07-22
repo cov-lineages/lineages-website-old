@@ -17,11 +17,11 @@ title: Lineage B.1.5.3
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | UK (94%), Australia (3%), Sweden (3%) | March 18 to April 16 | 33 | 24 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | UK (91%), Australia (3%), Sweden (3%) | March 18 to April 16 | 33 | 67 | Belgium;United_Kingdom to Taiwan (1) | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | England (now containing an Australian & Swedish seqeuence) (BS=96) |
+| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | English lineage (now containing an Australian & Swedish seqeuence) |
 

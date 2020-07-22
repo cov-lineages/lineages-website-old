@@ -17,11 +17,11 @@ title: Lineage B.1.1.4
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.4.html' | absolute_url }}">B.1.1.4</a> | UK (100%) | March 26 to May 08 | 50 | 2 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.4.html' | absolute_url }}">B.1.1.4</a> | UK (100%) | March 26 to May 22 | 53 | 31 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.4.html' | absolute_url }}">B.1.1.4</a> | Formerly B.1.55, UK (BS=100) |
+| <a href="{{ 'lineages/lineage_B.1.1.4.html' | absolute_url }}">B.1.1.4</a> | UK lineage (BS=76) |
 

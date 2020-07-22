@@ -17,11 +17,11 @@ title: Lineage B.1.35
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">B.1.35</a> | UK (100%) | March 07 to April 22 | 112 | 18 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">B.1.35</a> | UK (99%), USA (1%) | March 07 to June 06 | 166 | 16 |  | 0.944 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">B.1.35</a> | Wales (BS=9) |
+| <a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">B.1.35</a> | UK lineage |
 

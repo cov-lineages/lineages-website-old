@@ -17,11 +17,11 @@ title: Lineage B.1.12
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">B.1.12</a> | Luxembourg (59%), Belgium (37%), Switzerland (2%) | March 04 to April 14 | 46 | 26 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">B.1.12</a> | Luxembourg (44%), Belgium (41%), UK (13%) | March 04 to June 01 | 61 | 21 |  | 0.933 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">B.1.12</a> | BeNeLux (BS=18 this week, lots of internal 100) |
+| <a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">B.1.12</a> | BeNeLux  |
 

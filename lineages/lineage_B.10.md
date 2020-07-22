@@ -17,11 +17,11 @@ title: Lineage B.10
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | UK (100%) | March 13 to April 22 | 66 | 18 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | UK (100%) | March 13 to May 04 | 82 | 49 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | Northern Ireland/ England/ Scotland (BS=89) |
+| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | Northern Ireland/ England/ Scotland (BS=94) |
 

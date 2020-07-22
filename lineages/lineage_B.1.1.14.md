@@ -17,11 +17,11 @@ title: Lineage B.1.1.14
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.14.html' | absolute_url }}">B.1.1.14</a> | UK (100%) | April 16 to May 08 | 15 | 2 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.14.html' | absolute_url }}">B.1.1.14</a> | UK (100%) | April 16 to June 02 | 39 | 20 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.14.html' | absolute_url }}">B.1.1.14</a> | Formerly B.1.60, Scottish lineage (BS=89) |
+| <a href="{{ 'lineages/lineage_B.1.1.14.html' | absolute_url }}">B.1.1.14</a> | Scottish lineage (BS=79) |
 

@@ -17,11 +17,11 @@ title: Lineage B.1.32
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.32.html' | absolute_url }}">B.1.32</a> | Sweden (100%) | March 04 to March 10 | 17 | 61 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.32.html' | absolute_url }}">B.1.32</a> | Sweden (100%) | March 04 to March 10 | 18 | 104 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.32.html' | absolute_url }}">B.1.32</a> | Swedish lineage (BS=95) |
+| <a href="{{ 'lineages/lineage_B.1.32.html' | absolute_url }}">B.1.32</a> | Swedish lineage  |
 

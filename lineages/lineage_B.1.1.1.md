@@ -17,11 +17,11 @@ title: Lineage B.1.1.1
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | UK (93%), DRC (1%), Iceland (1%) | March 02 to May 08 | 952 | 2 | Austria to Iceland (5)<br/> UK to Iceland, Argentina (3)<br/> Peru;Argentina to Costa_Rica (1)<br/> | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | UK (92%), Belgium (1%), Netherlands (1%) | March 02 to June 13 | 1726 | 9 | Austria to Iceland (5), UK to Argentina, Iceland (3), Peru;Argentina to Costa_Rica (1) | 0.998 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | Formerly B.1.1, UK/ Europe (BS=80) |
+| <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | UK/ Europe (BS=13) |
 

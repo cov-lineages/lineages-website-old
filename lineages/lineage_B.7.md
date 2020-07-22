@@ -5,7 +5,7 @@ title: Lineage B.7
 
 
 
-<p>
+<strong>Lineage reassigned to parent lineage due to low support</strong><p>
 <ul class="actions small">
 	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
@@ -17,11 +17,10 @@ title: Lineage B.7
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.7.html' | absolute_url }}">B.7</a> | Hong_Kong (97%), Canada (3%) | January 30 to March 04 | 37 | 67 |  | 100.0 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.7.html' | absolute_url }}">B.7</a> | Hong Kong lineage (BS 73 -> 27) |
+| <a href="{{ 'lineages/lineage_B.7.html' | absolute_url }}">B.7</a> | Hong Kong lineage reassigned to B.2.8 (BS=75) |
 

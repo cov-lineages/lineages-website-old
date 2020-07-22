@@ -17,11 +17,11 @@ title: Lineage B.1.70
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.70.html' | absolute_url }}">B.1.70</a> | UK (100%) | March 13 to April 20 | 19 | 20 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.70.html' | absolute_url }}">B.1.70</a> | UK (100%) | March 13 to April 24 | 28 | 59 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.70.html' | absolute_url }}">B.1.70</a> | Scottish lineage (BS=70) |
+| <a href="{{ 'lineages/lineage_B.1.70.html' | absolute_url }}">B.1.70</a> | Scottish lineage |
 

@@ -17,11 +17,11 @@ title: Lineage B.1.41
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.41.html' | absolute_url }}">B.1.41</a> | USA (100%) | March 19 to April 09 | 31 | 31 |  | 96.55 |
+| <a href="{{ 'lineages/lineage_B.1.41.html' | absolute_url }}">B.1.41</a> | USA (100%) | March 19 to April 15 | 41 | 68 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.41.html' | absolute_url }}">B.1.41</a> | USA lineage (BS=100) |
+| <a href="{{ 'lineages/lineage_B.1.41.html' | absolute_url }}">B.1.41</a> | USA lineage  |
 

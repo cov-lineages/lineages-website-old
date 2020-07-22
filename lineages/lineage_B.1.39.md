@@ -17,11 +17,11 @@ title: Lineage B.1.39
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.39.html' | absolute_url }}">B.1.39</a> | Denmark (89%), UK (8%), Australia (3%) | March 13 to April 07 | 36 | 33 |  | 97.3 |
+| <a href="{{ 'lineages/lineage_B.1.39.html' | absolute_url }}">B.1.39</a> | Denmark (90%), UK (6%), Australia (1%) | March 13 to April 28 | 69 | 55 |  | 0.938 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.39.html' | absolute_url }}">B.1.39</a> | Denmark (BS=100) |
+| <a href="{{ 'lineages/lineage_B.1.39.html' | absolute_url }}">B.1.39</a> | Danish lineage |
 

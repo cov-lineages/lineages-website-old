@@ -17,11 +17,11 @@ title: Lineage B.1.67
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.67.html' | absolute_url }}">B.1.67</a> | UK (100%) | March 25 to April 12 | 14 | 28 |  | 100.0 |
+| <a href="{{ 'lineages/lineage_B.1.67.html' | absolute_url }}">B.1.67</a> | UK (94%), Ecuador (6%) | March 25 to April 17 | 17 | 66 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.67.html' | absolute_url }}">B.1.67</a> | Wales lineage (BS=96) |
+| <a href="{{ 'lineages/lineage_B.1.67.html' | absolute_url }}">B.1.67</a> | Wales lineage  |
 
