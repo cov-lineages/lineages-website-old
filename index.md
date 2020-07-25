@@ -18,7 +18,7 @@ layout: default
 		<article>
             <a href="./llama.html" class="image"><img src="./assets/images/llama_logo.svg" style="max-height:300px;max-width:450px" alt="" /></a>
             <h3>llama</h3>
-            <p>Local Lineage and Monophyly Assessment<br>Add your sequences to the global tree (Coming soon)</p>
+            <p>Local Lineage and Monophyly Assessment<br>Add your sequences to the global tree and check for new lineages </p>
         </article>
         <article>
             <a href="https://github.com/roblanf/sarscov2phylo" class="image"><img src="./assets/images/global_tree.jpg" style="width:380px;max-width:380px" alt="" /></a>
