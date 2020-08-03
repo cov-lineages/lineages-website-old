@@ -76,7 +76,7 @@ updates the conda environment
 ### Usage
 
 1. Activate the environment ``conda activate llama``
-2. Run ``llama <query> [options]``
+2. Run ``llama``
 
 Example usage:
 > ``llama -i <input.csv> -f <input.fasta> -d <path/to/data>``
