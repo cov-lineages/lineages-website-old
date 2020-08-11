@@ -17,7 +17,7 @@ title: Lineage B.1.115
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.115.html' | absolute_url }}">B.1.115</a> | Israel (93%), ISRAEL (7%) | March 17 to April 11 | 14 | 72 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.115.html' | absolute_url }}">B.1.115</a> | Israel (100%) | March 17 to April 02 | 11 | 124 |  | 0.500 |
 
 <h3>Lineage descriptions</h3>
 

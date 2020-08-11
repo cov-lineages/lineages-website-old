@@ -17,7 +17,7 @@ title: Lineage B.1.77
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.77.html' | absolute_url }}">B.1.77</a> | UK (100%) | March 20 to May 31 | 101 | 22 |  | 0.957 |
+| <a href="{{ 'lineages/lineage_B.1.77.html' | absolute_url }}">B.1.77</a> | UK (97%), Canada (3%), USA (1%) | March 14 to June 19 | 143 | 46 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

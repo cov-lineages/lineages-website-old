@@ -17,7 +17,7 @@ title: Lineage B.2.10
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.10.html' | absolute_url }}">B.2.10</a> | South_Korea (92%), USA (8%) | February 18 to February 29 | 24 | 114 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.2.10.html' | absolute_url }}">B.2.10</a> | South_Korea (98%), USA (2%) | February 17 to April 01 | 109 | 125 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

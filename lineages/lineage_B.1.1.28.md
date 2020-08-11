@@ -17,7 +17,7 @@ title: Lineage B.1.1.28
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.28.html' | absolute_url }}">B.1.1.28</a> | Brazil (85%), UK (7%), China (4%) | March 05 to May 08 | 54 | 45 | Italy to Brazil (1) | 0.909 |
+| <a href="{{ 'lineages/lineage_B.1.1.28.html' | absolute_url }}">B.1.1.28</a> | Brazil (89%), UK (8%), China (2%) | March 05 to June 24 | 126 | 41 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

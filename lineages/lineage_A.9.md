@@ -17,7 +17,7 @@ title: Lineage A.9
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.9.html' | absolute_url }}">A.9</a> | India (100%) | April 03 to May 13 | 7 | 40 |  | 0.000 |
+| <a href="{{ 'lineages/lineage_A.9.html' | absolute_url }}">A.9</a> | India (100%) | April 05 to May 13 | 6 | 83 |  | 0.000 |
 
 <h3>Lineage descriptions</h3>
 

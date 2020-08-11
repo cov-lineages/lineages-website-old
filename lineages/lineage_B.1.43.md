@@ -17,7 +17,7 @@ title: Lineage B.1.43
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.43.html' | absolute_url }}">B.1.43</a> | USA (99%), Australia (1%) | March 07 to June 07 | 158 | 15 |  | 0.979 |
+| <a href="{{ 'lineages/lineage_B.1.43.html' | absolute_url }}">B.1.43</a> | USA (99%), Australia (1%), Mexico (0%) | March 07 to June 15 | 245 | 50 |  | 0.958 |
 
 <h3>Lineage descriptions</h3>
 

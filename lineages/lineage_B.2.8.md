@@ -17,7 +17,7 @@ title: Lineage B.2.8
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.8.html' | absolute_url }}">B.2.8</a> | Hong_Kong (97%), Canada (3%) | January 30 to March 08 | 33 | 106 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.2.8.html' | absolute_url }}">B.2.8</a> | Hong_Kong (97%), Canada (3%) | January 30 to March 09 | 34 | 148 |  | 0.750 |
 
 <h3>Lineage descriptions</h3>
 

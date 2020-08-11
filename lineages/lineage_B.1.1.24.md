@@ -17,7 +17,7 @@ title: Lineage B.1.1.24
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.24.html' | absolute_url }}">B.1.1.24</a> | Portugal (100%) | April 17 to April 24 | 18 | 59 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.1.24.html' | absolute_url }}">B.1.1.24</a> | Portugal (95%), USA (5%) | April 17 to June 24 | 19 | 41 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

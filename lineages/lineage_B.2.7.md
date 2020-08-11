@@ -17,7 +17,7 @@ title: Lineage B.2.7
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.7.html' | absolute_url }}">B.2.7</a> | Iceland (100%) | March 12 to March 29 | 47 | 85 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.2.7.html' | absolute_url }}">B.2.7</a> | Iceland (100%) | March 12 to March 29 | 46 | 128 |  | 0.929 |
 
 <h3>Lineage descriptions</h3>
 

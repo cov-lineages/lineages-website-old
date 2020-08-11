@@ -17,7 +17,7 @@ title: Lineage B.1.1.23
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.23.html' | absolute_url }}">B.1.1.23</a> | Bangladesh (92%), Australia (8%) | April 17 to June 02 | 13 | 20 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.1.23.html' | absolute_url }}">B.1.1.23</a> | Bangladesh (97%), Australia (3%) | April 17 to July 19 | 35 | 16 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

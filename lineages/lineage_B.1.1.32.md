@@ -17,7 +17,7 @@ title: Lineage B.1.1.32
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.32.html' | absolute_url }}">B.1.1.32</a> | India (100%) | April 04 to June 02 | 52 | 20 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.1.32.html' | absolute_url }}">B.1.1.32</a> | India (99%), Bahrain (1%), Norway (0%) | April 04 to July 03 | 211 | 32 |  | 0.923 |
 
 <h3>Lineage descriptions</h3>
 

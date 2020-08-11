@@ -17,7 +17,7 @@ title: Lineage B.1.68
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.68.html' | absolute_url }}">B.1.68</a> | USA (100%) | March 19 to April 22 | 60 | 61 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.68.html' | absolute_url }}">B.1.68</a> | USA (100%) | April 02 to May 13 | 69 | 83 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

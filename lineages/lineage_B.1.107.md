@@ -17,7 +17,7 @@ title: Lineage B.1.107
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.107.html' | absolute_url }}">B.1.107</a> | Denmark (100%) | March 18 to April 28 | 58 | 55 |  | 0.923 |
+| <a href="{{ 'lineages/lineage_B.1.107.html' | absolute_url }}">B.1.107</a> | Denmark (94%), Italy (3%), Switzerland (2%) | March 18 to May 11 | 62 | 85 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

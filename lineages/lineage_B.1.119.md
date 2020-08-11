@@ -17,7 +17,7 @@ title: Lineage B.1.119
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.119.html' | absolute_url }}">B.1.119</a> | USA (100%) | April 27 to May 20 | 33 | 33 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.119.html' | absolute_url }}">B.1.119</a> | USA (100%) | April 27 to May 20 | 31 | 76 |  | 0.750 |
 
 <h3>Lineage descriptions</h3>
 

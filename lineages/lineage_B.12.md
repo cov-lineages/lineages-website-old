@@ -17,7 +17,7 @@ title: Lineage B.12
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.12.html' | absolute_url }}">B.12</a> | Japan (100%) | March 27 to April 15 | 5 | 68 |  | 0.000 |
+| <a href="{{ 'lineages/lineage_B.12.html' | absolute_url }}">B.12</a> | Japan (100%) | April 11 to April 14 | 3 | 112 |  | 0.000 |
 
 <h3>Lineage descriptions</h3>
 

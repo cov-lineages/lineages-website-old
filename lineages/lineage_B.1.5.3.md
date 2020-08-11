@@ -17,7 +17,7 @@ title: Lineage B.1.5.3
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | UK (91%), Australia (3%), Sweden (3%) | March 18 to April 16 | 33 | 67 | Belgium;United_Kingdom to Taiwan (1) | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | UK (84%), USA (5%), Australia (3%) | March 18 to June 17 | 38 | 48 |  | 0.875 |
 
 <h3>Lineage descriptions</h3>
 

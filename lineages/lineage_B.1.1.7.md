@@ -17,7 +17,7 @@ title: Lineage B.1.1.7
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.7.html' | absolute_url }}">B.1.1.7</a> | UK (91%), Australia (3%), Iceland (3%) | March 07 to May 27 | 111 | 26 | USA to Iceland (1) | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.1.7.html' | absolute_url }}">B.1.1.7</a> | UK (89%), Japan (4%), Australia (2%) | March 07 to May 27 | 169 | 69 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

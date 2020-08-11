@@ -17,7 +17,7 @@ title: Lineage B.1.13
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.13.html' | absolute_url }}">B.1.13</a> | UK (94%), Australia (4%), Poland (0%) | March 09 to May 15 | 286 | 38 |  | 0.987 |
+| <a href="{{ 'lineages/lineage_B.1.13.html' | absolute_url }}">B.1.13</a> | UK (94%), Australia (4%), Portugal (1%) | March 09 to June 02 | 325 | 63 |  | 0.975 |
 
 <h3>Lineage descriptions</h3>
 

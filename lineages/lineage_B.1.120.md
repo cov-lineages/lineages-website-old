@@ -17,7 +17,7 @@ title: Lineage B.1.120
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.120.html' | absolute_url }}">B.1.120</a> | UK (100%) | April 14 to June 11 | 103 | 11 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.120.html' | absolute_url }}">B.1.120</a> | UK (99%), Australia (1%) | March 29 to June 15 | 121 | 50 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

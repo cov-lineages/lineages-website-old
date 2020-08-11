@@ -17,7 +17,7 @@ title: Lineage B.1.122
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.122.html' | absolute_url }}">B.1.122</a> | UK (100%) | April 02 to May 20 | 19 | 33 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.122.html' | absolute_url }}">B.1.122</a> | UK (100%) | March 26 to May 20 | 17 | 76 |  | 0.571 |
 
 <h3>Lineage descriptions</h3>
 

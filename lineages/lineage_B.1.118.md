@@ -17,7 +17,7 @@ title: Lineage B.1.118
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.118.html' | absolute_url }}">B.1.118</a> | Denmark (100%) | March 19 to April 14 | 21 | 69 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.118.html' | absolute_url }}">B.1.118</a> | Denmark (100%) | March 19 to April 14 | 20 | 112 |  | 0.800 |
 
 <h3>Lineage descriptions</h3>
 

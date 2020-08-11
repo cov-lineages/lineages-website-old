@@ -17,7 +17,7 @@ title: Lineage B.1.113
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.113.html' | absolute_url }}">B.1.113</a> | India (78%), Saudi_Arabia (7%), Turkey (6%) | March 15 to June 08 | 111 | 14 | Saudia_Arabia to Turkey (3), Iran to Turkey (1) | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.113.html' | absolute_url }}">B.1.113</a> | India (72%), Bangladesh (6%), Ireland (5%) | February 16 to July 22 | 285 | 13 |  | 0.900 |
 
 <h3>Lineage descriptions</h3>
 

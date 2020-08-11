@@ -17,7 +17,7 @@ title: Lineage B.1.102
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.102.html' | absolute_url }}">B.1.102</a> | Iceland (98%), Spain (2%) | March 12 to March 28 | 95 | 86 | Argentina to Iceland (1) | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.102.html' | absolute_url }}">B.1.102</a> | Iceland (89%), UK (7%), Spain (2%) | February 24 to July 03 | 105 | 32 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

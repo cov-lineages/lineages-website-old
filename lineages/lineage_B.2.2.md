@@ -17,7 +17,7 @@ title: Lineage B.2.2
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.2.html' | absolute_url }}">B.2.2</a> | UK (81%), Australia (5%), USA (4%) | February 25 to May 24 | 230 | 29 | Switzerland to Iceland (1), Spain to Iceland (1), Ireland to Taiwan (1) | 1.000 |
+| <a href="{{ 'lineages/lineage_B.2.2.html' | absolute_url }}">B.2.2</a> | UK (85%), Australia (4%), USA (4%) | February 25 to May 24 | 352 | 72 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

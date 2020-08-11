@@ -17,7 +17,7 @@ title: Lineage B.1.96
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.96.html' | absolute_url }}">B.1.96</a> | Netherlands (95%), USA (2%), Norway (2%) | March 14 to May 11 | 41 | 42 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.96.html' | absolute_url }}">B.1.96</a> | Netherlands (95%), USA (2%), Norway (2%) | March 14 to May 11 | 41 | 85 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.85
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.85.html' | absolute_url }}">B.1.85</a> | USA (100%) | April 13 to April 22 | 12 | 61 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.85.html' | absolute_url }}">B.1.85</a> | USA (100%) | April 13 to April 22 | 12 | 104 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

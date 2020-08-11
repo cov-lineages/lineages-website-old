@@ -17,7 +17,7 @@ title: Lineage B.21
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.21.html' | absolute_url }}">B.21</a> | UK (90%), Australia (8%), Greece (3%) | March 14 to May 06 | 39 | 47 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.21.html' | absolute_url }}">B.21</a> | UK (96%), Australia (4%) | March 16 to May 19 | 27 | 77 |  | 0.833 |
 
 <h3>Lineage descriptions</h3>
 

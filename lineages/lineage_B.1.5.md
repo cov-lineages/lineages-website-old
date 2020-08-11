@@ -17,14 +17,14 @@ title: Lineage B.1.5
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}">B.1.5</a> | UK (39%), Spain (37%), USA (3%) | January 24 to June 22 | 1731 | 0 | Spain to Argentina, China, Iceland (3), Israel to Argentina (1), Brazil to Argentina (1), Saudia_Arabia to Turkey (2), Croatia to Iceland (1), Portugal to Taiwan (1) | 0.953 |
-| <a href="{{ 'lineages/lineage_B.1.5.10.html' | absolute_url }}">B.1.5.10</a> | UK (100%) | March 21 to June 03 | 50 | 19 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_B.1.5.2.html' | absolute_url }}">B.1.5.2</a> | Netherlands (96%), UK (3%), Belgium (1%) | March 14 to April 21 | 77 | 62 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | UK (91%), Australia (3%), Sweden (3%) | March 18 to April 16 | 33 | 67 | Belgium;United_Kingdom to Taiwan (1) | 1.000 |
-| <a href="{{ 'lineages/lineage_B.1.5.5.html' | absolute_url }}">B.1.5.5</a> | UK (100%) | April 08 to June 02 | 73 | 20 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_B.1.5.6.html' | absolute_url }}">B.1.5.6</a> | UK (100%) | March 19 to May 05 | 39 | 48 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_B.1.5.8.html' | absolute_url }}">B.1.5.8</a> | USA (94%), Denmark (3%), Belgium (3%) | March 13 to April 09 | 31 | 74 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_B.1.5.9.html' | absolute_url }}">B.1.5.9</a> | UK (100%), Sweden (0%) | March 12 to June 09 | 249 | 13 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}">B.1.5</a> | UK (38%), Spain (33%), USA (6%) | January 24 to August 04 | 2419 | 0 |  | 0.955 |
+| <a href="{{ 'lineages/lineage_B.1.5.10.html' | absolute_url }}">B.1.5.10</a> | UK (100%) | March 21 to June 03 | 50 | 62 |  | 0.933 |
+| <a href="{{ 'lineages/lineage_B.1.5.2.html' | absolute_url }}">B.1.5.2</a> | Netherlands (96%), UK (3%), Belgium (1%) | March 14 to April 21 | 77 | 105 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | UK (84%), USA (5%), Australia (3%) | March 18 to June 17 | 38 | 48 |  | 0.875 |
+| <a href="{{ 'lineages/lineage_B.1.5.5.html' | absolute_url }}">B.1.5.5</a> | UK (97%), Ecuador (1%), Italy (1%) | April 08 to July 17 | 75 | 18 |  | 0.952 |
+| <a href="{{ 'lineages/lineage_B.1.5.6.html' | absolute_url }}">B.1.5.6</a> | UK (100%) | March 19 to May 05 | 46 | 91 |  | 0.889 |
+| <a href="{{ 'lineages/lineage_B.1.5.8.html' | absolute_url }}">B.1.5.8</a> | USA (94%), Denmark (3%), Belgium (3%) | March 13 to April 09 | 31 | 117 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.5.9.html' | absolute_url }}">B.1.5.9</a> | UK (100%), Sweden (0%) | March 12 to June 25 | 303 | 40 |  | 0.984 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.2.6
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.6.html' | absolute_url }}">B.2.6</a> | UK (72%), Australia (11%), Iceland (6%) | March 05 to May 01 | 53 | 52 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.2.6.html' | absolute_url }}">B.2.6</a> | UK (77%), Australia (9%), Iceland (5%) | March 05 to May 04 | 66 | 92 |  | 0.923 |
 
 <h3>Lineage descriptions</h3>
 

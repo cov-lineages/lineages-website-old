@@ -17,7 +17,7 @@ title: Lineage B.1.1.19
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.19.html' | absolute_url }}">B.1.1.19</a> | Australia (100%) | March 23 to March 26 | 6 | 88 |  | 0.000 |
+| <a href="{{ 'lineages/lineage_B.1.1.19.html' | absolute_url }}">B.1.1.19</a> | Australia (100%) | March 23 to March 26 | 4 | 131 |  | 0.000 |
 
 <h3>Lineage descriptions</h3>
 

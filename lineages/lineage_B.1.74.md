@@ -17,7 +17,7 @@ title: Lineage B.1.74
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.74.html' | absolute_url }}">B.1.74</a> | Spain (80%), Portugal (15%), Chile (3%) | March 01 to March 31 | 60 | 83 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.74.html' | absolute_url }}">B.1.74</a> | Spain (78%), Portugal (15%), Chile (3%) | March 01 to April 01 | 60 | 125 |  | 0.923 |
 
 <h3>Lineage descriptions</h3>
 

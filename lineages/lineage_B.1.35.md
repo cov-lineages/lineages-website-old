@@ -17,7 +17,7 @@ title: Lineage B.1.35
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">B.1.35</a> | UK (99%), USA (1%) | March 07 to June 06 | 166 | 16 |  | 0.944 |
+| <a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">B.1.35</a> | UK (100%) | March 07 to June 15 | 197 | 50 |  | 0.829 |
 
 <h3>Lineage descriptions</h3>
 

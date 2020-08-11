@@ -17,7 +17,7 @@ title: Lineage B.1.6
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.6.html' | absolute_url }}">B.1.6</a> | Belgium (79%), DRC (12%), UK (6%) | March 11 to April 18 | 34 | 65 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.6.html' | absolute_url }}">B.1.6</a> | Belgium (78%), DRC (11%), UK (5%) | March 05 to May 20 | 37 | 76 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

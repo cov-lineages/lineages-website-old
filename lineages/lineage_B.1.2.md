@@ -17,7 +17,7 @@ title: Lineage B.1.2
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.2.html' | absolute_url }}">B.1.2</a> | USA (96%), Australia (2%), Canada (1%) | March 08 to June 08 | 785 | 14 |  | 0.971 |
+| <a href="{{ 'lineages/lineage_B.1.2.html' | absolute_url }}">B.1.2</a> | USA (97%), Australia (1%), Canada (1%) | March 08 to July 07 | 1526 | 28 |  | 0.990 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.121
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.121.html' | absolute_url }}">B.1.121</a> | Australia (100%) | April 09 to May 26 | 69 | 27 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.121.html' | absolute_url }}">B.1.121</a> | Australia (100%) | April 09 to June 10 | 83 | 55 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

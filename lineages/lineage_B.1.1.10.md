@@ -17,7 +17,7 @@ title: Lineage B.1.1.10
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | UK (83%), Netherlands (8%), USA (4%) | March 08 to May 22 | 221 | 31 | USA to Iceland (1) | 0.864 |
+| <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | UK (86%), Netherlands (5%), USA (4%) | March 08 to July 04 | 331 | 31 |  | 0.776 |
 
 <h3>Lineage descriptions</h3>
 

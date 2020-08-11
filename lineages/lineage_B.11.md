@@ -17,7 +17,7 @@ title: Lineage B.11
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.11.html' | absolute_url }}">B.11</a> | Netherlands (92%), Taiwan (4%), UK (4%) | March 02 to May 03 | 24 | 50 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.11.html' | absolute_url }}">B.11</a> | Netherlands (94%), UK (6%) | March 02 to May 03 | 16 | 93 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.42
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.42.html' | absolute_url }}">B.1.42</a> | Denmark (90%), Sweden (5%), Iceland (4%) | March 03 to April 28 | 127 | 55 | Faroe_Islands to Iceland (1), UK to Iceland (1), Denmark to Iceland (2) | 0.931 |
+| <a href="{{ 'lineages/lineage_B.1.42.html' | absolute_url }}">B.1.42</a> | Denmark (86%), Sweden (5%), Iceland (4%) | March 03 to May 15 | 132 | 81 |  | 0.931 |
 
 <h3>Lineage descriptions</h3>
 

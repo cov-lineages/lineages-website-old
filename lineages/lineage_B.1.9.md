@@ -17,7 +17,7 @@ title: Lineage B.1.9
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.9.html' | absolute_url }}">B.1.9</a> | Belgium (31%), Netherlands (30%), UK (24%) | March 14 to May 14 | 108 | 39 | Saudia_Arabia to Turkey (1) | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.9.html' | absolute_url }}">B.1.9</a> | Belgium (29%), Turkey (22%), UK (22%) | March 15 to July 09 | 172 | 26 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

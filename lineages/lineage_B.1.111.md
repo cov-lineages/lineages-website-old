@@ -17,7 +17,7 @@ title: Lineage B.1.111
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.111.html' | absolute_url }}">B.1.111</a> | Colombia (48%), UK (38%), USA (7%) | March 07 to May 06 | 29 | 47 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.111.html' | absolute_url }}">B.1.111</a> | Colombia (44%), UK (34%), USA (6%) | March 07 to May 06 | 32 | 90 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

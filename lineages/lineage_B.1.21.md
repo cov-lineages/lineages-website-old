@@ -17,7 +17,7 @@ title: Lineage B.1.21
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.21.html' | absolute_url }}">B.1.21</a> | USA (99%), Iceland (0%), Denmark (0%) | March 08 to May 30 | 391 | 23 |  | 0.963 |
+| <a href="{{ 'lineages/lineage_B.1.21.html' | absolute_url }}">B.1.21</a> | USA (99%), Iceland (0%), Denmark (0%) | March 08 to June 20 | 592 | 45 |  | 0.990 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.87
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.87.html' | absolute_url }}">B.1.87</a> | India (75%), China (25%) | March 12 to April 20 | 8 | 63 | Spain to China (1), Norway to China (1) | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.87.html' | absolute_url }}">B.1.87</a> | India (86%), China (14%) | March 12 to April 20 | 7 | 106 |  | 0.500 |
 
 <h3>Lineage descriptions</h3>
 

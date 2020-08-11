@@ -17,7 +17,7 @@ title: Lineage B.13
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">B.13</a> | USA (100%) | April 03 to April 17 | 19 | 66 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">B.13</a> | USA (100%) | April 03 to April 17 | 19 | 109 |  | 1.000 |
 
 <h3>Lineage descriptions</h3>
 

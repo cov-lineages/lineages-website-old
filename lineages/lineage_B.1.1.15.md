@@ -17,7 +17,7 @@ title: Lineage B.1.1.15
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.15.html' | absolute_url }}">B.1.1.15</a> | Luxembourg (41%), UK (38%), Portugal (21%) | March 09 to April 28 | 29 | 55 |  | 0.000 |
+| <a href="{{ 'lineages/lineage_B.1.1.15.html' | absolute_url }}">B.1.1.15</a> | Portugal (38%), Luxembourg (35%), UK (23%) | March 18 to June 14 | 26 | 51 |  | 0.000 |
 
 <h3>Lineage descriptions</h3>
 

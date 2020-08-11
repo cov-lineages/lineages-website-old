@@ -17,7 +17,7 @@ title: Lineage B.1.75
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.75.html' | absolute_url }}">B.1.75</a> | UK (98%), Mexico (1%), Luxembourg (1%) | March 06 to May 13 | 140 | 40 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.75.html' | absolute_url }}">B.1.75</a> | UK (98%), Mexico (1%), Luxembourg (1%) | March 06 to July 17 | 154 | 18 |  | 0.970 |
 
 <h3>Lineage descriptions</h3>
 

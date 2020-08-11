@@ -17,7 +17,7 @@ title: Lineage B.1.11
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.11.html' | absolute_url }}">B.1.11</a> | UK (97%), Australia (1%), Iceland (0%) | March 07 to June 16 | 664 | 6 | France to Iceland (1), UK to Iceland (1), Austria to Iceland (1) | 0.974 |
+| <a href="{{ 'lineages/lineage_B.1.11.html' | absolute_url }}">B.1.11</a> | UK (95%), Australia (1%), USA (1%) | March 06 to July 13 | 793 | 22 |  | 0.981 |
 
 <h3>Lineage descriptions</h3>
 

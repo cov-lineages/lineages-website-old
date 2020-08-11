@@ -17,9 +17,9 @@ title: Lineage A.1
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">A.1</a> | USA (88%), Australia (7%), Canada (2%) | February 22 to May 13 | 1504 | 40 | USA to Iceland (1) | 0.992 |
-| <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (93%), USA (7%) | March 11 to March 20 | 15 | 94 | USA to Iceland (10) | 1.000 |
-| <a href="{{ 'lineages/lineage_A.1.3.html' | absolute_url }}">A.1.3</a> | Australia (91%), Taiwan (9%) | March 19 to April 02 | 11 | 81 |  | 0.000 |
+| <a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">A.1</a> | USA (87%), Australia (7%), Canada (2%) | February 22 to June 20 | 1875 | 45 |  | 0.994 |
+| <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (92%), USA (8%) | March 11 to March 20 | 12 | 137 |  | 0.667 |
+| <a href="{{ 'lineages/lineage_A.1.3.html' | absolute_url }}">A.1.3</a> | Australia (100%) | March 22 to April 02 | 8 | 124 |  | 0.000 |
 
 <h3>Lineage descriptions</h3>
 

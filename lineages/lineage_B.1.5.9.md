@@ -17,7 +17,7 @@ title: Lineage B.1.5.9
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.9.html' | absolute_url }}">B.1.5.9</a> | UK (100%), Sweden (0%) | March 12 to June 09 | 249 | 13 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.5.9.html' | absolute_url }}">B.1.5.9</a> | UK (100%), Sweden (0%) | March 12 to June 25 | 303 | 40 |  | 0.984 |
 
 <h3>Lineage descriptions</h3>
 
