@@ -73,16 +73,13 @@ re-installs llama
 4. ``conda env update -f environment.yml`` \
 updates the conda environment
 
-### Usage
-
 1. Activate the environment ``conda activate llama``
 2. Run ``llama``
 
 Example usage:
-> ``llama -i <input.csv> -f <input.fasta> -d <path/to/data>``
+> ``llama -i <input.csv> -f <input.fasta> -d <path/to/data> [options]``
 
-Full usage options:
-
+Full usage:
 ```
 usage: llama -i <input.csv> -d <path/to/data> [options]
 
@@ -94,6 +91,11 @@ optional arguments:
                         Input csv file with minimally `name` as a column
                         header. Alternatively, `--input-column` can specifiy a
                         column name other than `name`
+  -fm [FROM_METADATA [FROM_METADATA ...]], --from-metadata [FROM_METADATA [FROM_METADATA ...]]
+                        Generate a query from the metadata file supplied.
+                        Define a search that will be used to pull out
+                        sequences of interest from the large phylogeny. E.g.
+                        -fm country=Ireland sample_date=2020-03-01:2020-04-01
   -f FASTA, --fasta FASTA
                         Optional fasta query. Fasta sequence names must
                         exactly match those in your input query.
@@ -149,6 +151,36 @@ optional arguments:
                         Default an anonymised sequence that is at the base of
                         the global SARS-CoV-2 phylogeny.
   -v, --version         show program's version number and exit
+```
+
+### Options
+
+Curate the input sequences into an alignment padded against an early lineage A reference:
+```
+llama -a -s your_input_sequences.fasta
+```
+
+Generate a report with your sequences summarised:
+```
+llama -r -i test.csv -f test.fasta -d <path/to/data>
+```
+
+Generate a report with a custom set of sequences defined by the metadata file supplied. After the `-fm` or `--from-metadata` argument, one or more columns in the metadata and search pattern to match can be described. A special case exists if a date range is detected (colon separated dates). The required date format is YYYY-MM-DD. 
+The format of this search is as follows:
+```
+--from-metadata column1=value1 column2=YYYY-MM-DD:YYYY-MM-DD
+```
+
+For example, the following command will pull out sequences from Ireland with samples between 2020-03-01 and 2020-04-1, provided that information exists metadata.csv file found in the data directory.
+```
+llama -r -fm country=Ireland sample_date=2020-03-01:2020-04-01 -d <path/to/data>
+```
+
+Include a selection of representative sequences for each lineage present in the local tree:
+```
+llama -i test.csv --fasta test.fasta --datadir <path/to/data> \
+--lineage-representatives \
+--number-of-representatives 5
 ```
 
 ### Analysis pipeline
