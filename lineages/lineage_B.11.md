@@ -7,7 +7,7 @@ title: Lineage B.11
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.11
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.11.html' | absolute_url }}">B.11</a> | Netherlands (94%), UK (6%) | March 02 to May 03 | 16 | 93 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.11.html' | absolute_url }}">B.11</a> | UK (44%), Netherlands (39%), Belgium (3%) | January 29 to June 07 | 207 | 76 | UK to Iceland (1), Netherlands to Ecuador (1) | 0.95 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.11.html' | absolute_url }}">B.11</a> | Netherlands lineage (BS=83) |
+| <a href="{{ 'lineages/lineage_B.11.html' | absolute_url }}">B.11</a> | European lineage with sequences from the Netherlands, UK, Austria, Slovakia  |
 

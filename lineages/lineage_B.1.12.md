@@ -7,7 +7,7 @@ title: Lineage B.1.12
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.1.12
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">B.1.12</a> | Belgium (38%), Luxembourg (38%), UK (23%) | March 04 to June 24 | 74 | 41 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">B.1.12</a> | UK (46%), Belgium (33%), Luxembourg (21%) | March 05 to June 24 | 48 | 59 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">B.1.12</a> | BeNeLux  |
+| <a href="{{ 'lineages/lineage_B.1.12.html' | absolute_url }}">B.1.12</a> | BeNeLux/ UK lineage |
 

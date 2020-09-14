@@ -5,9 +5,9 @@ title: Lineage B.1.31
 
 
 
-<p>
+<strong>Lineage reassigned to parent lineage due to low support</strong><p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,10 @@ title: Lineage B.1.31
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.31.html' | absolute_url }}">B.1.31</a> | Australia (100%) | March 21 to March 30 | 15 | 127 |  | 0.750 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.31.html' | absolute_url }}">B.1.31</a> | Australia lineage |
+| <a href="{{ 'lineages/lineage_B.1.31.html' | absolute_url }}">B.1.31</a> | Australia lineage split up this phylogeny, reassigned to B.1 |
 

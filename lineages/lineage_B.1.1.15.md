@@ -7,7 +7,7 @@ title: Lineage B.1.1.15
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.1.1.15
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.15.html' | absolute_url }}">B.1.1.15</a> | Portugal (38%), Luxembourg (35%), UK (23%) | March 18 to June 14 | 26 | 51 |  | 0.000 |
+| <a href="{{ 'lineages/lineage_B.1.1.15.html' | absolute_url }}">B.1.1.15</a> | UK (72%), Portugal (16%), Luxembourg (6%) | March 09 to July 27 | 80 | 26 |  | 0.95 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.15.html' | absolute_url }}">B.1.1.15</a> | Luxembourg lineage (BS=16, but internal nodes all 100) |
+| <a href="{{ 'lineages/lineage_B.1.1.15.html' | absolute_url }}">B.1.1.15</a> | Luxembourgh/ UK/ Portugal lineage |
 

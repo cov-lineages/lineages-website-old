@@ -7,7 +7,7 @@ title: Lineage B.9
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.9
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.9.html' | absolute_url }}">B.9</a> | UK (84%), Australia (13%), South_Africa (2%) | March 12 to May 09 | 55 | 87 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.9.html' | absolute_url }}">B.9</a> | UK (88%), Australia (7%), New_Zealand (3%) | March 12 to May 09 | 59 | 105 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.9.html' | absolute_url }}">B.9</a> | Australian/ England lineage (BS=100) |
+| <a href="{{ 'lineages/lineage_B.9.html' | absolute_url }}">B.9</a> | Lineage with sequences from the UK, Australia and New Zealand |
 

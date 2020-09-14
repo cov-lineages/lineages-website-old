@@ -7,7 +7,7 @@ title: Lineage B.1.1.29
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.1.1.29
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.29.html' | absolute_url }}">B.1.1.29</a> | UK (100%) | April 08 to June 12 | 110 | 53 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.1.29.html' | absolute_url }}">B.1.1.29</a> | UK (100%) | April 08 to June 15 | 114 | 68 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.29.html' | absolute_url }}">B.1.1.29</a> | Wales lineage (BS=100) |
+| <a href="{{ 'lineages/lineage_B.1.1.29.html' | absolute_url }}">B.1.1.29</a> | Wales lineage  |
 

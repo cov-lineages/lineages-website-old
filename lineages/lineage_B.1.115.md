@@ -7,7 +7,7 @@ title: Lineage B.1.115
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.1.115
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.115.html' | absolute_url }}">B.1.115</a> | Israel (100%) | March 17 to April 02 | 11 | 124 |  | 0.500 |
+| <a href="{{ 'lineages/lineage_B.1.115.html' | absolute_url }}">B.1.115</a> | UK (53%), Israel (47%) | March 22 to July 21 | 30 | 32 |  | 0.93 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.115.html' | absolute_url }}">B.1.115</a> | Israel lineage |
+| <a href="{{ 'lineages/lineage_B.1.115.html' | absolute_url }}">B.1.115</a> | Israel/ UK lineage |
 

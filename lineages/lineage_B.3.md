@@ -7,7 +7,7 @@ title: Lineage B.3
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.3
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.3.html' | absolute_url }}">B.3</a> | UK (82%), Belgium (3%), Australia (2%) | February 23 to July 23 | 1181 | 12 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.3.html' | absolute_url }}">B.3</a> | UK (89%), Belgium (2%), Australia (1%) | February 23 to August 03 | 1123 | 19 | Austria to Iceland (1) | 0.99 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.3.html' | absolute_url }}">B.3</a> | A European lineage (BS=21) |
+| <a href="{{ 'lineages/lineage_B.3.html' | absolute_url }}">B.3</a> | A European lineage with a lot of Welsh sequences |
 

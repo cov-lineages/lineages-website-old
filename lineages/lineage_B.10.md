@@ -7,7 +7,7 @@ title: Lineage B.10
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.10
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | UK (100%) | March 11 to May 15 | 101 | 81 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | UK (100%) | March 11 to May 15 | 102 | 99 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | Northern Ireland/ England/ Scotland (BS=94) |
+| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | Lineage with a lot of representation from sequences in the UK, including Northern Ireland, England and Scotland |
 

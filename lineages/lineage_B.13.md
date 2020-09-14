@@ -7,7 +7,7 @@ title: Lineage B.13
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.13
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">B.13</a> | USA (100%) | April 03 to April 17 | 19 | 109 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">B.13</a> | USA (100%) | April 03 to May 05 | 11 | 109 |  | 0.9 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">B.13</a> | USA (WI) lineage (BS=65) |
+| <a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">B.13</a> | USA (WI) lineage located off the polytomy at the base of the B lineage |
 

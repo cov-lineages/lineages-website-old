@@ -7,7 +7,7 @@ title: Lineage B.4
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,17 @@ title: Lineage B.4
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.4.html' | absolute_url }}">B.4</a> | Australia (34%), UK (11%), Kazakhstan (6%) | January 18 to June 22 | 420 | 43 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.4.html' | absolute_url }}">B.4</a> | Australia (20%), UK (20%), India (9%) | January 18 to July 19 | 249 | 34 | Iran to Germany, Lebanon, Australia, Canada, Pakistan, New_Zealand, Turkey (8), UK to Lebanon (1), Italy to China (1), France to China (1) | 0.94 |
+| <a href="{{ 'lineages/lineage_B.4.1.html' | absolute_url }}">B.4.1</a> | Kazakhstan (100%) | April 19 to April 26 | 10 | 118 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.4.2.html' | absolute_url }}">B.4.2</a> | Bahrain (92%), United_Arab_Emirates (8%) | February 25 to April 08 | 13 | 136 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.4.3.html' | absolute_url }}">B.4.3</a> | Australia (100%) | March 10 to May 10 | 22 | 104 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.4.html' | absolute_url }}">B.4</a> | Iran lineage, many sequences we have of this lineage are associated with travel histories from Iran (BS=21) |
+| <a href="{{ 'lineages/lineage_B.4.html' | absolute_url }}">B.4</a> | Iran lineage, many sequences we have of this lineage are associated with travel histories from Iran. Significant number of sequences from the UAE, Kenya and Australia |
+| <a href="{{ 'lineages/lineage_B.4.1.html' | absolute_url }}">B.4.1</a> | A small lineage from Kazakhstan within the B.4 diversity  |
+| <a href="{{ 'lineages/lineage_B.4.2.html' | absolute_url }}">B.4.2</a> | A lineage with mostly sequences from Bahrein |
+| <a href="{{ 'lineages/lineage_B.4.3.html' | absolute_url }}">B.4.3</a> | Australian lineage nested within the diversity of B.4 |
 

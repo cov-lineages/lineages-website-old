@@ -7,7 +7,7 @@ title: Lineage B.1.21
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,7 +17,7 @@ title: Lineage B.1.21
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.21.html' | absolute_url }}">B.1.21</a> | USA (99%), Iceland (0%), Denmark (0%) | March 08 to June 20 | 592 | 45 |  | 0.990 |
+| <a href="{{ 'lineages/lineage_B.1.21.html' | absolute_url }}">B.1.21</a> | USA (100%), Panama (0%) | March 10 to July 11 | 214 | 42 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 

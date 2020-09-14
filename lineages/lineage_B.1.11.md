@@ -7,7 +7,7 @@ title: Lineage B.1.11
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.1.11
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.11.html' | absolute_url }}">B.1.11</a> | UK (95%), Australia (1%), USA (1%) | March 06 to July 13 | 793 | 22 |  | 0.981 |
+| <a href="{{ 'lineages/lineage_B.1.11.html' | absolute_url }}">B.1.11</a> | UK (98%), Australia (2%) | March 27 to July 13 | 156 | 40 |  | 0.96 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.11.html' | absolute_url }}">B.1.11</a> | UK lineage but low support and splitting up, pruned down quite a lot, but may need to be removed next time (BS=31) |
+| <a href="{{ 'lineages/lineage_B.1.11.html' | absolute_url }}">B.1.11</a> | UK lineage, pruned down relative to previous release. A number of sequences previously assigned B.1.11 reassigned to B.1 and some reassigned to B.1.88.  |
 

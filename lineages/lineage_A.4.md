@@ -7,7 +7,7 @@ title: Lineage A.4
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_A.html' | absolute_url }}" class="button special fit">Go to parent lineage: A</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: A</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage A.4
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA (100%) | March 11 to April 10 | 33 | 116 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA (100%) | March 13 to April 07 | 17 | 137 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | Lineage circulating in USA (BS=100) |
+| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA lineage nested in A diveristy |
 

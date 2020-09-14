@@ -7,7 +7,7 @@ title: Lineage B.16
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.16
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.16.html' | absolute_url }}">B.16</a> | UK (100%) | March 13 to June 23 | 230 | 42 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.16.html' | absolute_url }}">B.16</a> | UK (100%) | March 13 to June 23 | 244 | 60 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.16.html' | absolute_url }}">B.16</a> | Scottish lineage (BS=95) |
+| <a href="{{ 'lineages/lineage_B.16.html' | absolute_url }}">B.16</a> | Scottish lineage  |
 

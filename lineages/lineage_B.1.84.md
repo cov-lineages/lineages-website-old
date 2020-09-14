@@ -7,7 +7,7 @@ title: Lineage B.1.84
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,7 +17,7 @@ title: Lineage B.1.84
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.84.html' | absolute_url }}">B.1.84</a> | DRC (95%), Spain (5%) | March 17 to May 22 | 19 | 74 |  | 0.250 |
+| <a href="{{ 'lineages/lineage_B.1.84.html' | absolute_url }}">B.1.84</a> | DRC (100%) | April 10 to May 23 | 17 | 91 |  | 0.9 |
 
 <h3>Lineage descriptions</h3>
 

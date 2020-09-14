@@ -12,17 +12,19 @@ title: Lineage A
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.html' | absolute_url }}">A</a> | China (36%), Japan (16%), USA (8%) | January 05 to July 05 | 671 | 30 |  | 0.953 |
-| <a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">A.1</a> | USA (87%), Australia (7%), Canada (2%) | February 22 to June 20 | 1875 | 45 |  | 0.994 |
-| <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (92%), USA (8%) | March 11 to March 20 | 12 | 137 |  | 0.667 |
-| <a href="{{ 'lineages/lineage_A.1.3.html' | absolute_url }}">A.1.3</a> | Australia (100%) | March 22 to April 02 | 8 | 124 |  | 0.000 |
-| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spain (44%), UK (20%), Australia (16%) | February 17 to July 04 | 1260 | 31 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA (76%), Australia (13%), UK (4%) | January 28 to May 15 | 403 | 81 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA (100%) | March 11 to April 10 | 33 | 116 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | Spain (58%), UK (20%), Uruguay (6%) | March 01 to May 15 | 302 | 81 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Thailand (95%), Singapore (2%), Japan (2%) | January 23 to April 07 | 95 | 119 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_A.7.html' | absolute_url }}">A.7</a> | India (100%) | March 22 to May 10 | 23 | 86 |  | 1.000 |
-| <a href="{{ 'lineages/lineage_A.9.html' | absolute_url }}">A.9</a> | India (100%) | April 05 to May 13 | 6 | 83 |  | 0.000 |
+| <a href="{{ 'lineages/lineage_A.html' | absolute_url }}">A</a> | China (31%), India (10%), Japan (8%) | January 05 to August 04 | 409 | 18 | China to Australia, Vietnam, India (4), Saudia_Arabia to Turkey (2), USA to New_Zealand (1) | 0.96 |
+| <a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">A.1</a> | USA (86%), Australia (7%), Canada (2%) | February 25 to July 14 | 987 | 39 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (88%), USA (12%) | March 11 to March 20 | 8 | 155 | USA to Iceland (3) | 1.0 |
+| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spain (66%), UK (15%), Panama (5%) | February 26 to June 20 | 412 | 63 | Italy to Spain (1), Spain to China, Brazil (2) | 0.98 |
+| <a href="{{ 'lineages/lineage_A.2.1.html' | absolute_url }}">A.2.1</a> | Panama (97%), Spain (3%) | February 20 to July 04 | 78 | 49 |  | 0.92 |
+| <a href="{{ 'lineages/lineage_A.2.2.html' | absolute_url }}">A.2.2</a> | Australia (92%), UK (6%), USA (1%) | March 17 to April 16 | 71 | 128 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_A.2.3.html' | absolute_url }}">A.2.3</a> | UK (100%) | March 12 to May 29 | 190 | 85 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA (79%), UK (8%), Australia (6%) | January 28 to June 10 | 232 | 73 | USA to Taiwan (1), United_States to USA (1) | 0.99 |
+| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA (100%) | March 13 to April 07 | 17 | 137 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | Spain (50%), UK (32%), Uruguay (3%) | March 01 to June 04 | 202 | 79 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Thailand (94%), Singapore (3%), Japan (3%) | January 25 to April 07 | 36 | 137 |  | 0.91 |
+| <a href="{{ 'lineages/lineage_A.7.html' | absolute_url }}">A.7</a> | India (100%) | May 06 to May 10 | 15 | 104 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_A.9.html' | absolute_url }}">A.9</a> | India (100%) | April 03 to May 12 | 13 | 102 |  | 0.9 |
 
 <h3>Lineage descriptions</h3>
 
@@ -31,13 +33,16 @@ title: Lineage A
 | <a href="{{ 'lineages/lineage_A.html' | absolute_url }}">A</a> | Root of the pandemic lies within lineage A. Many sequences originating from China and many global exports; including to South East Asia, Japan, South Korea, Australia, the USA and Europe, represented in this lineage |
 | <a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">A.1</a> | A North American lineage (BS=16) |
 | <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland lineage (BS=94) |
-| <a href="{{ 'lineages/lineage_A.1.3.html' | absolute_url }}">A.1.3</a> | Australian lineage (BS=100) |
-| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spanish lineage (BS=60) |
-| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA and Australian lineage (BS=20) |
-| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | Lineage circulating in USA (BS=100) |
-| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | A lineage with a lot of representation from Spanish-speaking countries. A majoritively Spain/ South-American lineage, low bootstrap (16) but historically has had high support.  |
-| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Lineage in Thailand (BS=65) |
-| <a href="{{ 'lineages/lineage_A.7.html' | absolute_url }}">A.7</a> | Indian lineage, previously A.p7. Some in A.p7, including Saudi Arabian & Turkish sequences reassigned to A (BS=100) |
-| <a href="{{ 'lineages/lineage_A.8.html' | absolute_url }}">A.8</a> | Indian lineage with good support and despite small numbers shows internal diversity, previously A.p7 (BS=83) |
-| <a href="{{ 'lineages/lineage_A.9.html' | absolute_url }}">A.9</a> | Indian lineage, previously A.p7 (BS=85) |
+| <a href="{{ 'lineages/lineage_A.1.3.html' | absolute_url }}">A.1.3</a> | Previously Australian lineage, structure has split up into the diverity of A.1, so all reassigned A.1 |
+| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Majoritively Spanish lineage now with a variety of other locations represented, including South and Central American sequences, other European countries and Kazakhstan.  |
+| <a href="{{ 'lineages/lineage_A.2.1.html' | absolute_url }}">A.2.1</a> | Lineage with sequences predominantly from Panama |
+| <a href="{{ 'lineages/lineage_A.2.2.html' | absolute_url }}">A.2.2</a> | Australian lineage nested within the diversity of A.2 |
+| <a href="{{ 'lineages/lineage_A.2.3.html' | absolute_url }}">A.2.3</a> | Scottish lineage nested within the diversity of A.2 |
+| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA and Australian lineage  |
+| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA lineage nested in A diveristy |
+| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | A lineage with a lot of representation from Spanish-speaking countries. A Spanish/ South-American lineage, but now with sequences from an outbreak in Scotland |
+| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Lineage from an introduction event into Thailand, now including a couple of exports |
+| <a href="{{ 'lineages/lineage_A.7.html' | absolute_url }}">A.7</a> | Indian lineage, including Saudi Arabian & Turkish sequences. A.7, A.8 and A.9 are all lineages with diversity from India, however are difficult to resolve confidently, potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A. |
+| <a href="{{ 'lineages/lineage_A.8.html' | absolute_url }}">A.8</a> | Merged with sister Indian lineage A.7. A.7, A.8 and A.9 are all lineages with diversity from India, however are difficult to resolve confidently, potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A. |
+| <a href="{{ 'lineages/lineage_A.9.html' | absolute_url }}">A.9</a> | Indian lineage. A.7, A.8 and A.9 are all lineages with diversity from India, however are difficult to resolve confidently, potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A. |
 

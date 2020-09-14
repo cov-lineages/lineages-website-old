@@ -7,7 +7,7 @@ title: Lineage A.5
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_A.html' | absolute_url }}" class="button special fit">Go to parent lineage: A</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: A</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage A.5
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | Spain (58%), UK (20%), Uruguay (6%) | March 01 to May 15 | 302 | 81 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | Spain (50%), UK (32%), Uruguay (3%) | March 01 to June 04 | 202 | 79 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | A lineage with a lot of representation from Spanish-speaking countries. A majoritively Spain/ South-American lineage, low bootstrap (16) but historically has had high support.  |
+| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | A lineage with a lot of representation from Spanish-speaking countries. A Spanish/ South-American lineage, but now with sequences from an outbreak in Scotland |
 

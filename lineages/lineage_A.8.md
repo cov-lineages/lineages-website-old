@@ -5,9 +5,9 @@ title: Lineage A.8
 
 
 
-<p>
+<strong>Lineage reassigned to parent lineage due to low support</strong><p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_A.html' | absolute_url }}" class="button special fit">Go to parent lineage: A</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: A</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -22,5 +22,5 @@ title: Lineage A.8
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_A.8.html' | absolute_url }}">A.8</a> | Indian lineage with good support and despite small numbers shows internal diversity, previously A.p7 (BS=83) |
+| <a href="{{ 'lineages/lineage_A.8.html' | absolute_url }}">A.8</a> | Merged with sister Indian lineage A.7. A.7, A.8 and A.9 are all lineages with diversity from India, however are difficult to resolve confidently, potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A. |
 

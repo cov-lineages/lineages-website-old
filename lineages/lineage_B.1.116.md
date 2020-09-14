@@ -7,7 +7,7 @@ title: Lineage B.1.116
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,7 +17,7 @@ title: Lineage B.1.116
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.116.html' | absolute_url }}">B.1.116</a> | USA (100%) | April 29 to May 23 | 82 | 73 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.1.116.html' | absolute_url }}">B.1.116</a> | USA (100%) | April 29 to June 10 | 24 | 73 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

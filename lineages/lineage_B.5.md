@@ -7,7 +7,7 @@ title: Lineage B.5
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.5
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.5.html' | absolute_url }}">B.5</a> | Japan (90%), USA (10%) | February 10 to February 21 | 20 | 165 |  | 1.000 |
+| <a href="{{ 'lineages/lineage_B.5.html' | absolute_url }}">B.5</a> | Japan (89%), USA (11%) | February 15 to February 21 | 9 | 183 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.5.html' | absolute_url }}">B.5</a> | Japanese lineage (BS=75)  |
+| <a href="{{ 'lineages/lineage_B.5.html' | absolute_url }}">B.5</a> | Japanese lineage  |
 

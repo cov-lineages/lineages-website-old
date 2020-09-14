@@ -7,7 +7,7 @@ title: Lineage B.18
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
+	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
@@ -17,11 +17,11 @@ title: Lineage B.18
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.18.html' | absolute_url }}">B.18</a> | UK (89%), Iceland (11%) | March 17 to June 09 | 18 | 56 |  | 0.500 |
+| <a href="{{ 'lineages/lineage_B.18.html' | absolute_url }}">B.18</a> | UK (86%), Iceland (14%) | March 16 to June 09 | 22 | 74 | UK to Iceland (1) | 1.0 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.18.html' | absolute_url }}">B.18</a> | European lineage (Iceland and England) (BS=95) |
+| <a href="{{ 'lineages/lineage_B.18.html' | absolute_url }}">B.18</a> | European lineage (Iceland and England)  |
 
