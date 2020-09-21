@@ -73,8 +73,6 @@ This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequ
 		<li><a href="{{ 'lineages/lineage_B.1.1.23.html' | absolute_url }}">B.1.1.23</a><br><strong>Low support, has been reassigned to parent lineage.</strong> Bangladesh lineage, merged into B.1.1.25 in most recent phylogeny<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.1.24.html' | absolute_url }}">B.1.1.24</a><br>Portuguese lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.1.25.html' | absolute_url }}">B.1.1.25</a><br>Bangladesh lineage<br></li>
-		<li><a href="{{ 'lineages/lineage_B.1.1.25.1.html' | absolute_url }}">B.1.1.25.1</a><br>Australian lineage<br></li>
-		<li><a href="{{ 'lineages/lineage_B.1.1.25.2.html' | absolute_url }}">B.1.1.25.2</a><br>UK lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.1.26.html' | absolute_url }}">B.1.1.26</a><br>US lineage (WA)<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.1.27.html' | absolute_url }}">B.1.1.27</a><br>Lineage in Oman<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.1.28.html' | absolute_url }}">B.1.1.28</a><br>Brazil lineage, some sister sequences from parent node are also from Brazil, however there's sequences from a variety of other locations on that node.<br></li>
@@ -344,5 +342,7 @@ This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequ
 		<li><a href="{{ 'lineages/lineage_C.1.html' | absolute_url }}">C.1</a><br>South African lineage (Alias of B.1.1.1.1)<br></li>
 		<li><a href="{{ 'lineages/lineage_C.2.html' | absolute_url }}">C.2</a><br>South African lineage (Alias of B.1.1.1.2)<br></li>
 		<li><a href="{{ 'lineages/lineage_C.3.html' | absolute_url }}">C.3</a><br>English lineage (Alias of B.1.1.1.3)<br></li>
+		<li><a href="{{ 'lineages/lineage_D.1.html' | absolute_url }}">D.1</a><br>UK lineage (Alias of B.1.1.25.2)<br></li>
+		<li><a href="{{ 'lineages/lineage_D.2.html' | absolute_url }}">D.2</a><br>Australian lineage (Alias of B.1.1.25.1)<br></li>
 		
 </p>

@@ -17,7 +17,7 @@ title: Lineage B.2
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.html' | absolute_url }}">B.2</a> | UK (77%), USA (4%), Spain (3%) | January 16 to July 22 | 1793 | 31 | UK to China, Iceland (3), Italy to Iceland, Brazil (2), China to Italy (1), USA to Kuwait (1) | 0.97 |
+| <a href="{{ 'lineages/lineage_B.2.html' | absolute_url }}">B.2</a> | UK (77%), USA (4%), Spain (3%) | January 16 to July 22 | 1793 | 31 | UK to Iceland, China (3), Italy to Iceland, Brazil (2), China to Italy (1), USA to Kuwait (1) | 0.97 |
 | <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | UK (93%), Australia (2%), USA (2%) | February 09 to July 20 | 2157 | 33 | UK to Iceland (1) | 1.0 |
 | <a href="{{ 'lineages/lineage_B.2.10.html' | absolute_url }}">B.2.10</a> | South_Korea (91%), UK (6%), USA (2%) | February 18 to April 09 | 47 | 135 |  | 0.94 |
 | <a href="{{ 'lineages/lineage_B.2.11.html' | absolute_url }}">B.2.11</a> | Israel (88%), Taiwan (12%) | March 17 to April 11 | 8 | 133 |  | 1.0 |

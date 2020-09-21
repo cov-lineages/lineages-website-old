@@ -17,8 +17,8 @@ title: Lineage B.1
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}">B.1</a> | UK (41%), USA (30%), Australia (3%) | February 21 to August 19 | 10651 | 3 | UK to China, Iceland (10), Iran to Finland, Lebanon, Turkey (3), Spain to Iceland (2), Austria to China, Iceland (13), Italy to Finland, China, Iceland (8), France to Benin, Madagascar, China, Taiwan, Costa_Rica, Iceland (7), USA;Czech_Republic to Taiwan (1), Poland to Taiwan (1), USA to Taiwan, Costa_Rica, China (7), Canada to China (1), Togo to Benin (1), Faroe_Islands to Iceland (1), Switzerland to Iceland (1), Denmark to Iceland (1), Norway to China (1) | 0.93 |
-| <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}">B.1.1</a> | UK (84%), USA (3%), Portugal (2%) | February 16 to August 17 | 15735 | 5 | Italy to Nigeria, Thailand, Czech_Republic, Chile, Iceland (9), Finland to Iceland (1), Austria to Iceland (2), Switzerland to Iceland (1), Saudia_Arabia to Turkey (1), UK to China, Iceland (4), USA to Taiwan, Brazil (3), Hungary to China (3), Nicaragua to Costa_Rica (2) | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}">B.1</a> | UK (41%), USA (30%), Australia (3%) | February 21 to August 19 | 10651 | 3 | UK to Iceland, China (10), Iran to Turkey, Finland, Lebanon (3), Spain to Iceland (2), Austria to Iceland, China (13), Italy to Iceland, China, Finland (8), France to China, Costa_Rica, Taiwan, Madagascar, Iceland, Benin (7), USA;Czech_Republic to Taiwan (1), Poland to Taiwan (1), USA to Costa_Rica, China, Taiwan (7), Canada to China (1), Togo to Benin (1), Faroe_Islands to Iceland (1), Switzerland to Iceland (1), Denmark to Iceland (1), Norway to China (1) | 0.93 |
+| <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}">B.1.1</a> | UK (84%), USA (3%), Portugal (2%) | February 16 to August 17 | 15735 | 5 | Italy to Czech_Republic, Thailand, Nigeria, Iceland, Chile (9), Finland to Iceland (1), Austria to Iceland (2), Switzerland to Iceland (1), Saudia_Arabia to Turkey (1), UK to Iceland, China (4), USA to Taiwan, Brazil (3), Hungary to China (3), Nicaragua to Costa_Rica (2) | 0.98 |
 | <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | UK (86%), Australia (2%), Belgium (2%) | March 03 to August 10 | 1091 | 12 | Austria to Iceland (2) | 0.99 |
 | <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | UK (91%), USA (2%), Netherlands (2%) | March 06 to July 20 | 454 | 33 | USA to Iceland (1), UK to Iceland (1) | 0.98 |
 | <a href="{{ 'lineages/lineage_B.1.1.12.html' | absolute_url }}">B.1.1.12</a> | UK (100%) | March 21 to April 22 | 27 | 122 |  | 1.0 |
@@ -30,8 +30,6 @@ title: Lineage B.1
 | <a href="{{ 'lineages/lineage_B.1.1.2.html' | absolute_url }}">B.1.1.2</a> | UK (100%) | March 20 to July 15 | 475 | 38 |  | 0.99 |
 | <a href="{{ 'lineages/lineage_B.1.1.20.html' | absolute_url }}">B.1.1.20</a> | UK (73%), Portugal (19%), USA (8%) | March 21 to May 20 | 26 | 94 |  | 0.92 |
 | <a href="{{ 'lineages/lineage_B.1.1.25.html' | absolute_url }}">B.1.1.25</a> | Bangladesh (94%), UK (3%), Australia (2%) | March 23 to July 31 | 201 | 22 |  | 0.97 |
-| <a href="{{ 'lineages/lineage_B.1.1.25.1.html' | absolute_url }}">B.1.1.25.1</a> | Australia (100%) | March 19 to August 05 | 49 | 17 |  | 0.98 |
-| <a href="{{ 'lineages/lineage_B.1.1.25.2.html' | absolute_url }}">B.1.1.25.2</a> | UK (100%) | July 28 to August 20 | 117 | 2 |  | 1.0 |
 | <a href="{{ 'lineages/lineage_B.1.1.26.html' | absolute_url }}">B.1.1.26</a> | USA (100%) | April 20 to June 22 | 46 | 61 |  | 0.98 |
 | <a href="{{ 'lineages/lineage_B.1.1.27.html' | absolute_url }}">B.1.1.27</a> | Oman (100%) | March 21 to June 10 | 55 | 73 |  | 1.0 |
 | <a href="{{ 'lineages/lineage_B.1.1.28.html' | absolute_url }}">B.1.1.28</a> | Brazil (86%), UK (10%), Australia (2%) | March 16 to June 24 | 105 | 59 |  | 0.98 |
@@ -176,7 +174,7 @@ title: Lineage B.1
 | <a href="{{ 'lineages/lineage_B.1.39.html' | absolute_url }}">B.1.39</a> | Denmark (85%), UK (10%), New_Zealand (2%) | March 13 to April 28 | 40 | 116 |  | 0.97 |
 | <a href="{{ 'lineages/lineage_B.1.40.html' | absolute_url }}">B.1.40</a> | UK (100%) | March 18 to May 23 | 49 | 91 |  | 1.0 |
 | <a href="{{ 'lineages/lineage_B.1.44.html' | absolute_url }}">B.1.44</a> | UK (100%) | March 25 to June 19 | 109 | 64 |  | 0.98 |
-| <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}">B.1.5</a> | UK (58%), Spain (18%), USA (10%) | February 26 to August 16 | 2490 | 6 | Spain to Costa_Rica, China, Iceland (4), Portugal to Taiwan (1), Saudia_Arabia to Turkey (1), Belgium;United_Kingdom to Taiwan (1), Switzerland to Iceland (2) | 0.95 |
+| <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}">B.1.5</a> | UK (58%), Spain (18%), USA (10%) | February 26 to August 16 | 2490 | 6 | Spain to Costa_Rica, Iceland, China (4), Portugal to Taiwan (1), Saudia_Arabia to Turkey (1), Belgium;United_Kingdom to Taiwan (1), Switzerland to Iceland (2) | 0.95 |
 | <a href="{{ 'lineages/lineage_B.1.5.11.html' | absolute_url }}">B.1.5.11</a> | USA (86%), Mexico (7%), Romania (3%) | March 19 to June 22 | 29 | 61 |  | 0.93 |
 | <a href="{{ 'lineages/lineage_B.1.5.12.html' | absolute_url }}">B.1.5.12</a> | Senegal (100%) | April 17 to June 20 | 42 | 63 |  | 0.91 |
 | <a href="{{ 'lineages/lineage_B.1.5.13.html' | absolute_url }}">B.1.5.13</a> | Romania (93%), Switzerland (7%) | April 09 to July 10 | 14 | 43 |  | 1.0 |
@@ -252,8 +250,6 @@ title: Lineage B.1
 | <a href="{{ 'lineages/lineage_B.1.1.23.html' | absolute_url }}">B.1.1.23</a> | Bangladesh lineage, merged into B.1.1.25 in most recent phylogeny |
 | <a href="{{ 'lineages/lineage_B.1.1.24.html' | absolute_url }}">B.1.1.24</a> | Portuguese lineage |
 | <a href="{{ 'lineages/lineage_B.1.1.25.html' | absolute_url }}">B.1.1.25</a> | Bangladesh lineage |
-| <a href="{{ 'lineages/lineage_B.1.1.25.1.html' | absolute_url }}">B.1.1.25.1</a> | Australian lineage |
-| <a href="{{ 'lineages/lineage_B.1.1.25.2.html' | absolute_url }}">B.1.1.25.2</a> | UK lineage |
 | <a href="{{ 'lineages/lineage_B.1.1.26.html' | absolute_url }}">B.1.1.26</a> | US lineage (WA) |
 | <a href="{{ 'lineages/lineage_B.1.1.27.html' | absolute_url }}">B.1.1.27</a> | Lineage in Oman |
 | <a href="{{ 'lineages/lineage_B.1.1.28.html' | absolute_url }}">B.1.1.28</a> | Brazil lineage, some sister sequences from parent node are also from Brazil, however there's sequences from a variety of other locations on that node. |
