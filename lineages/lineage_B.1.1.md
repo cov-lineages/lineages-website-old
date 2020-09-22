@@ -15,9 +15,9 @@ title: Lineage B.1.1
 <img src="../assets/images/B.1.1.svg" alt="B.1.1 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}">B.1.1</a> | UK (84%), USA (3%), Portugal (2%) | February 16 to August 17 | 15735 | Italy to Chile, Czech_Republic, Nigeria, Iceland, Thailand (9), Finland to Iceland (1), Austria to Iceland (2), Switzerland to Iceland (1), Saudia_Arabia to Turkey (1), UK to Iceland, China (4), USA to Brazil, Taiwan (3), Hungary to China (3), Nicaragua to Costa_Rica (2) | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}">B.1.1</a> | UK (84%), USA (3%), Portugal (2%) | February 16 to August 17 | 15735 | Italy to Chile, Thailand, Nigeria, Czech_Republic, Iceland (9), Finland to Iceland (1), Austria to Iceland (2), Switzerland to Iceland (1), Saudia_Arabia to Turkey (1), UK to Iceland, China (4), USA to Taiwan, Brazil (3), Hungary to China (3), Nicaragua to Costa_Rica (2) | 0.98 |
 | <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | UK (86%), Australia (2%), Belgium (2%) | March 03 to August 10 | 1091 | Austria to Iceland (2) | 0.99 |
 | <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | UK (91%), USA (2%), Netherlands (2%) | March 06 to July 20 | 454 | USA to Iceland (1), UK to Iceland (1) | 0.98 |
 | <a href="{{ 'lineages/lineage_B.1.1.12.html' | absolute_url }}">B.1.1.12</a> | UK (100%) | March 21 to April 22 | 27 |  | 1.0 |

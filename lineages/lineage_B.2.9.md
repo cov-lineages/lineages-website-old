@@ -15,7 +15,7 @@ title: Lineage B.2.9
 <img src="../assets/images/B.2.9.svg" alt="B.2.9 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 
 <h3>Lineage descriptions</h3>

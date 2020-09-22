@@ -15,10 +15,10 @@ title: Lineage B.1
 <img src="../assets/images/B.1.svg" alt="B.1 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}">B.1</a> | UK (41%), USA (30%), Australia (3%) | February 21 to August 19 | 10651 | UK to Iceland, China (10), Iran to Lebanon, Turkey, Finland (3), Spain to Iceland (2), Austria to Iceland, China (13), Italy to Iceland, Finland, China (8), France to Costa_Rica, Taiwan, Benin, Madagascar, Iceland, China (7), USA;Czech_Republic to Taiwan (1), Poland to Taiwan (1), USA to Taiwan, Costa_Rica, China (7), Canada to China (1), Togo to Benin (1), Faroe_Islands to Iceland (1), Switzerland to Iceland (1), Denmark to Iceland (1), Norway to China (1) | 0.93 |
-| <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}">B.1.1</a> | UK (84%), USA (3%), Portugal (2%) | February 16 to August 17 | 15735 | Italy to Chile, Czech_Republic, Nigeria, Iceland, Thailand (9), Finland to Iceland (1), Austria to Iceland (2), Switzerland to Iceland (1), Saudia_Arabia to Turkey (1), UK to Iceland, China (4), USA to Brazil, Taiwan (3), Hungary to China (3), Nicaragua to Costa_Rica (2) | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}">B.1</a> | UK (41%), USA (30%), Australia (3%) | February 21 to August 19 | 10651 | UK to Iceland, China (10), Iran to Turkey, Lebanon, Finland (3), Spain to Iceland (2), Austria to Iceland, China (13), Italy to Iceland, China, Finland (8), France to China, Costa_Rica, Benin, Madagascar, Iceland, Taiwan (7), USA;Czech_Republic to Taiwan (1), Poland to Taiwan (1), USA to Taiwan, China, Costa_Rica (7), Canada to China (1), Togo to Benin (1), Faroe_Islands to Iceland (1), Switzerland to Iceland (1), Denmark to Iceland (1), Norway to China (1) | 0.93 |
+| <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}">B.1.1</a> | UK (84%), USA (3%), Portugal (2%) | February 16 to August 17 | 15735 | Italy to Chile, Thailand, Nigeria, Czech_Republic, Iceland (9), Finland to Iceland (1), Austria to Iceland (2), Switzerland to Iceland (1), Saudia_Arabia to Turkey (1), UK to Iceland, China (4), USA to Taiwan, Brazil (3), Hungary to China (3), Nicaragua to Costa_Rica (2) | 0.98 |
 | <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | UK (86%), Australia (2%), Belgium (2%) | March 03 to August 10 | 1091 | Austria to Iceland (2) | 0.99 |
 | <a href="{{ 'lineages/lineage_B.1.1.10.html' | absolute_url }}">B.1.1.10</a> | UK (91%), USA (2%), Netherlands (2%) | March 06 to July 20 | 454 | USA to Iceland (1), UK to Iceland (1) | 0.98 |
 | <a href="{{ 'lineages/lineage_B.1.1.12.html' | absolute_url }}">B.1.1.12</a> | UK (100%) | March 21 to April 22 | 27 |  | 1.0 |
@@ -174,7 +174,7 @@ title: Lineage B.1
 | <a href="{{ 'lineages/lineage_B.1.39.html' | absolute_url }}">B.1.39</a> | Denmark (85%), UK (10%), New_Zealand (2%) | March 13 to April 28 | 40 |  | 0.97 |
 | <a href="{{ 'lineages/lineage_B.1.40.html' | absolute_url }}">B.1.40</a> | UK (100%) | March 18 to May 23 | 49 |  | 1.0 |
 | <a href="{{ 'lineages/lineage_B.1.44.html' | absolute_url }}">B.1.44</a> | UK (100%) | March 25 to June 19 | 109 |  | 0.98 |
-| <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}">B.1.5</a> | UK (58%), Spain (18%), USA (10%) | February 26 to August 16 | 2490 | Spain to Iceland, Costa_Rica, China (4), Portugal to Taiwan (1), Saudia_Arabia to Turkey (1), Belgium;United_Kingdom to Taiwan (1), Switzerland to Iceland (2) | 0.95 |
+| <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}">B.1.5</a> | UK (58%), Spain (18%), USA (10%) | February 26 to August 16 | 2490 | Spain to Iceland, China, Costa_Rica (4), Portugal to Taiwan (1), Saudia_Arabia to Turkey (1), Belgium;United_Kingdom to Taiwan (1), Switzerland to Iceland (2) | 0.95 |
 | <a href="{{ 'lineages/lineage_B.1.5.11.html' | absolute_url }}">B.1.5.11</a> | USA (86%), Mexico (7%), Romania (3%) | March 19 to June 22 | 29 |  | 0.93 |
 | <a href="{{ 'lineages/lineage_B.1.5.12.html' | absolute_url }}">B.1.5.12</a> | Senegal (100%) | April 17 to June 20 | 42 |  | 0.91 |
 | <a href="{{ 'lineages/lineage_B.1.5.13.html' | absolute_url }}">B.1.5.13</a> | Romania (93%), Switzerland (7%) | April 09 to July 10 | 14 |  | 1.0 |

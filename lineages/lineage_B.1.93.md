@@ -15,7 +15,7 @@ title: Lineage B.1.93
 <img src="../assets/images/B.1.93.svg" alt="B.1.93 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.93.html' | absolute_url }}">B.1.93</a> | UK (99%), Switzerland (1%), Spain (0%) | March 11 to July 22 | 885 | Egypt to Taiwan (1) | 1.0 |
 

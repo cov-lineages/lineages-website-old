@@ -15,7 +15,7 @@ title: Lineage B.1.147
 <img src="../assets/images/B.1.147.svg" alt="B.1.147 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.147.html' | absolute_url }}">B.1.147</a> | Canada (44%), UK (33%), Belgium (10%) | March 04 to May 25 | 87 |  | 0.95 |
 

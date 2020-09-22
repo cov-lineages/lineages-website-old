@@ -15,7 +15,7 @@ title: Lineage B.1.1.31
 <img src="../assets/images/B.1.1.31.svg" alt="B.1.1.31 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.1.31.html' | absolute_url }}">B.1.1.31</a> | Netherlands (100%) | March 26 to May 26 | 13 |  | 0.93 |
 

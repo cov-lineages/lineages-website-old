@@ -15,7 +15,7 @@ title: Lineage B.23
 <img src="../assets/images/B.23.svg" alt="B.23 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.23.html' | absolute_url }}">B.23</a> | UK (95%), Iceland (2%), Portugal (1%) | February 28 to June 16 | 256 | UK to Iceland (1), Austria to Iceland (1) | 0.96 |
 

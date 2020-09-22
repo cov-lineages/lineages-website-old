@@ -15,7 +15,7 @@ title: Lineage B.1.81
 <img src="../assets/images/B.1.81.svg" alt="B.1.81 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.81.html' | absolute_url }}">B.1.81</a> | UK (97%), Iceland (3%) | March 16 to May 07 | 34 | Austria to Iceland (1) | 0.94 |
 

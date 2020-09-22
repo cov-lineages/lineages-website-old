@@ -15,7 +15,7 @@ title: Lineage B.1.150
 <img src="../assets/images/B.1.150.svg" alt="B.1.150 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.150.html' | absolute_url }}">B.1.150</a> | India (80%), Iran (10%), UK (10%) | March 18 to June 05 | 10 |  | 0.7 |
 

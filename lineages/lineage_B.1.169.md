@@ -15,7 +15,7 @@ title: Lineage B.1.169
 <img src="../assets/images/B.1.169.svg" alt="B.1.169 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.169.html' | absolute_url }}">B.1.169</a> | USA (100%) | March 27 to July 02 | 17 |  | 0.95 |
 

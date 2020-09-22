@@ -15,7 +15,7 @@ title: Lineage B.6.1
 <img src="../assets/images/B.6.1.svg" alt="B.6.1 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.6.1.html' | absolute_url }}">B.6.1</a> | Malaysia (94%), Brunei (6%) | March 21 to May 04 | 16 |  | 0.62 |
 

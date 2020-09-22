@@ -15,7 +15,7 @@ title: Lineage B.1.79
 <img src="../assets/images/B.1.79.svg" alt="B.1.79 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.79.html' | absolute_url }}">B.1.79</a> | UK (97%), India (1%), Cyprus (1%) | March 28 to July 25 | 97 |  | 0.98 |
 

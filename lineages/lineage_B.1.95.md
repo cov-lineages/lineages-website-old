@@ -15,7 +15,7 @@ title: Lineage B.1.95
 <img src="../assets/images/B.1.95.svg" alt="B.1.95 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.95.html' | absolute_url }}">B.1.95</a> | India (100%) | April 14 to May 24 | 12 |  | 0.9 |
 

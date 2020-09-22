@@ -15,7 +15,7 @@ title: Lineage A.3
 <img src="../assets/images/A.3.svg" alt="A.3 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA (79%), UK (8%), Australia (6%) | January 28 to June 10 | 232 | USA to Taiwan (1), United_States to USA (1) | 0.99 |
 

@@ -15,7 +15,7 @@ title: Lineage B.1.160
 <img src="../assets/images/B.1.160.svg" alt="B.1.160 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.160.html' | absolute_url }}">B.1.160</a> | Saudi_Arabia (42%), India (30%), UK (13%) | February 04 to August 05 | 263 | Saudia_Arabia to Turkey (1) | 0.95 |
 | <a href="{{ 'lineages/lineage_B.1.160.1.html' | absolute_url }}">B.1.160.1</a> | UK (90%), Austria (4%), India (1%) | March 14 to July 15 | 138 |  | 0.99 |

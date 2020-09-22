@@ -15,7 +15,7 @@ title: Lineage B.9
 <img src="../assets/images/B.9.svg" alt="B.9 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.9.html' | absolute_url }}">B.9</a> | UK (88%), Australia (7%), New_Zealand (3%) | March 12 to May 09 | 59 |  | 0.97 |
 

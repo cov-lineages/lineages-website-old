@@ -15,7 +15,7 @@ title: Lineage B.1.1.6
 <img src="../assets/images/B.1.1.6.svg" alt="B.1.1.6 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.1.6.html' | absolute_url }}">B.1.1.6</a> | Austria (100%) | February 26 to April 06 | 8 |  | 1.0 |
 

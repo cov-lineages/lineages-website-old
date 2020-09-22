@@ -15,7 +15,7 @@ title: Lineage A.8
 <img src="../assets/images/A.8.svg" alt="A.8 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 
 <h3>Lineage descriptions</h3>

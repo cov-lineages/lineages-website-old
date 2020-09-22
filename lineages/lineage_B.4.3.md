@@ -15,7 +15,7 @@ title: Lineage B.4.3
 <img src="../assets/images/B.4.3.svg" alt="B.4.3 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.4.3.html' | absolute_url }}">B.4.3</a> | Australia (100%) | March 10 to May 10 | 22 |  | 1.0 |
 

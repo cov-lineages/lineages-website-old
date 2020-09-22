@@ -15,7 +15,7 @@ title: Lineage D.1
 <img src="../assets/images/D.1.svg" alt="D.1 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_D.1.html' | absolute_url }}">D.1</a> | UK (100%) | July 28 to August 20 | 117 |  | 1.0 |
 

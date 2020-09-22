@@ -15,7 +15,7 @@ title: Lineage B.1.74
 <img src="../assets/images/B.1.74.svg" alt="B.1.74 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.74.html' | absolute_url }}">B.1.74</a> | Spain (78%), Portugal (11%), Chile (6%) | March 01 to April 22 | 18 |  | 1.0 |
 

@@ -15,7 +15,7 @@ title: Lineage D.2
 <img src="../assets/images/D.2.svg" alt="D.2 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_D.2.html' | absolute_url }}">D.2</a> | Australia (100%) | March 19 to August 05 | 49 |  | 0.98 |
 

@@ -15,7 +15,7 @@ title: Lineage B.17
 <img src="../assets/images/B.17.svg" alt="B.17 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.17.html' | absolute_url }}">B.17</a> | USA (100%) | March 23 to April 13 | 9 |  | 1.0 |
 

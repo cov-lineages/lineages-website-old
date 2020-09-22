@@ -15,7 +15,7 @@ title: Lineage B.1.110
 <img src="../assets/images/B.1.110.svg" alt="B.1.110 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.110.html' | absolute_url }}">B.1.110</a> | USA (73%), Chile (20%), Australia (7%) | March 02 to June 30 | 55 |  | 0.98 |
 

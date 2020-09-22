@@ -15,7 +15,7 @@ title: Lineage B.1.39
 <img src="../assets/images/B.1.39.svg" alt="B.1.39 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.39.html' | absolute_url }}">B.1.39</a> | Denmark (85%), UK (10%), New_Zealand (2%) | March 13 to April 28 | 40 |  | 0.97 |
 

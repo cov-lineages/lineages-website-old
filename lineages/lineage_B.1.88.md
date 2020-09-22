@@ -15,7 +15,7 @@ title: Lineage B.1.88
 <img src="../assets/images/B.1.88.svg" alt="B.1.88 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.88.html' | absolute_url }}">B.1.88</a> | UK (98%), Australia (1%), Romania (1%) | March 12 to June 04 | 80 |  | 0.95 |
 

@@ -15,7 +15,7 @@ title: Lineage B.3
 <img src="../assets/images/B.3.svg" alt="B.3 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.3.html' | absolute_url }}">B.3</a> | UK (89%), Belgium (2%), Australia (1%) | February 23 to August 03 | 1123 | Austria to Iceland (1) | 0.99 |
 

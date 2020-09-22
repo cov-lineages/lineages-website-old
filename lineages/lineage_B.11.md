@@ -15,7 +15,7 @@ title: Lineage B.11
 <img src="../assets/images/B.11.svg" alt="B.11 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.11.html' | absolute_url }}">B.11</a> | UK (44%), Netherlands (39%), Belgium (3%) | January 29 to June 07 | 207 | UK to Iceland (1), Netherlands to Ecuador (1) | 0.95 |
 

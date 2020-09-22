@@ -15,7 +15,7 @@ title: Lineage B.1.1.7
 <img src="../assets/images/B.1.1.7.svg" alt="B.1.1.7 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.1.7.html' | absolute_url }}">B.1.1.7</a> | UK (91%), Japan (4%), Australia (2%) | March 07 to August 06 | 182 | USA to Iceland (1) | 0.96 |
 

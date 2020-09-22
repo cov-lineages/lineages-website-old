@@ -15,7 +15,7 @@ title: Lineage B.1.131
 <img src="../assets/images/B.1.131.svg" alt="B.1.131 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.131.html' | absolute_url }}">B.1.131</a> | Ukraine (90%), Latvia (10%) | March 23 to July 11 | 10 |  | 1.0 |
 

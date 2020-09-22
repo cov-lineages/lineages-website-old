@@ -15,7 +15,7 @@ title: Lineage B.1.1.71
 <img src="../assets/images/B.1.1.71.svg" alt="B.1.1.71 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.1.71.html' | absolute_url }}">B.1.1.71</a> | Netherlands (47%), UK (29%), Belgium (8%) | March 10 to May 20 | 49 |  | 0.96 |
 

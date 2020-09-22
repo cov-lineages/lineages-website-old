@@ -15,7 +15,7 @@ title: Lineage B.1.1.57
 <img src="../assets/images/B.1.1.57.svg" alt="B.1.1.57 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.1.57.html' | absolute_url }}">B.1.1.57</a> | South_Africa (100%) | March 31 to July 30 | 17 |  | 1.0 |
 

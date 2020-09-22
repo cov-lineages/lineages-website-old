@@ -15,7 +15,7 @@ title: Lineage B.1.153
 <img src="../assets/images/B.1.153.svg" alt="B.1.153 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.153.html' | absolute_url }}">B.1.153</a> | UK (89%), Belgium (2%), France (2%) | March 12 to May 05 | 54 |  | 0.93 |
 

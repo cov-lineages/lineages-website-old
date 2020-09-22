@@ -10,9 +10,9 @@ title: Lineage A
 <img src="../assets/images/A.svg" alt="A lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.html' | absolute_url }}">A</a> | China (31%), India (10%), Japan (8%) | January 05 to August 04 | 409 | China to Vietnam, India, Australia (4), Saudia_Arabia to Turkey (2), USA to New_Zealand (1) | 0.96 |
+| <a href="{{ 'lineages/lineage_A.html' | absolute_url }}">A</a> | China (31%), India (10%), Japan (8%) | January 05 to August 04 | 409 | China to India, Australia, Vietnam (4), Saudia_Arabia to Turkey (2), USA to New_Zealand (1) | 0.96 |
 | <a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">A.1</a> | USA (86%), Australia (7%), Canada (2%) | February 25 to July 14 | 987 |  | 0.99 |
 | <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (88%), USA (12%) | March 11 to March 20 | 8 | USA to Iceland (3) | 1.0 |
 | <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spain (66%), UK (15%), Panama (5%) | February 26 to June 20 | 412 | Italy to Spain (1), Spain to Brazil, China (2) | 0.98 |

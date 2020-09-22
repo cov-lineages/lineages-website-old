@@ -15,7 +15,7 @@ title: Lineage B.1.1.72
 <img src="../assets/images/B.1.1.72.svg" alt="B.1.1.72 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.1.72.html' | absolute_url }}">B.1.1.72</a> | India (59%), UK (33%), Singapore (4%) | March 28 to August 04 | 54 |  | 0.8 |
 

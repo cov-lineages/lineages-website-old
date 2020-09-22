@@ -15,7 +15,7 @@ title: Lineage B.1.158
 <img src="../assets/images/B.1.158.svg" alt="B.1.158 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.158.html' | absolute_url }}">B.1.158</a> | Finland (50%), Egypt (50%) | March 13 to June 02 | 12 |  | 0.73 |
 

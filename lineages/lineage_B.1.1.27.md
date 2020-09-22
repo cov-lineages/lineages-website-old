@@ -15,7 +15,7 @@ title: Lineage B.1.1.27
 <img src="../assets/images/B.1.1.27.svg" alt="B.1.1.27 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.1.27.html' | absolute_url }}">B.1.1.27</a> | Oman (100%) | March 21 to June 10 | 55 |  | 1.0 |
 

@@ -15,7 +15,7 @@ title: Lineage B.1.22
 <img src="../assets/images/B.1.22.svg" alt="B.1.22 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_B.1.22.html' | absolute_url }}">B.1.22</a> | Netherlands (83%), Australia (5%), Austria (2%) | March 09 to May 29 | 120 |  | 1.0 |
 

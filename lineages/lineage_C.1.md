@@ -15,7 +15,7 @@ title: Lineage C.1
 <img src="../assets/images/C.1.svg" alt="C.1 lineage summary figure" width="90%" height="700px" />
 
 
-| Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
+| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
 | <a href="{{ 'lineages/lineage_C.1.html' | absolute_url }}">C.1</a> | South_Africa (99%), UK (1%) | June 03 to July 30 | 102 |  | 0.99 |
 
