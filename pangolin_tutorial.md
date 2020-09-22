@@ -64,6 +64,7 @@ Occasionally sequences will "fail" to be analysed for QC reasons. Select the exc
 
 <p>A great instructional video showcasing microreact can be found <a href="https://microreact.org/showcase">here</a>. </p>
 
+
 <p>Click on the Globe icon next to one of the sequences that have been assigned lineage B. You should see the variety of panels in the microreact web app, including a map showing the global spread of lineage B (upper left), where lineage B lies on the global tree (upper right) and sequence counts over time (lower panel). All panels are interactive and displays can be customised by clicking the upper right logo on each panel.</p>
 
 <img src="assets/images/microreact_lineageB.png" alt="" style="max-width:700px"/>
@@ -73,8 +74,31 @@ Occasionally sequences will "fail" to be analysed for QC reasons. Select the exc
 
 <img src="assets/images/microreact_lineageB1165.png" alt="" style="max-width:700px"/>
 
+## Navigating microreact 
 
-### Take homes
+The following text is from the pangolin web app virological post found <a href="https://virological.org/t/pangolin-web-application-release/482">here</a>.
+
+### Map Panel
+Selecting a single point on the map highlights samples in other panels from just that location. Additionally, by clicking the map menu (top right of map view) the lasso tool allows a user to click and draw a bounding area around locations of interest which will filter the tree, timeline and chart panels to only show data from the region selected.
+
+Further options are available from the map menu including options for marker style and choice of background tiles - web mapping servers can be linked to to display different tile layers.
+
+### Tree Panel
+The phylogenetic tree can be zoomed in and out to enable subsets of data to be viewed in detail. Selecting a leaf on the tree will highlight the geographic and temporal location of that genome and selecting an internal node on the tree filters the map, timeline and chart panels to only show data related to the branch selected. Clicking outside of the tree will deselect the filter. Right clicking an internal node displays options for viewing a subtree / rerooting or rotating the branch. Further options are available from the tree menu located at the top right of the tree panel including tree shape and options for nodes and labels.
+
+### Chart Panel
+The default view shows the distribution of lineages within the dataset and clicking a particular lineage will highlight on the map and timeline all those locations and dates corresponding to the selected lineage. The chart menu, located at the top right of the chart view, indicates the parameters charted allowing a user to change the graph type and axis attributes and explore data further.
+
+### Timeline Panel
+The timeline shows the temporal position of all data ranging from the first to last dates as points on the timeline.A summary overview is shown below the detailed timeline. Selecting a single point highlights the location of the selected sample within the map and tree panels. The timeline menu, located at the top right of the timeline enables control over the point view and also a set of controls enabling an animated view of data to be ‘played’ with control over the animation speed and time window. Furthermore, the bottom summary view can be used to position the first and last time point displayed in order to filter the samples displayed in other panels.
+
+### Data table Panel
+The data table can be accessed by clicking the table icon at the top left of the timeline panel. Any column can be filtered by entering text criteria from the filter icon within each column heading, allowing, for example, filtering lineage by a lineage ID. Filtering updates all other data panels.
+
+### Saving ‘views’
+At any point within exploration of data, the ‘state’ - ie the zoom level of map/tree/timeline along with any filtering of data (via visual or textual filtering) can be saved using the ‘link’ button at the top right of the microreact window, creating a permanent URL which can be shared to allow revisiting of the view without needing to reapply filtering.
+
+## Take homes
 - It's very simple to use the web app to assign lineages with pangolin
 - Some lineages are very large and geographically widespread
 - Some lineages may only have a handful of sequences and be limited to a single location
