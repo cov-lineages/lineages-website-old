@@ -7,7 +7,7 @@ title: Lineage B.1.68.1
 
 <p>
 <ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.68</a>
+	 <a href="{{ 'lineages/lineage_B.1.68.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.68</a>
 </ul>
 </p>
 <h3> Lineage summaries</h3>
