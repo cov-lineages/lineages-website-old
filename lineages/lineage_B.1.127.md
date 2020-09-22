@@ -17,7 +17,7 @@ title: Lineage B.1.127
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.127.html' | absolute_url }}">B.1.127</a> | Ukraine (100%) | May 15 to June 23 | 8 | 60 |  | 0.5 |
+| <a href="{{ 'lineages/lineage_B.1.127.html' | absolute_url }}">B.1.127</a> | Ukraine (100%) | May 15 to June 23 | 8 |  | 0.5 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.1.44
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.44.html' | absolute_url }}">B.1.1.44</a> | UK (100%) | March 23 to July 27 | 195 | 26 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.1.44.html' | absolute_url }}">B.1.1.44</a> | UK (100%) | March 23 to July 27 | 195 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

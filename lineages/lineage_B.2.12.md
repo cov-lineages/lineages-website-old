@@ -17,7 +17,7 @@ title: Lineage B.2.12
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.12.html' | absolute_url }}">B.2.12</a> | USA (100%) | March 15 to May 13 | 26 | 101 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.2.12.html' | absolute_url }}">B.2.12</a> | USA (100%) | March 15 to May 13 | 26 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

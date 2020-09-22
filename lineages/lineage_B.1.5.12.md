@@ -17,7 +17,7 @@ title: Lineage B.1.5.12
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.12.html' | absolute_url }}">B.1.5.12</a> | Senegal (100%) | April 17 to June 20 | 42 | 63 |  | 0.91 |
+| <a href="{{ 'lineages/lineage_B.1.5.12.html' | absolute_url }}">B.1.5.12</a> | Senegal (100%) | April 17 to June 20 | 42 |  | 0.91 |
 
 <h3>Lineage descriptions</h3>
 

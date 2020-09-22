@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lineage B.1.152
+title: Lineage B.1.21
 ---
 
 
@@ -12,16 +12,16 @@ title: Lineage B.1.152
 </p>
 <h3> Lineage summaries</h3>
 
-<img src="../assets/images/B.1.152.svg" alt="B.1.152 lineage summary figure" width="90%" height="700px" />
+<img src="../assets/images/B.1.21.svg" alt="B.1.21 lineage summary figure" width="90%" height="700px" />
 
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.152.html' | absolute_url }}">B.1.152</a> | UK (100%) | March 29 to July 02 | 18 |  | 0.95 |
+| <a href="{{ 'lineages/lineage_B.1.21.html' | absolute_url }}">B.1.21</a> | USA (100%), Panama (0%) | March 10 to July 11 | 214 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.152.html' | absolute_url }}">B.1.152</a> | English lineage |
+| <a href="{{ 'lineages/lineage_B.1.21.html' | absolute_url }}">B.1.21</a> | Washington (USA)  |
 

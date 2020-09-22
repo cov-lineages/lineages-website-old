@@ -17,7 +17,7 @@ title: Lineage B.1.94
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.94.html' | absolute_url }}">B.1.94</a> | Luxembourg (92%), Switzerland (8%) | March 15 to April 24 | 12 | 120 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.94.html' | absolute_url }}">B.1.94</a> | Luxembourg (92%), Switzerland (8%) | March 15 to April 24 | 12 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

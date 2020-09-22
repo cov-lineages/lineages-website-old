@@ -17,7 +17,7 @@ title: Lineage A.7
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.7.html' | absolute_url }}">A.7</a> | India (100%) | May 06 to May 10 | 15 | 104 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_A.7.html' | absolute_url }}">A.7</a> | India (100%) | May 06 to May 10 | 15 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

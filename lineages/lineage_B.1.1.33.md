@@ -17,7 +17,7 @@ title: Lineage B.1.1.33
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.33.html' | absolute_url }}">B.1.1.33</a> | Brazil (83%), USA (8%), Argentina (3%) | March 07 to July 06 | 203 | 47 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.1.33.html' | absolute_url }}">B.1.1.33</a> | Brazil (83%), USA (8%), Argentina (3%) | March 07 to July 06 | 203 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

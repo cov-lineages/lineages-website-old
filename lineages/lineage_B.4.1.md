@@ -17,7 +17,7 @@ title: Lineage B.4.1
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.4.1.html' | absolute_url }}">B.4.1</a> | Kazakhstan (100%) | April 19 to April 26 | 10 | 118 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.4.1.html' | absolute_url }}">B.4.1</a> | Kazakhstan (100%) | April 19 to April 26 | 10 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

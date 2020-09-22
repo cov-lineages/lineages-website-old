@@ -17,7 +17,7 @@ title: Lineage B.1.67
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.67.html' | absolute_url }}">B.1.67</a> | UK (96%), Ecuador (4%) | March 25 to April 17 | 23 | 127 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.67.html' | absolute_url }}">B.1.67</a> | UK (96%), Ecuador (4%) | March 25 to April 17 | 23 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

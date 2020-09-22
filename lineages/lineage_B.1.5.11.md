@@ -17,7 +17,7 @@ title: Lineage B.1.5.11
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.11.html' | absolute_url }}">B.1.5.11</a> | USA (86%), Mexico (7%), Romania (3%) | March 19 to June 22 | 29 | 61 |  | 0.93 |
+| <a href="{{ 'lineages/lineage_B.1.5.11.html' | absolute_url }}">B.1.5.11</a> | USA (86%), Mexico (7%), Romania (3%) | March 19 to June 22 | 29 |  | 0.93 |
 
 <h3>Lineage descriptions</h3>
 

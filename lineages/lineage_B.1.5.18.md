@@ -17,7 +17,7 @@ title: Lineage B.1.5.18
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.18.html' | absolute_url }}">B.1.5.18</a> | UK (100%) | March 22 to June 01 | 58 | 82 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.1.5.18.html' | absolute_url }}">B.1.5.18</a> | UK (100%) | March 22 to June 01 | 58 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 

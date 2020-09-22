@@ -17,7 +17,7 @@ title: Lineage B.1.83
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.83.html' | absolute_url }}">B.1.83</a> | Belgium (95%), USA (5%) | March 23 to April 29 | 21 | 115 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.83.html' | absolute_url }}">B.1.83</a> | Belgium (95%), USA (5%) | March 23 to April 29 | 21 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

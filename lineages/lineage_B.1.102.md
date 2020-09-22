@@ -17,7 +17,7 @@ title: Lineage B.1.102
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.102.html' | absolute_url }}">B.1.102</a> | Iceland (67%), UK (29%), Spain (4%) | February 24 to June 14 | 24 | 69 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.102.html' | absolute_url }}">B.1.102</a> | Iceland (67%), UK (29%), Spain (4%) | February 24 to June 14 | 24 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

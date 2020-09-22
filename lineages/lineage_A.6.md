@@ -17,7 +17,7 @@ title: Lineage A.6
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Thailand (94%), Singapore (3%), Japan (3%) | January 25 to April 07 | 36 | 137 |  | 0.91 |
+| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Thailand (94%), Singapore (3%), Japan (3%) | January 25 to April 07 | 36 |  | 0.91 |
 
 <h3>Lineage descriptions</h3>
 

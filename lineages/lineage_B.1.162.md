@@ -17,7 +17,7 @@ title: Lineage B.1.162
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.162.html' | absolute_url }}">B.1.162</a> | USA (98%), Canada (2%) | March 25 to July 16 | 49 | 37 |  | 0.96 |
+| <a href="{{ 'lineages/lineage_B.1.162.html' | absolute_url }}">B.1.162</a> | USA (98%), Canada (2%) | March 25 to July 16 | 49 |  | 0.96 |
 
 <h3>Lineage descriptions</h3>
 

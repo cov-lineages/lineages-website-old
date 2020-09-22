@@ -17,7 +17,7 @@ title: Lineage B.27
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.27.html' | absolute_url }}">B.27</a> | UK (100%) | March 03 to May 26 | 51 | 88 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.27.html' | absolute_url }}">B.27</a> | UK (100%) | March 03 to May 26 | 51 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

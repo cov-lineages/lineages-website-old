@@ -17,7 +17,7 @@ title: Lineage B.1.26
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.26.html' | absolute_url }}">B.1.26</a> | USA (81%), New_Zealand (12%), India (2%) | March 17 to July 26 | 106 | 27 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.1.26.html' | absolute_url }}">B.1.26</a> | USA (81%), New_Zealand (12%), India (2%) | March 17 to July 26 | 106 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 

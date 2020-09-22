@@ -17,7 +17,7 @@ title: Lineage B.1.107
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.107.html' | absolute_url }}">B.1.107</a> | Denmark (43%), UK (34%), USA (19%) | March 18 to June 29 | 53 | 54 |  | 0.84 |
+| <a href="{{ 'lineages/lineage_B.1.107.html' | absolute_url }}">B.1.107</a> | Denmark (43%), UK (34%), USA (19%) | March 18 to June 29 | 53 |  | 0.84 |
 
 <h3>Lineage descriptions</h3>
 

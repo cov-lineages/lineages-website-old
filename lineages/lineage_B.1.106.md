@@ -17,7 +17,7 @@ title: Lineage B.1.106
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.106.html' | absolute_url }}">B.1.106</a> | South_Africa (56%), USA (39%), Spain (3%) | March 16 to July 17 | 36 | 36 |  | 0.84 |
+| <a href="{{ 'lineages/lineage_B.1.106.html' | absolute_url }}">B.1.106</a> | South_Africa (56%), USA (39%), Spain (3%) | March 16 to July 17 | 36 |  | 0.84 |
 
 <h3>Lineage descriptions</h3>
 

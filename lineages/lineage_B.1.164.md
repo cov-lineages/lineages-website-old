@@ -17,7 +17,7 @@ title: Lineage B.1.164
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.164.html' | absolute_url }}">B.1.164</a> | Latvia (100%) | July 06 to August 05 | 12 | 17 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_B.1.164.html' | absolute_url }}">B.1.164</a> | Latvia (100%) | July 06 to August 05 | 12 |  | 0.9 |
 
 <h3>Lineage descriptions</h3>
 

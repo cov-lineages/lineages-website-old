@@ -17,7 +17,7 @@ title: Lineage B.1.1.68
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.68.html' | absolute_url }}">B.1.1.68</a> | Russia (100%) | April 03 to April 30 | 17 | 114 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.68.html' | absolute_url }}">B.1.1.68</a> | Russia (100%) | April 03 to April 30 | 17 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage A.2.3
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.2.3.html' | absolute_url }}">A.2.3</a> | UK (100%) | March 12 to May 29 | 190 | 85 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_A.2.3.html' | absolute_url }}">A.2.3</a> | UK (100%) | March 12 to May 29 | 190 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.1.59
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.59.html' | absolute_url }}">B.1.1.59</a> | UK (99%), Bangladesh (1%) | March 08 to July 24 | 131 | 29 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.1.59.html' | absolute_url }}">B.1.1.59</a> | UK (99%), Bangladesh (1%) | March 08 to July 24 | 131 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 

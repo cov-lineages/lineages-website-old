@@ -12,19 +12,19 @@ title: Lineage A
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.html' | absolute_url }}">A</a> | China (31%), India (10%), Japan (8%) | January 05 to August 04 | 409 | 18 | China to Vietnam, Australia, India (4), Saudia_Arabia to Turkey (2), USA to New_Zealand (1) | 0.96 |
-| <a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">A.1</a> | USA (86%), Australia (7%), Canada (2%) | February 25 to July 14 | 987 | 39 |  | 0.99 |
-| <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (88%), USA (12%) | March 11 to March 20 | 8 | 155 | USA to Iceland (3) | 1.0 |
-| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spain (66%), UK (15%), Panama (5%) | February 26 to June 20 | 412 | 63 | Italy to Spain (1), Spain to China, Brazil (2) | 0.98 |
-| <a href="{{ 'lineages/lineage_A.2.1.html' | absolute_url }}">A.2.1</a> | Panama (97%), Spain (3%) | February 20 to July 04 | 78 | 49 |  | 0.92 |
-| <a href="{{ 'lineages/lineage_A.2.2.html' | absolute_url }}">A.2.2</a> | Australia (92%), UK (6%), USA (1%) | March 17 to April 16 | 71 | 128 |  | 1.0 |
-| <a href="{{ 'lineages/lineage_A.2.3.html' | absolute_url }}">A.2.3</a> | UK (100%) | March 12 to May 29 | 190 | 85 |  | 0.98 |
-| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA (79%), UK (8%), Australia (6%) | January 28 to June 10 | 232 | 73 | USA to Taiwan (1), United_States to USA (1) | 0.99 |
-| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA (100%) | March 13 to April 07 | 17 | 137 |  | 1.0 |
-| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | Spain (50%), UK (32%), Uruguay (3%) | March 01 to June 04 | 202 | 79 |  | 0.98 |
-| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Thailand (94%), Singapore (3%), Japan (3%) | January 25 to April 07 | 36 | 137 |  | 0.91 |
-| <a href="{{ 'lineages/lineage_A.7.html' | absolute_url }}">A.7</a> | India (100%) | May 06 to May 10 | 15 | 104 |  | 1.0 |
-| <a href="{{ 'lineages/lineage_A.9.html' | absolute_url }}">A.9</a> | India (100%) | April 03 to May 12 | 13 | 102 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_A.html' | absolute_url }}">A</a> | China (31%), India (10%), Japan (8%) | January 05 to August 04 | 409 | China to Vietnam, India, Australia (4), Saudia_Arabia to Turkey (2), USA to New_Zealand (1) | 0.96 |
+| <a href="{{ 'lineages/lineage_A.1.html' | absolute_url }}">A.1</a> | USA (86%), Australia (7%), Canada (2%) | February 25 to July 14 | 987 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (88%), USA (12%) | March 11 to March 20 | 8 | USA to Iceland (3) | 1.0 |
+| <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}">A.2</a> | Spain (66%), UK (15%), Panama (5%) | February 26 to June 20 | 412 | Italy to Spain (1), Spain to Brazil, China (2) | 0.98 |
+| <a href="{{ 'lineages/lineage_A.2.1.html' | absolute_url }}">A.2.1</a> | Panama (97%), Spain (3%) | February 20 to July 04 | 78 |  | 0.92 |
+| <a href="{{ 'lineages/lineage_A.2.2.html' | absolute_url }}">A.2.2</a> | Australia (92%), UK (6%), USA (1%) | March 17 to April 16 | 71 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_A.2.3.html' | absolute_url }}">A.2.3</a> | UK (100%) | March 12 to May 29 | 190 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_A.3.html' | absolute_url }}">A.3</a> | USA (79%), UK (8%), Australia (6%) | January 28 to June 10 | 232 | USA to Taiwan (1), United_States to USA (1) | 0.99 |
+| <a href="{{ 'lineages/lineage_A.4.html' | absolute_url }}">A.4</a> | USA (100%) | March 13 to April 07 | 17 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | Spain (50%), UK (32%), Uruguay (3%) | March 01 to June 04 | 202 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_A.6.html' | absolute_url }}">A.6</a> | Thailand (94%), Singapore (3%), Japan (3%) | January 25 to April 07 | 36 |  | 0.91 |
+| <a href="{{ 'lineages/lineage_A.7.html' | absolute_url }}">A.7</a> | India (100%) | May 06 to May 10 | 15 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_A.9.html' | absolute_url }}">A.9</a> | India (100%) | April 03 to May 12 | 13 |  | 0.9 |
 
 <h3>Lineage descriptions</h3>
 

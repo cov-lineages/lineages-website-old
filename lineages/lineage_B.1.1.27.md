@@ -17,7 +17,7 @@ title: Lineage B.1.1.27
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.27.html' | absolute_url }}">B.1.1.27</a> | Oman (100%) | March 21 to June 10 | 55 | 73 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.27.html' | absolute_url }}">B.1.1.27</a> | Oman (100%) | March 21 to June 10 | 55 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

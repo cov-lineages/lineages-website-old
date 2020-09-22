@@ -17,7 +17,7 @@ title: Lineage A.5
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | Spain (50%), UK (32%), Uruguay (3%) | March 01 to June 04 | 202 | 79 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_A.5.html' | absolute_url }}">A.5</a> | Spain (50%), UK (32%), Uruguay (3%) | March 01 to June 04 | 202 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 

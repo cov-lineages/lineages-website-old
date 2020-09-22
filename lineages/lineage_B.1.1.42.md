@@ -17,7 +17,7 @@ title: Lineage B.1.1.42
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.42.html' | absolute_url }}">B.1.1.42</a> | Turkey (90%), India (5%), UK (5%) | April 13 to July 07 | 20 | 46 |  | 0.95 |
+| <a href="{{ 'lineages/lineage_B.1.1.42.html' | absolute_url }}">B.1.1.42</a> | Turkey (90%), India (5%), UK (5%) | April 13 to July 07 | 20 |  | 0.95 |
 
 <h3>Lineage descriptions</h3>
 

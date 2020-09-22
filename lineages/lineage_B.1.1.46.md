@@ -17,7 +17,7 @@ title: Lineage B.1.1.46
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.46.html' | absolute_url }}">B.1.1.46</a> | India (100%) | April 20 to June 21 | 34 | 62 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.46.html' | absolute_url }}">B.1.1.46</a> | India (100%) | April 20 to June 21 | 34 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

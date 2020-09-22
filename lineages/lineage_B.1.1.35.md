@@ -17,7 +17,7 @@ title: Lineage B.1.1.35
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.35.html' | absolute_url }}">B.1.1.35</a> | UK (100%), Switzerland (0%), Uganda (0%) | March 02 to August 18 | 2649 | 4 | UK to Iceland (1) | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.1.35.html' | absolute_url }}">B.1.1.35</a> | UK (100%), Switzerland (0%), Uganda (0%) | March 02 to August 18 | 2649 | UK to Iceland (1) | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

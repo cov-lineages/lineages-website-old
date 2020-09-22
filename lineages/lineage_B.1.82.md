@@ -17,7 +17,7 @@ title: Lineage B.1.82
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.82.html' | absolute_url }}">B.1.82</a> | UK (100%) | May 19 to July 03 | 41 | 50 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.82.html' | absolute_url }}">B.1.82</a> | UK (100%) | May 19 to July 03 | 41 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

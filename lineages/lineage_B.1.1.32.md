@@ -17,7 +17,7 @@ title: Lineage B.1.1.32
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.32.html' | absolute_url }}">B.1.1.32</a> | India (97%), UK (2%), Spain (0%) | March 24 to July 26 | 261 | 27 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.1.1.32.html' | absolute_url }}">B.1.1.32</a> | India (97%), UK (2%), Spain (0%) | March 24 to July 26 | 261 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 

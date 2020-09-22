@@ -17,7 +17,7 @@ title: Lineage B.5
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.5.html' | absolute_url }}">B.5</a> | Japan (89%), USA (11%) | February 15 to February 21 | 9 | 183 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.5.html' | absolute_url }}">B.5</a> | Japan (89%), USA (11%) | February 15 to February 21 | 9 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

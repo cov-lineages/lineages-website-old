@@ -17,7 +17,7 @@ title: Lineage B.1.161
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.161.html' | absolute_url }}">B.1.161</a> | USA (100%) | March 27 to May 16 | 26 | 98 |  | 0.69 |
+| <a href="{{ 'lineages/lineage_B.1.161.html' | absolute_url }}">B.1.161</a> | USA (100%) | March 27 to May 16 | 26 |  | 0.69 |
 
 <h3>Lineage descriptions</h3>
 

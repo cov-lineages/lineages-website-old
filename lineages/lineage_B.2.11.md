@@ -17,7 +17,7 @@ title: Lineage B.2.11
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.11.html' | absolute_url }}">B.2.11</a> | Israel (88%), Taiwan (12%) | March 17 to April 11 | 8 | 133 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.2.11.html' | absolute_url }}">B.2.11</a> | Israel (88%), Taiwan (12%) | March 17 to April 11 | 8 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

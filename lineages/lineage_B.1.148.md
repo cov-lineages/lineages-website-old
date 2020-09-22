@@ -17,7 +17,7 @@ title: Lineage B.1.148
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.148.html' | absolute_url }}">B.1.148</a> | UK (100%) | March 24 to June 02 | 21 | 81 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.148.html' | absolute_url }}">B.1.148</a> | UK (100%) | March 24 to June 02 | 21 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

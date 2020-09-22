@@ -17,8 +17,8 @@ title: Lineage B.1.3
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.3.html' | absolute_url }}">B.1.3</a> | USA (73%), UK (12%), Israel (10%) | March 05 to July 29 | 451 | 24 |  | 0.99 |
-| <a href="{{ 'lineages/lineage_B.1.3.1.html' | absolute_url }}">B.1.3.1</a> | South_Korea (100%) | May 05 to July 11 | 130 | 42 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.3.html' | absolute_url }}">B.1.3</a> | USA (73%), UK (12%), Israel (10%) | March 05 to July 29 | 451 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.3.1.html' | absolute_url }}">B.1.3.1</a> | South_Korea (100%) | May 05 to July 11 | 130 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

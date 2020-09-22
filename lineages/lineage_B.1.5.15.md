@@ -17,7 +17,7 @@ title: Lineage B.1.5.15
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.15.html' | absolute_url }}">B.1.5.15</a> | USA (100%) | April 24 to May 27 | 19 | 87 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.5.15.html' | absolute_url }}">B.1.5.15</a> | USA (100%) | April 24 to May 27 | 19 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

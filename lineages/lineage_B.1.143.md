@@ -17,7 +17,7 @@ title: Lineage B.1.143
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.143.html' | absolute_url }}">B.1.143</a> | India (91%), Luxembourg (3%), Brazil (3%) | March 15 to June 15 | 32 | 68 |  | 0.91 |
+| <a href="{{ 'lineages/lineage_B.1.143.html' | absolute_url }}">B.1.143</a> | India (91%), Luxembourg (3%), Brazil (3%) | March 15 to June 15 | 32 |  | 0.91 |
 
 <h3>Lineage descriptions</h3>
 

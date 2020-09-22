@@ -17,7 +17,7 @@ title: Lineage B.1.113
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.113.html' | absolute_url }}">B.1.113</a> | India (100%) | June 03 to June 20 | 43 | 63 |  | 0.86 |
+| <a href="{{ 'lineages/lineage_B.1.113.html' | absolute_url }}">B.1.113</a> | India (100%) | June 03 to June 20 | 43 |  | 0.86 |
 
 <h3>Lineage descriptions</h3>
 

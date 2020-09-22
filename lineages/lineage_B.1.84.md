@@ -17,7 +17,7 @@ title: Lineage B.1.84
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.84.html' | absolute_url }}">B.1.84</a> | DRC (100%) | April 10 to May 23 | 17 | 91 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_B.1.84.html' | absolute_url }}">B.1.84</a> | DRC (100%) | April 10 to May 23 | 17 |  | 0.9 |
 
 <h3>Lineage descriptions</h3>
 

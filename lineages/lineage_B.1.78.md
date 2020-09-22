@@ -17,7 +17,7 @@ title: Lineage B.1.78
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.78.html' | absolute_url }}">B.1.78</a> | Netherlands (85%), UK (12%), DRC (3%) | March 16 to August 10 | 33 | 12 |  | 0.84 |
+| <a href="{{ 'lineages/lineage_B.1.78.html' | absolute_url }}">B.1.78</a> | Netherlands (85%), UK (12%), DRC (3%) | March 16 to August 10 | 33 |  | 0.84 |
 
 <h3>Lineage descriptions</h3>
 

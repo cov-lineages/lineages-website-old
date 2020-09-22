@@ -17,7 +17,7 @@ title: Lineage B.1.1.76
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.76.html' | absolute_url }}">B.1.1.76</a> | USA (100%) | May 04 to June 18 | 32 | 65 |  | 0.82 |
+| <a href="{{ 'lineages/lineage_B.1.1.76.html' | absolute_url }}">B.1.1.76</a> | USA (100%) | May 04 to June 18 | 32 |  | 0.82 |
 
 <h3>Lineage descriptions</h3>
 

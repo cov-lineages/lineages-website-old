@@ -17,7 +17,7 @@ title: Lineage B.12
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.12.html' | absolute_url }}">B.12</a> | Japan (97%), Malaysia (3%) | January 20 to April 15 | 34 | 129 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.12.html' | absolute_url }}">B.12</a> | Japan (97%), Malaysia (3%) | January 20 to April 15 | 34 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

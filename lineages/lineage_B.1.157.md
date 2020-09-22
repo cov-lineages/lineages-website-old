@@ -17,7 +17,7 @@ title: Lineage B.1.157
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.157.html' | absolute_url }}">B.1.157</a> | UK (82%), Spain (15%), Belgium (1%) | March 08 to June 24 | 131 | 59 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.157.html' | absolute_url }}">B.1.157</a> | UK (82%), Spain (15%), Belgium (1%) | March 08 to June 24 | 131 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

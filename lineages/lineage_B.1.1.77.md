@@ -17,7 +17,7 @@ title: Lineage B.1.1.77
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.77.html' | absolute_url }}">B.1.1.77</a> | USA (100%) | April 27 to July 07 | 327 | 46 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.1.77.html' | absolute_url }}">B.1.1.77</a> | USA (100%) | April 27 to July 07 | 327 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 

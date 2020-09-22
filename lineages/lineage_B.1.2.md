@@ -17,7 +17,7 @@ title: Lineage B.1.2
 
 | Lineage name | Most common countries | Date range | Number of taxa |  Days since last sampling | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.2.html' | absolute_url }}">B.1.2</a> | USA (95%), UK (3%), Australia (1%) | March 09 to July 21 | 919 | 32 |  | 0.96 |
+| <a href="{{ 'lineages/lineage_B.1.2.html' | absolute_url }}">B.1.2</a> | USA (95%), UK (3%), Australia (1%) | March 09 to July 21 | 919 |  | 0.96 |
 
 <h3>Lineage descriptions</h3>
 
