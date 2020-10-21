@@ -56,6 +56,9 @@ layout: default
 			<div class="content">
 				<h3>Centre for Genomic Pathogen Surveillance</h3>
 				<ul> Anthony Underwood <br>
+				Ben Taylor<br> 
+				Corin Yeats<br>
+				Khali Abu-Dahab<br>
                 David Aanensen</ul>
 			</div>
 		</article>
