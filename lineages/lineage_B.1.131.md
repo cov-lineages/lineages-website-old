@@ -17,7 +17,7 @@ title: Lineage B.1.131
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.131.html' | absolute_url }}">B.1.131</a> | Ukraine (90%), Latvia (10%) | March 23 to July 11 | 10 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.131.html' | absolute_url }}">B.1.131</a> | Ukraine (50%), UK (22%), Italy (17%) | February 23 to September 10 | 18 |  | 0.1 |
 
 <h3>Lineage descriptions</h3>
 

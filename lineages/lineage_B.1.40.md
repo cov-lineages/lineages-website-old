@@ -17,7 +17,7 @@ title: Lineage B.1.40
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.40.html' | absolute_url }}">B.1.40</a> | UK (100%) | March 18 to May 23 | 49 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.40.html' | absolute_url }}">B.1.40</a> | UK (95%), France (4%), USA (2%) | March 18 to June 29 | 55 |  | 0.68 |
 
 <h3>Lineage descriptions</h3>
 

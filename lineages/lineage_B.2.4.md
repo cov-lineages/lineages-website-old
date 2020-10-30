@@ -17,7 +17,7 @@ title: Lineage B.2.4
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.4.html' | absolute_url }}">B.2.4</a> | UK (82%), Australia (8%), New_Zealand (6%) | March 03 to May 20 | 154 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.2.4.html' | absolute_url }}">B.2.4</a> | UK (81%), New_Zealand (8%), Australia (6%) | March 03 to May 20 | 187 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

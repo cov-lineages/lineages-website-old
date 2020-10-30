@@ -17,7 +17,7 @@ title: Lineage B.24
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.24.html' | absolute_url }}">B.24</a> | UK (98%), China (2%) | March 02 to May 21 | 57 | UK to China (1) | 0.98 |
+| <a href="{{ 'lineages/lineage_B.24.html' | absolute_url }}">B.24</a> | UK (98%), China (2%) | March 02 to June 16 | 66 | UK to China (1) | 0.07 |
 
 <h3>Lineage descriptions</h3>
 

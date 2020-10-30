@@ -17,7 +17,7 @@ title: Lineage B.1.1.48
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.48.html' | absolute_url }}">B.1.1.48</a> | Japan (100%) | March 29 to April 11 | 7 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.48.html' | absolute_url }}">B.1.1.48</a> | Japan (100%) | March 29 to April 11 | 7 |  | 0.86 |
 
 <h3>Lineage descriptions</h3>
 

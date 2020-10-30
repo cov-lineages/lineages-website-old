@@ -5,7 +5,7 @@ title: Lineage B.1.5.3
 
 
 
-<p>
+<strong>Lineage reassigned to parent lineage due to low support</strong><p>
 <ul class="actions small">
 	 <a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.5</a>
 </ul>
@@ -22,5 +22,5 @@ title: Lineage B.1.5.3
 
 | Lineage | Notes |
 |:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | English lineage (now containing an Australian & Swedish seqeuence) |
+| <a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a> | English lineage (now containing an Australian & Swedish seqeuence), reassigned B.1.5 |
 

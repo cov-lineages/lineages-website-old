@@ -17,7 +17,7 @@ title: Lineage B.1.1.70
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.70.html' | absolute_url }}">B.1.1.70</a> | UK (54%), Switzerland (33%), Serbia (6%) | March 24 to July 27 | 90 |  | 0.89 |
+| <a href="{{ 'lineages/lineage_B.1.1.70.html' | absolute_url }}">B.1.1.70</a> | UK (68%), Switzerland (17%), Serbia (7%) | March 24 to October 16 | 301 |  | 0.72 |
 
 <h3>Lineage descriptions</h3>
 

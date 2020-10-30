@@ -17,7 +17,7 @@ title: Lineage B.1.1.62
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.62.html' | absolute_url }}">B.1.1.62</a> | South_Africa (89%), Australia (6%), UK (6%) | March 23 to July 30 | 18 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_B.1.1.62.html' | absolute_url }}">B.1.1.62</a> | South_Africa (75%), UK (21%), Australia (4%) | March 23 to July 30 | 24 |  | 0.7 |
 
 <h3>Lineage descriptions</h3>
 

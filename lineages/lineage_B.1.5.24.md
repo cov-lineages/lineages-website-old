@@ -17,7 +17,7 @@ title: Lineage B.1.5.24
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.24.html' | absolute_url }}">B.1.5.24</a> | USA (61%), Norway (31%), Mexico (8%) | April 06 to July 17 | 64 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.1.5.24.html' | absolute_url }}">B.1.5.24</a> | USA (68%), Norway (24%), Mexico (8%) | April 20 to September 12 | 90 |  | 0.79 |
 
 <h3>Lineage descriptions</h3>
 

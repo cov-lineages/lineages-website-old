@@ -17,7 +17,7 @@ title: Lineage B.1.145
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.145.html' | absolute_url }}">B.1.145</a> | India (100%) | April 21 to June 25 | 11 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_B.1.145.html' | absolute_url }}">B.1.145</a> | India (100%) | April 21 to July 06 | 12 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

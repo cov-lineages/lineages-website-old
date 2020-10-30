@@ -17,7 +17,7 @@ title: Lineage B.1.5.13
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.13.html' | absolute_url }}">B.1.5.13</a> | Romania (93%), Switzerland (7%) | April 09 to July 10 | 14 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.5.13.html' | absolute_url }}">B.1.5.13</a> | Romania (81%), UK (12%), Switzerland (6%) | April 09 to September 03 | 16 |  | 0.3 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.90
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.90.html' | absolute_url }}">B.1.90</a> | UK (100%) | March 23 to May 16 | 38 |  | 0.89 |
+| <a href="{{ 'lineages/lineage_B.1.90.html' | absolute_url }}">B.1.90</a> | UK (100%) | March 18 to September 17 | 107 |  | 0.79 |
 
 <h3>Lineage descriptions</h3>
 

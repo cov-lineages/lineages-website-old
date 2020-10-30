@@ -17,8 +17,8 @@ title: Lineage B.6
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.6.html' | absolute_url }}">B.6</a> | India (43%), Singapore (40%), Australia (5%) | February 14 to July 26 | 799 | Philippines to Taiwan (1), Pakistan to China (1) | 0.98 |
-| <a href="{{ 'lineages/lineage_B.6.1.html' | absolute_url }}">B.6.1</a> | Malaysia (94%), Brunei (6%) | March 21 to May 04 | 16 |  | 0.62 |
+| <a href="{{ 'lineages/lineage_B.6.html' | absolute_url }}">B.6</a> | India (41%), Singapore (40%), Australia (5%) | February 14 to September 12 | 933 | Pakistan to China (1) | 0.99 |
+| <a href="{{ 'lineages/lineage_B.6.1.html' | absolute_url }}">B.6.1</a> | Malaysia (94%), Brunei (6%) | March 21 to May 04 | 17 |  | 0.6 |
 
 <h3>Lineage descriptions</h3>
 

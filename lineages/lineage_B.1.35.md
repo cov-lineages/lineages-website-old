@@ -17,7 +17,7 @@ title: Lineage B.1.35
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">B.1.35</a> | UK (100%) | March 07 to August 03 | 210 |  | 0.92 |
+| <a href="{{ 'lineages/lineage_B.1.35.html' | absolute_url }}">B.1.35</a> | UK (94%), USA (4%), Switzerland (1%) | March 07 to October 14 | 305 |  | 0.93 |
 
 <h3>Lineage descriptions</h3>
 

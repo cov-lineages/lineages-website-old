@@ -17,7 +17,7 @@ title: Lineage B.1.132
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.132.html' | absolute_url }}">B.1.132</a> | India (95%), South_Africa (5%) | June 07 to July 20 | 20 |  | 0.35 |
+| <a href="{{ 'lineages/lineage_B.1.132.html' | absolute_url }}">B.1.132</a> | UK (54%), India (37%), USA (8%) | March 27 to October 06 | 52 |  | 0.0 |
 
 <h3>Lineage descriptions</h3>
 

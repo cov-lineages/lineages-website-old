@@ -17,7 +17,7 @@ title: Lineage A.2.2
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.2.2.html' | absolute_url }}">A.2.2</a> | Australia (92%), UK (6%), USA (1%) | March 17 to April 16 | 71 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_A.2.2.html' | absolute_url }}">A.2.2</a> | Australia (91%), UK (4%), New_Zealand (2%) | March 17 to April 27 | 96 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

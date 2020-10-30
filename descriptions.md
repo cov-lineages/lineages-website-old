@@ -130,13 +130,13 @@ This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequ
 		<li><a href="{{ 'lineages/lineage_B.1.3.1.html' | absolute_url }}">B.1.3.1</a><br>South Korean lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.html' | absolute_url }}">B.1.5</a><br>European lineage/ lots of Spanish sequences towards the basal end of the subtree and exports around the globe. Low support at parent node now, potentially as a result of homoplasies <br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.2.html' | absolute_url }}">B.1.5.2</a><br>Netherlands lineage<br></li>
-		<li><a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a><br>English lineage (now containing an Australian & Swedish seqeuence)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.3.html' | absolute_url }}">B.1.5.3</a><br><strong>Low support, has been reassigned to parent lineage.</strong> English lineage (now containing an Australian & Swedish seqeuence), reassigned B.1.5<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.4.html' | absolute_url }}">B.1.5.4</a><br><strong>Low support, has been reassigned to parent lineage.</strong> Reassigned to B.1.5 as B.1.5 now seems to be European/ Spanish, so B.1.5.4 not a new introduction<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.5.html' | absolute_url }}">B.1.5.5</a><br>English lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.6.html' | absolute_url }}">B.1.5.6</a><br>UK lineage<br></li>
-		<li><a href="{{ 'lineages/lineage_B.1.5.8.html' | absolute_url }}">B.1.5.8</a><br>US lineage<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.8.html' | absolute_url }}">B.1.5.8</a><br><strong>Low support, has been reassigned to parent lineage.</strong> US lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.9.html' | absolute_url }}">B.1.5.9</a><br><strong>Low support, has been reassigned to parent lineage.</strong> Welsh lineage (reassigned to B.1.142 as it falls outside of B.1.5 in the most recent phylogeny)<br></li>
-		<li><a href="{{ 'lineages/lineage_B.1.5.10.html' | absolute_url }}">B.1.5.10</a><br>UK lineage<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.5.10.html' | absolute_url }}">B.1.5.10</a><br><strong>Low support, has been reassigned to parent lineage.</strong> UK lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.11.html' | absolute_url }}">B.1.5.11</a><br>USA lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.12.html' | absolute_url }}">B.1.5.12</a><br>Senegal lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.5.13.html' | absolute_url }}">B.1.5.13</a><br>Romanian lineage<br></li>
@@ -172,7 +172,7 @@ This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequ
 		<li><a href="{{ 'lineages/lineage_B.1.25.html' | absolute_url }}">B.1.25</a><br>Australian lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.26.html' | absolute_url }}">B.1.26</a><br>New Zealand/ USA lineage <br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.29.html' | absolute_url }}">B.1.29</a><br><strong>Low support, has been reassigned to parent lineage.</strong> USA lineage reassigned to B.1 as the structure of this lineage not present in the most recent phylogeny<br></li>
-		<li><a href="{{ 'lineages/lineage_B.1.30.html' | absolute_url }}">B.1.30</a><br>English lineage<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.30.html' | absolute_url }}">B.1.30</a><br><strong>Low support, has been reassigned to parent lineage.</strong> English lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.31.html' | absolute_url }}">B.1.31</a><br><strong>Low support, has been reassigned to parent lineage.</strong> Australia lineage split up this phylogeny, reassigned to B.1<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.32.html' | absolute_url }}">B.1.32</a><br>Swedish lineage <br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.34.html' | absolute_url }}">B.1.34</a><br>England lineage (NOTT)<br></li>
@@ -299,6 +299,7 @@ This hierarchical, dynamic nomenclature describes a lineage as a cluster of sequ
 		<li><a href="{{ 'lineages/lineage_B.1.174.html' | absolute_url }}">B.1.174</a><br>English lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.175.html' | absolute_url }}">B.1.175</a><br>English lineage (CAMB)<br></li>
 		<li><a href="{{ 'lineages/lineage_B.1.176.html' | absolute_url }}">B.1.176</a><br>English lineage (SHEF)<br></li>
+		<li><a href="{{ 'lineages/lineage_B.1.177.html' | absolute_url }}">B.1.177</a><br>Lineage originating in Spain and has become widespread. Three SNPs define this lineage C22227T, C28932T and G29645T. Equates to the 20A.EU1 cluster in Hodcroft et al 2020.<br></li>
 		<li><a href="{{ 'lineages/lineage_B.2.html' | absolute_url }}">B.2</a><br>European lineage<br></li>
 		<li><a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a><br>Large lineage majoritively from UK and Australia with representation from Europe, Jordan, USA, India, Ghana (BS=21) <br></li>
 		<li><a href="{{ 'lineages/lineage_B.2.2.html' | absolute_url }}">B.2.2</a><br>Lineage with representation from UK/ USA/ Australia<br></li>

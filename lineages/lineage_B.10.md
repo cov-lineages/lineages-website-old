@@ -17,7 +17,7 @@ title: Lineage B.10
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | UK (100%) | March 11 to May 15 | 102 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | UK (99%), Switzerland (1%) | March 11 to August 11 | 127 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

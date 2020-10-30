@@ -17,7 +17,7 @@ title: Lineage B.17
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.17.html' | absolute_url }}">B.17</a> | USA (100%) | March 23 to April 13 | 9 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.17.html' | absolute_url }}">B.17</a> | USA (100%) | March 23 to April 13 | 7 |  | 0.67 |
 
 <h3>Lineage descriptions</h3>
 

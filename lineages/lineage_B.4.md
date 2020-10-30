@@ -17,10 +17,10 @@ title: Lineage B.4
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.4.html' | absolute_url }}">B.4</a> | Australia (20%), UK (20%), India (9%) | January 18 to July 19 | 249 | Iran to Germany, Canada, Australia, Pakistan, Turkey, New_Zealand, Lebanon (8), UK to Lebanon (1), Italy to China (1), France to China (1) | 0.94 |
+| <a href="{{ 'lineages/lineage_B.4.html' | absolute_url }}">B.4</a> | UK (20%), Australia (17%), India (12%) | January 18 to October 12 | 301 | Iran to Turkey, Lebanon, Canada, New_Zealand, Australia (7), UK to Lebanon (1), Italy to China (1), France to China (1) | 0.95 |
 | <a href="{{ 'lineages/lineage_B.4.1.html' | absolute_url }}">B.4.1</a> | Kazakhstan (100%) | April 19 to April 26 | 10 |  | 1.0 |
 | <a href="{{ 'lineages/lineage_B.4.2.html' | absolute_url }}">B.4.2</a> | Bahrain (92%), United_Arab_Emirates (8%) | February 25 to April 08 | 13 |  | 1.0 |
-| <a href="{{ 'lineages/lineage_B.4.3.html' | absolute_url }}">B.4.3</a> | Australia (100%) | March 10 to May 10 | 22 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.4.3.html' | absolute_url }}">B.4.3</a> | Australia (100%) | March 10 to May 10 | 24 |  | 0.83 |
 
 <h3>Lineage descriptions</h3>
 

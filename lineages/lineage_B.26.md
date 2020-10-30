@@ -17,7 +17,7 @@ title: Lineage B.26
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.26.html' | absolute_url }}">B.26</a> | UK (98%), Australia (2%) | March 17 to May 01 | 63 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.26.html' | absolute_url }}">B.26</a> | UK (99%), Australia (1%) | March 16 to October 07 | 77 |  | 0.11 |
 
 <h3>Lineage descriptions</h3>
 

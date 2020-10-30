@@ -17,7 +17,7 @@ title: Lineage B.1.21
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.21.html' | absolute_url }}">B.1.21</a> | USA (100%), Panama (0%) | March 10 to July 11 | 214 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.21.html' | absolute_url }}">B.1.21</a> | USA (99%), UK (1%) | March 09 to August 10 | 246 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 

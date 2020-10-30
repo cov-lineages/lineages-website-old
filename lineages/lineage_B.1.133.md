@@ -17,7 +17,7 @@ title: Lineage B.1.133
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.133.html' | absolute_url }}">B.1.133</a> | South_Africa (100%) | June 25 to July 17 | 7 |  | 0.6 |
+| <a href="{{ 'lineages/lineage_B.1.133.html' | absolute_url }}">B.1.133</a> | South_Africa (90%), UK (10%) | April 07 to August 02 | 10 |  | 0.14 |
 
 <h3>Lineage descriptions</h3>
 

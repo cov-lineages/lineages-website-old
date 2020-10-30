@@ -17,7 +17,7 @@ title: Lineage B.1.5.5
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.5.html' | absolute_url }}">B.1.5.5</a> | UK (97%), Ecuador (1%), Italy (1%) | April 08 to July 17 | 77 |  | 0.95 |
+| <a href="{{ 'lineages/lineage_B.1.5.5.html' | absolute_url }}">B.1.5.5</a> | UK (98%), Ecuador (1%), Italy (1%) | April 01 to September 08 | 117 |  | 0.63 |
 
 <h3>Lineage descriptions</h3>
 

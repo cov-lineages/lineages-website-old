@@ -17,7 +17,7 @@ title: Lineage B.1.115
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.115.html' | absolute_url }}">B.1.115</a> | UK (53%), Israel (47%) | March 22 to July 21 | 30 |  | 0.93 |
+| <a href="{{ 'lineages/lineage_B.1.115.html' | absolute_url }}">B.1.115</a> | UK (59%), Israel (37%), USA (5%) | March 22 to August 19 | 41 |  | 0.73 |
 
 <h3>Lineage descriptions</h3>
 

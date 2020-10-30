@@ -17,7 +17,7 @@ title: Lineage B.1.149
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.149.html' | absolute_url }}">B.1.149</a> | DRC (100%) | April 08 to May 13 | 12 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.149.html' | absolute_url }}">B.1.149</a> | DRC (58%), UK (24%), Netherlands (15%) | April 08 to September 19 | 33 |  | 0.0 |
 
 <h3>Lineage descriptions</h3>
 

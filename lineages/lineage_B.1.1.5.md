@@ -17,7 +17,7 @@ title: Lineage B.1.1.5
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.5.html' | absolute_url }}">B.1.1.5</a> | UK (53%), Belgium (30%), Iceland (6%) | March 16 to May 22 | 47 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.1.5.html' | absolute_url }}">B.1.1.5</a> | UK (54%), Belgium (27%), Iceland (6%) | March 16 to August 21 | 52 |  | 0.05 |
 
 <h3>Lineage descriptions</h3>
 

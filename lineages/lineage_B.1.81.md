@@ -17,7 +17,7 @@ title: Lineage B.1.81
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.81.html' | absolute_url }}">B.1.81</a> | UK (97%), Iceland (3%) | March 16 to May 07 | 34 | Austria to Iceland (1) | 0.94 |
+| <a href="{{ 'lineages/lineage_B.1.81.html' | absolute_url }}">B.1.81</a> | UK (98%), Iceland (2%) | March 16 to September 15 | 40 | Austria to Iceland (1) | 0.94 |
 
 <h3>Lineage descriptions</h3>
 

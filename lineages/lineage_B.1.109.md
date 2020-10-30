@@ -17,7 +17,7 @@ title: Lineage B.1.109
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.109.html' | absolute_url }}">B.1.109</a> | Luxembourg (100%) | April 12 to May 19 | 8 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.109.html' | absolute_url }}">B.1.109</a> | Luxembourg (100%) | April 12 to May 19 | 8 |  | 0.88 |
 
 <h3>Lineage descriptions</h3>
 

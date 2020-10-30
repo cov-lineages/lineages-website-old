@@ -17,7 +17,7 @@ title: Lineage B.1.1.1
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | UK (86%), Australia (2%), Belgium (2%) | March 03 to August 10 | 1091 | Austria to Iceland (2) | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.1.1.html' | absolute_url }}">B.1.1.1</a> | UK (88%), Peru (2%), South_Africa (1%) | March 03 to October 16 | 2318 | Austria to Iceland (2) | 0.56 |
 
 <h3>Lineage descriptions</h3>
 

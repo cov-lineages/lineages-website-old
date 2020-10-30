@@ -17,7 +17,7 @@ title: Lineage B.2.8
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.8.html' | absolute_url }}">B.2.8</a> | Hong_Kong (100%) | February 08 to March 09 | 23 |  | 0.95 |
+| <a href="{{ 'lineages/lineage_B.2.8.html' | absolute_url }}">B.2.8</a> | Hong_Kong (100%) | February 08 to March 09 | 23 |  | 0.88 |
 
 <h3>Lineage descriptions</h3>
 

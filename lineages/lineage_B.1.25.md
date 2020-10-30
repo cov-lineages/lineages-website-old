@@ -17,7 +17,7 @@ title: Lineage B.1.25
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.25.html' | absolute_url }}">B.1.25</a> | Australia (100%) | March 22 to March 25 | 12 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_B.1.25.html' | absolute_url }}">B.1.25</a> | Australia (43%), UK (43%), USA (14%) | March 13 to August 30 | 28 |  | 0.85 |
 
 <h3>Lineage descriptions</h3>
 

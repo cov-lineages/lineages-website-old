@@ -17,7 +17,7 @@ title: Lineage B.1.117
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.117.html' | absolute_url }}">B.1.117</a> | UK (100%) | March 30 to May 15 | 64 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.117.html' | absolute_url }}">B.1.117</a> | UK (99%), Canada (1%) | March 30 to September 25 | 68 |  | 0.65 |
 
 <h3>Lineage descriptions</h3>
 

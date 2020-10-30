@@ -17,7 +17,7 @@ title: Lineage B.1.91
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.91.html' | absolute_url }}">B.1.91</a> | Portugal (100%) | March 14 to May 02 | 79 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.1.91.html' | absolute_url }}">B.1.91</a> | Portugal (100%) | March 14 to May 02 | 79 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

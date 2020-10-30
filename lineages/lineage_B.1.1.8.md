@@ -17,7 +17,7 @@ title: Lineage B.1.1.8
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.8.html' | absolute_url }}">B.1.1.8</a> | India (100%) | May 11 to June 13 | 69 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.1.8.html' | absolute_url }}">B.1.1.8</a> | India (98%), UK (2%) | May 11 to October 01 | 184 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

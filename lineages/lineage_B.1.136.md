@@ -17,7 +17,7 @@ title: Lineage B.1.136
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.136.html' | absolute_url }}">B.1.136</a> | India (100%) | March 27 to June 10 | 22 |  | 0.96 |
+| <a href="{{ 'lineages/lineage_B.1.136.html' | absolute_url }}">B.1.136</a> | India (73%), UK (27%) | March 27 to October 14 | 30 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

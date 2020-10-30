@@ -17,7 +17,7 @@ title: Lineage B.1.5.22
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.22.html' | absolute_url }}">B.1.5.22</a> | South_Africa (100%) | May 13 to July 22 | 9 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_B.1.5.22.html' | absolute_url }}">B.1.5.22</a> | South_Africa (100%) | May 13 to July 22 | 9 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

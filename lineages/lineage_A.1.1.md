@@ -17,7 +17,7 @@ title: Lineage A.1.1
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (88%), USA (12%) | March 11 to March 20 | 8 | USA to Iceland (3) | 1.0 |
+| <a href="{{ 'lineages/lineage_A.1.1.html' | absolute_url }}">A.1.1</a> | Iceland (88%), USA (12%) | March 11 to March 20 | 8 | USA to Iceland (6) | 0.88 |
 
 <h3>Lineage descriptions</h3>
 

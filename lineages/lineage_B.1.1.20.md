@@ -17,7 +17,7 @@ title: Lineage B.1.1.20
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.20.html' | absolute_url }}">B.1.1.20</a> | UK (73%), Portugal (19%), USA (8%) | March 21 to May 20 | 26 |  | 0.92 |
+| <a href="{{ 'lineages/lineage_B.1.1.20.html' | absolute_url }}">B.1.1.20</a> | UK (59%), Portugal (16%), USA (12%) | March 21 to September 03 | 32 |  | 0.93 |
 
 <h3>Lineage descriptions</h3>
 

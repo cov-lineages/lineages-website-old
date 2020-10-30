@@ -17,7 +17,7 @@ title: Lineage B.1.1.75
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.75.html' | absolute_url }}">B.1.1.75</a> | Belgium (41%), Sweden (23%), South_Africa (23%) | March 19 to July 30 | 22 |  | 0.85 |
+| <a href="{{ 'lineages/lineage_B.1.1.75.html' | absolute_url }}">B.1.1.75</a> | UK (39%), Belgium (25%), Sweden (11%) | March 20 to August 27 | 44 |  | 0.92 |
 
 <h3>Lineage descriptions</h3>
 

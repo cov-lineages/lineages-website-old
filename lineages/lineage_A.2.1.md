@@ -17,7 +17,7 @@ title: Lineage A.2.1
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.2.1.html' | absolute_url }}">A.2.1</a> | Panama (97%), Spain (3%) | February 20 to July 04 | 78 |  | 0.92 |
+| <a href="{{ 'lineages/lineage_A.2.1.html' | absolute_url }}">A.2.1</a> | Panama (69%), UK (29%), Spain (2%) | February 20 to July 04 | 109 |  | 0.24 |
 
 <h3>Lineage descriptions</h3>
 

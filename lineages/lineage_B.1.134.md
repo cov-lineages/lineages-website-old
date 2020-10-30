@@ -17,7 +17,7 @@ title: Lineage B.1.134
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.134.html' | absolute_url }}">B.1.134</a> | USA (100%) | April 08 to July 15 | 23 |  | 0.91 |
+| <a href="{{ 'lineages/lineage_B.1.134.html' | absolute_url }}">B.1.134</a> | USA (73%), UK (27%) | April 08 to July 28 | 66 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage D.1
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_D.1.html' | absolute_url }}">D.1</a> | UK (100%) | July 28 to August 20 | 117 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_D.1.html' | absolute_url }}">D.1</a> | UK (100%) | July 21 to October 18 | 2197 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

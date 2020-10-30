@@ -17,7 +17,7 @@ title: Lineage B.1.1.37
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.37.html' | absolute_url }}">B.1.1.37</a> | UK (100%) | March 23 to August 21 | 373 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.1.37.html' | absolute_url }}">B.1.1.37</a> | UK (100%), Switzerland (0%), Netherlands (0%) | March 19 to October 16 | 2630 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 

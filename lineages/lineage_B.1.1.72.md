@@ -17,7 +17,7 @@ title: Lineage B.1.1.72
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.72.html' | absolute_url }}">B.1.1.72</a> | India (59%), UK (33%), Singapore (4%) | March 28 to August 04 | 54 |  | 0.8 |
+| <a href="{{ 'lineages/lineage_B.1.1.72.html' | absolute_url }}">B.1.1.72</a> | UK (41%), India (37%), Singapore (14%) | March 28 to October 09 | 106 |  | 0.71 |
 
 <h3>Lineage descriptions</h3>
 

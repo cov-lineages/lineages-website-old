@@ -17,7 +17,7 @@ title: Lineage B.1.1.45
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.45.html' | absolute_url }}">B.1.1.45</a> | UK (100%) | May 22 to July 15 | 47 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.45.html' | absolute_url }}">B.1.1.45</a> | UK (100%) | May 22 to July 15 | 64 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

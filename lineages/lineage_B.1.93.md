@@ -17,7 +17,7 @@ title: Lineage B.1.93
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.93.html' | absolute_url }}">B.1.93</a> | UK (99%), Switzerland (1%), Spain (0%) | March 11 to July 22 | 885 | Egypt to Taiwan (1) | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.93.html' | absolute_url }}">B.1.93</a> | UK (98%), Switzerland (1%), Spain (0%) | March 11 to September 22 | 1305 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

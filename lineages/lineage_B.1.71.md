@@ -17,7 +17,7 @@ title: Lineage B.1.71
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.71.html' | absolute_url }}">B.1.71</a> | UK (100%) | March 18 to May 23 | 38 |  | 0.93 |
+| <a href="{{ 'lineages/lineage_B.1.71.html' | absolute_url }}">B.1.71</a> | UK (97%), Switzerland (1%), Gambia (1%) | March 14 to October 02 | 74 |  | 0.0 |
 
 <h3>Lineage descriptions</h3>
 

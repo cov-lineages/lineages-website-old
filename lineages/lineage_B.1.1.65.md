@@ -17,7 +17,7 @@ title: Lineage B.1.1.65
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.65.html' | absolute_url }}">B.1.1.65</a> | USA (100%) | April 15 to July 01 | 32 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.1.1.65.html' | absolute_url }}">B.1.1.65</a> | USA (97%), UK (3%) | April 15 to August 11 | 38 |  | 0.84 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.98
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.98.html' | absolute_url }}">B.1.98</a> | UK (92%), USA (5%), Australia (1%) | February 03 to July 17 | 551 | UK to Iceland (1) | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.98.html' | absolute_url }}">B.1.98</a> | UK (91%), USA (4%), Australia (2%) | February 03 to October 13 | 653 | Spain to Iceland (1), UK to Iceland (1) | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.1.74
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.74.html' | absolute_url }}">B.1.1.74</a> | UK (86%), Belgium (14%) | March 29 to August 05 | 57 |  | 0.87 |
+| <a href="{{ 'lineages/lineage_B.1.1.74.html' | absolute_url }}">B.1.1.74</a> | UK (89%), Belgium (11%), Netherlands (0%) | March 29 to September 09 | 241 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

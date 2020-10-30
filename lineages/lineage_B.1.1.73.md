@@ -17,7 +17,7 @@ title: Lineage B.1.1.73
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.73.html' | absolute_url }}">B.1.1.73</a> | USA (100%) | April 21 to July 22 | 34 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.73.html' | absolute_url }}">B.1.1.73</a> | USA (95%), UK (5%) | April 17 to September 15 | 106 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.5.27
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.27.html' | absolute_url }}">B.1.5.27</a> | USA (99%), Latvia (1%) | March 30 to July 23 | 82 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.5.27.html' | absolute_url }}">B.1.5.27</a> | USA (96%), Mexico (3%), South_Korea (1%) | March 30 to September 28 | 294 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

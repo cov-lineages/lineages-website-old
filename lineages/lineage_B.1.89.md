@@ -17,7 +17,7 @@ title: Lineage B.1.89
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.89.html' | absolute_url }}">B.1.89</a> | UK (100%) | March 22 to May 21 | 79 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.89.html' | absolute_url }}">B.1.89</a> | UK (92%), Switzerland (3%), France (3%) | March 07 to June 09 | 90 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

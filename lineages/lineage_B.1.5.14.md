@@ -17,7 +17,7 @@ title: Lineage B.1.5.14
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.14.html' | absolute_url }}">B.1.5.14</a> | Russia (86%), Hong_Kong (14%) | March 20 to April 22 | 7 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_B.1.5.14.html' | absolute_url }}">B.1.5.14</a> | UK (53%), Russia (35%), Hong_Kong (6%) | March 20 to September 05 | 17 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.15
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.15.html' | absolute_url }}">B.15</a> | UK (100%) | March 11 to April 14 | 40 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.15.html' | absolute_url }}">B.15</a> | UK (100%) | March 11 to October 01 | 62 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

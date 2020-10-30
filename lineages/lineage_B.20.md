@@ -17,7 +17,7 @@ title: Lineage B.20
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.20.html' | absolute_url }}">B.20</a> | USA (100%) | April 01 to May 12 | 12 |  | 0.87 |
+| <a href="{{ 'lineages/lineage_B.20.html' | absolute_url }}">B.20</a> | UK (61%), USA (39%) | March 17 to September 08 | 31 |  | 0.35 |
 
 <h3>Lineage descriptions</h3>
 

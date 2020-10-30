@@ -17,7 +17,7 @@ title: Lineage B.1.1.6
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.6.html' | absolute_url }}">B.1.1.6</a> | Austria (100%) | February 26 to April 06 | 8 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.6.html' | absolute_url }}">B.1.1.6</a> | Austria (80%), Switzerland (10%), USA (10%) | February 26 to June 04 | 10 |  | 0.0 |
 
 <h3>Lineage descriptions</h3>
 

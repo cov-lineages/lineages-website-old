@@ -17,7 +17,7 @@ title: Lineage B.1.1.33
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.33.html' | absolute_url }}">B.1.1.33</a> | Brazil (83%), USA (8%), Argentina (3%) | March 07 to July 06 | 203 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.1.33.html' | absolute_url }}">B.1.1.33</a> | Brazil (76%), USA (8%), UK (4%) | March 12 to October 13 | 289 | Germany to Brazil (1) | 0.98 |
 
 <h3>Lineage descriptions</h3>
 

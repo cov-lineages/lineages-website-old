@@ -17,7 +17,7 @@ title: Lineage B.1.166
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.166.html' | absolute_url }}">B.1.166</a> | USA (100%) | March 04 to June 10 | 38 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.166.html' | absolute_url }}">B.1.166</a> | USA (87%), UK (11%), Netherlands (2%) | March 04 to September 11 | 46 |  | 0.92 |
 
 <h3>Lineage descriptions</h3>
 

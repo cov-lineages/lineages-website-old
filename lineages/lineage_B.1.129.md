@@ -17,7 +17,7 @@ title: Lineage B.1.129
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.129.html' | absolute_url }}">B.1.129</a> | Sweden (90%), Russia (5%), UK (5%) | March 22 to May 25 | 20 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.129.html' | absolute_url }}">B.1.129</a> | Sweden (83%), UK (8%), Russia (4%) | March 18 to May 25 | 24 |  | 0.1 |
 
 <h3>Lineage descriptions</h3>
 

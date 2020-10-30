@@ -17,7 +17,7 @@ title: Lineage B.1.1.31
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.31.html' | absolute_url }}">B.1.1.31</a> | Netherlands (100%) | March 26 to May 26 | 13 |  | 0.93 |
+| <a href="{{ 'lineages/lineage_B.1.1.31.html' | absolute_url }}">B.1.1.31</a> | UK (71%), Netherlands (28%), Spain (1%) | March 25 to October 06 | 79 |  | 0.15 |
 
 <h3>Lineage descriptions</h3>
 

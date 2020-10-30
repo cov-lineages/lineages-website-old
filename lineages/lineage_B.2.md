@@ -17,16 +17,16 @@ title: Lineage B.2
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.html' | absolute_url }}">B.2</a> | UK (77%), USA (4%), Spain (3%) | January 16 to July 22 | 1793 | UK to Iceland, China (3), Italy to Iceland, Brazil (2), China to Italy (1), USA to Kuwait (1) | 0.97 |
-| <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | UK (93%), Australia (2%), USA (2%) | February 09 to July 20 | 2157 | UK to Iceland (1) | 1.0 |
-| <a href="{{ 'lineages/lineage_B.2.10.html' | absolute_url }}">B.2.10</a> | South_Korea (91%), UK (6%), USA (2%) | February 18 to April 09 | 47 |  | 0.94 |
-| <a href="{{ 'lineages/lineage_B.2.11.html' | absolute_url }}">B.2.11</a> | Israel (88%), Taiwan (12%) | March 17 to April 11 | 8 |  | 1.0 |
-| <a href="{{ 'lineages/lineage_B.2.12.html' | absolute_url }}">B.2.12</a> | USA (100%) | March 15 to May 13 | 26 |  | 1.0 |
-| <a href="{{ 'lineages/lineage_B.2.2.html' | absolute_url }}">B.2.2</a> | UK (90%), USA (2%), Australia (2%) | February 25 to August 02 | 345 | Switzerland to Iceland (1) | 0.98 |
-| <a href="{{ 'lineages/lineage_B.2.4.html' | absolute_url }}">B.2.4</a> | UK (82%), Australia (8%), New_Zealand (6%) | March 03 to May 20 | 154 |  | 0.97 |
-| <a href="{{ 'lineages/lineage_B.2.6.html' | absolute_url }}">B.2.6</a> | UK (89%), Australia (5%), Iceland (2%) | March 05 to June 07 | 63 |  | 0.98 |
-| <a href="{{ 'lineages/lineage_B.2.7.html' | absolute_url }}">B.2.7</a> | Iceland (100%) | March 12 to March 29 | 13 |  | 1.0 |
-| <a href="{{ 'lineages/lineage_B.2.8.html' | absolute_url }}">B.2.8</a> | Hong_Kong (100%) | February 08 to March 09 | 23 |  | 0.95 |
+| <a href="{{ 'lineages/lineage_B.2.html' | absolute_url }}">B.2</a> | UK (78%), USA (4%), Spain (4%) | January 16 to September 02 | 2120 | UK to China, Iceland (3), Italy to Iceland (1) | 0.74 |
+| <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | UK (93%), USA (2%), Australia (1%) | January 23 to October 12 | 2578 | UK to Iceland (1) | 0.96 |
+| <a href="{{ 'lineages/lineage_B.2.10.html' | absolute_url }}">B.2.10</a> | South_Korea (86%), UK (12%), USA (2%) | February 18 to April 09 | 50 |  | 0.23 |
+| <a href="{{ 'lineages/lineage_B.2.11.html' | absolute_url }}">B.2.11</a> | Israel (88%), Taiwan (12%) | March 17 to April 11 | 8 |  | 0.38 |
+| <a href="{{ 'lineages/lineage_B.2.12.html' | absolute_url }}">B.2.12</a> | USA (87%), UK (13%) | March 15 to June 08 | 31 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.2.2.html' | absolute_url }}">B.2.2</a> | UK (92%), USA (2%), Australia (2%) | February 25 to August 02 | 473 | Switzerland to Iceland (1) | 0.23 |
+| <a href="{{ 'lineages/lineage_B.2.4.html' | absolute_url }}">B.2.4</a> | UK (81%), New_Zealand (8%), Australia (6%) | March 03 to May 20 | 187 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.2.6.html' | absolute_url }}">B.2.6</a> | UK (90%), Australia (4%), USA (3%) | March 05 to June 07 | 79 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.2.7.html' | absolute_url }}">B.2.7</a> | Iceland (100%) | March 12 to March 29 | 13 |  | 0.0 |
+| <a href="{{ 'lineages/lineage_B.2.8.html' | absolute_url }}">B.2.8</a> | Hong_Kong (100%) | February 08 to March 09 | 23 |  | 0.88 |
 
 <h3>Lineage descriptions</h3>
 

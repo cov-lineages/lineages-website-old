@@ -17,7 +17,7 @@ title: Lineage B.1.68.1
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.68.1.html' | absolute_url }}">B.1.68.1</a> | USA (100%) | May 07 to May 08 | 6 |  | 0.8 |
+| <a href="{{ 'lineages/lineage_B.1.68.1.html' | absolute_url }}">B.1.68.1</a> | USA (100%) | May 07 to May 08 | 7 |  | 0.83 |
 
 <h3>Lineage descriptions</h3>
 

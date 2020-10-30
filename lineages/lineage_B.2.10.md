@@ -17,7 +17,7 @@ title: Lineage B.2.10
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.10.html' | absolute_url }}">B.2.10</a> | South_Korea (91%), UK (6%), USA (2%) | February 18 to April 09 | 47 |  | 0.94 |
+| <a href="{{ 'lineages/lineage_B.2.10.html' | absolute_url }}">B.2.10</a> | South_Korea (86%), UK (12%), USA (2%) | February 18 to April 09 | 50 |  | 0.23 |
 
 <h3>Lineage descriptions</h3>
 

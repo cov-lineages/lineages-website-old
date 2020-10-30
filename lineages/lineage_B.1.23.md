@@ -17,7 +17,7 @@ title: Lineage B.1.23
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.23.html' | absolute_url }}">B.1.23</a> | Australia (91%), New_Zealand (9%) | March 23 to April 30 | 33 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.1.23.html' | absolute_url }}">B.1.23</a> | Australia (84%), New_Zealand (8%), USA (8%) | March 22 to June 30 | 38 |  | 0.08 |
 
 <h3>Lineage descriptions</h3>
 

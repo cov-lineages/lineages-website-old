@@ -17,7 +17,7 @@ title: Lineage B.1.8
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.8.html' | absolute_url }}">B.1.8</a> | Netherlands (54%), South_Africa (10%), Iceland (5%) | March 04 to May 26 | 94 | Austria to Iceland (5), UK to South_Africa (1), Netherlands to South_Africa (1) | 0.96 |
+| <a href="{{ 'lineages/lineage_B.1.8.html' | absolute_url }}">B.1.8</a> | Netherlands (60%), UK (7%), South_Africa (6%) | March 09 to September 09 | 127 | Austria to Iceland (4), UK to South_Africa (1) | 0.33 |
 | <a href="{{ 'lineages/lineage_B.1.8.2.html' | absolute_url }}">B.1.8.2</a> | USA (100%) | April 22 to May 07 | 19 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>

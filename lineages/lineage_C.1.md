@@ -17,7 +17,7 @@ title: Lineage C.1
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_C.1.html' | absolute_url }}">C.1</a> | South_Africa (99%), UK (1%) | June 03 to July 30 | 102 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_C.1.html' | absolute_url }}">C.1</a> | South_Africa (99%), UK (1%) | June 03 to August 25 | 126 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

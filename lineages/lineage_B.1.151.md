@@ -17,7 +17,7 @@ title: Lineage B.1.151
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.151.html' | absolute_url }}">B.1.151</a> | UK (96%), Belgium (1%), France (1%) | March 21 to May 26 | 70 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.151.html' | absolute_url }}">B.1.151</a> | UK (95%), USA (2%), France (2%) | March 14 to October 08 | 133 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 

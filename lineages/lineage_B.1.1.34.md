@@ -17,7 +17,7 @@ title: Lineage B.1.1.34
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.34.html' | absolute_url }}">B.1.1.34</a> | South_Africa (93%), USA (7%) | March 19 to July 21 | 14 |  | 0.83 |
+| <a href="{{ 'lineages/lineage_B.1.1.34.html' | absolute_url }}">B.1.1.34</a> | South_Africa (63%), UK (30%), USA (3%) | March 19 to September 06 | 30 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

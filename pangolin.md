@@ -23,7 +23,7 @@ layout: page
     </p>
     </div>
     <span class="image object">
-      <img src="assets/images/pangolin_logo.svg" alt="" style="max-height:460px;max-width:500px"/>
+      <img src="assets/images/panGHOULin.png" alt="" style="max-height:460px;max-width:500px"/>
     </span>
   </section>
 

@@ -17,8 +17,8 @@ title: Lineage B.1.160
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.160.html' | absolute_url }}">B.1.160</a> | Saudi_Arabia (42%), India (30%), UK (13%) | February 04 to August 05 | 263 | Saudia_Arabia to Turkey (1) | 0.95 |
-| <a href="{{ 'lineages/lineage_B.1.160.1.html' | absolute_url }}">B.1.160.1</a> | UK (90%), Austria (4%), India (1%) | March 14 to July 15 | 138 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_B.1.160.html' | absolute_url }}">B.1.160</a> | UK (72%), Saudi_Arabia (8%), India (6%) | February 04 to October 19 | 1464 |  | 0.3 |
+| <a href="{{ 'lineages/lineage_B.1.160.1.html' | absolute_url }}">B.1.160.1</a> | UK (91%), Austria (3%), India (2%) | March 13 to September 11 | 206 |  | 0.47 |
 
 <h3>Lineage descriptions</h3>
 

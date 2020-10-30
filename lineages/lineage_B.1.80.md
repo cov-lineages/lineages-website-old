@@ -17,7 +17,7 @@ title: Lineage B.1.80
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.80.html' | absolute_url }}">B.1.80</a> | India (91%), Australia (2%), Luxembourg (1%) | April 06 to July 09 | 81 |  | 0.94 |
+| <a href="{{ 'lineages/lineage_B.1.80.html' | absolute_url }}">B.1.80</a> | India (82%), UK (12%), Australia (2%) | April 06 to September 29 | 103 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 

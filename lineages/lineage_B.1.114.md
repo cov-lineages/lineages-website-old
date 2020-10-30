@@ -17,7 +17,7 @@ title: Lineage B.1.114
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.114.html' | absolute_url }}">B.1.114</a> | Canada (92%), Singapore (8%) | March 08 to April 25 | 13 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.114.html' | absolute_url }}">B.1.114</a> | Canada (95%), USA (3%), Singapore (2%) | March 19 to August 26 | 59 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

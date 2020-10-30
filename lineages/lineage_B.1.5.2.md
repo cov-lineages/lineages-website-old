@@ -17,7 +17,7 @@ title: Lineage B.1.5.2
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.2.html' | absolute_url }}">B.1.5.2</a> | Netherlands (95%), UK (5%) | March 14 to April 21 | 37 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.5.2.html' | absolute_url }}">B.1.5.2</a> | Netherlands (92%), UK (5%), USA (2%) | March 14 to September 15 | 40 |  | 0.97 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.5.12
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.5.12.html' | absolute_url }}">B.1.5.12</a> | Senegal (100%) | April 17 to June 20 | 42 |  | 0.91 |
+| <a href="{{ 'lineages/lineage_B.1.5.12.html' | absolute_url }}">B.1.5.12</a> | UK (62%), Gambia (17%), Senegal (13%) | March 20 to October 01 | 316 |  | 0.59 |
 
 <h3>Lineage descriptions</h3>
 

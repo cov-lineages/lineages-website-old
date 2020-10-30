@@ -17,7 +17,7 @@ title: Lineage B.4.3
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.4.3.html' | absolute_url }}">B.4.3</a> | Australia (100%) | March 10 to May 10 | 22 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.4.3.html' | absolute_url }}">B.4.3</a> | Australia (100%) | March 10 to May 10 | 24 |  | 0.83 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.159
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.159.html' | absolute_url }}">B.1.159</a> | France (91%), Bangladesh (9%) | March 18 to July 06 | 11 |  | 0.8 |
+| <a href="{{ 'lineages/lineage_B.1.159.html' | absolute_url }}">B.1.159</a> | France (62%), DRC (12%), Bangladesh (6%) | March 28 to September 03 | 16 |  | 0.9 |
 
 <h3>Lineage descriptions</h3>
 

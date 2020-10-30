@@ -17,7 +17,7 @@ title: Lineage B.1.130
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.130.html' | absolute_url }}">B.1.130</a> | Saudi_Arabia (81%), USA (12%), India (6%) | March 20 to June 17 | 16 |  | 0.33 |
+| <a href="{{ 'lineages/lineage_B.1.130.html' | absolute_url }}">B.1.130</a> | UK (71%), Saudi_Arabia (22%), USA (3%) | March 20 to October 17 | 59 |  | 0.05 |
 
 <h3>Lineage descriptions</h3>
 

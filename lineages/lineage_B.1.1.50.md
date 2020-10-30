@@ -17,7 +17,7 @@ title: Lineage B.1.1.50
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.50.html' | absolute_url }}">B.1.1.50</a> | Israel (47%), UK (47%), Netherlands (5%) | March 29 to July 27 | 19 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.50.html' | absolute_url }}">B.1.1.50</a> | UK (51%), Israel (25%), Netherlands (23%) | March 29 to October 14 | 57 |  | 0.65 |
 
 <h3>Lineage descriptions</h3>
 

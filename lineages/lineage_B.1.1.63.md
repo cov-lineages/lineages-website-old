@@ -17,7 +17,7 @@ title: Lineage B.1.1.63
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.63.html' | absolute_url }}">B.1.1.63</a> | Hong_Kong (90%), Norway (10%) | July 04 to July 20 | 10 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.63.html' | absolute_url }}">B.1.1.63</a> | Hong_Kong (68%), South_Korea (12%), UK (8%) | June 30 to September 07 | 25 |  | 0.7 |
 
 <h3>Lineage descriptions</h3>
 

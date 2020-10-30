@@ -17,7 +17,7 @@ title: Lineage B.1.1.61
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.61.html' | absolute_url }}">B.1.1.61</a> | USA (100%) | February 29 to July 17 | 30 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.61.html' | absolute_url }}">B.1.1.61</a> | USA (92%), Canada (5%), Italy (3%) | February 29 to August 11 | 39 |  | 0.53 |
 
 <h3>Lineage descriptions</h3>
 

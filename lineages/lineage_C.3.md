@@ -17,7 +17,7 @@ title: Lineage C.3
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_C.3.html' | absolute_url }}">C.3</a> | UK (100%) | May 20 to July 19 | 106 |  | 0.99 |
+| <a href="{{ 'lineages/lineage_C.3.html' | absolute_url }}">C.3</a> | UK (100%) | April 12 to July 19 | 143 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

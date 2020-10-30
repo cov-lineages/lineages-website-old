@@ -17,7 +17,7 @@ title: Lineage B.2.1
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | UK (93%), Australia (2%), USA (2%) | February 09 to July 20 | 2157 | UK to Iceland (1) | 1.0 |
+| <a href="{{ 'lineages/lineage_B.2.1.html' | absolute_url }}">B.2.1</a> | UK (93%), USA (2%), Australia (1%) | January 23 to October 12 | 2578 | UK to Iceland (1) | 0.96 |
 
 <h3>Lineage descriptions</h3>
 

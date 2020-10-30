@@ -17,7 +17,7 @@ title: Lineage B.1.144
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.144.html' | absolute_url }}">B.1.144</a> | South_Africa (100%) | June 11 to June 25 | 6 |  | 0.8 |
+| <a href="{{ 'lineages/lineage_B.1.144.html' | absolute_url }}">B.1.144</a> | UK (81%), USA (17%), South_Africa (2%) | March 21 to September 11 | 431 |  | 0.0 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.1.28
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.28.html' | absolute_url }}">B.1.1.28</a> | Brazil (86%), UK (10%), Australia (2%) | March 16 to June 24 | 105 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.1.28.html' | absolute_url }}">B.1.1.28</a> | Brazil (81%), UK (12%), Australia (2%) | March 15 to October 13 | 206 |  | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

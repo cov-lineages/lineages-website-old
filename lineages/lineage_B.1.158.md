@@ -17,7 +17,7 @@ title: Lineage B.1.158
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.158.html' | absolute_url }}">B.1.158</a> | Finland (50%), Egypt (50%) | March 13 to June 02 | 12 |  | 0.73 |
+| <a href="{{ 'lineages/lineage_B.1.158.html' | absolute_url }}">B.1.158</a> | Egypt (50%), Finland (38%), Norway (6%) | March 13 to August 24 | 16 |  | 0.55 |
 
 <h3>Lineage descriptions</h3>
 

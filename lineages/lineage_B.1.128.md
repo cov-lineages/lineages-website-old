@@ -17,7 +17,7 @@ title: Lineage B.1.128
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.128.html' | absolute_url }}">B.1.128</a> | DRC (53%), Switzerland (27%), Canada (10%) | March 16 to May 22 | 30 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.128.html' | absolute_url }}">B.1.128</a> | DRC (40%), Switzerland (35%), Canada (12%) | March 13 to October 09 | 40 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

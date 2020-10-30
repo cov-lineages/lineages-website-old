@@ -17,7 +17,7 @@ title: Lineage B.1.76
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.76.html' | absolute_url }}">B.1.76</a> | UK (100%) | February 24 to August 12 | 71 |  | 0.96 |
+| <a href="{{ 'lineages/lineage_B.1.76.html' | absolute_url }}">B.1.76</a> | UK (99%), Norway (1%) | February 24 to October 07 | 85 |  | 0.28 |
 
 <h3>Lineage descriptions</h3>
 

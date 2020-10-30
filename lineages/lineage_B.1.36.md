@@ -17,8 +17,8 @@ title: Lineage B.1.36
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.36.html' | absolute_url }}">B.1.36</a> | India (45%), Saudi_Arabia (34%), Bangladesh (5%) | February 16 to August 22 | 366 | Saudia_Arabia to Turkey (1), Iran to Turkey (1) | 0.85 |
-| <a href="{{ 'lineages/lineage_B.1.36.1.html' | absolute_url }}">B.1.36.1</a> | India (69%), UK (17%), Australia (5%) | May 12 to August 05 | 64 |  | 0.92 |
+| <a href="{{ 'lineages/lineage_B.1.36.html' | absolute_url }}">B.1.36</a> | UK (47%), India (25%), Saudi_Arabia (12%) | February 16 to October 15 | 1011 | Saudia_Arabia to Turkey (1), Iran to Turkey (1) | 0.76 |
+| <a href="{{ 'lineages/lineage_B.1.36.1.html' | absolute_url }}">B.1.36.1</a> | UK (91%), India (5%), New_Zealand (1%) | May 11 to October 19 | 1051 |  | 0.94 |
 
 <h3>Lineage descriptions</h3>
 

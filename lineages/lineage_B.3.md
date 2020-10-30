@@ -17,7 +17,7 @@ title: Lineage B.3
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.3.html' | absolute_url }}">B.3</a> | UK (89%), Belgium (2%), Australia (1%) | February 23 to August 03 | 1123 | Austria to Iceland (1) | 0.99 |
+| <a href="{{ 'lineages/lineage_B.3.html' | absolute_url }}">B.3</a> | UK (89%), Germany (2%), Belgium (1%) | February 23 to September 11 | 1330 | Austria to Iceland (1), UK to Iceland (1) | 0.99 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.139
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.139.html' | absolute_url }}">B.1.139</a> | USA (99%), Cuba (1%) | March 19 to July 21 | 86 |  | 0.97 |
+| <a href="{{ 'lineages/lineage_B.1.139.html' | absolute_url }}">B.1.139</a> | USA (96%), UK (3%), Cuba (1%) | March 04 to September 16 | 178 |  | 0.98 |
 
 <h3>Lineage descriptions</h3>
 

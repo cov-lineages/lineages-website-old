@@ -17,7 +17,7 @@ title: Lineage B.1.104
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.104.html' | absolute_url }}">B.1.104</a> | UK (96%), USA (2%), Singapore (1%) | March 19 to July 16 | 178 |  | 0.5 |
+| <a href="{{ 'lineages/lineage_B.1.104.html' | absolute_url }}">B.1.104</a> | UK (97%), USA (2%), Singapore (1%) | March 19 to July 16 | 234 |  | 0.29 |
 
 <h3>Lineage descriptions</h3>
 

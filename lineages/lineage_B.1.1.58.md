@@ -17,7 +17,7 @@ title: Lineage B.1.1.58
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.58.html' | absolute_url }}">B.1.1.58</a> | Switzerland (100%) | June 23 to July 28 | 7 |  | 0.8 |
+| <a href="{{ 'lineages/lineage_B.1.1.58.html' | absolute_url }}">B.1.1.58</a> | Switzerland (67%), UK (33%) | June 23 to October 05 | 15 |  | 0.86 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.1.141
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.141.html' | absolute_url }}">B.1.141</a> | UK (99%), Kenya (0%), Greece (0%) | March 10 to June 20 | 527 |  | 0.98 |
+| <a href="{{ 'lineages/lineage_B.1.141.html' | absolute_url }}">B.1.141</a> | UK (97%), USA (1%), India (0%) | March 10 to October 11 | 621 |  | 0.33 |
 
 <h3>Lineage descriptions</h3>
 

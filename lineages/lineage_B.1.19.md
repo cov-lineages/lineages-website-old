@@ -17,7 +17,7 @@ title: Lineage B.1.19
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.19.html' | absolute_url }}">B.1.19</a> | USA (100%) | March 22 to April 17 | 10 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.19.html' | absolute_url }}">B.1.19</a> | USA (68%), UK (23%), Sweden (5%) | March 22 to October 13 | 22 |  | 1.0 |
 
 <h3>Lineage descriptions</h3>
 

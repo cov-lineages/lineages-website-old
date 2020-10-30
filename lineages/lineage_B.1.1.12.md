@@ -17,7 +17,7 @@ title: Lineage B.1.1.12
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.12.html' | absolute_url }}">B.1.1.12</a> | UK (100%) | March 21 to April 22 | 27 |  | 1.0 |
+| <a href="{{ 'lineages/lineage_B.1.1.12.html' | absolute_url }}">B.1.1.12</a> | UK (94%), Ecuador (3%), Switzerland (3%) | March 21 to October 04 | 35 |  | 0.72 |
 
 <h3>Lineage descriptions</h3>
 

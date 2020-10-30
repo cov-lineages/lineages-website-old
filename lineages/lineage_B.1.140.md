@@ -17,7 +17,7 @@ title: Lineage B.1.140
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.140.html' | absolute_url }}">B.1.140</a> | South_Africa (61%), UK (38%), Hong_Kong (2%) | March 15 to July 24 | 61 |  | 0.9 |
+| <a href="{{ 'lineages/lineage_B.1.140.html' | absolute_url }}">B.1.140</a> | UK (51%), South_Africa (45%), Hong_Kong (1%) | March 04 to September 21 | 87 |  | 0.92 |
 
 <h3>Lineage descriptions</h3>
 

@@ -17,7 +17,7 @@ title: Lineage B.18
 
 | Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
 |:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.18.html' | absolute_url }}">B.18</a> | UK (86%), Iceland (14%) | March 16 to June 09 | 22 | UK to Iceland (1) | 1.0 |
+| <a href="{{ 'lineages/lineage_B.18.html' | absolute_url }}">B.18</a> | UK (89%), Iceland (11%) | March 16 to June 09 | 28 | UK to Iceland (1) | 0.43 |
 
 <h3>Lineage descriptions</h3>
 
