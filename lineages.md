@@ -1,59 +1,20 @@
 ---
 layout: page
-image: 
-title: Go to lineage
 ---
 
+<h2>Go to lineage:</h2>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-#myInput {
-  background-image: url('/css/searchicon.png');
-  background-position: 10px 10px;
-  background-repeat: no-repeat;
-  width: 100%;
-  font-size: 16px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
-}
-
-#myTable {
-  border-collapse: collapse;
-  width: 100%;
-  border: 1px solid #ddd;
-  font-size: 18px;
-}
-
-#myTable th, #myTable td {
-  text-align: left;
-  padding: 12px;
-}
-
-#myTable tr {
-  border-bottom: 1px solid #ddd;
-}
-
-#myTable tr.header, #myTable tr:hover {
-  background-color: #f1f1f1;
-}
-</style>
-
-<body>
 <section>
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for lineage.." title="Type in a name">
+<br>
 
 <table id="myTable">
   <tr class="header">
-    <th style="width:8%;">Lineage</th>
+    <th style="width:10%;">Lineage</th>
     <th style="width:15%;">Most common countries</th>
-    <th style="width:8%;">Earliest date</th>
-    <th style="width:8%;">Count</th>
+    <th style="width:10%;">Earliest date</th>
+    <th style="width:5%;">Count</th>
     <th style="width:20%;">Travel History</th>
     <th style="width:40%;">Description</th>
   </tr>
@@ -3118,7 +3079,6 @@ title: Go to lineage
     <td>Australian lineage (Alias of B.1.1.25.1)</td>
   </tr>
 </table>
-</section>
 
 <script>
 function myFunction() {
@@ -3141,3 +3101,5 @@ function myFunction() {
 }
 </script>
 
+<!-- </body> -->
+</section>
