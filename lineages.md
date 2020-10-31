@@ -5,23 +5,6 @@ title: Go to lineage
 ---
 
 
-<!-- <section id="banner">
-<div class="content">
-      <header>
-       <h1>All lineages</h1>
-
- 
-</header>
-      <p>Search for a lineage. </p>
- -->
-<!-- <section id="banner">
-
-     <span class="image object">
-      <img src="assets/images/global_lineages_tree.png" alt=""/>
-    </span>
-  </section>  -->
-
-<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -59,9 +42,9 @@ title: Go to lineage
   background-color: #f1f1f1;
 }
 </style>
-</head>
-<body>
 
+<body>
+<section>
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for lineage.." title="Type in a name">
 
@@ -3135,6 +3118,7 @@ title: Go to lineage
     <td>Australian lineage (Alias of B.1.1.25.1)</td>
   </tr>
 </table>
+</section>
 
 <script>
 function myFunction() {
@@ -3157,4 +3141,3 @@ function myFunction() {
 }
 </script>
 
-</body>
