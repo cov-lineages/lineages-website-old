@@ -42,7 +42,7 @@ layout: default
         <article>
             <a href="./descriptions.html" class="image"><img src="assets/images/lineage_histogram.png" 
             style="height:200px;max-height:250px;max-width:450px" alt="" /></a>
-            <h3>Lineage descriptions</h3>
+            <h3>All lineages</h3>
             <p>More information about currently circulating global lineages</p>
         </article>
     <!-- </div>
