@@ -40,10 +40,10 @@ layout: default
             </p>
         </article>
         <article>
-            <a href="./descriptions.html" class="image"><img src="assets/images/lineage_histogram.png" 
+            <a href="./lineages.html" class="image"><img src="assets/images/lineage_histogram.png" 
             style="height:200px;max-height:250px;max-width:450px" alt="" /></a>
-            <h3>All lineages</h3>
-            <p>More information about currently circulating global lineages</p>
+            <h3>Go to lineage</h3>
+            <p>Search for more information about currently circulating global lineages</p>
         </article>
     <!-- </div>
     <div class="posts"> -->
