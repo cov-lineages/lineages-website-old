@@ -1,0 +1,2828 @@
+{
+    "A": {
+        "Lineage": "A",
+        "Countries": "UK (23%) China (21%) USA (7%)",
+        "Earliest date": "December 30",
+        "Count": "613",
+        "Travel history": "China to Australia Vietnam (2) USA to New_Zealand (1) Saudia_Arabia to Turkey (2)",
+        "Recall rate": "0.94",
+        "Description": "Root of the pandemic lies within lineage A. Many sequences originating from China and many global exports; including to South East Asia Japan South Korea Australia the USA and Europe represented in this lineage"
+    },
+    "A.1": {
+        "Lineage": "A.1",
+        "Countries": "USA (84%) Australia (7%) Canada (4%)",
+        "Earliest date": "February 24",
+        "Count": "1104",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "A North American lineage (BS=16)"
+    },
+    "A.1.1": {
+        "Lineage": "A.1.1",
+        "Countries": "Iceland (88%) USA (12%)",
+        "Earliest date": "March 11",
+        "Count": "8",
+        "Travel history": "USA to Iceland (6)",
+        "Recall rate": "0.88",
+        "Description": "Iceland lineage (BS=94)"
+    },
+    "A.1.3": {
+        "Lineage": "A.1.3",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Previously Australian lineage structure has split up into the diverity of A.1 so all reassigned A.1"
+    },
+    "A.2": {
+        "Lineage": "A.2",
+        "Countries": "Spain (64%) UK (20%) Panama (4%)",
+        "Earliest date": "February 26",
+        "Count": "520",
+        "Travel history": "Spain to Brazil China (2)",
+        "Recall rate": "0.98",
+        "Description": "Majoritively Spanish lineage now with a variety of other locations represented including South and Central American sequences other European countries and Kazakhstan. "
+    },
+    "A.2.1": {
+        "Lineage": "A.2.1",
+        "Countries": "Panama (69%) UK (29%) Spain (2%)",
+        "Earliest date": "February 20",
+        "Count": "109",
+        "Travel history": "",
+        "Recall rate": "0.24",
+        "Description": "Lineage with sequences predominantly from Panama"
+    },
+    "A.2.2": {
+        "Lineage": "A.2.2",
+        "Countries": "Australia (91%) UK (4%) New_Zealand (2%)",
+        "Earliest date": "March 17",
+        "Count": "96",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "Australian lineage nested within the diversity of A.2"
+    },
+    "A.2.3": {
+        "Lineage": "A.2.3",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 12",
+        "Count": "212",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "Scottish lineage nested within the diversity of A.2"
+    },
+    "A.3": {
+        "Lineage": "A.3",
+        "Countries": "USA (82%) UK (7%) Australia (5%)",
+        "Earliest date": "January 28",
+        "Count": "332",
+        "Travel history": "USA to New_Zealand (1)",
+        "Recall rate": "0.99",
+        "Description": "USA and Australian lineage "
+    },
+    "A.4": {
+        "Lineage": "A.4",
+        "Countries": "USA (100%)",
+        "Earliest date": "March 13",
+        "Count": "22",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage nested in A diveristy"
+    },
+    "A.5": {
+        "Lineage": "A.5",
+        "Countries": "Spain (52%) UK (30%) Uruguay (3%)",
+        "Earliest date": "February 28",
+        "Count": "239",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "A lineage with a lot of representation from Spanish-speaking countries. A Spanish/ South-American lineage but now with sequences from an outbreak in Scotland"
+    },
+    "A.6": {
+        "Lineage": "A.6",
+        "Countries": "Thailand (92%) Singapore (5%) Japan (3%)",
+        "Earliest date": "January 25",
+        "Count": "37",
+        "Travel history": "",
+        "Recall rate": "0.95",
+        "Description": "Lineage from an introduction event into Thailand now including a couple of exports"
+    },
+    "A.7": {
+        "Lineage": "A.7",
+        "Countries": "India (100%)",
+        "Earliest date": "May 06",
+        "Count": "15",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Indian lineage including Saudi Arabian & Turkish sequences. A.7 A.8 and A.9 are all lineages with diversity from India however are difficult to resolve confidently potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A."
+    },
+    "A.8": {
+        "Lineage": "A.8",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Merged with sister Indian lineage A.7. A.7 A.8 and A.9 are all lineages with diversity from India however are difficult to resolve confidently potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A."
+    },
+    "A.9": {
+        "Lineage": "A.9",
+        "Countries": "UK (52%) India (48%)",
+        "Earliest date": "March 13",
+        "Count": "27",
+        "Travel history": "",
+        "Recall rate": "0.1",
+        "Description": "Indian lineage. A.7 A.8 and A.9 are all lineages with diversity from India however are difficult to resolve confidently potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A."
+    },
+    "B": {
+        "Lineage": "B",
+        "Countries": "UK (55%) China (15%) USA (11%)",
+        "Earliest date": "December 24",
+        "Count": "1696",
+        "Travel history": "China to Cambodia Singapore Canada (3) Switzerland to Iceland (1) USA to China (2) Saudia_Arabia to Turkey (1) France to China (1)",
+        "Recall rate": "0.92",
+        "Description": "Base of this lineage also lies in China with many global exports two distinct SNPs `8782TC` and `28144CT` define this lineage"
+    },
+    "B.1": {
+        "Lineage": "B.1",
+        "Countries": "UK (49%) USA (29%) France (2%)",
+        "Earliest date": "January 10",
+        "Count": "21394",
+        "Travel history": "Italy to Brazil China Iceland Finland (9) Iran to Turkey Finland Lebanon (3) UK to China Iceland (7) Spain to Iceland (2) USA to China Iceland Costa_Rica (5) Austria to China Iceland (12) Denmark to Iceland (2) Switzerland to Iceland (1) France to Costa_Rica Madagascar China Brazil Iceland Benin (6) Faroe_Islands to Iceland (1) Canada to China (1) Norway to China (1) Togo to Benin (1) United_Arab_Emirates to Brazil (2) United_States to USA (2)",
+        "Recall rate": "0.94",
+        "Description": "A large European lineage that corresponds to the Italian outbreak."
+    },
+    "B.1.1": {
+        "Lineage": "B.1.1",
+        "Countries": "UK (83%) USA (5%) Portugal (1%)",
+        "Earliest date": "February 10",
+        "Count": "28655",
+        "Travel history": "Italy to Czech_Republic Chile Thailand Iceland Nigeria Mexico (11) UK to Slovakia China Iceland (7) Switzerland to Iceland (1) Austria to Iceland (1) Finland to Iceland (1) Saudia_Arabia to Turkey (1) Hungary to China (3) Nicaragua to Costa_Rica (2) Maldives to Slovakia (1)",
+        "Recall rate": "0.97",
+        "Description": "European lineage that's been assigned due to high support and 3 clear SNPs `28881GA``28882GA``28883GC`"
+    },
+    "B.1.1.1": {
+        "Lineage": "B.1.1.1",
+        "Countries": "UK (88%) Peru (2%) South_Africa (1%)",
+        "Earliest date": "March 03",
+        "Count": "2318",
+        "Travel history": "Austria to Iceland (2)",
+        "Recall rate": "0.56",
+        "Description": "UK/ Europe "
+    },
+    "B.1.1.2": {
+        "Lineage": "B.1.1.2",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 20",
+        "Count": "570",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "Welsh lineage "
+    },
+    "B.1.1.3": {
+        "Lineage": "B.1.1.3",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 18",
+        "Count": "116",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "English lineage "
+    },
+    "B.1.1.4": {
+        "Lineage": "B.1.1.4",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 31",
+        "Count": "343",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "UK lineage"
+    },
+    "B.1.1.5": {
+        "Lineage": "B.1.1.5",
+        "Countries": "UK (54%) Belgium (27%) Iceland (6%)",
+        "Earliest date": "March 16",
+        "Count": "52",
+        "Travel history": "",
+        "Recall rate": "0.05",
+        "Description": "Iceland/ Belgium/ UK "
+    },
+    "B.1.1.6": {
+        "Lineage": "B.1.1.6",
+        "Countries": "Austria (80%) Switzerland (10%) USA (10%)",
+        "Earliest date": "February 26",
+        "Count": "10",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "Austrian lineage"
+    },
+    "B.1.1.7": {
+        "Lineage": "B.1.1.7",
+        "Countries": "UK (89%) Japan (3%) Australia (2%)",
+        "Earliest date": "March 07",
+        "Count": "243",
+        "Travel history": "USA to Iceland (1)",
+        "Recall rate": "0.98",
+        "Description": "UK lineage"
+    },
+    "B.1.1.8": {
+        "Lineage": "B.1.1.8",
+        "Countries": "India (98%) UK (2%)",
+        "Earliest date": "May 11",
+        "Count": "184",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "Indian lineage"
+    },
+    "B.1.1.9": {
+        "Lineage": "B.1.1.9",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Reassigned B.1.1 split into three this week unstable lineage"
+    },
+    "B.1.1.10": {
+        "Lineage": "B.1.1.10",
+        "Countries": "UK (80%) Canada (7%) USA (4%)",
+        "Earliest date": "March 05",
+        "Count": "621",
+        "Travel history": "UK to Iceland (1) USA to Iceland (1)",
+        "Recall rate": "0.77",
+        "Description": "Formerly UK/ Iceland a lot of diversity in this lineage now has a Turkish sequence. "
+    },
+    "B.1.1.p11": {
+        "Lineage": "B.1.1.p11",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Reassigned B.1.1 previously Portugal/ Wales/ England/ Ecuador "
+    },
+    "B.1.1.12": {
+        "Lineage": "B.1.1.12",
+        "Countries": "UK (94%) Ecuador (3%) Switzerland (3%)",
+        "Earliest date": "March 21",
+        "Count": "35",
+        "Travel history": "",
+        "Recall rate": "0.72",
+        "Description": "Scottish lineage "
+    },
+    "B.1.1.13": {
+        "Lineage": "B.1.1.13",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 28",
+        "Count": "16",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "UK lineage (CAMB)"
+    },
+    "B.1.1.14": {
+        "Lineage": "B.1.1.14",
+        "Countries": "UK (100%)",
+        "Earliest date": "April 16",
+        "Count": "59",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Scottish lineage "
+    },
+    "B.1.1.15": {
+        "Lineage": "B.1.1.15",
+        "Countries": "UK (93%) Portugal (3%) Luxembourg (1%)",
+        "Earliest date": "March 09",
+        "Count": "407",
+        "Travel history": "",
+        "Recall rate": "0.82",
+        "Description": "Luxembourgh/ UK/ Portugal lineage"
+    },
+    "B.1.1.16": {
+        "Lineage": "B.1.1.16",
+        "Countries": "UK (98%) India (2%)",
+        "Earliest date": "April 03",
+        "Count": "52",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "Wales lineage (some reassigned to B.1.1 as split up in most recent phylogeny)"
+    },
+    "B.1.1.17": {
+        "Lineage": "B.1.1.17",
+        "Countries": "Iceland (89%) UK (11%)",
+        "Earliest date": "March 06",
+        "Count": "9",
+        "Travel history": "Italy to Iceland (1)",
+        "Recall rate": "0.88",
+        "Description": "Iceland lineage "
+    },
+    "B.1.1.19": {
+        "Lineage": "B.1.1.19",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Reassigned to B.1.1 as split up in most recent phylogeny. Australian lineage "
+    },
+    "B.1.1.20": {
+        "Lineage": "B.1.1.20",
+        "Countries": "UK (59%) Portugal (16%) USA (12%)",
+        "Earliest date": "March 21",
+        "Count": "32",
+        "Travel history": "",
+        "Recall rate": "0.93",
+        "Description": "Scottish lineage "
+    },
+    "B.1.1.21": {
+        "Lineage": "B.1.1.21",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Australian lineage reassigned to B.1.1 in most recent phylogeny"
+    },
+    "B.1.1.22": {
+        "Lineage": "B.1.1.22",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "South African lineage"
+    },
+    "B.1.1.23": {
+        "Lineage": "B.1.1.23",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Bangladesh lineage merged into B.1.1.25 in most recent phylogeny"
+    },
+    "B.1.1.24": {
+        "Lineage": "B.1.1.24",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Portuguese lineage"
+    },
+    "B.1.1.25": {
+        "Lineage": "B.1.1.25",
+        "Countries": "Bangladesh (52%) UK (36%) Australia (8%)",
+        "Earliest date": "February 29",
+        "Count": "368",
+        "Travel history": "",
+        "Recall rate": "0.31",
+        "Description": "Bangladesh lineage"
+    },
+    "B.1.1.26": {
+        "Lineage": "B.1.1.26",
+        "Countries": "USA (60%) UK (39%) Peru (1%)",
+        "Earliest date": "March 16",
+        "Count": "77",
+        "Travel history": "",
+        "Recall rate": "0.89",
+        "Description": "US lineage (WA)"
+    },
+    "B.1.1.27": {
+        "Lineage": "B.1.1.27",
+        "Countries": "Oman (94%) United_Arab_Emirates (5%) UK (1%)",
+        "Earliest date": "March 21",
+        "Count": "82",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Lineage in Oman"
+    },
+    "B.1.1.28": {
+        "Lineage": "B.1.1.28",
+        "Countries": "Brazil (81%) UK (12%) Australia (2%)",
+        "Earliest date": "March 15",
+        "Count": "206",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "Brazil lineage some sister sequences from parent node are also from Brazil however there's sequences from a variety of other locations on that node."
+    },
+    "B.1.1.29": {
+        "Lineage": "B.1.1.29",
+        "Countries": "UK (100%)",
+        "Earliest date": "February 28",
+        "Count": "166",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "Wales lineage "
+    },
+    "B.1.1.30": {
+        "Lineage": "B.1.1.30",
+        "Countries": "UK (98%) Lithuania (1%) USA (1%)",
+        "Earliest date": "March 12",
+        "Count": "737",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "UK lineage (Wales & England)"
+    },
+    "B.1.1.31": {
+        "Lineage": "B.1.1.31",
+        "Countries": "UK (71%) Netherlands (28%) Spain (1%)",
+        "Earliest date": "March 25",
+        "Count": "79",
+        "Travel history": "",
+        "Recall rate": "0.15",
+        "Description": "Netherlands lineage "
+    },
+    "B.1.1.32": {
+        "Lineage": "B.1.1.32",
+        "Countries": "India (94%) UK (4%) USA (1%)",
+        "Earliest date": "March 24",
+        "Count": "500",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "Indian lineage "
+    },
+    "B.1.1.33": {
+        "Lineage": "B.1.1.33",
+        "Countries": "Brazil (76%) USA (8%) UK (4%)",
+        "Earliest date": "March 12",
+        "Count": "289",
+        "Travel history": "Germany to Brazil (1)",
+        "Recall rate": "0.98",
+        "Description": "Majoritively South American lineage lots of Brazil sequences represented "
+    },
+    "B.1.1.34": {
+        "Lineage": "B.1.1.34",
+        "Countries": "South_Africa (63%) UK (30%) USA (3%)",
+        "Earliest date": "March 19",
+        "Count": "30",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "South African lineage"
+    },
+    "B.1.1.35": {
+        "Lineage": "B.1.1.35",
+        "Countries": "UK (96%) Peru (1%) New_Zealand (1%)",
+        "Earliest date": "March 02",
+        "Count": "3851",
+        "Travel history": "UK to Iceland (1)",
+        "Recall rate": "0.98",
+        "Description": "Previously a large part of B.1.1.1 however in the most recent phylogeny this has become a sister lineage to B.1.1.1. UK sequences represented in this lineage."
+    },
+    "B.1.1.36": {
+        "Lineage": "B.1.1.36",
+        "Countries": "USA (100%)",
+        "Earliest date": "April 06",
+        "Count": "23",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA (CA) lineage"
+    },
+    "B.1.1.37": {
+        "Lineage": "B.1.1.37",
+        "Countries": "UK (100%) Switzerland (0%) Netherlands (0%)",
+        "Earliest date": "March 19",
+        "Count": "2630",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "UK lineage (England)"
+    },
+    "B.1.1.38": {
+        "Lineage": "B.1.1.38",
+        "Countries": "UK (98%) USA (2%)",
+        "Earliest date": "April 29",
+        "Count": "111",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "Wales lineage"
+    },
+    "B.1.1.39": {
+        "Lineage": "B.1.1.39",
+        "Countries": "Switzerland (53%) UK (35%) Norway (8%)",
+        "Earliest date": "July 01",
+        "Count": "119",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Swiss lineage"
+    },
+    "B.1.1.40": {
+        "Lineage": "B.1.1.40",
+        "Countries": "South_Africa (91%) Russia (9%)",
+        "Earliest date": "May 13",
+        "Count": "11",
+        "Travel history": "",
+        "Recall rate": "0.89",
+        "Description": "South African lineage"
+    },
+    "B.1.1.41": {
+        "Lineage": "B.1.1.41",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 21",
+        "Count": "183",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "English lineage"
+    },
+    "B.1.1.42": {
+        "Lineage": "B.1.1.42",
+        "Countries": "UK (60%) Turkey (29%) Switzerland (3%)",
+        "Earliest date": "April 13",
+        "Count": "62",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "Turkish lineage"
+    },
+    "B.1.1.43": {
+        "Lineage": "B.1.1.43",
+        "Countries": "UK (98%) Spain (1%) USA (1%)",
+        "Earliest date": "March 20",
+        "Count": "142",
+        "Travel history": "",
+        "Recall rate": "0.46",
+        "Description": "Scottish lineage"
+    },
+    "B.1.1.44": {
+        "Lineage": "B.1.1.44",
+        "Countries": "UK (98%) USA (1%) Lithuania (0%)",
+        "Earliest date": "March 23",
+        "Count": "311",
+        "Travel history": "",
+        "Recall rate": "0.6",
+        "Description": "UK lineage"
+    },
+    "B.1.1.45": {
+        "Lineage": "B.1.1.45",
+        "Countries": "UK (100%)",
+        "Earliest date": "May 22",
+        "Count": "64",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "UK lineage"
+    },
+    "B.1.1.46": {
+        "Lineage": "B.1.1.46",
+        "Countries": "India (76%) UK (15%) Brazil (4%)",
+        "Earliest date": "April 20",
+        "Count": "46",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Indian lineage"
+    },
+    "B.1.1.47": {
+        "Lineage": "B.1.1.47",
+        "Countries": "UK (49%) Switzerland (44%) Italy (2%)",
+        "Earliest date": "April 03",
+        "Count": "55",
+        "Travel history": "",
+        "Recall rate": "0.83",
+        "Description": "Swiss lineage"
+    },
+    "B.1.1.48": {
+        "Lineage": "B.1.1.48",
+        "Countries": "Japan (100%)",
+        "Earliest date": "March 29",
+        "Count": "7",
+        "Travel history": "",
+        "Recall rate": "0.86",
+        "Description": "Japanese lineage"
+    },
+    "B.1.1.49": {
+        "Lineage": "B.1.1.49",
+        "Countries": "UK (94%) USA (6%)",
+        "Earliest date": "March 23",
+        "Count": "70",
+        "Travel history": "",
+        "Recall rate": "0.04",
+        "Description": "Wales lineage"
+    },
+    "B.1.1.50": {
+        "Lineage": "B.1.1.50",
+        "Countries": "UK (51%) Israel (25%) Netherlands (23%)",
+        "Earliest date": "March 29",
+        "Count": "57",
+        "Travel history": "",
+        "Recall rate": "0.65",
+        "Description": "UK/ Israel lineage"
+    },
+    "B.1.1.51": {
+        "Lineage": "B.1.1.51",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 25",
+        "Count": "568",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "UK lineage"
+    },
+    "B.1.1.52": {
+        "Lineage": "B.1.1.52",
+        "Countries": "UK (69%) South_Africa (31%)",
+        "Earliest date": "April 05",
+        "Count": "65",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "South African lineage (same parent node as B.1.1.53 but parent node is a large polytomy)"
+    },
+    "B.1.1.53": {
+        "Lineage": "B.1.1.53",
+        "Countries": "South_Africa (65%) USA (27%) Switzerland (4%)",
+        "Earliest date": "April 02",
+        "Count": "26",
+        "Travel history": "",
+        "Recall rate": "0.45",
+        "Description": "South African lineage (same parent node as B.1.1.53 but parent node is a large polytomy)"
+    },
+    "B.1.1.54": {
+        "Lineage": "B.1.1.54",
+        "Countries": "South_Africa (91%) UK (8%) USA (1%)",
+        "Earliest date": "March 19",
+        "Count": "253",
+        "Travel history": "Maldives to Taiwan (1)",
+        "Recall rate": "0.71",
+        "Description": "South African lineage"
+    },
+    "B.1.1.55": {
+        "Lineage": "B.1.1.55",
+        "Countries": "UK (88%) USA (6%) France (3%)",
+        "Earliest date": "March 20",
+        "Count": "186",
+        "Travel history": "",
+        "Recall rate": "0.75",
+        "Description": "England lineage"
+    },
+    "B.1.1.56": {
+        "Lineage": "B.1.1.56",
+        "Countries": "South_Africa (82%) UK (17%) Australia (1%)",
+        "Earliest date": "March 21",
+        "Count": "103",
+        "Travel history": "",
+        "Recall rate": "0.57",
+        "Description": "South African lineage"
+    },
+    "B.1.1.57": {
+        "Lineage": "B.1.1.57",
+        "Countries": "South_Africa (91%) Russia (9%)",
+        "Earliest date": "March 31",
+        "Count": "22",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "South African lineage"
+    },
+    "B.1.1.58": {
+        "Lineage": "B.1.1.58",
+        "Countries": "Switzerland (67%) UK (33%)",
+        "Earliest date": "June 23",
+        "Count": "15",
+        "Travel history": "",
+        "Recall rate": "0.86",
+        "Description": "Swiss lineage"
+    },
+    "B.1.1.59": {
+        "Lineage": "B.1.1.59",
+        "Countries": "UK (99%) Bangladesh (1%) USA (1%)",
+        "Earliest date": "March 08",
+        "Count": "162",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "Wales lineage"
+    },
+    "B.1.1.60": {
+        "Lineage": "B.1.1.60",
+        "Countries": "UK (98%) USA (1%) Russia (1%)",
+        "Earliest date": "March 19",
+        "Count": "369",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "Northern Ireland lineage"
+    },
+    "B.1.1.61": {
+        "Lineage": "B.1.1.61",
+        "Countries": "USA (92%) Canada (5%) Italy (3%)",
+        "Earliest date": "February 29",
+        "Count": "39",
+        "Travel history": "",
+        "Recall rate": "0.53",
+        "Description": "USA lineage (CA)"
+    },
+    "B.1.1.62": {
+        "Lineage": "B.1.1.62",
+        "Countries": "South_Africa (75%) UK (21%) Australia (4%)",
+        "Earliest date": "March 23",
+        "Count": "24",
+        "Travel history": "",
+        "Recall rate": "0.7",
+        "Description": "South African lienage"
+    },
+    "B.1.1.63": {
+        "Lineage": "B.1.1.63",
+        "Countries": "Hong_Kong (68%) South_Korea (12%) UK (8%)",
+        "Earliest date": "June 30",
+        "Count": "25",
+        "Travel history": "",
+        "Recall rate": "0.7",
+        "Description": "Hong Kong lineage"
+    },
+    "B.1.1.64": {
+        "Lineage": "B.1.1.64",
+        "Countries": "UK (94%) USA (2%) Australia (1%)",
+        "Earliest date": "March 11",
+        "Count": "299",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "UK lineage"
+    },
+    "B.1.1.65": {
+        "Lineage": "B.1.1.65",
+        "Countries": "USA (97%) UK (3%)",
+        "Earliest date": "April 15",
+        "Count": "38",
+        "Travel history": "",
+        "Recall rate": "0.84",
+        "Description": "USA lineage (WA) previously B.1.1.26 however split in most recent phylogeny"
+    },
+    "B.1.1.66": {
+        "Lineage": "B.1.1.66",
+        "Countries": "South_Africa (62%) UK (33%) USA (3%)",
+        "Earliest date": "April 05",
+        "Count": "39",
+        "Travel history": "",
+        "Recall rate": "0.95",
+        "Description": "South African lineage"
+    },
+    "B.1.1.67": {
+        "Lineage": "B.1.1.67",
+        "Countries": "UK (79%) South_Africa (19%) USA (1%)",
+        "Earliest date": "May 12",
+        "Count": "132",
+        "Travel history": "",
+        "Recall rate": "0.32",
+        "Description": "English/ South African lineage"
+    },
+    "B.1.1.68": {
+        "Lineage": "B.1.1.68",
+        "Countries": "Russia (83%) UK (12%) USA (4%)",
+        "Earliest date": "April 03",
+        "Count": "24",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "Russian lineage"
+    },
+    "B.1.1.69": {
+        "Lineage": "B.1.1.69",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Switzerland/ UK/ Italy lineage"
+    },
+    "B.1.1.70": {
+        "Lineage": "B.1.1.70",
+        "Countries": "UK (68%) Switzerland (17%) Serbia (7%)",
+        "Earliest date": "March 24",
+        "Count": "301",
+        "Travel history": "",
+        "Recall rate": "0.72",
+        "Description": "Northern Ireland lineage"
+    },
+    "B.1.1.71": {
+        "Lineage": "B.1.1.71",
+        "Countries": "Netherlands (37%) UK (29%) Australia (7%)",
+        "Earliest date": "March 06",
+        "Count": "68",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Australian/ Belgium/ Netherlands lineage"
+    },
+    "B.1.1.72": {
+        "Lineage": "B.1.1.72",
+        "Countries": "UK (41%) India (37%) Singapore (14%)",
+        "Earliest date": "March 28",
+        "Count": "106",
+        "Travel history": "",
+        "Recall rate": "0.71",
+        "Description": "UK/ India lineage"
+    },
+    "B.1.1.73": {
+        "Lineage": "B.1.1.73",
+        "Countries": "USA (95%) UK (5%)",
+        "Earliest date": "April 17",
+        "Count": "106",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage"
+    },
+    "B.1.1.74": {
+        "Lineage": "B.1.1.74",
+        "Countries": "UK (89%) Belgium (11%) Netherlands (0%)",
+        "Earliest date": "March 29",
+        "Count": "241",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Northern Ireland/ Belgium lineage"
+    },
+    "B.1.1.75": {
+        "Lineage": "B.1.1.75",
+        "Countries": "UK (39%) Belgium (25%) Sweden (11%)",
+        "Earliest date": "March 20",
+        "Count": "44",
+        "Travel history": "",
+        "Recall rate": "0.92",
+        "Description": "Belgium/ South Africa/ DRC lineage"
+    },
+    "B.1.1.76": {
+        "Lineage": "B.1.1.76",
+        "Countries": "USA (87%) UK (10%) Spain (3%)",
+        "Earliest date": "April 03",
+        "Count": "39",
+        "Travel history": "",
+        "Recall rate": "0.81",
+        "Description": "USA lineage (WA)"
+    },
+    "B.1.1.77": {
+        "Lineage": "B.1.1.77",
+        "Countries": "USA (96%) UK (3%) Peru (0%)",
+        "Earliest date": "March 18",
+        "Count": "442",
+        "Travel history": "",
+        "Recall rate": "0.67",
+        "Description": "USA lineage (WA)"
+    },
+    "B.1.2": {
+        "Lineage": "B.1.2",
+        "Countries": "USA (95%) UK (3%) United_States (1%)",
+        "Earliest date": "March 09",
+        "Count": "2717",
+        "Travel history": "Mexico;United_States to USA (3)",
+        "Recall rate": "0.96",
+        "Description": "USA lineage"
+    },
+    "B.1.3": {
+        "Lineage": "B.1.3",
+        "Countries": "USA (77%) UK (11%) Israel (7%)",
+        "Earliest date": "March 05",
+        "Count": "810",
+        "Travel history": "Mexico to Brazil (1)",
+        "Recall rate": "0.93",
+        "Description": "USA lineage"
+    },
+    "B.1.3.1": {
+        "Lineage": "B.1.3.1",
+        "Countries": "South_Korea (97%) USA (3%)",
+        "Earliest date": "May 05",
+        "Count": "165",
+        "Travel history": "",
+        "Recall rate": "0.42",
+        "Description": "South Korean lineage"
+    },
+    "B.1.5": {
+        "Lineage": "B.1.5",
+        "Countries": "UK (66%) USA (12%) Spain (12%)",
+        "Earliest date": "February 26",
+        "Count": "5636",
+        "Travel history": "Spain to Brazil China Iceland Costa_Rica (5) Switzerland to Iceland (1) Saudia_Arabia to Turkey (1) France to Italy (2)",
+        "Recall rate": "0.6",
+        "Description": "European lineage/ lots of Spanish sequences towards the basal end of the subtree and exports around the globe. Low support at parent node now potentially as a result of homoplasies "
+    },
+    "B.1.5.2": {
+        "Lineage": "B.1.5.2",
+        "Countries": "Netherlands (92%) UK (5%) USA (2%)",
+        "Earliest date": "March 14",
+        "Count": "40",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "Netherlands lineage"
+    },
+    "B.1.5.3": {
+        "Lineage": "B.1.5.3",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. English lineage (now containing an Australian & Swedish seqeuence) reassigned B.1.5"
+    },
+    "B.1.5.4": {
+        "Lineage": "B.1.5.4",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Reassigned to B.1.5 as B.1.5 now seems to be European/ Spanish so B.1.5.4 not a new introduction"
+    },
+    "B.1.5.5": {
+        "Lineage": "B.1.5.5",
+        "Countries": "UK (98%) Ecuador (1%) Italy (1%)",
+        "Earliest date": "April 01",
+        "Count": "117",
+        "Travel history": "",
+        "Recall rate": "0.63",
+        "Description": "English lineage"
+    },
+    "B.1.5.6": {
+        "Lineage": "B.1.5.6",
+        "Countries": "UK (89%) Spain (7%) Netherlands (2%)",
+        "Earliest date": "February 28",
+        "Count": "280",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "UK lineage"
+    },
+    "B.1.5.8": {
+        "Lineage": "B.1.5.8",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. US lineage"
+    },
+    "B.1.5.9": {
+        "Lineage": "B.1.5.9",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Welsh lineage (reassigned to B.1.142 as it falls outside of B.1.5 in the most recent phylogeny)"
+    },
+    "B.1.5.10": {
+        "Lineage": "B.1.5.10",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. UK lineage"
+    },
+    "B.1.5.11": {
+        "Lineage": "B.1.5.11",
+        "Countries": "USA (72%) UK (12%) Mexico (10%)",
+        "Earliest date": "March 16",
+        "Count": "60",
+        "Travel history": "",
+        "Recall rate": "0.58",
+        "Description": "USA lineage"
+    },
+    "B.1.5.12": {
+        "Lineage": "B.1.5.12",
+        "Countries": "UK (62%) Gambia (17%) Senegal (13%)",
+        "Earliest date": "March 20",
+        "Count": "316",
+        "Travel history": "",
+        "Recall rate": "0.59",
+        "Description": "Senegal lineage"
+    },
+    "B.1.5.13": {
+        "Lineage": "B.1.5.13",
+        "Countries": "Romania (81%) UK (12%) Switzerland (6%)",
+        "Earliest date": "April 09",
+        "Count": "16",
+        "Travel history": "",
+        "Recall rate": "0.3",
+        "Description": "Romanian lineage"
+    },
+    "B.1.5.14": {
+        "Lineage": "B.1.5.14",
+        "Countries": "UK (53%) Russia (35%) Hong_Kong (6%)",
+        "Earliest date": "March 20",
+        "Count": "17",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Russian lineage"
+    },
+    "B.1.5.15": {
+        "Lineage": "B.1.5.15",
+        "Countries": "USA (77%) UK (23%)",
+        "Earliest date": "March 18",
+        "Count": "26",
+        "Travel history": "",
+        "Recall rate": "0.3",
+        "Description": "USA lineage (CA)"
+    },
+    "B.1.5.16": {
+        "Lineage": "B.1.5.16",
+        "Countries": "South_Africa (100%)",
+        "Earliest date": "May 30",
+        "Count": "9",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "South African lineage"
+    },
+    "B.1.5.17": {
+        "Lineage": "B.1.5.17",
+        "Countries": "USA (56%) UK (41%) Spain (3%)",
+        "Earliest date": "April 10",
+        "Count": "34",
+        "Travel history": "",
+        "Recall rate": "0.35",
+        "Description": "USA lineage (OR & AK)"
+    },
+    "B.1.5.18": {
+        "Lineage": "B.1.5.18",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 22",
+        "Count": "63",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Scottish lineage (previously B.1.101)"
+    },
+    "B.1.5.19": {
+        "Lineage": "B.1.5.19",
+        "Countries": "South_Africa (100%)",
+        "Earliest date": "May 13",
+        "Count": "8",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "South African lineage"
+    },
+    "B.1.5.20": {
+        "Lineage": "B.1.5.20",
+        "Countries": "Romania (91%) Ukraine (9%)",
+        "Earliest date": "March 22",
+        "Count": "11",
+        "Travel history": "",
+        "Recall rate": "0.75",
+        "Description": "Romanian lineage"
+    },
+    "B.1.5.21": {
+        "Lineage": "B.1.5.21",
+        "Countries": "UK (100%)",
+        "Earliest date": "April 24",
+        "Count": "67",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Scottish lineage"
+    },
+    "B.1.5.22": {
+        "Lineage": "B.1.5.22",
+        "Countries": "South_Africa (100%)",
+        "Earliest date": "May 13",
+        "Count": "9",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "South Arican lineage"
+    },
+    "B.1.5.23": {
+        "Lineage": "B.1.5.23",
+        "Countries": "UK (82%) Spain (15%) Canada (2%)",
+        "Earliest date": "March 18",
+        "Count": "65",
+        "Travel history": "",
+        "Recall rate": "0.85",
+        "Description": "Spanish lineage"
+    },
+    "B.1.5.24": {
+        "Lineage": "B.1.5.24",
+        "Countries": "USA (68%) Norway (24%) Mexico (8%)",
+        "Earliest date": "April 20",
+        "Count": "90",
+        "Travel history": "",
+        "Recall rate": "0.79",
+        "Description": "Norwegian lineage"
+    },
+    "B.1.5.25": {
+        "Lineage": "B.1.5.25",
+        "Countries": "UK (99%) USA (1%)",
+        "Earliest date": "March 21",
+        "Count": "68",
+        "Travel history": "",
+        "Recall rate": "0.46",
+        "Description": "UK lineage (previously B.1.99)"
+    },
+    "B.1.5.26": {
+        "Lineage": "B.1.5.26",
+        "Countries": "UK (96%) USA (2%) Switzerland (1%)",
+        "Earliest date": "April 06",
+        "Count": "81",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Scottish lineage (previously B.1.100)"
+    },
+    "B.1.5.27": {
+        "Lineage": "B.1.5.27",
+        "Countries": "USA (96%) Mexico (3%) South_Korea (1%)",
+        "Earliest date": "March 30",
+        "Count": "294",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage (CA)"
+    },
+    "B.1.5.28": {
+        "Lineage": "B.1.5.28",
+        "Countries": "UK (100%)",
+        "Earliest date": "April 07",
+        "Count": "34",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "English lineage"
+    },
+    "B.1.6": {
+        "Lineage": "B.1.6",
+        "Countries": "Belgium (50%) Peru (23%) DRC (10%)",
+        "Earliest date": "March 05",
+        "Count": "30",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Belgian lineage "
+    },
+    "B.1.8": {
+        "Lineage": "B.1.8",
+        "Countries": "Netherlands (60%) UK (7%) South_Africa (6%)",
+        "Earliest date": "March 09",
+        "Count": "127",
+        "Travel history": "Austria to Iceland (4) UK to South_Africa (1)",
+        "Recall rate": "0.33",
+        "Description": "Netherlands/ South African lineage with sequences from Europe"
+    },
+    "B.1.8.1": {
+        "Lineage": "B.1.8.1",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. South African lineage (sequences reassigned to B.1.8)"
+    },
+    "B.1.8.2": {
+        "Lineage": "B.1.8.2",
+        "Countries": "USA (100%)",
+        "Earliest date": "April 22",
+        "Count": "19",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA (CA) lineage"
+    },
+    "B.1.9": {
+        "Lineage": "B.1.9",
+        "Countries": "UK (37%) Turkey (19%) Belgium (15%)",
+        "Earliest date": "March 14",
+        "Count": "155",
+        "Travel history": "Saudia_Arabia to Turkey (1)",
+        "Recall rate": "0.98",
+        "Description": "Netherlands/ Belgium/ Turkey/ DRC "
+    },
+    "B.1.11": {
+        "Lineage": "B.1.11",
+        "Countries": "UK (98%) Australia (1%) Singapore (0%)",
+        "Earliest date": "March 11",
+        "Count": "202",
+        "Travel history": "",
+        "Recall rate": "0.96",
+        "Description": "UK lineage pruned down relative to previous release. A number of sequences previously assigned B.1.11 reassigned to B.1 and some reassigned to B.1.88. "
+    },
+    "B.1.12": {
+        "Lineage": "B.1.12",
+        "Countries": "UK (60%) Belgium (21%) Luxembourg (14%)",
+        "Earliest date": "March 05",
+        "Count": "78",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "BeNeLux/ UK lineage"
+    },
+    "B.1.13": {
+        "Lineage": "B.1.13",
+        "Countries": "UK (96%) Australia (1%) Canada (1%)",
+        "Earliest date": "March 09",
+        "Count": "401",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "UK lineage"
+    },
+    "B.1.14": {
+        "Lineage": "B.1.14",
+        "Countries": "USA (100%)",
+        "Earliest date": "March 31",
+        "Count": "21",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage"
+    },
+    "B.1.p16": {
+        "Lineage": "B.1.p16",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Belgium lineage reassigned to B.1"
+    },
+    "B.1.19": {
+        "Lineage": "B.1.19",
+        "Countries": "USA (68%) UK (23%) Sweden (5%)",
+        "Earliest date": "March 22",
+        "Count": "22",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage (WI)"
+    },
+    "B.1.21": {
+        "Lineage": "B.1.21",
+        "Countries": "USA (99%) UK (1%)",
+        "Earliest date": "March 09",
+        "Count": "246",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "Washington (USA) "
+    },
+    "B.1.22": {
+        "Lineage": "B.1.22",
+        "Countries": "Netherlands (84%) UK (8%) Australia (2%)",
+        "Earliest date": "March 09",
+        "Count": "261",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Netherlands lineage now with some European sequences and some Australian sequences "
+    },
+    "B.1.23": {
+        "Lineage": "B.1.23",
+        "Countries": "Australia (84%) New_Zealand (8%) USA (8%)",
+        "Earliest date": "March 22",
+        "Count": "38",
+        "Travel history": "",
+        "Recall rate": "0.08",
+        "Description": "Australian lineage with a New Zealand sequence at base"
+    },
+    "B.1.25": {
+        "Lineage": "B.1.25",
+        "Countries": "Australia (43%) UK (43%) USA (14%)",
+        "Earliest date": "March 13",
+        "Count": "28",
+        "Travel history": "",
+        "Recall rate": "0.85",
+        "Description": "Australian lineage"
+    },
+    "B.1.26": {
+        "Lineage": "B.1.26",
+        "Countries": "USA (89%) UK (5%) New_Zealand (3%)",
+        "Earliest date": "March 15",
+        "Count": "523",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "New Zealand/ USA lineage "
+    },
+    "B.1.29": {
+        "Lineage": "B.1.29",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. USA lineage reassigned to B.1 as the structure of this lineage not present in the most recent phylogeny"
+    },
+    "B.1.30": {
+        "Lineage": "B.1.30",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. English lineage"
+    },
+    "B.1.31": {
+        "Lineage": "B.1.31",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Australia lineage split up this phylogeny reassigned to B.1"
+    },
+    "B.1.32": {
+        "Lineage": "B.1.32",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Swedish lineage "
+    },
+    "B.1.34": {
+        "Lineage": "B.1.34",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 17",
+        "Count": "30",
+        "Travel history": "",
+        "Recall rate": "0.37",
+        "Description": "England lineage (NOTT)"
+    },
+    "B.1.35": {
+        "Lineage": "B.1.35",
+        "Countries": "UK (94%) USA (4%) Switzerland (1%)",
+        "Earliest date": "March 07",
+        "Count": "305",
+        "Travel history": "",
+        "Recall rate": "0.93",
+        "Description": "UK lineage (Wales & England)"
+    },
+    "B.1.36": {
+        "Lineage": "B.1.36",
+        "Countries": "UK (47%) India (25%) Saudi_Arabia (12%)",
+        "Earliest date": "February 16",
+        "Count": "1011",
+        "Travel history": "Saudia_Arabia to Turkey (1) Iran to Turkey (1)",
+        "Recall rate": "0.76",
+        "Description": "Global lineage with lots of representation of sequences from India and Saudi Arabia. Sequences also from Europe and UK. Now includes sequences that previously had been assigned B.1.113. "
+    },
+    "B.1.36.1": {
+        "Lineage": "B.1.36.1",
+        "Countries": "UK (91%) India (5%) New_Zealand (1%)",
+        "Earliest date": "May 11",
+        "Count": "1051",
+        "Travel history": "",
+        "Recall rate": "0.94",
+        "Description": "Indian lineage"
+    },
+    "B.1.36.2": {
+        "Lineage": "B.1.36.2",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Bangladesh lineage"
+    },
+    "B.1.37": {
+        "Lineage": "B.1.37",
+        "Countries": "USA (100%)",
+        "Earliest date": "March 10",
+        "Count": "23",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage (VA)"
+    },
+    "B.1.38": {
+        "Lineage": "B.1.38",
+        "Countries": "USA (61%) UK (39%)",
+        "Earliest date": "March 17",
+        "Count": "23",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage"
+    },
+    "B.1.39": {
+        "Lineage": "B.1.39",
+        "Countries": "Denmark (76%) UK (11%) USA (7%)",
+        "Earliest date": "March 13",
+        "Count": "45",
+        "Travel history": "",
+        "Recall rate": "0.12",
+        "Description": "Danish lineage"
+    },
+    "B.1.40": {
+        "Lineage": "B.1.40",
+        "Countries": "UK (95%) France (4%) USA (2%)",
+        "Earliest date": "March 18",
+        "Count": "55",
+        "Travel history": "",
+        "Recall rate": "0.68",
+        "Description": "Scottish lineage"
+    },
+    "B.1.41": {
+        "Lineage": "B.1.41",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. USA lineage: Split up in most recent phylogeny reassigned to B.1"
+    },
+    "B.1.42": {
+        "Lineage": "B.1.42",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Sweden/ Denmark lineage"
+    },
+    "B.1.43": {
+        "Lineage": "B.1.43",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "USA lineage "
+    },
+    "B.1.44": {
+        "Lineage": "B.1.44",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 25",
+        "Count": "133",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "Wales lineage"
+    },
+    "B.1.66": {
+        "Lineage": "B.1.66",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "English lineage "
+    },
+    "B.1.67": {
+        "Lineage": "B.1.67",
+        "Countries": "UK (96%) Ecuador (4%)",
+        "Earliest date": "March 25",
+        "Count": "23",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Welsh lineage sequence from Ecuador"
+    },
+    "B.1.68": {
+        "Lineage": "B.1.68",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "USA lineage (UT) "
+    },
+    "B.1.68.1": {
+        "Lineage": "B.1.68.1",
+        "Countries": "USA (100%)",
+        "Earliest date": "May 07",
+        "Count": "7",
+        "Travel history": "",
+        "Recall rate": "0.83",
+        "Description": "USA lineage (TX)"
+    },
+    "B.1.69": {
+        "Lineage": "B.1.69",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 06",
+        "Count": "23",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Scottish lineage "
+    },
+    "B.1.70": {
+        "Lineage": "B.1.70",
+        "Countries": "UK (98%) USA (2%)",
+        "Earliest date": "March 13",
+        "Count": "53",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Scottish lineage"
+    },
+    "B.1.71": {
+        "Lineage": "B.1.71",
+        "Countries": "UK (97%) Switzerland (1%) Gambia (1%)",
+        "Earliest date": "March 14",
+        "Count": "74",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "UK lineage (Scotland and Wales sequences )"
+    },
+    "B.1.72": {
+        "Lineage": "B.1.72",
+        "Countries": "UK (95%) USA (5%)",
+        "Earliest date": "March 16",
+        "Count": "65",
+        "Travel history": "",
+        "Recall rate": "0.92",
+        "Description": "UK lineage (BRIS)"
+    },
+    "B.1.74": {
+        "Lineage": "B.1.74",
+        "Countries": "Spain (70%) Portugal (7%) Canada (7%)",
+        "Earliest date": "March 01",
+        "Count": "27",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Spanish lineage with sequences from Portugal too"
+    },
+    "B.1.75": {
+        "Lineage": "B.1.75",
+        "Countries": "UK (96%) Mexico (1%) Luxembourg (1%)",
+        "Earliest date": "March 06",
+        "Count": "167",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "English lineage"
+    },
+    "B.1.76": {
+        "Lineage": "B.1.76",
+        "Countries": "UK (99%) Norway (1%)",
+        "Earliest date": "February 24",
+        "Count": "85",
+        "Travel history": "",
+        "Recall rate": "0.28",
+        "Description": "English lineage"
+    },
+    "B.1.77": {
+        "Lineage": "B.1.77",
+        "Countries": "UK (97%) Canada (2%) USA (1%)",
+        "Earliest date": "February 24",
+        "Count": "184",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "UK lineage"
+    },
+    "B.1.78": {
+        "Lineage": "B.1.78",
+        "Countries": "UK (74%) Netherlands (14%) Belgium (8%)",
+        "Earliest date": "March 13",
+        "Count": "499",
+        "Travel history": "",
+        "Recall rate": "0.87",
+        "Description": "Netherlands lineage"
+    },
+    "B.1.79": {
+        "Lineage": "B.1.79",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. English lineage now reassigned to B.1.5"
+    },
+    "B.1.80": {
+        "Lineage": "B.1.80",
+        "Countries": "India (82%) UK (12%) Australia (2%)",
+        "Earliest date": "April 06",
+        "Count": "103",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "Indian lineage with an English sequence"
+    },
+    "B.1.81": {
+        "Lineage": "B.1.81",
+        "Countries": "UK (98%) Iceland (2%)",
+        "Earliest date": "March 16",
+        "Count": "40",
+        "Travel history": "Austria to Iceland (1)",
+        "Recall rate": "0.94",
+        "Description": "English lineage"
+    },
+    "B.1.82": {
+        "Lineage": "B.1.82",
+        "Countries": "UK (100%)",
+        "Earliest date": "May 13",
+        "Count": "49",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "English lineage"
+    },
+    "B.1.83": {
+        "Lineage": "B.1.83",
+        "Countries": "Belgium (83%) USA (8%) UK (8%)",
+        "Earliest date": "March 24",
+        "Count": "24",
+        "Travel history": "",
+        "Recall rate": "0.3",
+        "Description": "Belgian lineage"
+    },
+    "B.1.84": {
+        "Lineage": "B.1.84",
+        "Countries": "DRC (100%)",
+        "Earliest date": "April 10",
+        "Count": "23",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "DRC lineage"
+    },
+    "B.1.85": {
+        "Lineage": "B.1.85",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "USA lineage"
+    },
+    "B.1.86": {
+        "Lineage": "B.1.86",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "English lineage (SHEF)"
+    },
+    "B.1.87": {
+        "Lineage": "B.1.87",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Indian lineage with some Chinese and South African sequences"
+    },
+    "B.1.88": {
+        "Lineage": "B.1.88",
+        "Countries": "UK (96%) Australia (1%) Romania (1%)",
+        "Earliest date": "March 12",
+        "Count": "119",
+        "Travel history": "",
+        "Recall rate": "0.89",
+        "Description": "UK lineage previously some of these seqeunces had been assigned B.1.11 but this clade has split in the tree. "
+    },
+    "B.1.89": {
+        "Lineage": "B.1.89",
+        "Countries": "UK (92%) Switzerland (3%) France (3%)",
+        "Earliest date": "March 07",
+        "Count": "90",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "Scottish lineage"
+    },
+    "B.1.90": {
+        "Lineage": "B.1.90",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 18",
+        "Count": "107",
+        "Travel history": "",
+        "Recall rate": "0.79",
+        "Description": "Scottish lineage"
+    },
+    "B.1.91": {
+        "Lineage": "B.1.91",
+        "Countries": "Portugal (100%)",
+        "Earliest date": "March 14",
+        "Count": "79",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Portuguese lineage parent node in B.1 also has Portuguese diversity however is interspersed with sequences from UK and other European countries"
+    },
+    "B.1.93": {
+        "Lineage": "B.1.93",
+        "Countries": "UK (98%) Switzerland (1%) Spain (0%)",
+        "Earliest date": "March 11",
+        "Count": "1305",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "UK lineage majoritively Scottish sequences"
+    },
+    "B.1.94": {
+        "Lineage": "B.1.94",
+        "Countries": "Luxembourg (79%) Switzerland (7%) USA (7%)",
+        "Earliest date": "March 15",
+        "Count": "14",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Luxembourg lineage"
+    },
+    "B.1.95": {
+        "Lineage": "B.1.95",
+        "Countries": "India (100%)",
+        "Earliest date": "April 14",
+        "Count": "13",
+        "Travel history": "",
+        "Recall rate": "0.9",
+        "Description": "Indian lineage"
+    },
+    "B.1.96": {
+        "Lineage": "B.1.96",
+        "Countries": "Netherlands (80%) USA (12%) UK (8%)",
+        "Earliest date": "March 14",
+        "Count": "25",
+        "Travel history": "",
+        "Recall rate": "0.8",
+        "Description": "Netherlands lineage"
+    },
+    "B.1.97": {
+        "Lineage": "B.1.97",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 24",
+        "Count": "37",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "English lineage"
+    },
+    "B.1.98": {
+        "Lineage": "B.1.98",
+        "Countries": "UK (91%) USA (4%) Australia (2%)",
+        "Earliest date": "February 03",
+        "Count": "653",
+        "Travel history": "Spain to Iceland (1) UK to Iceland (1)",
+        "Recall rate": "0.99",
+        "Description": "UK lineage with some USA and Australian sequences in"
+    },
+    "B.1.99": {
+        "Lineage": "B.1.99",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Now reassigned to B.1.5.25 English lineage"
+    },
+    "B.1.100": {
+        "Lineage": "B.1.100",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Reassigned to B.1.5.26 Scottish lineage"
+    },
+    "B.1.101": {
+        "Lineage": "B.1.101",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Scottish lineage reassigned to B.1.5.18"
+    },
+    "B.1.102": {
+        "Lineage": "B.1.102",
+        "Countries": "UK (60%) Iceland (33%) USA (4%)",
+        "Earliest date": "February 24",
+        "Count": "48",
+        "Travel history": "",
+        "Recall rate": "0.35",
+        "Description": "Icelandic lineage"
+    },
+    "B.1.103": {
+        "Lineage": "B.1.103",
+        "Countries": "USA (100%)",
+        "Earliest date": "April 09",
+        "Count": "17",
+        "Travel history": "",
+        "Recall rate": "0.45",
+        "Description": "US lineage (MI)"
+    },
+    "B.1.104": {
+        "Lineage": "B.1.104",
+        "Countries": "UK (97%) USA (2%) Singapore (1%)",
+        "Earliest date": "March 19",
+        "Count": "234",
+        "Travel history": "",
+        "Recall rate": "0.29",
+        "Description": "English lineage"
+    },
+    "B.1.105": {
+        "Lineage": "B.1.105",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 06",
+        "Count": "107",
+        "Travel history": "",
+        "Recall rate": "0.74",
+        "Description": "English lineage (CAMB)"
+    },
+    "B.1.106": {
+        "Lineage": "B.1.106",
+        "Countries": "UK (36%) South_Africa (34%) USA (25%)",
+        "Earliest date": "March 16",
+        "Count": "59",
+        "Travel history": "",
+        "Recall rate": "0.95",
+        "Description": "South African lineage some USA sequences"
+    },
+    "B.1.107": {
+        "Lineage": "B.1.107",
+        "Countries": "Denmark (33%) UK (32%) USA (28%)",
+        "Earliest date": "March 16",
+        "Count": "69",
+        "Travel history": "",
+        "Recall rate": "0.34",
+        "Description": "Danish lineage with new USA and UK sequences nested within (previously B.1.5/ B.1.5.8)"
+    },
+    "B.1.108": {
+        "Lineage": "B.1.108",
+        "Countries": "USA (100%)",
+        "Earliest date": "March 14",
+        "Count": "24",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "US lineage"
+    },
+    "B.1.109": {
+        "Lineage": "B.1.109",
+        "Countries": "Luxembourg (100%)",
+        "Earliest date": "April 12",
+        "Count": "8",
+        "Travel history": "",
+        "Recall rate": "0.88",
+        "Description": "Luxembourg lineage"
+    },
+    "B.1.110": {
+        "Lineage": "B.1.110",
+        "Countries": "USA (67%) UK (18%) Chile (11%)",
+        "Earliest date": "March 02",
+        "Count": "97",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Chilean/ US lineage"
+    },
+    "B.1.111": {
+        "Lineage": "B.1.111",
+        "Countries": "UK (50%) Colombia (33%) USA (10%)",
+        "Earliest date": "March 07",
+        "Count": "30",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "South American/ English lineage "
+    },
+    "B.1.112": {
+        "Lineage": "B.1.112",
+        "Countries": "USA (100%)",
+        "Earliest date": "April 07",
+        "Count": "49",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "US lineage (UT & WI)"
+    },
+    "B.1.113": {
+        "Lineage": "B.1.113",
+        "Countries": "India (98%) UK (2%)",
+        "Earliest date": "June 03",
+        "Count": "44",
+        "Travel history": "",
+        "Recall rate": "0.84",
+        "Description": "Indian lineage some sequences reassigned from B.1.36"
+    },
+    "B.1.114": {
+        "Lineage": "B.1.114",
+        "Countries": "Canada (95%) USA (3%) Singapore (2%)",
+        "Earliest date": "March 19",
+        "Count": "59",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Canadian lineage"
+    },
+    "B.1.115": {
+        "Lineage": "B.1.115",
+        "Countries": "UK (59%) Israel (37%) USA (5%)",
+        "Earliest date": "March 22",
+        "Count": "41",
+        "Travel history": "",
+        "Recall rate": "0.73",
+        "Description": "Israel/ UK lineage"
+    },
+    "B.1.116": {
+        "Lineage": "B.1.116",
+        "Countries": "USA (100%)",
+        "Earliest date": "April 29",
+        "Count": "24",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "US lineage"
+    },
+    "B.1.117": {
+        "Lineage": "B.1.117",
+        "Countries": "UK (99%) Canada (1%)",
+        "Earliest date": "March 30",
+        "Count": "68",
+        "Travel history": "",
+        "Recall rate": "0.65",
+        "Description": "UK lineage (BRIS)"
+    },
+    "B.1.118": {
+        "Lineage": "B.1.118",
+        "Countries": "Denmark (86%) USA (14%)",
+        "Earliest date": "March 19",
+        "Count": "14",
+        "Travel history": "",
+        "Recall rate": "0.8",
+        "Description": "Danish lineage"
+    },
+    "B.1.119": {
+        "Lineage": "B.1.119",
+        "Countries": "USA (68%) UK (21%) Canada (12%)",
+        "Earliest date": "March 17",
+        "Count": "34",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "US lineage (MI)"
+    },
+    "B.1.120": {
+        "Lineage": "B.1.120",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 27",
+        "Count": "142",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "Wales lineage"
+    },
+    "B.1.121": {
+        "Lineage": "B.1.121",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Australian lineage"
+    },
+    "B.1.122": {
+        "Lineage": "B.1.122",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Welsh lineage"
+    },
+    "B.1.123": {
+        "Lineage": "B.1.123",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Washington lineage had previously been part of B.1.21 and has rejoined it in the most recent phylogeny"
+    },
+    "B.1.124": {
+        "Lineage": "B.1.124",
+        "Countries": "USA (100%)",
+        "Earliest date": "March 26",
+        "Count": "40",
+        "Travel history": "",
+        "Recall rate": "0.95",
+        "Description": "USA lineage (WA)"
+    },
+    "B.1.125": {
+        "Lineage": "B.1.125",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "South African lineage"
+    },
+    "B.1.126": {
+        "Lineage": "B.1.126",
+        "Countries": "Germany (94%) Bosnia_and_Herzegovina (6%)",
+        "Earliest date": "March 23",
+        "Count": "18",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "German lineage"
+    },
+    "B.1.127": {
+        "Lineage": "B.1.127",
+        "Countries": "Ukraine (64%) UK (18%) Switzerland (9%)",
+        "Earliest date": "April 03",
+        "Count": "11",
+        "Travel history": "",
+        "Recall rate": "0.25",
+        "Description": "Ukraine/ Latvian lineage"
+    },
+    "B.1.128": {
+        "Lineage": "B.1.128",
+        "Countries": "DRC (40%) Switzerland (35%) Canada (12%)",
+        "Earliest date": "March 13",
+        "Count": "40",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "European/ DRC lineage"
+    },
+    "B.1.129": {
+        "Lineage": "B.1.129",
+        "Countries": "Sweden (83%) UK (8%) Russia (4%)",
+        "Earliest date": "March 18",
+        "Count": "24",
+        "Travel history": "",
+        "Recall rate": "0.1",
+        "Description": "Swedish lineage"
+    },
+    "B.1.130": {
+        "Lineage": "B.1.130",
+        "Countries": "UK (71%) Saudi_Arabia (22%) USA (3%)",
+        "Earliest date": "March 20",
+        "Count": "59",
+        "Travel history": "",
+        "Recall rate": "0.05",
+        "Description": "Saudi Arabian lineage some sequences had previously been assigned B.1.36. Possible that it may be reassigned B.1.36 again in future due to uncertainty in ML searching."
+    },
+    "B.1.131": {
+        "Lineage": "B.1.131",
+        "Countries": "Ukraine (50%) UK (22%) Italy (17%)",
+        "Earliest date": "February 23",
+        "Count": "18",
+        "Travel history": "",
+        "Recall rate": "0.1",
+        "Description": "Ukraine lineage"
+    },
+    "B.1.132": {
+        "Lineage": "B.1.132",
+        "Countries": "UK (54%) India (37%) USA (8%)",
+        "Earliest date": "March 27",
+        "Count": "52",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "Indian lineage some sequences previously assigned B.1.36 & B.1.113. Possible that it may be reassigned B.1.36 again in future due to uncertainty in ML searching."
+    },
+    "B.1.133": {
+        "Lineage": "B.1.133",
+        "Countries": "South_Africa (90%) UK (10%)",
+        "Earliest date": "April 07",
+        "Count": "10",
+        "Travel history": "",
+        "Recall rate": "0.14",
+        "Description": "South African lineage"
+    },
+    "B.1.134": {
+        "Lineage": "B.1.134",
+        "Countries": "USA (73%) UK (27%)",
+        "Earliest date": "April 08",
+        "Count": "66",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage (OR)"
+    },
+    "B.1.135": {
+        "Lineage": "B.1.135",
+        "Countries": "Portugal (100%)",
+        "Earliest date": "March 18",
+        "Count": "6",
+        "Travel history": "",
+        "Recall rate": "0.5",
+        "Description": "Small Portuguese lineage"
+    },
+    "B.1.136": {
+        "Lineage": "B.1.136",
+        "Countries": "India (73%) UK (27%)",
+        "Earliest date": "March 27",
+        "Count": "30",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Indian lineage"
+    },
+    "B.1.137": {
+        "Lineage": "B.1.137",
+        "Countries": "USA (100%)",
+        "Earliest date": "April 13",
+        "Count": "22",
+        "Travel history": "",
+        "Recall rate": "0.45",
+        "Description": "USA lineage (UT)"
+    },
+    "B.1.138": {
+        "Lineage": "B.1.138",
+        "Countries": "Australia (100%)",
+        "Earliest date": "March 22",
+        "Count": "6",
+        "Travel history": "",
+        "Recall rate": "0.75",
+        "Description": "Small Australian lineage"
+    },
+    "B.1.139": {
+        "Lineage": "B.1.139",
+        "Countries": "USA (96%) UK (3%) Cuba (1%)",
+        "Earliest date": "March 04",
+        "Count": "178",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "USA lineage"
+    },
+    "B.1.140": {
+        "Lineage": "B.1.140",
+        "Countries": "UK (51%) South_Africa (45%) Hong_Kong (1%)",
+        "Earliest date": "March 04",
+        "Count": "87",
+        "Travel history": "",
+        "Recall rate": "0.92",
+        "Description": "South African/ English lineage"
+    },
+    "B.1.141": {
+        "Lineage": "B.1.141",
+        "Countries": "UK (97%) USA (1%) India (0%)",
+        "Earliest date": "March 10",
+        "Count": "621",
+        "Travel history": "",
+        "Recall rate": "0.33",
+        "Description": "Scottish lineage"
+    },
+    "B.1.142": {
+        "Lineage": "B.1.142",
+        "Countries": "UK (100%) Sweden (0%)",
+        "Earliest date": "March 01",
+        "Count": "368",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Welsh lineage (B.1.5.9 reassigned as it falls outside of B.1.5 in the most recent phylogeny)"
+    },
+    "B.1.143": {
+        "Lineage": "B.1.143",
+        "Countries": "India (83%) UK (6%) Luxembourg (3%)",
+        "Earliest date": "March 15",
+        "Count": "36",
+        "Travel history": "",
+        "Recall rate": "0.27",
+        "Description": "Indian lineage"
+    },
+    "B.1.144": {
+        "Lineage": "B.1.144",
+        "Countries": "UK (81%) USA (17%) South_Africa (2%)",
+        "Earliest date": "March 21",
+        "Count": "431",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "South African lineage"
+    },
+    "B.1.145": {
+        "Lineage": "B.1.145",
+        "Countries": "India (100%)",
+        "Earliest date": "April 21",
+        "Count": "12",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Indian lineage"
+    },
+    "B.1.146": {
+        "Lineage": "B.1.146",
+        "Countries": "Switzerland (73%) Austria (13%) Netherlands (7%)",
+        "Earliest date": "May 23",
+        "Count": "15",
+        "Travel history": "",
+        "Recall rate": "0.9",
+        "Description": "Swiss lineage"
+    },
+    "B.1.147": {
+        "Lineage": "B.1.147",
+        "Countries": "Canada (47%) UK (29%) Belgium (9%)",
+        "Earliest date": "March 04",
+        "Count": "104",
+        "Travel history": "",
+        "Recall rate": "0.4",
+        "Description": "Canadian lineage with French Belgian DRC and English sequences"
+    },
+    "B.1.148": {
+        "Lineage": "B.1.148",
+        "Countries": "UK (100%) India (0%)",
+        "Earliest date": "March 03",
+        "Count": "258",
+        "Travel history": "",
+        "Recall rate": "0.67",
+        "Description": "English lineage"
+    },
+    "B.1.149": {
+        "Lineage": "B.1.149",
+        "Countries": "DRC (58%) UK (24%) Netherlands (15%)",
+        "Earliest date": "April 08",
+        "Count": "33",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "DRC lineage"
+    },
+    "B.1.150": {
+        "Lineage": "B.1.150",
+        "Countries": "India (80%) Iran (10%) UK (10%)",
+        "Earliest date": "March 18",
+        "Count": "10",
+        "Travel history": "",
+        "Recall rate": "0.5",
+        "Description": "Indian lineage with very long branch Iran sequence"
+    },
+    "B.1.151": {
+        "Lineage": "B.1.151",
+        "Countries": "UK (95%) USA (2%) France (2%)",
+        "Earliest date": "March 14",
+        "Count": "133",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "UK lineage"
+    },
+    "B.1.152": {
+        "Lineage": "B.1.152",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 29",
+        "Count": "40",
+        "Travel history": "",
+        "Recall rate": "0.95",
+        "Description": "English lineage"
+    },
+    "B.1.153": {
+        "Lineage": "B.1.153",
+        "Countries": "UK (90%) Belgium (2%) Poland (1%)",
+        "Earliest date": "March 12",
+        "Count": "93",
+        "Travel history": "",
+        "Recall rate": "0.94",
+        "Description": "English lineage with some Australian New Zealand and European sequences"
+    },
+    "B.1.154": {
+        "Lineage": "B.1.154",
+        "Countries": "USA (100%)",
+        "Earliest date": "April 21",
+        "Count": "22",
+        "Travel history": "",
+        "Recall rate": "0.75",
+        "Description": "USA lineage"
+    },
+    "B.1.155": {
+        "Lineage": "B.1.155",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "USA (WA) lineage"
+    },
+    "B.1.156": {
+        "Lineage": "B.1.156",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 20",
+        "Count": "53",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "Scottish lineage"
+    },
+    "B.1.157": {
+        "Lineage": "B.1.157",
+        "Countries": "UK (77%) Spain (19%) Netherlands (1%)",
+        "Earliest date": "March 08",
+        "Count": "152",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "UK lineage with some European sequences"
+    },
+    "B.1.158": {
+        "Lineage": "B.1.158",
+        "Countries": "Egypt (50%) Finland (38%) Norway (6%)",
+        "Earliest date": "March 13",
+        "Count": "16",
+        "Travel history": "",
+        "Recall rate": "0.55",
+        "Description": "Finland lineage"
+    },
+    "B.1.159": {
+        "Lineage": "B.1.159",
+        "Countries": "France (62%) DRC (12%) Bangladesh (6%)",
+        "Earliest date": "March 28",
+        "Count": "16",
+        "Travel history": "",
+        "Recall rate": "0.9",
+        "Description": "France/ Bangladesh lineage "
+    },
+    "B.1.160": {
+        "Lineage": "B.1.160",
+        "Countries": "UK (72%) Saudi_Arabia (8%) India (6%)",
+        "Earliest date": "February 04",
+        "Count": "1464",
+        "Travel history": "",
+        "Recall rate": "0.3",
+        "Description": "Previously part of B.1.36: Tukey India Saudi Arabia lineage (split in the most recent phylogeny)"
+    },
+    "B.1.160.1": {
+        "Lineage": "B.1.160.1",
+        "Countries": "UK (91%) Austria (3%) India (2%)",
+        "Earliest date": "March 13",
+        "Count": "206",
+        "Travel history": "",
+        "Recall rate": "0.47",
+        "Description": "English lineage nested in diversity of B.1.160"
+    },
+    "B.1.161": {
+        "Lineage": "B.1.161",
+        "Countries": "USA (96%) Canada (4%)",
+        "Earliest date": "March 23",
+        "Count": "27",
+        "Travel history": "",
+        "Recall rate": "0.68",
+        "Description": "USA lineage (OR)"
+    },
+    "B.1.162": {
+        "Lineage": "B.1.162",
+        "Countries": "USA (95%) Canada (2%) UK (2%)",
+        "Earliest date": "March 26",
+        "Count": "41",
+        "Travel history": "",
+        "Recall rate": "0.47",
+        "Description": "USA lineage (WI)"
+    },
+    "B.1.163": {
+        "Lineage": "B.1.163",
+        "Countries": "USA (100%)",
+        "Earliest date": "March 16",
+        "Count": "14",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage (CA & OR)"
+    },
+    "B.1.164": {
+        "Lineage": "B.1.164",
+        "Countries": "Latvia (92%) South_Korea (8%)",
+        "Earliest date": "June 24",
+        "Count": "13",
+        "Travel history": "",
+        "Recall rate": "0.85",
+        "Description": "Latvian lineage"
+    },
+    "B.1.165": {
+        "Lineage": "B.1.165",
+        "Countries": "UK (93%) USA (7%)",
+        "Earliest date": "April 16",
+        "Count": "71",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "English lineage "
+    },
+    "B.1.166": {
+        "Lineage": "B.1.166",
+        "Countries": "USA (87%) UK (11%) Netherlands (2%)",
+        "Earliest date": "March 04",
+        "Count": "46",
+        "Travel history": "",
+        "Recall rate": "0.92",
+        "Description": "USA lineage (CA)"
+    },
+    "B.1.167": {
+        "Lineage": "B.1.167",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 27",
+        "Count": "13",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "UK lineage"
+    },
+    "B.1.168": {
+        "Lineage": "B.1.168",
+        "Countries": "UK (100%)",
+        "Earliest date": "April 07",
+        "Count": "44",
+        "Travel history": "",
+        "Recall rate": "0.97",
+        "Description": "Scottish lineage"
+    },
+    "B.1.169": {
+        "Lineage": "B.1.169",
+        "Countries": "USA (100%)",
+        "Earliest date": "March 25",
+        "Count": "112",
+        "Travel history": "",
+        "Recall rate": "0.85",
+        "Description": "USA lineage (WA & OR)"
+    },
+    "B.1.170": {
+        "Lineage": "B.1.170",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "German lineage"
+    },
+    "B.1.171": {
+        "Lineage": "B.1.171",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage with sequences from Israel"
+    },
+    "B.1.172": {
+        "Lineage": "B.1.172",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "USA lineage (CA) (also Ireland)"
+    },
+    "B.1.173": {
+        "Lineage": "B.1.173",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "USA lineage (WA) (also Sierra Leone)"
+    },
+    "B.1.174": {
+        "Lineage": "B.1.174",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "English lineage"
+    },
+    "B.1.175": {
+        "Lineage": "B.1.175",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "English lineage (CAMB)"
+    },
+    "B.1.176": {
+        "Lineage": "B.1.176",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 29",
+        "Count": "18",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "English lineage (SHEF)"
+    },
+    "B.1.177": {
+        "Lineage": "B.1.177",
+        "Countries": "UK (98%) Spain (1%) Switzerland (1%)",
+        "Earliest date": "June 20",
+        "Count": "11001",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Lineage originating in Spain and has become widespread. Three SNPs define this lineage C22227T C28932T and G29645T. Equates to the 20A.EU1 cluster in Hodcroft et al 2020."
+    },
+    "B.2": {
+        "Lineage": "B.2",
+        "Countries": "UK (78%) USA (4%) Spain (4%)",
+        "Earliest date": "January 16",
+        "Count": "2120",
+        "Travel history": "UK to China Iceland (3) Italy to Iceland (1)",
+        "Recall rate": "0.74",
+        "Description": "European lineage"
+    },
+    "B.2.1": {
+        "Lineage": "B.2.1",
+        "Countries": "UK (93%) USA (2%) Australia (1%)",
+        "Earliest date": "January 23",
+        "Count": "2578",
+        "Travel history": "UK to Iceland (1)",
+        "Recall rate": "0.96",
+        "Description": "Large lineage majoritively from UK and Australia with representation from Europe Jordan USA India Ghana (BS=21) "
+    },
+    "B.2.2": {
+        "Lineage": "B.2.2",
+        "Countries": "UK (92%) USA (2%) Australia (2%)",
+        "Earliest date": "February 25",
+        "Count": "473",
+        "Travel history": "Switzerland to Iceland (1)",
+        "Recall rate": "0.23",
+        "Description": "Lineage with representation from UK/ USA/ Australia"
+    },
+    "B.2.4": {
+        "Lineage": "B.2.4",
+        "Countries": "UK (81%) New_Zealand (8%) Australia (6%)",
+        "Earliest date": "March 03",
+        "Count": "187",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "England/ Australia/ New Zealand lineage (BS=94)"
+    },
+    "B.2.5": {
+        "Lineage": "B.2.5",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Reassigned to B.2 this week consistently low support with similar metadata now present in parent lineage."
+    },
+    "B.2.6": {
+        "Lineage": "B.2.6",
+        "Countries": "UK (90%) Australia (4%) USA (3%)",
+        "Earliest date": "March 05",
+        "Count": "79",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "UK lineage"
+    },
+    "B.2.7": {
+        "Lineage": "B.2.7",
+        "Countries": "Iceland (100%)",
+        "Earliest date": "March 12",
+        "Count": "13",
+        "Travel history": "",
+        "Recall rate": "0.0",
+        "Description": "Iceland lineage"
+    },
+    "B.2.8": {
+        "Lineage": "B.2.8",
+        "Countries": "Hong_Kong (100%)",
+        "Earliest date": "February 08",
+        "Count": "23",
+        "Travel history": "",
+        "Recall rate": "0.88",
+        "Description": "Hong Kong lineage nested within B.2 B.2 also contains diversity from Hong Kong along with sequences from around the globe."
+    },
+    "B.2.9": {
+        "Lineage": "B.2.9",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Reassigned B.2 as similiar diversity to parent nodes"
+    },
+    "B.2.10": {
+        "Lineage": "B.2.10",
+        "Countries": "South_Korea (86%) UK (12%) USA (2%)",
+        "Earliest date": "February 18",
+        "Count": "50",
+        "Travel history": "",
+        "Recall rate": "0.23",
+        "Description": "South Korean lineage "
+    },
+    "B.2.11": {
+        "Lineage": "B.2.11",
+        "Countries": "Israel (88%) Taiwan (12%)",
+        "Earliest date": "March 17",
+        "Count": "8",
+        "Travel history": "",
+        "Recall rate": "0.38",
+        "Description": "Lineage with sequences from Israel"
+    },
+    "B.2.12": {
+        "Lineage": "B.2.12",
+        "Countries": "USA (87%) UK (13%)",
+        "Earliest date": "March 15",
+        "Count": "31",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "USA lineage"
+    },
+    "B.3": {
+        "Lineage": "B.3",
+        "Countries": "UK (89%) Germany (2%) Belgium (1%)",
+        "Earliest date": "February 23",
+        "Count": "1330",
+        "Travel history": "Austria to Iceland (1) UK to Iceland (1)",
+        "Recall rate": "0.99",
+        "Description": "A European lineage with a lot of Welsh sequences"
+    },
+    "B.4": {
+        "Lineage": "B.4",
+        "Countries": "UK (20%) Australia (17%) India (12%)",
+        "Earliest date": "January 18",
+        "Count": "301",
+        "Travel history": "Iran to Turkey Lebanon Canada New_Zealand Australia (7) UK to Lebanon (1) Italy to China (1) France to China (1)",
+        "Recall rate": "0.95",
+        "Description": "Iran lineage many sequences we have of this lineage are associated with travel histories from Iran. Significant number of sequences from the UAE Kenya and Australia"
+    },
+    "B.4.1": {
+        "Lineage": "B.4.1",
+        "Countries": "Kazakhstan (100%)",
+        "Earliest date": "April 19",
+        "Count": "10",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "A small lineage from Kazakhstan within the B.4 diversity "
+    },
+    "B.4.2": {
+        "Lineage": "B.4.2",
+        "Countries": "Bahrain (92%) United_Arab_Emirates (8%)",
+        "Earliest date": "February 25",
+        "Count": "13",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "A lineage with mostly sequences from Bahrein"
+    },
+    "B.4.3": {
+        "Lineage": "B.4.3",
+        "Countries": "Australia (100%)",
+        "Earliest date": "March 10",
+        "Count": "24",
+        "Travel history": "",
+        "Recall rate": "0.83",
+        "Description": "Australian lineage nested within the diversity of B.4"
+    },
+    "B.5": {
+        "Lineage": "B.5",
+        "Countries": "Japan (89%) USA (11%)",
+        "Earliest date": "February 10",
+        "Count": "9",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Japanese lineage "
+    },
+    "B.6": {
+        "Lineage": "B.6",
+        "Countries": "India (41%) Singapore (40%) Australia (5%)",
+        "Earliest date": "February 14",
+        "Count": "933",
+        "Travel history": "Pakistan to China (1)",
+        "Recall rate": "0.99",
+        "Description": "Indian and Singapore lineage with global diversity. Within this lineage Indian sequences are the majority of the sequences present at the base of the lineage. Towards the tips there is a greater representation of sequences derived from Singapore. There is also representation from South East Asia/ North America/ Europe/ Israel/ Gambia/ Timor-leste"
+    },
+    "B.6.1": {
+        "Lineage": "B.6.1",
+        "Countries": "Malaysia (94%) Brunei (6%)",
+        "Earliest date": "March 21",
+        "Count": "17",
+        "Travel history": "",
+        "Recall rate": "0.6",
+        "Description": "Malaysian lineage"
+    },
+    "B.7": {
+        "Lineage": "B.7",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Lineage reassigned. Hong Kong lineage reassigned to B.2.8 (BS=75)"
+    },
+    "B.9": {
+        "Lineage": "B.9",
+        "Countries": "UK (91%) Australia (5%) New_Zealand (2%)",
+        "Earliest date": "March 12",
+        "Count": "81",
+        "Travel history": "",
+        "Recall rate": "0.26",
+        "Description": "Lineage with sequences from the UK Australia and New Zealand"
+    },
+    "B.10": {
+        "Lineage": "B.10",
+        "Countries": "UK (99%) Switzerland (1%)",
+        "Earliest date": "March 11",
+        "Count": "127",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Lineage with a lot of representation from sequences in the UK including Northern Ireland England and Scotland"
+    },
+    "B.11": {
+        "Lineage": "B.11",
+        "Countries": "UK (53%) Netherlands (34%) Belgium (3%)",
+        "Earliest date": "January 29",
+        "Count": "267",
+        "Travel history": "Netherlands to Ecuador (1)",
+        "Recall rate": "0.97",
+        "Description": "European lineage with sequences from the Netherlands UK Austria Slovakia "
+    },
+    "B.12": {
+        "Lineage": "B.12",
+        "Countries": "Japan (94%) Malaysia (3%) UK (3%)",
+        "Earliest date": "January 20",
+        "Count": "35",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "Japan lineage (BS=100)"
+    },
+    "B.13": {
+        "Lineage": "B.13",
+        "Countries": "USA (62%) UK (38%)",
+        "Earliest date": "April 06",
+        "Count": "13",
+        "Travel history": "",
+        "Recall rate": "0.2",
+        "Description": "USA (WI) lineage located off the polytomy at the base of the B lineage"
+    },
+    "B.14": {
+        "Lineage": "B.14",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "USA (CA) lineage"
+    },
+    "B.15": {
+        "Lineage": "B.15",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 11",
+        "Count": "62",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "UK lineage (England and Wales)"
+    },
+    "B.16": {
+        "Lineage": "B.16",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 13",
+        "Count": "272",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "Scottish lineage "
+    },
+    "B.17": {
+        "Lineage": "B.17",
+        "Countries": "USA (100%)",
+        "Earliest date": "March 23",
+        "Count": "7",
+        "Travel history": "",
+        "Recall rate": "0.67",
+        "Description": "US lineage (WI)"
+    },
+    "B.18": {
+        "Lineage": "B.18",
+        "Countries": "UK (89%) Iceland (11%)",
+        "Earliest date": "March 16",
+        "Count": "28",
+        "Travel history": "UK to Iceland (1)",
+        "Recall rate": "0.43",
+        "Description": "European lineage (Iceland and England) "
+    },
+    "B.19": {
+        "Lineage": "B.19",
+        "Countries": "USA (74%) UK (26%)",
+        "Earliest date": "March 31",
+        "Count": "19",
+        "Travel history": "",
+        "Recall rate": "0.6",
+        "Description": "US lineage (CA)"
+    },
+    "B.20": {
+        "Lineage": "B.20",
+        "Countries": "UK (61%) USA (39%)",
+        "Earliest date": "March 17",
+        "Count": "31",
+        "Travel history": "",
+        "Recall rate": "0.35",
+        "Description": "US lineage (CA)"
+    },
+    "B.21": {
+        "Lineage": "B.21",
+        "Countries": "UK (90%) Australia (5%) Japan (3%)",
+        "Earliest date": "March 05",
+        "Count": "63",
+        "Travel history": "",
+        "Recall rate": "0.4",
+        "Description": "UK lineage "
+    },
+    "B.22": {
+        "Lineage": "B.22",
+        "Countries": "",
+        "Earliest date": "",
+        "Count": "",
+        "Travel history": "",
+        "Recall rate": "",
+        "Description": "Denmark lineage (BS=100)"
+    },
+    "B.23": {
+        "Lineage": "B.23",
+        "Countries": "UK (96%) Iceland (1%) Portugal (1%)",
+        "Earliest date": "February 28",
+        "Count": "340",
+        "Travel history": "UK to Iceland (1) Austria to Iceland (1)",
+        "Recall rate": "0.98",
+        "Description": "Lineage with representation from mainly UK sequences but also sequences from Portugal Iceland and Brazil  "
+    },
+    "B.24": {
+        "Lineage": "B.24",
+        "Countries": "UK (98%) China (2%)",
+        "Earliest date": "March 02",
+        "Count": "66",
+        "Travel history": "UK to China (1)",
+        "Recall rate": "0.07",
+        "Description": "Scottish lineage"
+    },
+    "B.25": {
+        "Lineage": "B.25",
+        "Countries": "UK (100%)",
+        "Earliest date": "March 06",
+        "Count": "22",
+        "Travel history": "",
+        "Recall rate": "0.23",
+        "Description": "English lineage"
+    },
+    "B.26": {
+        "Lineage": "B.26",
+        "Countries": "UK (99%) Australia (1%)",
+        "Earliest date": "March 16",
+        "Count": "77",
+        "Travel history": "",
+        "Recall rate": "0.11",
+        "Description": "Scottish lineage"
+    },
+    "B.27": {
+        "Lineage": "B.27",
+        "Countries": "UK (97%) Switzerland (2%) Curacao (2%)",
+        "Earliest date": "March 03",
+        "Count": "62",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "English lineage"
+    },
+    "C.1": {
+        "Lineage": "C.1",
+        "Countries": "South_Africa (99%) UK (1%)",
+        "Earliest date": "June 03",
+        "Count": "126",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "South African lineage (Alias of B.1.1.1.1)"
+    },
+    "C.2": {
+        "Lineage": "C.2",
+        "Countries": "South_Africa (92%) UK (8%)",
+        "Earliest date": "June 09",
+        "Count": "13",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "South African lineage (Alias of B.1.1.1.2)"
+    },
+    "C.3": {
+        "Lineage": "C.3",
+        "Countries": "UK (100%)",
+        "Earliest date": "April 12",
+        "Count": "143",
+        "Travel history": "",
+        "Recall rate": "1.0",
+        "Description": "English lineage (Alias of B.1.1.1.3)"
+    },
+    "D.1": {
+        "Lineage": "D.1",
+        "Countries": "UK (100%)",
+        "Earliest date": "July 21",
+        "Count": "2197",
+        "Travel history": "",
+        "Recall rate": "0.99",
+        "Description": "UK lineage (Alias of B.1.1.25.2)"
+    },
+    "D.2": {
+        "Lineage": "D.2",
+        "Countries": "Australia (100%)",
+        "Earliest date": "March 19",
+        "Count": "1846",
+        "Travel history": "",
+        "Recall rate": "0.98",
+        "Description": "Australian lineage (Alias of B.1.1.25.1)"
+    }
+}
