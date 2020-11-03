@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<!--
+	SARS-CoV-2 lineages
+-->
+<html>
+
+{% include head.html %}
+
+
+
+
+<body>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+                {% include header.html %}
+
+                <!-- Content -->
+                <section>
+                	<header class="main">
+                		<h2>{{ page.title }}</h2>
+                	</header>
+                  {% if page.parent %}
+                  <p>
+                    <ul class="actions small">
+                    <a href="/lineages/lineage_{{ page.parent }}.html" class="button special fit">Go to parent lineage: {{ page.parent }}</a>
+                  </ul>
+                 </p>
+                 {% endif %}
+                 <h3> Lineage summaries</h3>
+
+                 <img src="../assets/images/{{ page.lineage}}.svg" alt="{{ page.lineage }} lineage summary figure" width="90%" height="700px" />
+                                   
+              <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for lineage.." title="Type in a name">
+              <br>
+              <table id="myTable">
+                <tr class="header">
+                  <th style="width:8%;">Lineage</th>
+                  <th style="width:13%;">Most common countries</th>
+                  <th style="width:8%;">Earliest date</th>
+                  <th style="width:8%;">Count</th>
+                  <th style="width:18%;">Travel History</th>
+                  <th style="width:35%;">Description</th>
+                  <th style="width:8%;">Recall rate</th>
+                </tr>
+                  {% for child in page.children %}
+
+                  {% assign row = site.data.lineage_data[child] %}
+                <tr>
+                  <td><a href="/lineages/lineage_{{ child }}.html">{{ child }}</a> </td>
+                  <td>{{ row["Countries"] }}</td>
+                  <td>{{ row["Earliest date"] }}</td>
+                  <td>{{ row["Count"] }}</td>
+                  <td>{{ row["Travel History"] }}</td>
+                  <td>{{ row["Description"] }}</td>
+                  <td>{{ row["Recall rate"] }}</td>
+                </tr>
+
+                  {% endfor %}
+                
+                </table>
+
+                {{ content }}
+                </section>
+              </div>
+          </div>
+
+          {% include sidebar.html %}
+
+      </div>
+
+      {% include footer.html %}
+
+</body>
+
+</html>

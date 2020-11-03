@@ -1,27 +1,7 @@
 ---
-layout: page
+layout: lineage_page
 title: Lineage B.10
+lineage: B.10
+parent: B
+children: ['B.10']
 ---
-
-
-
-<p>
-<ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
-</ul>
-</p>
-<h3> Lineage summaries</h3>
-
-<img src="../assets/images/B.10.svg" alt="B.10 lineage summary figure" width="90%" height="700px" />
-
-
-| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
-|:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | UK (99%), Switzerland (1%) | March 11 to August 11 | 127 |  | 1.0 |
-
-<h3>Lineage descriptions</h3>
-
-| Lineage | Notes |
-|:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.10.html' | absolute_url }}">B.10</a> | Lineage with a lot of representation from sequences in the UK, including Northern Ireland, England and Scotland |
-

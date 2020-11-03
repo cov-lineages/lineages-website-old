@@ -1,27 +1,7 @@
 ---
-layout: page
+layout: lineage_page
 title: Lineage B.13
+lineage: B.13
+parent: B
+children: ['B.13']
 ---
-
-
-
-<p>
-<ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
-</ul>
-</p>
-<h3> Lineage summaries</h3>
-
-<img src="../assets/images/B.13.svg" alt="B.13 lineage summary figure" width="90%" height="700px" />
-
-
-| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
-|:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">B.13</a> | USA (62%), UK (38%) | April 06 to October 15 | 13 |  | 0.2 |
-
-<h3>Lineage descriptions</h3>
-
-| Lineage | Notes |
-|:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.13.html' | absolute_url }}">B.13</a> | USA (WI) lineage located off the polytomy at the base of the B lineage |
-

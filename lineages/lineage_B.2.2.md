@@ -1,27 +1,7 @@
 ---
-layout: page
+layout: lineage_page
 title: Lineage B.2.2
+lineage: B.2.2
+parent: B.2
+children: ['B.2.2']
 ---
-
-
-
-<p>
-<ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.2.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.2</a>
-</ul>
-</p>
-<h3> Lineage summaries</h3>
-
-<img src="../assets/images/B.2.2.svg" alt="B.2.2 lineage summary figure" width="90%" height="700px" />
-
-
-| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
-|:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.2.2.html' | absolute_url }}">B.2.2</a> | UK (92%), USA (2%), Australia (2%) | February 25 to August 02 | 473 | Switzerland to Iceland (1) | 0.23 |
-
-<h3>Lineage descriptions</h3>
-
-| Lineage | Notes |
-|:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.2.2.html' | absolute_url }}">B.2.2</a> | Lineage with representation from UK/ USA/ Australia |
-

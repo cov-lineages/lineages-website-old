@@ -1,22 +1,79 @@
 ---
 layout: page
+image: 
+title: Go to lineage
 ---
 
-<h2>Go to lineage:</h2>
 
-<section>
+<!-- <section id="banner">
+<div class="content">
+      <header>
+       <h1>All lineages</h1>
+
+ 
+</header>
+      <p>Search for a lineage. </p>
+ -->
+<!-- <section id="banner">
+
+     <span class="image object">
+      <img src="assets/images/global_lineages_tree.png" alt=""/>
+    </span>
+  </section>  -->
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for lineage.." title="Type in a name">
-<br>
 
 <table id="myTable">
   <tr class="header">
-    <th style="width:10%;">Lineage</th>
-    <th style="width:15%;">Most common countries</th>
-    <th style="width:10%;">Earliest date</th>
-    <th style="width:5%;">Count</th>
-    <th style="width:20%;">Travel History</th>
-    <th style="width:40%;">Description</th>
+          <th style="width:8%;">Lineage</th>
+          <th style="width:13%;">Most common countries</th>
+          <th style="width:8%;">Earliest date</th>
+          <th style="width:8%;">Count</th>
+          <th style="width:18%;">Travel History</th>
+          <th style="width:8%;">Recall rate</th>
+          <th style="width:35%;">Description</th>
   </tr>
   
   <tr>
@@ -25,6 +82,7 @@ layout: page
     <td>December 30</td>
     <td>613</td>
     <td>China to Australia, Vietnam (2), USA to New_Zealand (1), Saudia_Arabia to Turkey (2)</td>
+    <td>0.94</td>
     <td>Root of the pandemic lies within lineage A. Many sequences originating from China and many global exports; including to South East Asia, Japan, South Korea, Australia, the USA and Europe, represented in this lineage</td>
   </tr>
   
@@ -34,6 +92,7 @@ layout: page
     <td>February 24</td>
     <td>1104</td>
     <td></td>
+    <td>0.97</td>
     <td>A North American lineage (BS=16)</td>
   </tr>
   
@@ -43,6 +102,7 @@ layout: page
     <td>March 11</td>
     <td>8</td>
     <td>USA to Iceland (6)</td>
+    <td>0.88</td>
     <td>Iceland lineage (BS=94)</td>
   </tr>
   
@@ -52,11 +112,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Previously Australian lineage, structure has split up into the diverity of A.1, so all reassigned A.1</td>
   </tr>
   
   <tr>
     <td>A.1.3</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -70,6 +132,7 @@ layout: page
     <td>February 26</td>
     <td>520</td>
     <td>Spain to Brazil, China (2)</td>
+    <td>0.98</td>
     <td>Majoritively Spanish lineage now with a variety of other locations represented, including South and Central American sequences, other European countries and Kazakhstan. </td>
   </tr>
   
@@ -79,6 +142,7 @@ layout: page
     <td>February 20</td>
     <td>109</td>
     <td></td>
+    <td>0.24</td>
     <td>Lineage with sequences predominantly from Panama</td>
   </tr>
   
@@ -88,6 +152,7 @@ layout: page
     <td>March 17</td>
     <td>96</td>
     <td></td>
+    <td>0.99</td>
     <td>Australian lineage nested within the diversity of A.2</td>
   </tr>
   
@@ -97,6 +162,7 @@ layout: page
     <td>March 12</td>
     <td>212</td>
     <td></td>
+    <td>0.98</td>
     <td>Scottish lineage nested within the diversity of A.2</td>
   </tr>
   
@@ -106,6 +172,7 @@ layout: page
     <td>January 28</td>
     <td>332</td>
     <td>USA to New_Zealand (1)</td>
+    <td>0.99</td>
     <td>USA and Australian lineage </td>
   </tr>
   
@@ -115,6 +182,7 @@ layout: page
     <td>March 13</td>
     <td>22</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage nested in A diveristy</td>
   </tr>
   
@@ -124,6 +192,7 @@ layout: page
     <td>February 28</td>
     <td>239</td>
     <td></td>
+    <td>0.99</td>
     <td>A lineage with a lot of representation from Spanish-speaking countries. A Spanish/ South-American lineage, but now with sequences from an outbreak in Scotland</td>
   </tr>
   
@@ -133,6 +202,7 @@ layout: page
     <td>January 25</td>
     <td>37</td>
     <td></td>
+    <td>0.95</td>
     <td>Lineage from an introduction event into Thailand, now including a couple of exports</td>
   </tr>
   
@@ -142,6 +212,7 @@ layout: page
     <td>May 06</td>
     <td>15</td>
     <td></td>
+    <td>1.0</td>
     <td>Indian lineage, including Saudi Arabian & Turkish sequences. A.7, A.8 and A.9 are all lineages with diversity from India, however are difficult to resolve confidently, potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A.</td>
   </tr>
   
@@ -151,11 +222,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Merged with sister Indian lineage A.7. A.7, A.8 and A.9 are all lineages with diversity from India, however are difficult to resolve confidently, potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A.</td>
   </tr>
   
   <tr>
     <td>A.8</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -169,6 +242,7 @@ layout: page
     <td>March 13</td>
     <td>27</td>
     <td></td>
+    <td>0.1</td>
     <td>Indian lineage. A.7, A.8 and A.9 are all lineages with diversity from India, however are difficult to resolve confidently, potentially due to ambiguities or homoplasies in the sequences. All are nested within the diversity of A.</td>
   </tr>
   
@@ -178,6 +252,7 @@ layout: page
     <td>December 24</td>
     <td>1696</td>
     <td>China to Cambodia, Singapore, Canada (3), Switzerland to Iceland (1), USA to China (2), Saudia_Arabia to Turkey (1), France to China (1)</td>
+    <td>0.92</td>
     <td>Base of this lineage also lies in China, with many global exports, two distinct SNPs `8782TC` and `28144CT` define this lineage</td>
   </tr>
   
@@ -187,6 +262,7 @@ layout: page
     <td>January 10</td>
     <td>21394</td>
     <td>Italy to Brazil, China, Iceland, Finland (9), Iran to Turkey, Finland, Lebanon (3), UK to China, Iceland (7), Spain to Iceland (2), USA to China, Iceland, Costa_Rica (5), Austria to China, Iceland (12), Denmark to Iceland (2), Switzerland to Iceland (1), France to Costa_Rica, Madagascar, China, Brazil, Iceland, Benin (6), Faroe_Islands to Iceland (1), Canada to China (1), Norway to China (1), Togo to Benin (1), United_Arab_Emirates to Brazil (2), United_States to USA (2)</td>
+    <td>0.94</td>
     <td>A large European lineage that corresponds to the Italian outbreak.</td>
   </tr>
   
@@ -196,6 +272,7 @@ layout: page
     <td>February 10</td>
     <td>28655</td>
     <td>Italy to Czech_Republic, Chile, Thailand, Iceland, Nigeria, Mexico (11), UK to Slovakia, China, Iceland (7), Switzerland to Iceland (1), Austria to Iceland (1), Finland to Iceland (1), Saudia_Arabia to Turkey (1), Hungary to China (3), Nicaragua to Costa_Rica (2), Maldives to Slovakia (1)</td>
+    <td>0.97</td>
     <td>European lineage that's been assigned due to high support and 3 clear SNPs `28881GA`,`28882GA`,`28883GC`</td>
   </tr>
   
@@ -205,6 +282,7 @@ layout: page
     <td>March 03</td>
     <td>2318</td>
     <td>Austria to Iceland (2)</td>
+    <td>0.56</td>
     <td>UK/ Europe </td>
   </tr>
   
@@ -214,6 +292,7 @@ layout: page
     <td>March 20</td>
     <td>570</td>
     <td></td>
+    <td>0.99</td>
     <td>Welsh lineage </td>
   </tr>
   
@@ -223,6 +302,7 @@ layout: page
     <td>March 18</td>
     <td>116</td>
     <td></td>
+    <td>0.99</td>
     <td>English lineage </td>
   </tr>
   
@@ -232,6 +312,7 @@ layout: page
     <td>March 31</td>
     <td>343</td>
     <td></td>
+    <td>0.99</td>
     <td>UK lineage</td>
   </tr>
   
@@ -241,6 +322,7 @@ layout: page
     <td>March 16</td>
     <td>52</td>
     <td></td>
+    <td>0.05</td>
     <td>Iceland/ Belgium/ UK </td>
   </tr>
   
@@ -250,6 +332,7 @@ layout: page
     <td>February 26</td>
     <td>10</td>
     <td></td>
+    <td>0.0</td>
     <td>Austrian lineage</td>
   </tr>
   
@@ -259,6 +342,7 @@ layout: page
     <td>March 07</td>
     <td>243</td>
     <td>USA to Iceland (1)</td>
+    <td>0.98</td>
     <td>UK lineage</td>
   </tr>
   
@@ -268,6 +352,7 @@ layout: page
     <td>May 11</td>
     <td>184</td>
     <td></td>
+    <td>0.99</td>
     <td>Indian lineage</td>
   </tr>
   
@@ -277,11 +362,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Reassigned B.1.1, split into three this week, unstable lineage</td>
   </tr>
   
   <tr>
     <td>B.1.1.9</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -295,6 +382,7 @@ layout: page
     <td>March 05</td>
     <td>621</td>
     <td>UK to Iceland (1), USA to Iceland (1)</td>
+    <td>0.77</td>
     <td>Formerly UK/ Iceland, a lot of diversity in this lineage, now has a Turkish sequence. </td>
   </tr>
   
@@ -304,11 +392,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Reassigned B.1.1, previously Portugal/ Wales/ England/ Ecuador </td>
   </tr>
   
   <tr>
     <td>B.1.1.p11</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -322,6 +412,7 @@ layout: page
     <td>March 21</td>
     <td>35</td>
     <td></td>
+    <td>0.72</td>
     <td>Scottish lineage </td>
   </tr>
   
@@ -331,6 +422,7 @@ layout: page
     <td>March 28</td>
     <td>16</td>
     <td></td>
+    <td>1.0</td>
     <td>UK lineage (CAMB)</td>
   </tr>
   
@@ -340,6 +432,7 @@ layout: page
     <td>April 16</td>
     <td>59</td>
     <td></td>
+    <td>1.0</td>
     <td>Scottish lineage </td>
   </tr>
   
@@ -349,6 +442,7 @@ layout: page
     <td>March 09</td>
     <td>407</td>
     <td></td>
+    <td>0.82</td>
     <td>Luxembourgh/ UK/ Portugal lineage</td>
   </tr>
   
@@ -358,6 +452,7 @@ layout: page
     <td>April 03</td>
     <td>52</td>
     <td></td>
+    <td>0.97</td>
     <td>Wales lineage (some reassigned to B.1.1 as split up in most recent phylogeny)</td>
   </tr>
   
@@ -367,6 +462,7 @@ layout: page
     <td>March 06</td>
     <td>9</td>
     <td>Italy to Iceland (1)</td>
+    <td>0.88</td>
     <td>Iceland lineage </td>
   </tr>
   
@@ -376,11 +472,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Reassigned to B.1.1 as split up in most recent phylogeny. Australian lineage </td>
   </tr>
   
   <tr>
     <td>B.1.1.19</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -394,6 +492,7 @@ layout: page
     <td>March 21</td>
     <td>32</td>
     <td></td>
+    <td>0.93</td>
     <td>Scottish lineage </td>
   </tr>
   
@@ -403,11 +502,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Australian lineage reassigned to B.1.1 in most recent phylogeny</td>
   </tr>
   
   <tr>
     <td>B.1.1.21</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -421,6 +522,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>South African lineage</td>
   </tr>
   
@@ -430,11 +532,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Bangladesh lineage, merged into B.1.1.25 in most recent phylogeny</td>
   </tr>
   
   <tr>
     <td>B.1.1.23</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -448,6 +552,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Portuguese lineage</td>
   </tr>
   
@@ -457,6 +562,7 @@ layout: page
     <td>February 29</td>
     <td>368</td>
     <td></td>
+    <td>0.31</td>
     <td>Bangladesh lineage</td>
   </tr>
   
@@ -466,6 +572,7 @@ layout: page
     <td>March 16</td>
     <td>77</td>
     <td></td>
+    <td>0.89</td>
     <td>US lineage (WA)</td>
   </tr>
   
@@ -475,6 +582,7 @@ layout: page
     <td>March 21</td>
     <td>82</td>
     <td></td>
+    <td>1.0</td>
     <td>Lineage in Oman</td>
   </tr>
   
@@ -484,6 +592,7 @@ layout: page
     <td>March 15</td>
     <td>206</td>
     <td></td>
+    <td>0.99</td>
     <td>Brazil lineage, some sister sequences from parent node are also from Brazil, however there's sequences from a variety of other locations on that node.</td>
   </tr>
   
@@ -493,6 +602,7 @@ layout: page
     <td>February 28</td>
     <td>166</td>
     <td></td>
+    <td>0.98</td>
     <td>Wales lineage </td>
   </tr>
   
@@ -502,6 +612,7 @@ layout: page
     <td>March 12</td>
     <td>737</td>
     <td></td>
+    <td>0.98</td>
     <td>UK lineage (Wales & England)</td>
   </tr>
   
@@ -511,6 +622,7 @@ layout: page
     <td>March 25</td>
     <td>79</td>
     <td></td>
+    <td>0.15</td>
     <td>Netherlands lineage </td>
   </tr>
   
@@ -520,6 +632,7 @@ layout: page
     <td>March 24</td>
     <td>500</td>
     <td></td>
+    <td>0.99</td>
     <td>Indian lineage </td>
   </tr>
   
@@ -529,6 +642,7 @@ layout: page
     <td>March 12</td>
     <td>289</td>
     <td>Germany to Brazil (1)</td>
+    <td>0.98</td>
     <td>Majoritively South American lineage, lots of Brazil sequences represented </td>
   </tr>
   
@@ -538,6 +652,7 @@ layout: page
     <td>March 19</td>
     <td>30</td>
     <td></td>
+    <td>1.0</td>
     <td>South African lineage</td>
   </tr>
   
@@ -547,6 +662,7 @@ layout: page
     <td>March 02</td>
     <td>3851</td>
     <td>UK to Iceland (1)</td>
+    <td>0.98</td>
     <td>Previously a large part of B.1.1.1, however in the most recent phylogeny, this has become a sister lineage to B.1.1.1. UK sequences represented in this lineage.</td>
   </tr>
   
@@ -556,6 +672,7 @@ layout: page
     <td>April 06</td>
     <td>23</td>
     <td></td>
+    <td>1.0</td>
     <td>USA (CA) lineage</td>
   </tr>
   
@@ -565,6 +682,7 @@ layout: page
     <td>March 19</td>
     <td>2630</td>
     <td></td>
+    <td>0.98</td>
     <td>UK lineage (England)</td>
   </tr>
   
@@ -574,6 +692,7 @@ layout: page
     <td>April 29</td>
     <td>111</td>
     <td></td>
+    <td>0.99</td>
     <td>Wales lineage</td>
   </tr>
   
@@ -583,6 +702,7 @@ layout: page
     <td>July 01</td>
     <td>119</td>
     <td></td>
+    <td>1.0</td>
     <td>Swiss lineage</td>
   </tr>
   
@@ -592,6 +712,7 @@ layout: page
     <td>May 13</td>
     <td>11</td>
     <td></td>
+    <td>0.89</td>
     <td>South African lineage</td>
   </tr>
   
@@ -601,6 +722,7 @@ layout: page
     <td>March 21</td>
     <td>183</td>
     <td></td>
+    <td>1.0</td>
     <td>English lineage</td>
   </tr>
   
@@ -610,6 +732,7 @@ layout: page
     <td>April 13</td>
     <td>62</td>
     <td></td>
+    <td>0.0</td>
     <td>Turkish lineage</td>
   </tr>
   
@@ -619,6 +742,7 @@ layout: page
     <td>March 20</td>
     <td>142</td>
     <td></td>
+    <td>0.46</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -628,6 +752,7 @@ layout: page
     <td>March 23</td>
     <td>311</td>
     <td></td>
+    <td>0.6</td>
     <td>UK lineage</td>
   </tr>
   
@@ -637,6 +762,7 @@ layout: page
     <td>May 22</td>
     <td>64</td>
     <td></td>
+    <td>1.0</td>
     <td>UK lineage</td>
   </tr>
   
@@ -646,6 +772,7 @@ layout: page
     <td>April 20</td>
     <td>46</td>
     <td></td>
+    <td>1.0</td>
     <td>Indian lineage</td>
   </tr>
   
@@ -655,6 +782,7 @@ layout: page
     <td>April 03</td>
     <td>55</td>
     <td></td>
+    <td>0.83</td>
     <td>Swiss lineage</td>
   </tr>
   
@@ -664,6 +792,7 @@ layout: page
     <td>March 29</td>
     <td>7</td>
     <td></td>
+    <td>0.86</td>
     <td>Japanese lineage</td>
   </tr>
   
@@ -673,6 +802,7 @@ layout: page
     <td>March 23</td>
     <td>70</td>
     <td></td>
+    <td>0.04</td>
     <td>Wales lineage</td>
   </tr>
   
@@ -682,6 +812,7 @@ layout: page
     <td>March 29</td>
     <td>57</td>
     <td></td>
+    <td>0.65</td>
     <td>UK/ Israel lineage</td>
   </tr>
   
@@ -691,6 +822,7 @@ layout: page
     <td>March 25</td>
     <td>568</td>
     <td></td>
+    <td>0.99</td>
     <td>UK lineage</td>
   </tr>
   
@@ -700,6 +832,7 @@ layout: page
     <td>April 05</td>
     <td>65</td>
     <td></td>
+    <td>0.0</td>
     <td>South African lineage (same parent node as B.1.1.53, but parent node is a large polytomy)</td>
   </tr>
   
@@ -709,6 +842,7 @@ layout: page
     <td>April 02</td>
     <td>26</td>
     <td></td>
+    <td>0.45</td>
     <td>South African lineage (same parent node as B.1.1.53, but parent node is a large polytomy)</td>
   </tr>
   
@@ -718,6 +852,7 @@ layout: page
     <td>March 19</td>
     <td>253</td>
     <td>Maldives to Taiwan (1)</td>
+    <td>0.71</td>
     <td>South African lineage</td>
   </tr>
   
@@ -727,6 +862,7 @@ layout: page
     <td>March 20</td>
     <td>186</td>
     <td></td>
+    <td>0.75</td>
     <td>England lineage</td>
   </tr>
   
@@ -736,6 +872,7 @@ layout: page
     <td>March 21</td>
     <td>103</td>
     <td></td>
+    <td>0.57</td>
     <td>South African lineage</td>
   </tr>
   
@@ -745,6 +882,7 @@ layout: page
     <td>March 31</td>
     <td>22</td>
     <td></td>
+    <td>1.0</td>
     <td>South African lineage</td>
   </tr>
   
@@ -754,6 +892,7 @@ layout: page
     <td>June 23</td>
     <td>15</td>
     <td></td>
+    <td>0.86</td>
     <td>Swiss lineage</td>
   </tr>
   
@@ -763,6 +902,7 @@ layout: page
     <td>March 08</td>
     <td>162</td>
     <td></td>
+    <td>0.98</td>
     <td>Wales lineage</td>
   </tr>
   
@@ -772,6 +912,7 @@ layout: page
     <td>March 19</td>
     <td>369</td>
     <td></td>
+    <td>0.98</td>
     <td>Northern Ireland lineage</td>
   </tr>
   
@@ -781,6 +922,7 @@ layout: page
     <td>February 29</td>
     <td>39</td>
     <td></td>
+    <td>0.53</td>
     <td>USA lineage (CA)</td>
   </tr>
   
@@ -790,6 +932,7 @@ layout: page
     <td>March 23</td>
     <td>24</td>
     <td></td>
+    <td>0.7</td>
     <td>South African lienage</td>
   </tr>
   
@@ -799,6 +942,7 @@ layout: page
     <td>June 30</td>
     <td>25</td>
     <td></td>
+    <td>0.7</td>
     <td>Hong Kong lineage</td>
   </tr>
   
@@ -808,6 +952,7 @@ layout: page
     <td>March 11</td>
     <td>299</td>
     <td></td>
+    <td>0.99</td>
     <td>UK lineage</td>
   </tr>
   
@@ -817,6 +962,7 @@ layout: page
     <td>April 15</td>
     <td>38</td>
     <td></td>
+    <td>0.84</td>
     <td>USA lineage (WA), previously B.1.1.26, however split in most recent phylogeny</td>
   </tr>
   
@@ -826,6 +972,7 @@ layout: page
     <td>April 05</td>
     <td>39</td>
     <td></td>
+    <td>0.95</td>
     <td>South African lineage</td>
   </tr>
   
@@ -835,6 +982,7 @@ layout: page
     <td>May 12</td>
     <td>132</td>
     <td></td>
+    <td>0.32</td>
     <td>English/ South African lineage</td>
   </tr>
   
@@ -844,11 +992,13 @@ layout: page
     <td>April 03</td>
     <td>24</td>
     <td></td>
+    <td>0.0</td>
     <td>Russian lineage</td>
   </tr>
   
   <tr>
     <td>B.1.1.69</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -862,6 +1012,7 @@ layout: page
     <td>March 24</td>
     <td>301</td>
     <td></td>
+    <td>0.72</td>
     <td>Northern Ireland lineage</td>
   </tr>
   
@@ -871,6 +1022,7 @@ layout: page
     <td>March 06</td>
     <td>68</td>
     <td></td>
+    <td>1.0</td>
     <td>Australian/ Belgium/ Netherlands lineage</td>
   </tr>
   
@@ -880,6 +1032,7 @@ layout: page
     <td>March 28</td>
     <td>106</td>
     <td></td>
+    <td>0.71</td>
     <td>UK/ India lineage</td>
   </tr>
   
@@ -889,6 +1042,7 @@ layout: page
     <td>April 17</td>
     <td>106</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage</td>
   </tr>
   
@@ -898,6 +1052,7 @@ layout: page
     <td>March 29</td>
     <td>241</td>
     <td></td>
+    <td>1.0</td>
     <td>Northern Ireland/ Belgium lineage</td>
   </tr>
   
@@ -907,6 +1062,7 @@ layout: page
     <td>March 20</td>
     <td>44</td>
     <td></td>
+    <td>0.92</td>
     <td>Belgium/ South Africa/ DRC lineage</td>
   </tr>
   
@@ -916,6 +1072,7 @@ layout: page
     <td>April 03</td>
     <td>39</td>
     <td></td>
+    <td>0.81</td>
     <td>USA lineage (WA)</td>
   </tr>
   
@@ -925,6 +1082,7 @@ layout: page
     <td>March 18</td>
     <td>442</td>
     <td></td>
+    <td>0.67</td>
     <td>USA lineage (WA)</td>
   </tr>
   
@@ -934,6 +1092,7 @@ layout: page
     <td>March 09</td>
     <td>2717</td>
     <td>Mexico;United_States to USA (3)</td>
+    <td>0.96</td>
     <td>USA lineage</td>
   </tr>
   
@@ -943,6 +1102,7 @@ layout: page
     <td>March 05</td>
     <td>810</td>
     <td>Mexico to Brazil (1)</td>
+    <td>0.93</td>
     <td>USA lineage</td>
   </tr>
   
@@ -952,6 +1112,7 @@ layout: page
     <td>May 05</td>
     <td>165</td>
     <td></td>
+    <td>0.42</td>
     <td>South Korean lineage</td>
   </tr>
   
@@ -961,6 +1122,7 @@ layout: page
     <td>February 26</td>
     <td>5636</td>
     <td>Spain to Brazil, China, Iceland, Costa_Rica (5), Switzerland to Iceland (1), Saudia_Arabia to Turkey (1), France to Italy (2)</td>
+    <td>0.6</td>
     <td>European lineage/ lots of Spanish sequences towards the basal end of the subtree and exports around the globe. Low support at parent node now, potentially as a result of homoplasies </td>
   </tr>
   
@@ -970,6 +1132,7 @@ layout: page
     <td>March 14</td>
     <td>40</td>
     <td></td>
+    <td>0.97</td>
     <td>Netherlands lineage</td>
   </tr>
   
@@ -979,6 +1142,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. English lineage (now containing an Australian & Swedish seqeuence), reassigned B.1.5</td>
   </tr>
   
@@ -988,6 +1152,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. English lineage (now containing an Australian & Swedish seqeuence), reassigned B.1.5</td>
   </tr>
   
@@ -997,11 +1162,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Reassigned to B.1.5 as B.1.5 now seems to be European/ Spanish, so B.1.5.4 not a new introduction</td>
   </tr>
   
   <tr>
     <td>B.1.5.4</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1015,6 +1182,7 @@ layout: page
     <td>April 01</td>
     <td>117</td>
     <td></td>
+    <td>0.63</td>
     <td>English lineage</td>
   </tr>
   
@@ -1024,6 +1192,7 @@ layout: page
     <td>February 28</td>
     <td>280</td>
     <td></td>
+    <td>0.98</td>
     <td>UK lineage</td>
   </tr>
   
@@ -1033,6 +1202,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. US lineage</td>
   </tr>
   
@@ -1042,6 +1212,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. US lineage</td>
   </tr>
   
@@ -1051,6 +1222,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Welsh lineage (reassigned to B.1.142 as it falls outside of B.1.5 in the most recent phylogeny)</td>
   </tr>
   
@@ -1060,6 +1232,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Welsh lineage (reassigned to B.1.142 as it falls outside of B.1.5 in the most recent phylogeny)</td>
   </tr>
   
@@ -1069,11 +1242,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. UK lineage</td>
   </tr>
   
   <tr>
     <td>B.1.5.10</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1087,6 +1262,7 @@ layout: page
     <td>March 16</td>
     <td>60</td>
     <td></td>
+    <td>0.58</td>
     <td>USA lineage</td>
   </tr>
   
@@ -1096,6 +1272,7 @@ layout: page
     <td>March 20</td>
     <td>316</td>
     <td></td>
+    <td>0.59</td>
     <td>Senegal lineage</td>
   </tr>
   
@@ -1105,6 +1282,7 @@ layout: page
     <td>April 09</td>
     <td>16</td>
     <td></td>
+    <td>0.3</td>
     <td>Romanian lineage</td>
   </tr>
   
@@ -1114,6 +1292,7 @@ layout: page
     <td>March 20</td>
     <td>17</td>
     <td></td>
+    <td>1.0</td>
     <td>Russian lineage</td>
   </tr>
   
@@ -1123,6 +1302,7 @@ layout: page
     <td>March 18</td>
     <td>26</td>
     <td></td>
+    <td>0.3</td>
     <td>USA lineage (CA)</td>
   </tr>
   
@@ -1132,6 +1312,7 @@ layout: page
     <td>May 30</td>
     <td>9</td>
     <td></td>
+    <td>1.0</td>
     <td>South African lineage</td>
   </tr>
   
@@ -1141,6 +1322,7 @@ layout: page
     <td>April 10</td>
     <td>34</td>
     <td></td>
+    <td>0.35</td>
     <td>USA lineage (OR & AK)</td>
   </tr>
   
@@ -1150,6 +1332,7 @@ layout: page
     <td>March 22</td>
     <td>63</td>
     <td></td>
+    <td>1.0</td>
     <td>Scottish lineage (previously B.1.101)</td>
   </tr>
   
@@ -1159,6 +1342,7 @@ layout: page
     <td>May 13</td>
     <td>8</td>
     <td></td>
+    <td>1.0</td>
     <td>South African lineage</td>
   </tr>
   
@@ -1168,6 +1352,7 @@ layout: page
     <td>March 22</td>
     <td>11</td>
     <td></td>
+    <td>0.75</td>
     <td>Romanian lineage</td>
   </tr>
   
@@ -1177,6 +1362,7 @@ layout: page
     <td>April 24</td>
     <td>67</td>
     <td></td>
+    <td>1.0</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -1186,6 +1372,7 @@ layout: page
     <td>May 13</td>
     <td>9</td>
     <td></td>
+    <td>1.0</td>
     <td>South Arican lineage</td>
   </tr>
   
@@ -1195,6 +1382,7 @@ layout: page
     <td>March 18</td>
     <td>65</td>
     <td></td>
+    <td>0.85</td>
     <td>Spanish lineage</td>
   </tr>
   
@@ -1204,6 +1392,7 @@ layout: page
     <td>April 20</td>
     <td>90</td>
     <td></td>
+    <td>0.79</td>
     <td>Norwegian lineage</td>
   </tr>
   
@@ -1213,6 +1402,7 @@ layout: page
     <td>March 21</td>
     <td>68</td>
     <td></td>
+    <td>0.46</td>
     <td>UK lineage (previously B.1.99)</td>
   </tr>
   
@@ -1222,6 +1412,7 @@ layout: page
     <td>April 06</td>
     <td>81</td>
     <td></td>
+    <td>1.0</td>
     <td>Scottish lineage (previously B.1.100)</td>
   </tr>
   
@@ -1231,6 +1422,7 @@ layout: page
     <td>March 30</td>
     <td>294</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage (CA)</td>
   </tr>
   
@@ -1240,6 +1432,7 @@ layout: page
     <td>April 07</td>
     <td>34</td>
     <td></td>
+    <td>1.0</td>
     <td>English lineage</td>
   </tr>
   
@@ -1249,6 +1442,7 @@ layout: page
     <td>March 05</td>
     <td>30</td>
     <td></td>
+    <td>1.0</td>
     <td>Belgian lineage </td>
   </tr>
   
@@ -1258,6 +1452,7 @@ layout: page
     <td>March 09</td>
     <td>127</td>
     <td>Austria to Iceland (4), UK to South_Africa (1)</td>
+    <td>0.33</td>
     <td>Netherlands/ South African lineage, with sequences from Europe</td>
   </tr>
   
@@ -1267,11 +1462,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. South African lineage (sequences reassigned to B.1.8)</td>
   </tr>
   
   <tr>
     <td>B.1.8.1</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1285,6 +1482,7 @@ layout: page
     <td>April 22</td>
     <td>19</td>
     <td></td>
+    <td>1.0</td>
     <td>USA (CA) lineage</td>
   </tr>
   
@@ -1294,6 +1492,7 @@ layout: page
     <td>March 14</td>
     <td>155</td>
     <td>Saudia_Arabia to Turkey (1)</td>
+    <td>0.98</td>
     <td>Netherlands/ Belgium/ Turkey/ DRC </td>
   </tr>
   
@@ -1303,6 +1502,7 @@ layout: page
     <td>March 11</td>
     <td>202</td>
     <td></td>
+    <td>0.96</td>
     <td>UK lineage, pruned down relative to previous release. A number of sequences previously assigned B.1.11 reassigned to B.1 and some reassigned to B.1.88. </td>
   </tr>
   
@@ -1312,6 +1512,7 @@ layout: page
     <td>March 05</td>
     <td>78</td>
     <td></td>
+    <td>1.0</td>
     <td>BeNeLux/ UK lineage</td>
   </tr>
   
@@ -1321,6 +1522,7 @@ layout: page
     <td>March 09</td>
     <td>401</td>
     <td></td>
+    <td>0.98</td>
     <td>UK lineage</td>
   </tr>
   
@@ -1330,6 +1532,7 @@ layout: page
     <td>March 31</td>
     <td>21</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage</td>
   </tr>
   
@@ -1339,11 +1542,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Belgium lineage, reassigned to B.1</td>
   </tr>
   
   <tr>
     <td>B.1.p16</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1357,6 +1562,7 @@ layout: page
     <td>March 22</td>
     <td>22</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage (WI)</td>
   </tr>
   
@@ -1366,6 +1572,7 @@ layout: page
     <td>March 09</td>
     <td>246</td>
     <td></td>
+    <td>0.97</td>
     <td>Washington (USA) </td>
   </tr>
   
@@ -1375,6 +1582,7 @@ layout: page
     <td>March 09</td>
     <td>261</td>
     <td></td>
+    <td>1.0</td>
     <td>Netherlands lineage, now with some European sequences and some Australian sequences </td>
   </tr>
   
@@ -1384,6 +1592,7 @@ layout: page
     <td>March 22</td>
     <td>38</td>
     <td></td>
+    <td>0.08</td>
     <td>Australian lineage with a New Zealand sequence at base</td>
   </tr>
   
@@ -1393,6 +1602,7 @@ layout: page
     <td>March 13</td>
     <td>28</td>
     <td></td>
+    <td>0.85</td>
     <td>Australian lineage</td>
   </tr>
   
@@ -1402,6 +1612,7 @@ layout: page
     <td>March 15</td>
     <td>523</td>
     <td></td>
+    <td>0.98</td>
     <td>New Zealand/ USA lineage </td>
   </tr>
   
@@ -1411,6 +1622,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. USA lineage reassigned to B.1 as the structure of this lineage not present in the most recent phylogeny</td>
   </tr>
   
@@ -1420,6 +1632,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. USA lineage reassigned to B.1 as the structure of this lineage not present in the most recent phylogeny</td>
   </tr>
   
@@ -1429,6 +1642,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. English lineage</td>
   </tr>
   
@@ -1438,6 +1652,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. English lineage</td>
   </tr>
   
@@ -1447,11 +1662,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Australia lineage split up this phylogeny, reassigned to B.1</td>
   </tr>
   
   <tr>
     <td>B.1.31</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1465,6 +1682,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Swedish lineage </td>
   </tr>
   
@@ -1474,6 +1692,7 @@ layout: page
     <td>March 17</td>
     <td>30</td>
     <td></td>
+    <td>0.37</td>
     <td>England lineage (NOTT)</td>
   </tr>
   
@@ -1483,6 +1702,7 @@ layout: page
     <td>March 07</td>
     <td>305</td>
     <td></td>
+    <td>0.93</td>
     <td>UK lineage (Wales & England)</td>
   </tr>
   
@@ -1492,6 +1712,7 @@ layout: page
     <td>February 16</td>
     <td>1011</td>
     <td>Saudia_Arabia to Turkey (1), Iran to Turkey (1)</td>
+    <td>0.76</td>
     <td>Global lineage with lots of representation of sequences from India and Saudi Arabia. Sequences also from Europe and UK. Now includes sequences that previously had been assigned B.1.113. </td>
   </tr>
   
@@ -1501,11 +1722,13 @@ layout: page
     <td>May 11</td>
     <td>1051</td>
     <td></td>
+    <td>0.94</td>
     <td>Indian lineage</td>
   </tr>
   
   <tr>
     <td>B.1.36.2</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1519,6 +1742,7 @@ layout: page
     <td>March 10</td>
     <td>23</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage (VA)</td>
   </tr>
   
@@ -1528,6 +1752,7 @@ layout: page
     <td>March 17</td>
     <td>23</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage</td>
   </tr>
   
@@ -1537,6 +1762,7 @@ layout: page
     <td>March 13</td>
     <td>45</td>
     <td></td>
+    <td>0.12</td>
     <td>Danish lineage</td>
   </tr>
   
@@ -1546,6 +1772,7 @@ layout: page
     <td>March 18</td>
     <td>55</td>
     <td></td>
+    <td>0.68</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -1555,11 +1782,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. USA lineage: Split up in most recent phylogeny, reassigned to B.1</td>
   </tr>
   
   <tr>
     <td>B.1.41</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1573,11 +1802,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Sweden/ Denmark lineage</td>
   </tr>
   
   <tr>
     <td>B.1.43</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1591,11 +1822,13 @@ layout: page
     <td>March 25</td>
     <td>133</td>
     <td></td>
+    <td>0.97</td>
     <td>Wales lineage</td>
   </tr>
   
   <tr>
     <td>B.1.66</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1609,11 +1842,13 @@ layout: page
     <td>March 25</td>
     <td>23</td>
     <td></td>
+    <td>1.0</td>
     <td>Welsh lineage, sequence from Ecuador</td>
   </tr>
   
   <tr>
     <td>B.1.68</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1627,6 +1862,7 @@ layout: page
     <td>May 07</td>
     <td>7</td>
     <td></td>
+    <td>0.83</td>
     <td>USA lineage (TX)</td>
   </tr>
   
@@ -1636,6 +1872,7 @@ layout: page
     <td>March 06</td>
     <td>23</td>
     <td></td>
+    <td>1.0</td>
     <td>Scottish lineage </td>
   </tr>
   
@@ -1645,6 +1882,7 @@ layout: page
     <td>March 13</td>
     <td>53</td>
     <td></td>
+    <td>1.0</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -1654,6 +1892,7 @@ layout: page
     <td>March 14</td>
     <td>74</td>
     <td></td>
+    <td>0.0</td>
     <td>UK lineage (Scotland and Wales sequences )</td>
   </tr>
   
@@ -1663,6 +1902,7 @@ layout: page
     <td>March 16</td>
     <td>65</td>
     <td></td>
+    <td>0.92</td>
     <td>UK lineage (BRIS)</td>
   </tr>
   
@@ -1672,6 +1912,7 @@ layout: page
     <td>March 01</td>
     <td>27</td>
     <td></td>
+    <td>1.0</td>
     <td>Spanish lineage, with sequences from Portugal too</td>
   </tr>
   
@@ -1681,6 +1922,7 @@ layout: page
     <td>March 06</td>
     <td>167</td>
     <td></td>
+    <td>0.99</td>
     <td>English lineage</td>
   </tr>
   
@@ -1690,6 +1932,7 @@ layout: page
     <td>February 24</td>
     <td>85</td>
     <td></td>
+    <td>0.28</td>
     <td>English lineage</td>
   </tr>
   
@@ -1699,6 +1942,7 @@ layout: page
     <td>February 24</td>
     <td>184</td>
     <td></td>
+    <td>1.0</td>
     <td>UK lineage</td>
   </tr>
   
@@ -1708,6 +1952,7 @@ layout: page
     <td>March 13</td>
     <td>499</td>
     <td></td>
+    <td>0.87</td>
     <td>Netherlands lineage</td>
   </tr>
   
@@ -1717,11 +1962,13 @@ layout: page
     <td>March 17</td>
     <td>182</td>
     <td></td>
+    <td>1.0</td>
     <td>Lineage reassigned. English lineage, now reassigned to B.1.5</td>
   </tr>
   
   <tr>
     <td>B.1.79</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1735,6 +1982,7 @@ layout: page
     <td>April 06</td>
     <td>103</td>
     <td></td>
+    <td>0.97</td>
     <td>Indian lineage with an English sequence</td>
   </tr>
   
@@ -1744,6 +1992,7 @@ layout: page
     <td>March 16</td>
     <td>40</td>
     <td>Austria to Iceland (1)</td>
+    <td>0.94</td>
     <td>English lineage</td>
   </tr>
   
@@ -1753,6 +2002,7 @@ layout: page
     <td>May 13</td>
     <td>49</td>
     <td></td>
+    <td>0.97</td>
     <td>English lineage</td>
   </tr>
   
@@ -1762,6 +2012,7 @@ layout: page
     <td>March 24</td>
     <td>24</td>
     <td></td>
+    <td>0.3</td>
     <td>Belgian lineage</td>
   </tr>
   
@@ -1771,11 +2022,13 @@ layout: page
     <td>April 10</td>
     <td>23</td>
     <td></td>
+    <td>1.0</td>
     <td>DRC lineage</td>
   </tr>
   
   <tr>
     <td>B.1.85</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1789,11 +2042,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>English lineage (SHEF)</td>
   </tr>
   
   <tr>
     <td>B.1.87</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1807,6 +2062,7 @@ layout: page
     <td>March 12</td>
     <td>119</td>
     <td></td>
+    <td>0.89</td>
     <td>UK lineage, previously some of these seqeunces had been assigned B.1.11, but this clade has split in the tree. </td>
   </tr>
   
@@ -1816,6 +2072,7 @@ layout: page
     <td>March 07</td>
     <td>90</td>
     <td></td>
+    <td>0.99</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -1825,6 +2082,7 @@ layout: page
     <td>March 18</td>
     <td>107</td>
     <td></td>
+    <td>0.79</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -1834,6 +2092,7 @@ layout: page
     <td>March 14</td>
     <td>79</td>
     <td></td>
+    <td>1.0</td>
     <td>Portuguese lineage, parent node in B.1 also has Portuguese diversity, however is interspersed with sequences from UK and other European countries</td>
   </tr>
   
@@ -1843,6 +2102,7 @@ layout: page
     <td>March 11</td>
     <td>1305</td>
     <td></td>
+    <td>1.0</td>
     <td>UK lineage, majoritively Scottish sequences</td>
   </tr>
   
@@ -1852,6 +2112,7 @@ layout: page
     <td>March 15</td>
     <td>14</td>
     <td></td>
+    <td>1.0</td>
     <td>Luxembourg lineage</td>
   </tr>
   
@@ -1861,6 +2122,7 @@ layout: page
     <td>April 14</td>
     <td>13</td>
     <td></td>
+    <td>0.9</td>
     <td>Indian lineage</td>
   </tr>
   
@@ -1870,6 +2132,7 @@ layout: page
     <td>March 14</td>
     <td>25</td>
     <td></td>
+    <td>0.8</td>
     <td>Netherlands lineage</td>
   </tr>
   
@@ -1879,6 +2142,7 @@ layout: page
     <td>March 24</td>
     <td>37</td>
     <td></td>
+    <td>1.0</td>
     <td>English lineage</td>
   </tr>
   
@@ -1888,6 +2152,7 @@ layout: page
     <td>February 03</td>
     <td>653</td>
     <td>Spain to Iceland (1), UK to Iceland (1)</td>
+    <td>0.99</td>
     <td>UK lineage with some USA and Australian sequences in</td>
   </tr>
   
@@ -1897,6 +2162,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Now reassigned to B.1.5.25, English lineage</td>
   </tr>
   
@@ -1906,6 +2172,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Now reassigned to B.1.5.25, English lineage</td>
   </tr>
   
@@ -1915,6 +2182,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Reassigned to B.1.5.26, Scottish lineage</td>
   </tr>
   
@@ -1924,6 +2192,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Reassigned to B.1.5.26, Scottish lineage</td>
   </tr>
   
@@ -1933,11 +2202,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Scottish lineage, reassigned to B.1.5.18</td>
   </tr>
   
   <tr>
     <td>B.1.101</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1951,6 +2222,7 @@ layout: page
     <td>February 24</td>
     <td>48</td>
     <td></td>
+    <td>0.35</td>
     <td>Icelandic lineage</td>
   </tr>
   
@@ -1960,6 +2232,7 @@ layout: page
     <td>April 09</td>
     <td>17</td>
     <td></td>
+    <td>0.45</td>
     <td>US lineage (MI)</td>
   </tr>
   
@@ -1969,6 +2242,7 @@ layout: page
     <td>March 19</td>
     <td>234</td>
     <td></td>
+    <td>0.29</td>
     <td>English lineage</td>
   </tr>
   
@@ -1978,6 +2252,7 @@ layout: page
     <td>March 06</td>
     <td>107</td>
     <td></td>
+    <td>0.74</td>
     <td>English lineage (CAMB)</td>
   </tr>
   
@@ -1987,6 +2262,7 @@ layout: page
     <td>March 16</td>
     <td>59</td>
     <td></td>
+    <td>0.95</td>
     <td>South African lineage, some USA sequences</td>
   </tr>
   
@@ -1996,6 +2272,7 @@ layout: page
     <td>March 16</td>
     <td>69</td>
     <td></td>
+    <td>0.34</td>
     <td>Danish lineage, with new USA and UK sequences nested within (previously B.1.5/ B.1.5.8)</td>
   </tr>
   
@@ -2005,6 +2282,7 @@ layout: page
     <td>March 14</td>
     <td>24</td>
     <td></td>
+    <td>0.0</td>
     <td>US lineage</td>
   </tr>
   
@@ -2014,6 +2292,7 @@ layout: page
     <td>April 12</td>
     <td>8</td>
     <td></td>
+    <td>0.88</td>
     <td>Luxembourg lineage</td>
   </tr>
   
@@ -2023,6 +2302,7 @@ layout: page
     <td>March 02</td>
     <td>97</td>
     <td></td>
+    <td>1.0</td>
     <td>Chilean/ US lineage</td>
   </tr>
   
@@ -2032,6 +2312,7 @@ layout: page
     <td>March 07</td>
     <td>30</td>
     <td></td>
+    <td>0.0</td>
     <td>South American/ English lineage </td>
   </tr>
   
@@ -2041,6 +2322,7 @@ layout: page
     <td>April 07</td>
     <td>49</td>
     <td></td>
+    <td>1.0</td>
     <td>US lineage (UT & WI)</td>
   </tr>
   
@@ -2050,6 +2332,7 @@ layout: page
     <td>June 03</td>
     <td>44</td>
     <td></td>
+    <td>0.84</td>
     <td>Indian lineage, some sequences reassigned from B.1.36</td>
   </tr>
   
@@ -2059,6 +2342,7 @@ layout: page
     <td>March 19</td>
     <td>59</td>
     <td></td>
+    <td>1.0</td>
     <td>Canadian lineage</td>
   </tr>
   
@@ -2068,6 +2352,7 @@ layout: page
     <td>March 22</td>
     <td>41</td>
     <td></td>
+    <td>0.73</td>
     <td>Israel/ UK lineage</td>
   </tr>
   
@@ -2077,6 +2362,7 @@ layout: page
     <td>April 29</td>
     <td>24</td>
     <td></td>
+    <td>1.0</td>
     <td>US lineage</td>
   </tr>
   
@@ -2086,6 +2372,7 @@ layout: page
     <td>March 30</td>
     <td>68</td>
     <td></td>
+    <td>0.65</td>
     <td>UK lineage (BRIS)</td>
   </tr>
   
@@ -2095,6 +2382,7 @@ layout: page
     <td>March 19</td>
     <td>14</td>
     <td></td>
+    <td>0.8</td>
     <td>Danish lineage</td>
   </tr>
   
@@ -2104,6 +2392,7 @@ layout: page
     <td>March 17</td>
     <td>34</td>
     <td></td>
+    <td>1.0</td>
     <td>US lineage (MI)</td>
   </tr>
   
@@ -2113,11 +2402,13 @@ layout: page
     <td>March 27</td>
     <td>142</td>
     <td></td>
+    <td>0.97</td>
     <td>Wales lineage</td>
   </tr>
   
   <tr>
     <td>B.1.121</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2131,6 +2422,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Welsh lineage</td>
   </tr>
   
@@ -2140,11 +2432,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Washington lineage, had previously been part of B.1.21, and has rejoined it in the most recent phylogeny</td>
   </tr>
   
   <tr>
     <td>B.1.123</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2158,11 +2452,13 @@ layout: page
     <td>March 26</td>
     <td>40</td>
     <td></td>
+    <td>0.95</td>
     <td>USA lineage (WA)</td>
   </tr>
   
   <tr>
     <td>B.1.125</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2176,6 +2472,7 @@ layout: page
     <td>March 23</td>
     <td>18</td>
     <td></td>
+    <td>1.0</td>
     <td>German lineage</td>
   </tr>
   
@@ -2185,6 +2482,7 @@ layout: page
     <td>April 03</td>
     <td>11</td>
     <td></td>
+    <td>0.25</td>
     <td>Ukraine/ Latvian lineage</td>
   </tr>
   
@@ -2194,6 +2492,7 @@ layout: page
     <td>March 13</td>
     <td>40</td>
     <td></td>
+    <td>1.0</td>
     <td>European/ DRC lineage</td>
   </tr>
   
@@ -2203,6 +2502,7 @@ layout: page
     <td>March 18</td>
     <td>24</td>
     <td></td>
+    <td>0.1</td>
     <td>Swedish lineage</td>
   </tr>
   
@@ -2212,6 +2512,7 @@ layout: page
     <td>March 20</td>
     <td>59</td>
     <td></td>
+    <td>0.05</td>
     <td>Saudi Arabian lineage, some sequences had previously been assigned B.1.36. Possible that it may be reassigned B.1.36 again in future due to uncertainty in ML searching.</td>
   </tr>
   
@@ -2221,6 +2522,7 @@ layout: page
     <td>February 23</td>
     <td>18</td>
     <td></td>
+    <td>0.1</td>
     <td>Ukraine lineage</td>
   </tr>
   
@@ -2230,6 +2532,7 @@ layout: page
     <td>March 27</td>
     <td>52</td>
     <td></td>
+    <td>0.0</td>
     <td>Indian lineage, some sequences previously assigned B.1.36 & B.1.113. Possible that it may be reassigned B.1.36 again in future due to uncertainty in ML searching.</td>
   </tr>
   
@@ -2239,6 +2542,7 @@ layout: page
     <td>April 07</td>
     <td>10</td>
     <td></td>
+    <td>0.14</td>
     <td>South African lineage</td>
   </tr>
   
@@ -2248,6 +2552,7 @@ layout: page
     <td>April 08</td>
     <td>66</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage (OR)</td>
   </tr>
   
@@ -2257,6 +2562,7 @@ layout: page
     <td>March 18</td>
     <td>6</td>
     <td></td>
+    <td>0.5</td>
     <td>Small Portuguese lineage</td>
   </tr>
   
@@ -2266,6 +2572,7 @@ layout: page
     <td>March 27</td>
     <td>30</td>
     <td></td>
+    <td>1.0</td>
     <td>Indian lineage</td>
   </tr>
   
@@ -2275,6 +2582,7 @@ layout: page
     <td>April 13</td>
     <td>22</td>
     <td></td>
+    <td>0.45</td>
     <td>USA lineage (UT)</td>
   </tr>
   
@@ -2284,6 +2592,7 @@ layout: page
     <td>March 22</td>
     <td>6</td>
     <td></td>
+    <td>0.75</td>
     <td>Small Australian lineage</td>
   </tr>
   
@@ -2293,6 +2602,7 @@ layout: page
     <td>March 04</td>
     <td>178</td>
     <td></td>
+    <td>0.98</td>
     <td>USA lineage</td>
   </tr>
   
@@ -2302,6 +2612,7 @@ layout: page
     <td>March 04</td>
     <td>87</td>
     <td></td>
+    <td>0.92</td>
     <td>South African/ English lineage</td>
   </tr>
   
@@ -2311,6 +2622,7 @@ layout: page
     <td>March 10</td>
     <td>621</td>
     <td></td>
+    <td>0.33</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -2320,6 +2632,7 @@ layout: page
     <td>March 01</td>
     <td>368</td>
     <td></td>
+    <td>1.0</td>
     <td>Welsh lineage (B.1.5.9 reassigned as it falls outside of B.1.5 in the most recent phylogeny)</td>
   </tr>
   
@@ -2329,6 +2642,7 @@ layout: page
     <td>March 15</td>
     <td>36</td>
     <td></td>
+    <td>0.27</td>
     <td>Indian lineage</td>
   </tr>
   
@@ -2338,6 +2652,7 @@ layout: page
     <td>March 21</td>
     <td>431</td>
     <td></td>
+    <td>0.0</td>
     <td>South African lineage</td>
   </tr>
   
@@ -2347,6 +2662,7 @@ layout: page
     <td>April 21</td>
     <td>12</td>
     <td></td>
+    <td>1.0</td>
     <td>Indian lineage</td>
   </tr>
   
@@ -2356,6 +2672,7 @@ layout: page
     <td>May 23</td>
     <td>15</td>
     <td></td>
+    <td>0.9</td>
     <td>Swiss lineage</td>
   </tr>
   
@@ -2365,6 +2682,7 @@ layout: page
     <td>March 04</td>
     <td>104</td>
     <td></td>
+    <td>0.4</td>
     <td>Canadian lineage, with French, Belgian, DRC and English sequences</td>
   </tr>
   
@@ -2374,6 +2692,7 @@ layout: page
     <td>March 03</td>
     <td>258</td>
     <td></td>
+    <td>0.67</td>
     <td>English lineage</td>
   </tr>
   
@@ -2383,6 +2702,7 @@ layout: page
     <td>April 08</td>
     <td>33</td>
     <td></td>
+    <td>0.0</td>
     <td>DRC lineage</td>
   </tr>
   
@@ -2392,6 +2712,7 @@ layout: page
     <td>March 18</td>
     <td>10</td>
     <td></td>
+    <td>0.5</td>
     <td>Indian lineage with very long branch Iran sequence</td>
   </tr>
   
@@ -2401,6 +2722,7 @@ layout: page
     <td>March 14</td>
     <td>133</td>
     <td></td>
+    <td>0.97</td>
     <td>UK lineage</td>
   </tr>
   
@@ -2410,6 +2732,7 @@ layout: page
     <td>March 29</td>
     <td>40</td>
     <td></td>
+    <td>0.95</td>
     <td>English lineage</td>
   </tr>
   
@@ -2419,6 +2742,7 @@ layout: page
     <td>March 12</td>
     <td>93</td>
     <td></td>
+    <td>0.94</td>
     <td>English lineage with some Australian, New Zealand and European sequences</td>
   </tr>
   
@@ -2428,11 +2752,13 @@ layout: page
     <td>April 21</td>
     <td>22</td>
     <td></td>
+    <td>0.75</td>
     <td>USA lineage</td>
   </tr>
   
   <tr>
     <td>B.1.155</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2446,6 +2772,7 @@ layout: page
     <td>March 20</td>
     <td>53</td>
     <td></td>
+    <td>0.98</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -2455,6 +2782,7 @@ layout: page
     <td>March 08</td>
     <td>152</td>
     <td></td>
+    <td>0.98</td>
     <td>UK lineage with some European sequences</td>
   </tr>
   
@@ -2464,6 +2792,7 @@ layout: page
     <td>March 13</td>
     <td>16</td>
     <td></td>
+    <td>0.55</td>
     <td>Finland lineage</td>
   </tr>
   
@@ -2473,6 +2802,7 @@ layout: page
     <td>March 28</td>
     <td>16</td>
     <td></td>
+    <td>0.9</td>
     <td>France/ Bangladesh lineage </td>
   </tr>
   
@@ -2482,6 +2812,7 @@ layout: page
     <td>February 04</td>
     <td>1464</td>
     <td></td>
+    <td>0.3</td>
     <td>Previously part of B.1.36: Tukey, India Saudi Arabia lineage (split in the most recent phylogeny)</td>
   </tr>
   
@@ -2491,6 +2822,7 @@ layout: page
     <td>March 13</td>
     <td>206</td>
     <td></td>
+    <td>0.47</td>
     <td>English lineage nested in diversity of B.1.160</td>
   </tr>
   
@@ -2500,6 +2832,7 @@ layout: page
     <td>March 23</td>
     <td>27</td>
     <td></td>
+    <td>0.68</td>
     <td>USA lineage (OR)</td>
   </tr>
   
@@ -2509,6 +2842,7 @@ layout: page
     <td>March 26</td>
     <td>41</td>
     <td></td>
+    <td>0.47</td>
     <td>USA lineage (WI)</td>
   </tr>
   
@@ -2518,6 +2852,7 @@ layout: page
     <td>March 16</td>
     <td>14</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage (CA & OR)</td>
   </tr>
   
@@ -2527,6 +2862,7 @@ layout: page
     <td>June 24</td>
     <td>13</td>
     <td></td>
+    <td>0.85</td>
     <td>Latvian lineage</td>
   </tr>
   
@@ -2536,6 +2872,7 @@ layout: page
     <td>April 16</td>
     <td>71</td>
     <td></td>
+    <td>1.0</td>
     <td>English lineage </td>
   </tr>
   
@@ -2545,6 +2882,7 @@ layout: page
     <td>March 04</td>
     <td>46</td>
     <td></td>
+    <td>0.92</td>
     <td>USA lineage (CA)</td>
   </tr>
   
@@ -2554,6 +2892,7 @@ layout: page
     <td>March 27</td>
     <td>13</td>
     <td></td>
+    <td>1.0</td>
     <td>UK lineage</td>
   </tr>
   
@@ -2563,6 +2902,7 @@ layout: page
     <td>April 07</td>
     <td>44</td>
     <td></td>
+    <td>0.97</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -2572,11 +2912,13 @@ layout: page
     <td>March 25</td>
     <td>112</td>
     <td></td>
+    <td>0.85</td>
     <td>USA lineage (WA & OR)</td>
   </tr>
   
   <tr>
     <td>B.1.170</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2590,11 +2932,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage with sequences from Israel</td>
   </tr>
   
   <tr>
     <td>B.1.172</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2608,11 +2952,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>USA lineage (WA) (also Sierra Leone)</td>
   </tr>
   
   <tr>
     <td>B.1.174</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2626,6 +2972,7 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>English lineage (CAMB)</td>
   </tr>
   
@@ -2635,6 +2982,7 @@ layout: page
     <td>March 29</td>
     <td>18</td>
     <td></td>
+    <td>1.0</td>
     <td>English lineage (SHEF)</td>
   </tr>
   
@@ -2644,6 +2992,7 @@ layout: page
     <td>June 20</td>
     <td>11001</td>
     <td></td>
+    <td>1.0</td>
     <td>Lineage originating in Spain and has become widespread. Three SNPs define this lineage C22227T, C28932T and G29645T. Equates to the 20A.EU1 cluster in Hodcroft et al 2020.</td>
   </tr>
   
@@ -2653,6 +3002,7 @@ layout: page
     <td>January 16</td>
     <td>2120</td>
     <td>UK to China, Iceland (3), Italy to Iceland (1)</td>
+    <td>0.74</td>
     <td>European lineage</td>
   </tr>
   
@@ -2662,6 +3012,7 @@ layout: page
     <td>January 23</td>
     <td>2578</td>
     <td>UK to Iceland (1)</td>
+    <td>0.96</td>
     <td>Large lineage majoritively from UK and Australia with representation from Europe, Jordan, USA, India, Ghana (BS=21) </td>
   </tr>
   
@@ -2671,6 +3022,7 @@ layout: page
     <td>February 25</td>
     <td>473</td>
     <td>Switzerland to Iceland (1)</td>
+    <td>0.23</td>
     <td>Lineage with representation from UK/ USA/ Australia</td>
   </tr>
   
@@ -2680,6 +3032,7 @@ layout: page
     <td>March 03</td>
     <td>187</td>
     <td></td>
+    <td>0.99</td>
     <td>England/ Australia/ New Zealand lineage (BS=94)</td>
   </tr>
   
@@ -2689,11 +3042,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Reassigned to B.2 this week, consistently low support with similar metadata now present in parent lineage.</td>
   </tr>
   
   <tr>
     <td>B.2.5</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2707,6 +3062,7 @@ layout: page
     <td>March 05</td>
     <td>79</td>
     <td></td>
+    <td>1.0</td>
     <td>UK lineage</td>
   </tr>
   
@@ -2716,6 +3072,7 @@ layout: page
     <td>March 12</td>
     <td>13</td>
     <td></td>
+    <td>0.0</td>
     <td>Iceland lineage</td>
   </tr>
   
@@ -2725,6 +3082,7 @@ layout: page
     <td>February 08</td>
     <td>23</td>
     <td></td>
+    <td>0.88</td>
     <td>Hong Kong lineage nested within B.2, B.2 also contains diversity from Hong Kong along with sequences from around the globe.</td>
   </tr>
   
@@ -2734,11 +3092,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Reassigned B.2 as similiar diversity to parent nodes</td>
   </tr>
   
   <tr>
     <td>B.2.9</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2752,6 +3112,7 @@ layout: page
     <td>February 18</td>
     <td>50</td>
     <td></td>
+    <td>0.23</td>
     <td>South Korean lineage </td>
   </tr>
   
@@ -2761,6 +3122,7 @@ layout: page
     <td>March 17</td>
     <td>8</td>
     <td></td>
+    <td>0.38</td>
     <td>Lineage with sequences from Israel</td>
   </tr>
   
@@ -2770,6 +3132,7 @@ layout: page
     <td>March 15</td>
     <td>31</td>
     <td></td>
+    <td>1.0</td>
     <td>USA lineage</td>
   </tr>
   
@@ -2779,6 +3142,7 @@ layout: page
     <td>February 23</td>
     <td>1330</td>
     <td>Austria to Iceland (1), UK to Iceland (1)</td>
+    <td>0.99</td>
     <td>A European lineage with a lot of Welsh sequences</td>
   </tr>
   
@@ -2788,6 +3152,7 @@ layout: page
     <td>January 18</td>
     <td>301</td>
     <td>Iran to Turkey, Lebanon, Canada, New_Zealand, Australia (7), UK to Lebanon (1), Italy to China (1), France to China (1)</td>
+    <td>0.95</td>
     <td>Iran lineage, many sequences we have of this lineage are associated with travel histories from Iran. Significant number of sequences from the UAE, Kenya and Australia</td>
   </tr>
   
@@ -2797,6 +3162,7 @@ layout: page
     <td>April 19</td>
     <td>10</td>
     <td></td>
+    <td>1.0</td>
     <td>A small lineage from Kazakhstan within the B.4 diversity </td>
   </tr>
   
@@ -2806,6 +3172,7 @@ layout: page
     <td>February 25</td>
     <td>13</td>
     <td></td>
+    <td>1.0</td>
     <td>A lineage with mostly sequences from Bahrein</td>
   </tr>
   
@@ -2815,6 +3182,7 @@ layout: page
     <td>March 10</td>
     <td>24</td>
     <td></td>
+    <td>0.83</td>
     <td>Australian lineage nested within the diversity of B.4</td>
   </tr>
   
@@ -2824,6 +3192,7 @@ layout: page
     <td>February 10</td>
     <td>9</td>
     <td></td>
+    <td>1.0</td>
     <td>Japanese lineage </td>
   </tr>
   
@@ -2833,6 +3202,7 @@ layout: page
     <td>February 14</td>
     <td>933</td>
     <td>Pakistan to China (1)</td>
+    <td>0.99</td>
     <td>Indian and Singapore lineage with global diversity. Within this lineage, Indian sequences are the majority of the sequences present at the base of the lineage. Towards the tips, there is a greater representation of sequences derived from Singapore. There is also representation from South East Asia/ North America/ Europe/ Israel/ Gambia/ Timor-leste</td>
   </tr>
   
@@ -2842,6 +3212,7 @@ layout: page
     <td>March 21</td>
     <td>17</td>
     <td></td>
+    <td>0.6</td>
     <td>Malaysian lineage</td>
   </tr>
   
@@ -2851,11 +3222,13 @@ layout: page
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Lineage reassigned. Hong Kong lineage reassigned to B.2.8 (BS=75)</td>
   </tr>
   
   <tr>
     <td>B.7</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2869,6 +3242,7 @@ layout: page
     <td>March 12</td>
     <td>81</td>
     <td></td>
+    <td>0.26</td>
     <td>Lineage with sequences from the UK, Australia and New Zealand</td>
   </tr>
   
@@ -2878,6 +3252,7 @@ layout: page
     <td>March 11</td>
     <td>127</td>
     <td></td>
+    <td>1.0</td>
     <td>Lineage with a lot of representation from sequences in the UK, including Northern Ireland, England and Scotland</td>
   </tr>
   
@@ -2887,6 +3262,7 @@ layout: page
     <td>January 29</td>
     <td>267</td>
     <td>Netherlands to Ecuador (1)</td>
+    <td>0.97</td>
     <td>European lineage with sequences from the Netherlands, UK, Austria, Slovakia </td>
   </tr>
   
@@ -2896,6 +3272,7 @@ layout: page
     <td>January 20</td>
     <td>35</td>
     <td></td>
+    <td>1.0</td>
     <td>Japan lineage (BS=100)</td>
   </tr>
   
@@ -2905,11 +3282,13 @@ layout: page
     <td>April 06</td>
     <td>13</td>
     <td></td>
+    <td>0.2</td>
     <td>USA (WI) lineage located off the polytomy at the base of the B lineage</td>
   </tr>
   
   <tr>
     <td>B.14</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2923,6 +3302,7 @@ layout: page
     <td>March 11</td>
     <td>62</td>
     <td></td>
+    <td>1.0</td>
     <td>UK lineage (England and Wales)</td>
   </tr>
   
@@ -2932,6 +3312,7 @@ layout: page
     <td>March 13</td>
     <td>272</td>
     <td></td>
+    <td>0.99</td>
     <td>Scottish lineage </td>
   </tr>
   
@@ -2941,6 +3322,7 @@ layout: page
     <td>March 23</td>
     <td>7</td>
     <td></td>
+    <td>0.67</td>
     <td>US lineage (WI)</td>
   </tr>
   
@@ -2950,6 +3332,7 @@ layout: page
     <td>March 16</td>
     <td>28</td>
     <td>UK to Iceland (1)</td>
+    <td>0.43</td>
     <td>European lineage (Iceland and England) </td>
   </tr>
   
@@ -2959,6 +3342,7 @@ layout: page
     <td>March 31</td>
     <td>19</td>
     <td></td>
+    <td>0.6</td>
     <td>US lineage (CA)</td>
   </tr>
   
@@ -2968,6 +3352,7 @@ layout: page
     <td>March 17</td>
     <td>31</td>
     <td></td>
+    <td>0.35</td>
     <td>US lineage (CA)</td>
   </tr>
   
@@ -2977,11 +3362,13 @@ layout: page
     <td>March 05</td>
     <td>63</td>
     <td></td>
+    <td>0.4</td>
     <td>UK lineage </td>
   </tr>
   
   <tr>
     <td>B.22</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2995,6 +3382,7 @@ layout: page
     <td>February 28</td>
     <td>340</td>
     <td>UK to Iceland (1), Austria to Iceland (1)</td>
+    <td>0.98</td>
     <td>Lineage with representation from mainly UK sequences, but also sequences from Portugal, Iceland and Brazil  </td>
   </tr>
   
@@ -3004,6 +3392,7 @@ layout: page
     <td>March 02</td>
     <td>66</td>
     <td>UK to China (1)</td>
+    <td>0.07</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -3013,6 +3402,7 @@ layout: page
     <td>March 06</td>
     <td>22</td>
     <td></td>
+    <td>0.23</td>
     <td>English lineage</td>
   </tr>
   
@@ -3022,6 +3412,7 @@ layout: page
     <td>March 16</td>
     <td>77</td>
     <td></td>
+    <td>0.11</td>
     <td>Scottish lineage</td>
   </tr>
   
@@ -3031,6 +3422,7 @@ layout: page
     <td>March 03</td>
     <td>62</td>
     <td></td>
+    <td>1.0</td>
     <td>English lineage</td>
   </tr>
   
@@ -3040,6 +3432,7 @@ layout: page
     <td>June 03</td>
     <td>126</td>
     <td></td>
+    <td>0.99</td>
     <td>South African lineage (Alias of B.1.1.1.1)</td>
   </tr>
   
@@ -3049,6 +3442,7 @@ layout: page
     <td>June 09</td>
     <td>13</td>
     <td></td>
+    <td>1.0</td>
     <td>South African lineage (Alias of B.1.1.1.2)</td>
   </tr>
   
@@ -3058,6 +3452,7 @@ layout: page
     <td>April 12</td>
     <td>143</td>
     <td></td>
+    <td>1.0</td>
     <td>English lineage (Alias of B.1.1.1.3)</td>
   </tr>
   
@@ -3067,6 +3462,7 @@ layout: page
     <td>July 21</td>
     <td>2197</td>
     <td></td>
+    <td>0.99</td>
     <td>UK lineage (Alias of B.1.1.25.2)</td>
   </tr>
   
@@ -3076,6 +3472,7 @@ layout: page
     <td>March 19</td>
     <td>1846</td>
     <td></td>
+    <td>0.98</td>
     <td>Australian lineage (Alias of B.1.1.25.1)</td>
   </tr>
 </table>
@@ -3101,5 +3498,4 @@ function myFunction() {
 }
 </script>
 
-<!-- </body> -->
-</section>
+</body>

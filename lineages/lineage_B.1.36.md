@@ -1,30 +1,7 @@
 ---
-layout: page
+layout: lineage_page
 title: Lineage B.1.36
+lineage: B.1.36
+parent: B.1
+children: ['B.1.36', 'B.1.36.1', 'B.1.36.2']
 ---
-
-
-
-<p>
-<ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1</a>
-</ul>
-</p>
-<h3> Lineage summaries</h3>
-
-<img src="../assets/images/B.1.36.svg" alt="B.1.36 lineage summary figure" width="90%" height="700px" />
-
-
-| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
-|:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.36.html' | absolute_url }}">B.1.36</a> | UK (47%), India (25%), Saudi_Arabia (12%) | February 16 to October 15 | 1011 | Saudia_Arabia to Turkey (1), Iran to Turkey (1) | 0.76 |
-| <a href="{{ 'lineages/lineage_B.1.36.1.html' | absolute_url }}">B.1.36.1</a> | UK (91%), India (5%), New_Zealand (1%) | May 11 to October 19 | 1051 |  | 0.94 |
-
-<h3>Lineage descriptions</h3>
-
-| Lineage | Notes |
-|:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.36.html' | absolute_url }}">B.1.36</a> | Global lineage with lots of representation of sequences from India and Saudi Arabia. Sequences also from Europe and UK. Now includes sequences that previously had been assigned B.1.113.  |
-| <a href="{{ 'lineages/lineage_B.1.36.1.html' | absolute_url }}">B.1.36.1</a> | Indian lineage |
-| <a href="{{ 'lineages/lineage_B.1.36.2.html' | absolute_url }}">B.1.36.2</a> | Bangladesh lineage |
-

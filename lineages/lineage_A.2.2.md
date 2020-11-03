@@ -1,27 +1,7 @@
 ---
-layout: page
+layout: lineage_page
 title: Lineage A.2.2
+lineage: A.2.2
+parent: A.2
+children: ['A.2.2']
 ---
-
-
-
-<p>
-<ul class="actions small">
-	 <a href="{{ 'lineages/lineage_A.2.html' | absolute_url }}" class="button special fit">Go to parent lineage: A.2</a>
-</ul>
-</p>
-<h3> Lineage summaries</h3>
-
-<img src="../assets/images/A.2.2.svg" alt="A.2.2 lineage summary figure" width="90%" height="700px" />
-
-
-| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
-|:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_A.2.2.html' | absolute_url }}">A.2.2</a> | Australia (91%), UK (4%), New_Zealand (2%) | March 17 to April 27 | 96 |  | 0.99 |
-
-<h3>Lineage descriptions</h3>
-
-| Lineage | Notes |
-|:-----|:-----|
-| <a href="{{ 'lineages/lineage_A.2.2.html' | absolute_url }}">A.2.2</a> | Australian lineage nested within the diversity of A.2 |
-

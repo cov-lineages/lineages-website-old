@@ -1,27 +1,7 @@
 ---
-layout: page
+layout: lineage_page
 title: Lineage B.1.1.65
+lineage: B.1.1.65
+parent: B.1.1
+children: ['B.1.1.65']
 ---
-
-
-
-<p>
-<ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.1.1.html' | absolute_url }}" class="button special fit">Go to parent lineage: B.1.1</a>
-</ul>
-</p>
-<h3> Lineage summaries</h3>
-
-<img src="../assets/images/B.1.1.65.svg" alt="B.1.1.65 lineage summary figure" width="90%" height="700px" />
-
-
-| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
-|:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.1.1.65.html' | absolute_url }}">B.1.1.65</a> | USA (97%), UK (3%) | April 15 to August 11 | 38 |  | 0.84 |
-
-<h3>Lineage descriptions</h3>
-
-| Lineage | Notes |
-|:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.1.1.65.html' | absolute_url }}">B.1.1.65</a> | USA lineage (WA), previously B.1.1.26, however split in most recent phylogeny |
-

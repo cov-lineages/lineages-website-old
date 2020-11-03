@@ -1,27 +1,7 @@
 ---
-layout: page
+layout: lineage_page
 title: Lineage B.20
+lineage: B.20
+parent: B
+children: ['B.20']
 ---
-
-
-
-<p>
-<ul class="actions small">
-	 <a href="{{ 'lineages/lineage_B.html' | absolute_url }}" class="button special fit">Go to parent lineage: B</a>
-</ul>
-</p>
-<h3> Lineage summaries</h3>
-
-<img src="../assets/images/B.20.svg" alt="B.20 lineage summary figure" width="90%" height="700px" />
-
-
-| Lineage name | Most common countries | Date range | Number of taxa | Known Travel | Recall value |
-|:-----|:-----|:-------|-------:|-------:|:---------|--------:|
-| <a href="{{ 'lineages/lineage_B.20.html' | absolute_url }}">B.20</a> | UK (61%), USA (39%) | March 17 to September 08 | 31 |  | 0.35 |
-
-<h3>Lineage descriptions</h3>
-
-| Lineage | Notes |
-|:-----|:-----|
-| <a href="{{ 'lineages/lineage_B.20.html' | absolute_url }}">B.20</a> | US lineage (CA) |
-
