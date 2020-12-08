@@ -25,8 +25,8 @@
                 	<header class="main">
                 		<h2>{{ page.title }}</h2>
                 	</header>
-              <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for lineage.." title="Type in a name">
-              <br>
+                  <h3><strong>Table 1</strong> | Summary of clusters <br>  <input class="searchbar" type="text" id="myInput" onkeyup="myFunction('myInput','myTable')" placeholder="Search for lineage..." title="searchbar"></h3>
+                  <br>
               <table id="myTable">
                 <tr class="header">
                   <th style="width:8%;">Lineage</th>
@@ -57,7 +57,26 @@
                 </section>
               </div>
           </div>
-
+          <script>
+            function myFunction(myInput, myTable) {
+              var input, filter, table, tr, td, i, txtValue;
+              input = document.getElementById(myInput);
+              filter = input.value.toUpperCase();
+              table = document.getElementById(myTable);
+              tr = table.getElementsByTagName("tr");
+              for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                  txtValue = td.textContent || td.innerText;
+                  if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                  } else {
+                    tr[i].style.display = "none";
+                  }
+                }       
+              }
+            }
+            </script>
           {% include sidebar.html %}
 
       </div>
