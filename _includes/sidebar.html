@@ -16,7 +16,12 @@
           </header>
           <ul>
             <li><a href="{{ 'index.html' | absolute_url }}">Home</a></li>
-            <li><a href="{{ 'global_report.html' | absolute_url }}">New variant report</a></li>
+            <li>
+              <span class="opener"><a href="{{ 'global_report.html' | absolute_url }}">New variant report</a></span>
+              <ul>
+                <a href="{{ 'global_report_B.1.1.7.html' | absolute_url }}">B.1.1.7 report</a></li>
+                <a href="{{ 'global_report_B.1.351.html' | absolute_url }}">B.1.351 report</a></li>
+              </ul>
             <li>
               <span class="opener">Major lineages</span>
               <ul>
