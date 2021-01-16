@@ -42,7 +42,13 @@
   .axis {
     font: 12px sans-serif;
   }
-
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #2D1E3E;
+    shape-rendering: crispEdges;
+    stroke-width: 1px;
+  }
   .maptooltip {
     position: absolute;
     padding: 10px;
@@ -303,13 +309,13 @@
   var continents = ["Europe", "Asia", "NorthAmerica", "SouthAmerica", "Africa", "Antarctica", "Oceania"].reverse();
 
   var colourMap = {
-    "Europe": "#947383",
+    "Europe": "#984464",
     "Asia": "#96C6AD",
     "NorthAmerica": "#525886",
-    "SouthAmerica": "#937252",
+    "SouthAmerica": "#514656",
     "Africa": "#D18CAD",
-    "Antarctica": "grey",
     "Oceania": "#A4A86F",
+    "Antarctica": "cdcdcd"
   }
 
   var body = document.body,
