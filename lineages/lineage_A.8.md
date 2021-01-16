@@ -1,7 +1,0 @@
----
-layout: lineage_page
-title: Lineage A.8
-lineage: A.8
-parent: A
-children: ['A.8']
----
