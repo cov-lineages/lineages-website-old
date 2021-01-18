@@ -324,12 +324,9 @@
   var height = document.getElementById("map").offsetHeight;
   var width = document.getElementById("map").offsetWidth;
 
-  var projection = d3.geoGinzburg4()
+  var projection = d3.geo.equirectangular()
                     .scale(170)
                     .translate( [width/2, height / 2]);
-//  var projection = d3.geo.equirectangular()
-//                    .scale(170)
-//                    .translate( [width/2, height / 2]);
 
   var path = d3.geo.path()
     .projection(projection);
