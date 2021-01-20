@@ -4062,3 +4062,8 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+
+#tableWrapper {
+	width: calc(100% - 187px);
+}

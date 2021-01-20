@@ -8,21 +8,21 @@
 
 <style type="text/css">
   #map {
-    width: 100%;
+    width: calc(100% - 187px);
     height: 600px;
     margin-top: 20px;
   }
 
   #bar_chart {
-    width: calc(100% - 40px);
-    height: 400px;
-    margin-top: 20px;
+    width: calc(100% - 187px);
+    height: 350px;
+    margin-top: 50px;
   }
 
   #date_chart {
-    width: calc(100% - 40px);
+    width: calc(100% - 187px);
     height: 400px;
-    margin-top: 200px;
+    margin-top: 50px;
     margin-bottom: 90px;
   }
 
@@ -31,6 +31,11 @@
     stroke: #fff;
     stroke-width: 2;
     stroke-linejoin: round;
+  }
+
+  .countryCount {
+    width: 50px;
+    text-align: center;
   }
 
 
@@ -235,35 +240,38 @@
                 <div id="bar_chart"></div>
                 <div id="date_chart"></div>
 
+                <div id="tableWrapper">
+
                                    
-                 <h3><strong>Table 1</strong> | Summary of clusters <br>  <input class="searchbar" type="text" id="myInput" onkeyup="myFunction('myInput','myTable')" placeholder="Search for lineage..." title="searchbar"></h3>
-              <br><br>
-              <table id="myTable">
-                <tr class="header">
-                  <th style="width:8%;">Lineage</th>
-                  <th style="width:17%;">Most common countries</th>
-                  <th style="width:10%;">Earliest date</th>
-                  <th style="width:8%;">Count</th>
-                  <th style="width:18%;">Travel History</th>
-                  <th style="width:35%;">Description</th>
-                  <th style="width:8%;">Recall rate</th>
-                </tr>
-                  {% for child in page.children %}
+                   <h3><strong>Table 1</strong> | Summary of clusters <br>  <input class="searchbar" type="text" id="myInput" onkeyup="myFunction('myInput','myTable')" placeholder="Search for lineage..." title="searchbar"></h3>
+                    <br><br>
+                    <table id="myTable">
+                      <tr class="header">
+                        <th style="width:8%;">Lineage</th>
+                        <th style="width:17%;">Most common countries</th>
+                        <th style="width:10%;">Earliest date</th>
+                        <th style="width:8%;">Count</th>
+                        <th style="width:18%;">Travel History</th>
+                        <th style="width:35%;">Description</th>
+                        <th style="width:8%;">Recall rate</th>
+                      </tr>
+                        {% for child in page.children %}
 
-                  {% assign row = site.data.lineage_data[child] %}
-                <tr>
-                  <td><a href="/lineages/lineage_{{ child }}.html" style="color:#86b0a6">{{ child }}</a> </td>
-                  <td>{{ row["Countries"] }}</td>
-                  <td>{{ row["Earliest date"] }}</td>
-                  <td>{{ row["Count"] }}</td>
-                  <td>{{ row["Travel History"] }}</td>
-                  <td>{{ row["Description"] }}</td>
-                  <td>{{ row["Recall rate"] }}</td>
-                </tr>
+                        {% assign row = site.data.lineage_data[child] %}
+                      <tr>
+                        <td><a href="/lineages/lineage_{{ child }}.html" style="color:#86b0a6">{{ child }}</a> </td>
+                        <td>{{ row["Countries"] }}</td>
+                        <td>{{ row["Earliest date"] }}</td>
+                        <td>{{ row["Count"] }}</td>
+                        <td>{{ row["Travel History"] }}</td>
+                        <td>{{ row["Description"] }}</td>
+                        <td>{{ row["Recall rate"] }}</td>
+                      </tr>
 
-                  {% endfor %}
-                
-                </table>
+                    {% endfor %}
+                  
+                  </table>
+                </div>
 
                 {{ content }}
                 </section>
@@ -476,13 +484,33 @@
   };
 
   function drawBarChart(data) {
-    var margin = {top: 20, right: 20, bottom: 200, left: 40},
-    width = document.getElementById("bar_chart").offsetWidth;
-    height = document.getElementById("bar_chart").offsetHeight;
+    var margin = {top: 20, right: 20, bottom: 100, left: 200},
+    width = document.getElementById("bar_chart").offsetWidth - (margin.left + margin.right);
+    height = document.getElementById("bar_chart").offsetHeight - (margin.top + margin.bottom);
 
-    var x = d3.scale.ordinal().rangeRoundBands([0, width], .05);
+    data = data.filter(function(d) {
+        if(d.count >= 1) {
+          return true;
+        }
 
-    var y = d3.scale.linear().range([height, 0]);
+        return false;
+      });
+
+    data.sort(function(x, y){
+       return d3.ascending(x.count, y.count);
+    });
+
+    var originalCountryCount = data.length;
+
+    var maxBarSize = width;
+
+    if(data.length <= 1) {
+      maxBarSize = width / 3;
+    }
+
+    var x = d3.scale.ordinal().rangeRoundBands([0, maxBarSize], .05);
+
+    var y = d3.scale.log().range([height, 0]);
 
     var xAxis = d3.svg.axis()
         .scale(x)
@@ -491,7 +519,10 @@
     var yAxis = d3.svg.axis()
         .scale(y)
         .orient("left")
-        .ticks(10);
+        .ticks(10)
+        .tickFormat(function (d) {
+          return y.tickFormat(4,d3.format(",d"))(d)
+        });
 
     var svg = d3.select("#bar_chart").append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -499,9 +530,11 @@
       .append("g")
         .attr("transform", 
               "translate(" + margin.left + "," + margin.top + ")");
-      
+
+      data = data.slice(Math.max(data.length - 25, 0))
+
       x.domain(data.map(function(d) { return d.country; }));
-      y.domain([0, d3.max(data, function(d) { return d.count; })]);
+      y.domain([0.1, d3.max(data, function(d) { return d.count; })]);
 
       svg.append("g")
           .attr("class", "x axis")
@@ -545,7 +578,7 @@
         .enter().append("g")
         .attr("class","lineLegend")
         .attr("transform", function (d,i) {
-                return "translate(" + 30 + "," + (i*20)+")";
+                return "translate(" + -200 + "," + (i*20) +")";
             });
 
       lineLegend.append("text").text(function (d) {return d;})
@@ -554,6 +587,17 @@
       lineLegend.append("rect")
           .attr("fill", function (d, i) {return colourMap[d]; })
           .attr("width", 10).attr("height", 10);
+
+      var messages = [data.length + "/" + originalCountryCount + " countries shown"];
+
+      var countryCount = svg.selectAll(".countryCount").data(messages)
+        .enter().append("g")
+        .attr("class","lineLegend")
+        .attr("transform", function (d,i) {
+              return "translate(" + -200 + "," + (i*20) + 175 +")";
+          });
+
+      countryCount.append("text").text(function (d) {return d;}).attr("transform", "translate(0,9)");
   }
 
   function drawDateChart(data) {
@@ -607,10 +651,16 @@
       minDate.setDate(minDate.getDate() + 1);
     };
 
+    var maxBandSize = 100 + width-10;
+
+    if(minDate == maxDate) {
+      maxBandSize = maxBandSize / 2;
+    }
+
     // Set x, y and colors
     var x = d3.scale.ordinal()
       .domain(dates.map(function(d) { return d; }))
-      .rangeRoundBands([10, 100 + width-10], 0.02);
+      .rangeRoundBands([10, maxBandSize], 0.02);
 
     var y = d3.scale.linear()
       .domain([0, d3.max(dataset, function(d) {  return d3.max(d, function(d) { return d.y0 + d.y; });  })])
