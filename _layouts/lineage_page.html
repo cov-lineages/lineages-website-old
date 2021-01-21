@@ -8,22 +8,28 @@
 
 <style type="text/css">
   #map {
-    width: calc(100% - 187px);
+    width: calc(100% - 188px);
+    flex-basis: calc(100% - 188px);
     height: 600px;
     margin-top: 20px;
+
   }
 
   #bar_chart {
-    width: calc(100% - 187px);
+    width: calc(100% - 188px);
+    flex-basis: calc(100% - 188px);
     height: 350px;
     margin-top: 50px;
+
   }
 
   #date_chart {
-    width: calc(100% - 187px);
-    height: 400px;
+    width: calc(100% - 188px);
+    flex-basis: calc(100% - 188px);
+    height: 300px;
     margin-top: 50px;
     margin-bottom: 90px;
+
   }
 
   .countries {
@@ -314,6 +320,7 @@
   children.push("{{child}}")              
   {% endfor %}
 
+
   var continents = ["Europe", "Asia", "NorthAmerica", "SouthAmerica", "Africa", "Antarctica", "Oceania"].reverse();
 
   var colourMap = {
@@ -329,11 +336,11 @@
   var body = document.body,
     html = document.documentElement;
 
-  var height = document.getElementById("map").offsetHeight;
-  var width = document.getElementById("map").offsetWidth;
+  var height = $("#map").height();
+  var width = $("#map").width();
 
   var projection = d3.geo.equirectangular()
-                    .scale(150)
+                    .scale(115)
                     .translate( [width/2, height / 2]);
 
   var path = d3.geo.path()
@@ -436,11 +443,17 @@
 
         entry.date = d;
 
+        var sum = 0;
+
         Object.keys(regionToCounts).forEach(function(r) {
           entry[r] = regionToCounts[r];
+
+          sum = sum + regionToCounts[r];
         });
 
-        dateChartData.push(entry);
+        if(sum > 0) {
+           dateChartData.push(entry);
+        }
 
 
       });
@@ -484,9 +497,10 @@
   };
 
   function drawBarChart(data) {
-    var margin = {top: 20, right: 20, bottom: 160, left: 200},
-    width = document.getElementById("bar_chart").offsetWidth - (margin.left + margin.right);
-    height = document.getElementById("bar_chart").offsetHeight - (margin.top + margin.bottom);
+    var margin = {top: 20, right: 40, bottom: 160, left: 200},
+
+    width = $("#bar_chart").width() - (margin.left + margin.right);
+    height = $("#bar_chart").height() - (margin.top + margin.bottom);
 
     data = data.filter(function(d) {
         if(d.count >= 1) {
@@ -602,14 +616,14 @@
 
   function drawDateChart(data) {
     
-    var margin = {top: 20, right: 40, bottom: 35, left: 40};
+    var margin = {top: 20, right: 0, bottom: 35, left: 30};
 
-    var width = document.getElementById("bar_chart").offsetWidth;
-    var height = document.getElementById("bar_chart").offsetHeight;
+    var width = $("#date_chart").width();
+    var height = $("#date_chart").height();
 
     var svg = d3.select("#date_chart")
       .append("svg")
-      .attr("width", width + margin.left + margin.right)
+      .attr("width", width -(margin.left + margin.right))
       .attr("height", height + margin.top + margin.bottom)
       .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
@@ -651,7 +665,7 @@
       minDate.setDate(minDate.getDate() + 1);
     };
 
-    var maxBandSize = 100 + width-10;
+    var maxBandSize = 100 + (width - (margin.left + margin.right));
 
     if(minDate == maxDate) {
       maxBandSize = maxBandSize / 2;
@@ -660,7 +674,7 @@
     // Set x, y and colors
     var x = d3.scale.ordinal()
       .domain(dates.map(function(d) { return d; }))
-      .rangeRoundBands([10, maxBandSize], 0.02);
+      .rangeRoundBands([0, maxBandSize], 0.01);
 
     var y = d3.scale.linear()
       .domain([0, d3.max(dataset, function(d) {  return d3.max(d, function(d) { return d.y0 + d.y; });  })])
@@ -675,7 +689,7 @@
     var yAxis = d3.svg.axis()
       .scale(y)
       .orient("left")
-      .ticks(5)
+      .ticks(4)
       .tickSize(-width, 0, 0)
       .tickFormat( function(d) { return d } );
     
@@ -684,7 +698,7 @@
     var xAxis = d3.svg.axis()
       .scale(x)
       .orient("bottom")
-      .tickFormat(d3.time.format("%b %y"))
+      .tickFormat(d3.time.format("%b"))
       .tickValues(ticks);
 
     svg.append("g")
