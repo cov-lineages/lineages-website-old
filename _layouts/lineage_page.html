@@ -333,7 +333,7 @@
   var width = document.getElementById("map").offsetWidth;
 
   var projection = d3.geo.equirectangular()
-                    .scale(170)
+                    .scale(150)
                     .translate( [width/2, height / 2]);
 
   var path = d3.geo.path()
@@ -484,7 +484,7 @@
   };
 
   function drawBarChart(data) {
-    var margin = {top: 20, right: 20, bottom: 100, left: 200},
+    var margin = {top: 20, right: 20, bottom: 160, left: 200},
     width = document.getElementById("bar_chart").offsetWidth - (margin.left + margin.right);
     height = document.getElementById("bar_chart").offsetHeight - (margin.top + margin.bottom);
 
