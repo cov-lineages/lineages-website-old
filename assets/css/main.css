@@ -4065,5 +4065,10 @@
 
 
 #tableWrapper {
-	width: calc(100% - 187px);
+	max-width: 500px !important;
+}
+
+#myTable {
+	width: calc(100% - 188px);
+	flex-basis: calc(100% - 188px);
 }
