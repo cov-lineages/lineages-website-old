@@ -26,6 +26,14 @@
     margin-bottom: 90px;
   }
 
+  #toTopBtn {
+    position: fixed;
+    bottom: 26px;
+    right: 39px;
+    z-index: 98;
+    padding: 21px;
+    background-color: #86b0a6
+    }
   .countries {
     fill: #ccc;
     stroke: #fff;
@@ -151,11 +159,10 @@
     }
     </%text>
 
-
     function buildTree(svgID, myTreeString,tooltipID,backgroundDataString,sliderID) {
         const backgroundData = JSON.parse(backgroundDataString);
         const updateTable = updateTableFactory(tooltipID, backgroundData);
-        const margins = {top:50,bottom:60,left:100,right:250}
+        const margins = {top:50,bottom:60,left:100,right:100}
         const svg = d3.select(document.getElementById(svgID))
         svg.selectAll("g").remove();
         const newickString = myTreeString;
@@ -211,6 +218,24 @@
     }
   </script>
 
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+      if ($(this).scrollTop() > 20) {
+      $('#toTopBtn').fadeIn();
+      } else {
+      $('#toTopBtn').fadeOut();
+      }
+      });
+      
+      $('#toTopBtn').click(function() {
+      $("html, body").animate({
+      scrollTop: 0
+      }, 400);
+      return false;
+      });
+      });
+  </script>
 
     <!-- Wrapper -->
     <div id="wrapper">
@@ -218,7 +243,7 @@
         <!-- Main -->
         <div id="main">
             <div class="inner">
-
+              <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
                 {% include header.html %}
 
                 <!-- Content -->
@@ -247,13 +272,12 @@
                     <br><br>
                     <table id="myTable">
                       <tr class="header">
-                        <th style="width:8%;">Lineage</th>
-                        <th style="width:17%;">Most common countries</th>
-                        <th style="width:10%;">Earliest date</th>
-                        <th style="width:8%;">Count</th>
-                        <th style="width:18%;">Travel History</th>
-                        <th style="width:35%;">Description</th>
-                        <th style="width:8%;">Recall rate</th>
+                        <th style="width:10%;">Lineage</th>
+                        <th style="width:20%;">Most common countries</th>
+                        <th style="width:15%;">Earliest date</th>
+                        <th style="width:10%;">Count</th>
+                        <th style="width:10%;">Travel History</th>
+                        <th style="width:30%;">Description</th>
                       </tr>
                         {% for child in page.children %}
 
@@ -265,7 +289,6 @@
                         <td>{{ row["Count"] }}</td>
                         <td>{{ row["Travel History"] }}</td>
                         <td>{{ row["Description"] }}</td>
-                        <td>{{ row["Recall rate"] }}</td>
                       </tr>
 
                     {% endfor %}
