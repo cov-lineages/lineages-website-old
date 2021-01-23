@@ -525,6 +525,14 @@
                 "Local transmission": "0",
                 "Method of surveillance": "travellers",
                 "Source": "GISAID"
+            },
+            {
+                "Country": "United Arab Emirates",
+                "Earliest report": "2020-12-26",
+                "Date local transmission": "",
+                "Local transmission": "0",
+                "Method of surveillance": "travellers",
+                "Source": "https://www.reuters.com/article/us-health-coronavirus-emirates/uae-reports-limited-number-of-cases-of-new-coronavirus-variant-idUKKBN2931RJ?edition-redirect=uk"
             }
         ],
         "aggregate_data": [
@@ -1049,7 +1057,7 @@
                 "Date local transmission": "2020-12-27",
                 "Local transmission": "1",
                 "Method of surveillance": "SGTF",
-                "Source": "https://eu.usatoday.com/story/news/health/2020/12/29/colorado-reports-first-known-us-case-new-covid-strain-uk/4079697001/; https://twitter.com/K_G_Andersen/status/1344825028370567169/photo/1"
+                "Source": "https://eu.usatoday.com/story/news/health/2020/12/29/colorado-reports-first-known-us-case-new-covid-strain-uk/4079697001/ | https://twitter.com/K_G_Andersen/status/1344825028370567169/photo/1"
             },
             {
                 "Country": "Denmark",
@@ -1081,7 +1089,7 @@
                 "Date local transmission": "2021-01-22",
                 "Local transmission": "1",
                 "Method of surveillance": "community_sequencing",
-                "Source": "https://twitter.com/CoronaTurkey/status/1352612954454298624; https://www.cnnturk.com/video/turkiye/son-dakika-haberi-bakan-koca-acikladi-15-kiside-mutasyonlu-virus-ingiltereden-girisler-tamamen-durduruldu-video"
+                "Source": "https://twitter.com/CoronaTurkey/status/1352612954454298624 | https://www.cnnturk.com/video/turkiye/son-dakika-haberi-bakan-koca-acikladi-15-kiside-mutasyonlu-virus-ingiltereden-girisler-tamamen-durduruldu-video"
             },
             {
                 "Country": "Belgium",
@@ -1113,7 +1121,7 @@
                 "Date local transmission": "2021-01-19",
                 "Local transmission": "1",
                 "Method of surveillance": "community_sequencing",
-                "Source": "https://www.bjnews.com.cn/detail/161113300215924.html; http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2020.270; https://www.globaltimes.cn/page/202101/1211644.shtml"
+                "Source": "https://www.bjnews.com.cn/detail/161113300215924.html | http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2020.270 | https://www.globaltimes.cn/page/202101/1211644.shtml"
             },
             {
                 "Country": "Finland",
@@ -1129,7 +1137,7 @@
                 "Date local transmission": "2021-01-06",
                 "Local transmission": "1",
                 "Method of surveillance": "",
-                "Source": "https://www.aljazeera.com/news/2020/12/26/france-confirms-first-case-of-new-coronavirus-variant; https://cnnphilippines.com/news/2021/1/6/Hong-Kong-detects-UK-COVID-19-variant-from-Manila-outbound-passenger-.html"
+                "Source": "https://www.aljazeera.com/news/2020/12/26/france-confirms-first-case-of-new-coronavirus-variant | https://cnnphilippines.com/news/2021/1/6/Hong-Kong-detects-UK-COVID-19-variant-from-Manila-outbound-passenger-.html"
             },
             {
                 "Country": "Germany",
@@ -1161,7 +1169,7 @@
                 "Date local transmission": "2020-12-29",
                 "Local transmission": "1",
                 "Method of surveillance": "travellers",
-                "Source": "https://www.independent.ie/world-news/coronavirus/new-uk-variant-of-covid-19-confirmed-in-ireland-while-1025-new-cases-and-two-further-deaths-confirmed-39900087.html; https://www.thejournal.ie/uk-strain-coronavirus-b117-ireland-third-wave-5314440-Jan2021/"
+                "Source": "https://www.independent.ie/world-news/coronavirus/new-uk-variant-of-covid-19-confirmed-in-ireland-while-1025-new-cases-and-two-further-deaths-confirmed-39900087.html | https://www.thejournal.ie/uk-strain-coronavirus-b117-ireland-third-wave-5314440-Jan2021/"
             },
             {
                 "Country": "Israel",
@@ -1169,7 +1177,7 @@
                 "Date local transmission": "2021-01-01",
                 "Local transmission": "1",
                 "Method of surveillance": "",
-                "Source": "https://www.timesofisrael.com/health-officials-fear-mutant-strain-spreading-as-they-examine-dozens-of-tests/; https://menafn.com/1101373506/Mutant-COVID-19-variant-affects-18-more-people-in-Israel&source=30"
+                "Source": "https://www.timesofisrael.com/health-officials-fear-mutant-strain-spreading-as-they-examine-dozens-of-tests/ | https://menafn.com/1101373506/Mutant-COVID-19-variant-affects-18-more-people-in-Israel&source=30"
             },
             {
                 "Country": "Italy",
@@ -1177,7 +1185,7 @@
                 "Date local transmission": "2020-12-23",
                 "Local transmission": "1",
                 "Method of surveillance": "",
-                "Source": "https://news.sky.com/story/covid-19-new-strain-found-in-denmark-netherlands-and-australia-says-who-12169262; https://www.aa.com.tr/en/europe/italy-detects-new-case-of-coronavirus-variant/2086553"
+                "Source": "https://news.sky.com/story/covid-19-new-strain-found-in-denmark-netherlands-and-australia-says-who-12169262 | https://www.aa.com.tr/en/europe/italy-detects-new-case-of-coronavirus-variant/2086553"
             },
             {
                 "Country": "Japan",
@@ -1185,7 +1193,7 @@
                 "Date local transmission": "2021-01-19",
                 "Local transmission": "1",
                 "Method of surveillance": "community_sequencing",
-                "Source": "https://www.japantimes.co.jp/news/2021/01/19/national/japan-uk-coronavirus-variant/; https://www.theguardian.com/world/2020/dec/25/japan-reports-cases-coronavirus-variant-spreading-across-uk"
+                "Source": "https://www.japantimes.co.jp/news/2021/01/19/national/japan-uk-coronavirus-variant/ | https://www.theguardian.com/world/2020/dec/25/japan-reports-cases-coronavirus-variant-spreading-across-uk"
             },
             {
                 "Country": "Jordan",
@@ -1217,7 +1225,7 @@
                 "Date local transmission": "2020-12-28",
                 "Local transmission": "1",
                 "Method of surveillance": "",
-                "Source": "https://www.bbc.co.uk/news/world-55382212; https://www.rivm.nl/en/news/spread-of-uk-coronavirus-variant-in-netherlands"
+                "Source": "https://www.bbc.co.uk/news/world-55382212 | https://www.rivm.nl/en/news/spread-of-uk-coronavirus-variant-in-netherlands"
             },
             {
                 "Country": "Norway",
@@ -1297,7 +1305,7 @@
                 "Date local transmission": "2021-01-05",
                 "Local transmission": "1",
                 "Method of surveillance": "",
-                "Source": "https://www.bag.admin.ch/bag/fr/home/das-bag/aktuell/medienmitteilungen.msg-id-81829.html; https://www.swissinfo.ch/eng/more-variant-covid-19-carriers-detected-in-switzerland/46262070"
+                "Source": "https://www.bag.admin.ch/bag/fr/home/das-bag/aktuell/medienmitteilungen.msg-id-81829.html | https://www.swissinfo.ch/eng/more-variant-covid-19-carriers-detected-in-switzerland/46262070"
             },
             {
                 "Country": "Brazil",
@@ -1530,6 +1538,14 @@
                 "Local transmission": "0",
                 "Method of surveillance": "travellers",
                 "Source": "https://bnn-news.com/four-more-cases-of-british-covid-19-variation-found-in-latvia-220958"
+            },
+            {
+                "Country": "United Arab Emirates",
+                "Earliest report": "2020-11-16",
+                "Date local transmission": "",
+                "Local transmission": "0",
+                "Method of surveillance": "travellers",
+                "Source": "https://www.reuters.com/article/us-health-coronavirus-emirates/uae-reports-limited-number-of-cases-of-new-coronavirus-variant-idUKKBN2931RJ?edition-redirect=uk"
             }
         ],
         "aggregate_data": [
