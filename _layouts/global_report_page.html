@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>global report</title>
+    <title>{{ page.lineage }} report</title>
     <link rel="icon" href="{{ 'assets/images/pangolin_logo.png' | absolute_url }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
@@ -467,11 +467,11 @@
           <div class="inner">
             <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
             <header id="header">
-              <a href="{{ 'index.html' | absolute_url }}" class="logo"><strong>PANGO</strong> lineages</a>
+              <a href="{{ 'index.html' | absolute_url }}" class="logo"><strong>grinch</strong> | global report investigating novel coronavirus haplotypes</a>
             </header>
               <section>
                 <h2>{{ page.lineage }} report
-                    <small class="text-muted">{{ page.date }}</small>
+                    <small class="text-muted">{{ page.today }}</small>
                 </h2>
                 <br>
             <br>
@@ -479,7 +479,11 @@
             <p> This report is recent as of {{ page.timestamp }}. All SARS-CoV-2 sequences were downloaded from GISAID and genomes were de-duplicated based on GISAID sequence name – note that the publically available metadata may not fully allow us to de-duplicate by patient. Full data processing pipeline found <a href="https://github.com/cov-lineages/grinch" style="color:#86b0a6">here</a>. The sequences were then assigned lineages with pangolin {{ page.v }}, pangoLEARN version {{ page.pv }}.</p>
             <p> Pangolin assigns {{ page.lineage }} to sequences with at least {{ page.min_snps }} of the {{ page.max_snps }} defining {{ page.lineage }} SNPs – defined  <a href={{ page.source }} style="color:#86b0a6">here</a>. </p>
             <p><b>Caveat:</b> Most locations outside the original focus have not reported sustained transmission and many cases have known travel links to the focal location. Increasing numbers of international cases is currently likely due to increased surveillance and vigilance.</p>
+            <h3><strong>Acknowledgements</strong></h3>
+            <p>Report created by: Áine O'Toole and Verity Hill, Rambaut Group, University of Edinburgh. Flight volume data from Kamran Khan, Isaac Bogoch, Alexander Watts, Oliver Pybus, Moritz Kraemer. Sequences sourced from GISAID, full acknowledgements table <a href="http://cov-lineages.org/gisaid_acknowledgements.html" style="color:#86b0a6">here</a>.</p>
+            <p><strong>Citation:</strong> To cite this report, see our pre-print up on virological <a href="https://virological.org/t/tracking-the-international-spread-of-sars-cov-2-lineages-b-1-1-7-and-b-1-351-501y-v2/592" style="color:#86b0a6">here</a>.</p>
             <br>
+            {% assign grinch_data = site.data.grinch_data[page.lineage] %}
             <h3><strong>Table 1</strong> | Summary of {{ page.lineage }} data</h3>
             <table class="table table-striped">
                 <tr class="header">
@@ -488,38 +492,35 @@
                 </tr>
                 <tr>
                   <td><a href="#table2link" style="color:#86b0a6">Countries reported</a></td>
-                  <td>{{ page.import_report | size }}</td>
+                  <td>{{ grinch_data["import_report"] | size }}</td>
                 </tr>
                 <tr>
                   <td>Countries with sequences</td>
-                  <td>{{ page.country_count }}</td>
+                  <td>{{ grinch_data["Country count"] }}</td>
                 </tr>
                 <tr>
                     <td>Sequence count</td>
-                    <td>{{ page.seq_count }}</td>
+                    <td>{{ grinch_data["Count"] }}</td>
                 </tr>
                 <tr>
                   <td>Likely origin</td>
-                  <td>{{ page.origin }}</td>
+                  <td>{{ grinch_data["Likely origin"] }}</td>
                 </tr>
                 <tr>
                   <td>Earliest sample date</td>
-                  <td>{{ page.earliest_date }}</td>
+                  <td>{{ grinch_data["Earliest date"] }}</td>
                 </tr>
                 <tr>
                   <td>Defining SNPs</td>
                   <td>{{ page.snps }}</td>
                 </tr>
               </table>
-              
-              
                 <br>
-                {% for number in site.data.figures_info %}
+                {% assign figures = site.data.figures_info[page.lineage] %}
 
-                {% assign figure = site.data.figures_info[number] %}
-                {{ figure }}
+                {% for figure in figures %}
                     <div>
-                      <h3><strong>Figure {{ number }}</strong> | {{ figure["name"] }}</h3>
+                      <h3><strong>Figure {{ figure["number"] }}</strong> | {{ figure["name"] }}</h3>
                       <p>{{ figure["caption"] }}</p>
                       <span class="image object">                      
                         <img src="assets/images/{{ figure['file'] }}" alt="" style="max-width:{{ figure['width'] }}%"/> 
@@ -528,18 +529,10 @@
                     </div>
                 {% endfor %}
                 
-                <h3><strong>Figure 9</strong> | Air traffic from UK by destination</h3>              
-                <p>The number of ticketed origin-to-destination journeys from London airports to countries outside the United Kingdom during October 2020.</p> 
-                <p>Colours indicate numbers of published genomes of B.1.1.7 deposited on GISAID. Grey bars indicate countries that have reported the presence of the variant but have not yet published B.1.1.7 sequences on GISAID. White bars indicate countries with no reports of B.1.1.7.</p> 
-                <p>Flight data come from the International Air Transportation Association that capture anonymized, passenger-level flight itinerary data, comprising both commercial flights and scheduled charter flights. These data account for ~90% of global air travel volumes, with the remaining volumes modelled using market intelligence. We report data from destinations including >5,000 passengers.</p>
-                <p>Note that flight data reflects final-destination on a booked journey, we cannot account for instances where two separate tickets were purchased.</p>
-                <p>Data from Kamran Khan, Isaac Bogoch, Alexander Watts, Oliver Pybus, Moritz Kraemer</p>
-                  <div class=figure-container>
-                    ${flight_figure}
-                </div>
                 <br>
               <h3><a id = "table2link"></a><strong>Table 2</strong> | Reported B.1.1.7 imports. <input class="searchbar" type="text" id="myInput2" onkeyup="myFunction('myInput2','myTable2')" placeholder="Search for country..." title="searchbar"></h3>
-              <p><b>Country count:</b> ${len(import_report)}
+              {% assign import_report = site.data.grinch_data[page.lineage]["import_report"] %}
+              <p><b>Country count:</b> {{ import_report | size }}
               <table class="table table-striped"  id="myTable2">
                 <tr class="header">
                   <th style="width:30%;">Country</th>
@@ -549,18 +542,36 @@
                   <th style="width:10%;">Method of surveillance</th>
                   <th style="width:20%;">Source</th>
                 </tr>
-                  % for row in import_report:
+                  {% for row in import_report %}
                   <tr>
-                      <td>${row["Country"]}</td>
-                      <td style="text-align:center">${row["Earliest report"]}</td>
-                      <td style="text-align:center">${row["Date local transmission"]}</td>
-                      <td style="text-align:center">${row["Local transmission"]}</td>
-                      <td>${row["Method of surveillance"]}</td>
-                      <td><a href='${row["Source"]}' style="color:#86b0a6">${row["Source"]}</a></td>
+                      <td>{{ row["Country"] }}</td>
+                      <td style="text-align:center">{{ row["Earliest report"] }}</td>
+                      <td style="text-align:center">{{ row["Date local transmission"] }}</td>
+                      <td style="text-align:center">{{ row["Local transmission"] }}</td>
+                      <td>{{ row["Method of surveillance"] }}</td>
+                      <td><a href='{{ row["Source"] }}' style="color:#86b0a6">{{ row["Source"] }}</a></td>
                   </tr>
-                  % endfor
+                  {% endfor %}
                 </table>
                 </p>
+                <h3><a id = "table3link"></a><strong>Table 3</strong> | Raw data for figures in the report. <input class="searchbar" type="text" id="myInput3" onkeyup="myFunction('myInput3','myTable3')" placeholder="Search for country..." title="searchbar"></h3>
+                {% assign raw_data = site.data.grinch_data[page.lineage]["aggregate_data"] %}
+                <table class="table table-striped"  id="myTable3">
+                <tr class="header">
+                  <th style="width:20%;">Country</th>
+                  <th style="width:20%;text-align:center">Earliest sequence</th>
+                  <th style="width:20%;text-align:center">Number of variant sequences</th>
+                  <th style="width:10%;text-align:center">Total sequences since first variant sequence</th>
+                </tr>
+                  {% for row in raw_data %}
+                    <tr>
+                        <td>{{ row["Country"] }}</td>
+                        <td style="text-align:center">{{ row["Earliest sequence"] }}</td>
+                        <td style="text-align:center">{{ row["Number of variant sequences"] }}</td>
+                        <td style="text-align:center">{{ row["Total sequences since first variant sequence"] }}</td>
+                    </tr>
+                  {% endfor %}
+                 </table>
               </div>
               </div>
               {% include sidebar.html %}
