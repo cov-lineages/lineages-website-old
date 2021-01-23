@@ -486,7 +486,7 @@
             <p> Pangolin assigns {{ page.lineage }} to sequences with at least {{ page.min_snps }} of the {{ page.max_snps }} defining {{ page.lineage }} SNPs – defined  <a href={{ page.source }} style="color:#86b0a6">here</a>. </p>
             <p><b>Caveat:</b> Most locations outside the original focus have not reported sustained transmission and many cases have known travel links to the focal location. Increasing numbers of international cases is currently likely due to increased surveillance and vigilance.</p>
             <h3><strong>Acknowledgements</strong></h3>
-            <p>Report created by: Áine O'Toole and Verity Hill, Rambaut Group, University of Edinburgh. Flight volume data from Kamran Khan, Isaac Bogoch, Alexander Watts, Oliver Pybus, Moritz Kraemer. Sequences sourced from GISAID, full acknowledgements table <a href="http://cov-lineages.org/gisaid_acknowledgements.html" style="color:#86b0a6">here</a>.</p>
+            <p>Report created by: <a href="https://twitter.com/AineToole" style="color:#86b0a6">Áine O'Toole</a> and <a href="https://twitter.com/viralverity" style="color:#86b0a6">Verity Hill</a>, Rambaut Group, University of Edinburgh. Flight volume data from Kamran Khan, Isaac Bogoch, Alexander Watts, Oliver Pybus, Moritz Kraemer. Sequences sourced from GISAID, full acknowledgements table <a href="http://cov-lineages.org/gisaid_acknowledgements.html" style="color:#86b0a6">here</a>.</p>
             <p><strong>Citation:</strong> To cite this report, see our pre-print up on virological <a href="https://virological.org/t/tracking-the-international-spread-of-sars-cov-2-lineages-b-1-1-7-and-b-1-351-501y-v2/592" style="color:#86b0a6">here</a>.</p>
             <br>
             {% assign grinch_data = site.data.grinch_data[page.lineage] %}
@@ -507,6 +507,10 @@
                 <tr>
                     <td>Sequence count</td>
                     <td>{{ grinch_data["Count"] }}</td>
+                </tr>
+                <tr>
+                  <td>Countries</td>
+                  <td>{{ grinch_data["Countries"] }}</td>
                 </tr>
                 <tr>
                   <td>Likely origin</td>
