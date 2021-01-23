@@ -22,7 +22,7 @@
                     "name": "Sequence count per country B.1.1.7",
                     "caption": "The number of sequences of the lineage recorded in each country. The height of the bar is the logged number and the numbers above the bar are the raw counts.",
                     "file":  "Sequence_count_per_country_B.1.1.7.svg",
-                    "width": 100
+                    "width": 70
                 },{
                     "number": 5,
                     "name": "Frequency B.1.1.7 in sequences produced since first new variant reported per country",
@@ -52,7 +52,7 @@
                     "name": "Air traffic by destination B.1.1.7",
                     "caption": "The number of ticketed origin-to-destination journeys from London airports to countries outside the United Kingdom during October 2020.</p> <p>Colours indicate numbers of published genomes of B.1.1.7 deposited on GISAID. Grey bars indicate countries that have reported the presence of the variant but have not yet published B.1.1.7 sequences on GISAID. White bars indicate countries with no reports of B.1.1.7.</p> <p>Flight data come from the International Air Transportation Association that capture anonymized, passenger-level flight itinerary data, comprising both commercial flights and scheduled charter flights. These data account for ~90% of global air travel volumes, with the remaining volumes modelled using market intelligence. We report data from destinations including >5,000 passengers.</p> <p>Note that flight data reflects final-destination on a booked journey, we cannot account for instances where two separate tickets were purchased.</p>",
                     "file":  "Air_traffic_by_destination_B.1.1.7.svg",
-                    "width": 70
+                    "width": 80
                 }],
         "P.1": [{
                     "number": 1,
@@ -77,7 +77,7 @@
                     "name": "Sequence count per country P.1",
                     "caption": "The number of sequences of the lineage recorded in each country. The height of the bar is the logged number and the numbers above the bar are the raw counts.",
                     "file":  "Sequence_count_per_country_P.1.svg",
-                    "width": 100
+                    "width": 70
                 },{
                     "number": 5,
                     "name": "Frequency P.1 in sequences produced since first new variant reported per country",
@@ -107,7 +107,7 @@
                     "name": "Air traffic by destination P.1",
                     "caption": "The number of ticketed origin-to-destination journeys from London airports to countries outside the United Kingdom during October 2020.</p> <p>Colours indicate numbers of published genomes of P.1 deposited on GISAID. Grey bars indicate countries that have reported the presence of the variant but have not yet published P.1 sequences on GISAID. White bars indicate countries with no reports of P.1.</p> <p>Flight data come from the International Air Transportation Association that capture anonymized, passenger-level flight itinerary data, comprising both commercial flights and scheduled charter flights. These data account for ~90% of global air travel volumes, with the remaining volumes modelled using market intelligence. We report data from destinations including >5,000 passengers.</p> <p>Note that flight data reflects final-destination on a booked journey, we cannot account for instances where two separate tickets were purchased.</p>",
                     "file":  "Air_traffic_by_destination_P.1.svg",
-                    "width": 70
+                    "width": 80
                 }],
         "B.1.351": [{
                     "number": 1,
@@ -132,7 +132,7 @@
                     "name": "Sequence count per country B.1.351",
                     "caption": "The number of sequences of the lineage recorded in each country. The height of the bar is the logged number and the numbers above the bar are the raw counts.",
                     "file":  "Sequence_count_per_country_B.1.351.svg",
-                    "width": 100
+                    "width": 70
                 },{
                     "number": 5,
                     "name": "Frequency B.1.351 in sequences produced since first new variant reported per country",
@@ -162,6 +162,6 @@
                     "name": "Air traffic by destination B.1.351",
                     "caption": "The number of ticketed origin-to-destination journeys from London airports to countries outside the United Kingdom during October 2020.</p> <p>Colours indicate numbers of published genomes of B.1.351 deposited on GISAID. Grey bars indicate countries that have reported the presence of the variant but have not yet published B.1.351 sequences on GISAID. White bars indicate countries with no reports of B.1.351.</p> <p>Flight data come from the International Air Transportation Association that capture anonymized, passenger-level flight itinerary data, comprising both commercial flights and scheduled charter flights. These data account for ~90% of global air travel volumes, with the remaining volumes modelled using market intelligence. We report data from destinations including >5,000 passengers.</p> <p>Note that flight data reflects final-destination on a booked journey, we cannot account for instances where two separate tickets were purchased.</p>",
                     "file":  "Air_traffic_by_destination_B.1.351.svg",
-                    "width": 70
+                    "width": 80
                 }]
 }
