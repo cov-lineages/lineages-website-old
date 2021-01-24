@@ -15,6 +15,23 @@ layout: default
             <p><strong>Command line tool</strong><br>Assign your CoV sequences a global lineage
             </p>
         </article>
+        <article>
+            <a href="./global_report.html" class="image"><img src="./assets/images/global_report.svg" style="max-height:300px;max-width:450px" alt="" /></a>
+            <h3>Variant of Concern Report</h3>
+            <p>Global report investigating novel coronavirus haplotypes<br>B.1.1.7, B.1.351, P.1 </p>
+        </article>
+        <article>
+            <a href="https://pangolin.cog-uk.io/" class="image"><img src="assets/images/pangolin_web.png" style="height:200px;max-height:200;max-width:350px" alt="" /></a>
+            <h3>pangolin web</h3>
+            <p><strong>Web application</strong><br>Developed by the <a href="https://www.pathogensurveillance.net/">Centre for Genomic Pathogen Surveillance.</a>
+            </p>
+        </article>
+        <article>
+            <a href="./lineages.html" class="image"><img src="assets/images/lineage_histogram.png" 
+            style="height:200px;max-height:250px;max-width:450px" alt="" /></a>
+            <h3>Go to lineage</h3>
+            <p>Search for more information about currently circulating global lineages</p>
+        </article>
 		<article>
             <a href="./llama.html" class="image"><img src="./assets/images/llama_logo.svg" style="max-height:300px;max-width:450px" alt="" /></a>
             <h3>llama</h3>
@@ -33,18 +50,6 @@ layout: default
         </article>
         <!-- </div>
         <div class="posts"> -->
-        <article>
-            <a href="https://pangolin.cog-uk.io/" class="image"><img src="assets/images/pangolin_web.png" style="height:200px;max-height:200;max-width:350px" alt="" /></a>
-            <h3>pangolin web</h3>
-            <p><strong>Web application</strong><br>Developed by the <a href="https://www.pathogensurveillance.net/">Centre for Genomic Pathogen Surveillance.</a>
-            </p>
-        </article>
-        <article>
-            <a href="./lineages.html" class="image"><img src="assets/images/lineage_histogram.png" 
-            style="height:200px;max-height:250px;max-width:450px" alt="" /></a>
-            <h3>Go to lineage</h3>
-            <p>Search for more information about currently circulating global lineages</p>
-        </article>
     <!-- </div>
     <div class="posts"> -->
         <!-- <article>
