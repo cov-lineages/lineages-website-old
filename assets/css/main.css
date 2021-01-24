@@ -4065,10 +4065,10 @@
 
 
 #tableWrapper {
-	max-width: 90% !important;
+	max-width: 95% !important;
 }
 
 #myTable {
-	width: calc(100% - 188px);
-	flex-basis: calc(100% - 188px);
+	width: calc(100% - 80px);
+	flex-basis: calc(100% - 80px);
 }
