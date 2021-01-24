@@ -481,6 +481,8 @@
                 </h2>
                 <br>
             <br>
+            <h3><strong>Description</strong></h3>
+            <p>{{ page.description }}</p>
             <h3><strong>Data source and processing</strong></h3>
             <p> This report is recent as of {{ page.timestamp }}. All SARS-CoV-2 sequences were downloaded from GISAID and genomes were de-duplicated based on GISAID sequence name – note that the publically available metadata may not fully allow us to de-duplicate by patient. Full data processing pipeline found <a href="https://github.com/cov-lineages/grinch" style="color:#86b0a6">here</a>. The sequences were then assigned lineages with pangolin {{ page.v }}, pangoLEARN version {{ page.pv }}.</p>
             <p> Pangolin assigns {{ page.lineage }} to sequences with at least {{ page.min_snps }} of the {{ page.max_snps }} defining {{ page.lineage }} SNPs – defined  <a href={{ page.source }} style="color:#86b0a6">here</a>. </p>
