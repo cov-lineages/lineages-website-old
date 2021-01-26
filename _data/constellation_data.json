@@ -1,0 +1,59 @@
+{
+    "RBD":{
+        "name": "RBD",
+        "Count": 100,
+        "Country count": 4,
+        "Countries": [{"country":"Brazil","count":24},{"country":"Japan","count":10},{"country":"Faroe_Islands","count":2},{"country":"South_Korea","count":2}],
+        "mutations": [{"name":"Spike 501","nucleotide":23063},{"name":"Spike 484","nucleotide":23012},{"name":"Spike 439","nucleotide":22877}],
+        "Date": [
+            {
+                "date": "2021-01-12",
+                "count": 1
+            },
+            {
+                "date": "2020-12-21",
+                "count": 5
+            },
+            {
+                "date": "2020-12-16",
+                "count": 3
+            },
+            {
+                "date": "2020-12-17",
+                "count": 5
+            },
+            {
+                "date": "2020-12-22",
+                "count": 3
+            },
+            {
+                "date": "2020-12-18",
+                "count": 2
+            },
+            {
+                "date": "2021-01-02",
+                "count": 4
+            },
+            {
+                "date": "2021-01-10",
+                "count": 1
+            },
+            {
+                "date": "2020-12-23",
+                "count": 3
+            },
+            {
+                "date": "2020-12-29",
+                "count": 1
+            },
+            {
+                "date": "2020-12-04",
+                "count": 1
+            },
+            {
+                "date": "2020-12-30",
+                "count": 1
+            }
+        ]
+    }
+}

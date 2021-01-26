@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<!--
+	SARS-CoV-2 lineages
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+    <%text>
+    <script>
+        $(document).ready(function() {
+        $(window).scroll(function() {
+        if ($(this).scrollTop() > 20) {
+        $('#toTopBtn').fadeIn();
+        } else {
+        $('#toTopBtn').fadeOut();
+        }
+        });
+        
+        $('#toTopBtn').click(function() {
+        $("html, body").animate({
+        scrollTop: 0
+        }, 400);
+        return false;
+        });
+        });
+    </script>
+
+    <script type="text/javascript">
+    d3.data()
+
+    </script>
+    </%text>
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+                <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
+                {% include header.html %}
+
+                <!-- Content -->
+                <section>
+                	<header class="main">
+                		<h2>{{ page.title }}</h2>
+                    </header>
+                    
+                    {% assign metadata = site.data.constellation_data[ page.constellation ] %}
+
+                    <h3><strong>Table 1</strong> | Summary of {{ page.constellation }} data</h3>
+                    <table class="table table-striped">
+                        <tr class="header">
+                        <th style="width:30%;">Statistic</th>
+                        <th style="width:60%;">Information</th>
+                        </tr>
+                        <tr>
+                            <td>Countries with sequences</td>
+                            <td>{{ metadata["Country count"] }}</td>
+                        </tr>
+                        <tr>
+                            <td>Sequence count</td>
+                            <td>{{ metadata["Count"] }}</td>
+                        </tr>
+                        <tr>
+                            <td>Mutations</td>
+                            <td>
+                            {% for mutation in metadata["mutations"] %}
+                            <strong>{{ mutation["name"] }}</strong> nucleotide position: {{ mutation["nucleotide"] }} <br>
+                            {% endfor %}
+                            </td>
+                        </tr>
+                    </table>
+
+                    <div id="bar_chart"></div>
+                  {% if page.image %}
+                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                  {% endif %}
+
+                {{ content }}
+
+              </div>
+          </div>
+
+          {% include sidebar.html %}
+
+      </div>
+
+      {% include footer.html %}
+
+</body>
+
+</html>
