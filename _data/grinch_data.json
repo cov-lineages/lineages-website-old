@@ -666,7 +666,7 @@
         "Lineage": "B.1.1.7",
         "Country count": 47,
         "Countries": "UK 27010, Denmark 370, USA 218, Spain 162, Portugal 114, France 112, Italy 99, Belgium 96, Netherlands 95, Israel 89, Ireland 85, Switzerland 80, Germany 57, Australia 50, Austria 42, Finland 40, Norway 30, Singapore 29, United_Arab_Emirates 23, India 22, Slovakia 22, Turkey 21, Iceland 21, New_Zealand 17, Sweden 15, South_Korea 13, Czech_Republic 10, Brazil 7, Romania 5, Hungary 5, Greece 4, Ecuador 4, Latvia 4, Jamaica 4, Hong_Kong 3, Luxembourg 3, Pakistan 2, Oman 1, Lebanon 1, Mexico 1, Poland 1, Trinidad_and_Tobago 1, Canada 1, Sri_Lanka 1, Peru 1, Iran 1, Argentina 1",
-        "Earliest date": "2020-05-01",
+        "Earliest date": "2020-09-20",
         "Count": 28993,
         "Date": [
             {
@@ -1576,6 +1576,14 @@
                 "Local transmission": "0",
                 "Method of surveillance": "travellers",
                 "Source": "https://sofiaglobe.com/2021/01/23/professor-8-cases-of-uk-variant-of-covid-19-found-in-bulgaria/; https://www.thestar.com.my/news/world/2021/01/23/bulgaria-confirms-first-cases-of-new-coronavirus-variant"
+            },
+            {
+                "Country": "Nigeria",
+                "Earliest report": "2020-12-29",
+                "Date local transmission": "2020-12-29",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://twitter.com/acegid/status/1354013208990912512"
             }
         ],
         "aggregate_data": [
@@ -1974,7 +1982,7 @@
                 "Country": "United Kingdom",
                 "Earliest report": "2021-01-23",
                 "Date local transmission": "",
-                "Local transmission": "0",
+                "Local transmission": "",
                 "Method of surveillance": "community_sequencing",
                 "Source": "https://www.reuters.com/article/us-health-coronavirus-britain-variants/uk-detects-77-cases-of-south-african-covid-variant-nine-of-brazilian-idUSKBN29T07P"
             },
