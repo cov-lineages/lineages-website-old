@@ -542,7 +542,7 @@
                 {% endfor %}
                 
                 <br>
-              <h3><a id = "table2link"></a><strong>Table 2</strong> | Reported B.1.1.7 imports. <input class="searchbar" type="text" id="myInput2" onkeyup="myFunction('myInput2','myTable2')" placeholder="Search for country..." title="searchbar"></h3>
+              <h3><a id = "table2link"></a><strong>Table 2</strong> | Reported {{ page.lineage }} imports. <input class="searchbar" type="text" id="myInput2" onkeyup="myFunction('myInput2','myTable2')" placeholder="Search for country..." title="searchbar"></h3>
               {% assign import_report = site.data.grinch_data[page.lineage]["import_report"] %}
               <p><b>Country count:</b> {{ import_report | size }}
               <table class="table table-striped"  id="myTable2">
