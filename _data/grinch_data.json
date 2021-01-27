@@ -1620,6 +1620,22 @@
                 "Local transmission": "0",
                 "Method of surveillance": "travellers",
                 "Source": "https://www.reuters.com/article/uk-health-coronavirus-gambia-idUSKBN29K0OF"
+            },
+            {
+                "Country": "Mayotte",
+                "Earliest report": "2021-01-09",
+                "Date local transmission": "2021-01-09",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "GISAID"
+            },
+            {
+                "Country": "Saint Lucia",
+                "Earliest report": "2020-12-17",
+                "Date local transmission": "2020-12-17",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "http://www.loopslu.com/content/multiple-cases-uk-covid-variant-confirmed-st-lucia"
             }
         ],
         "aggregate_data": [
