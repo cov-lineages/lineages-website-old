@@ -441,10 +441,10 @@
             {
                 "Country": "Ireland",
                 "Earliest report": "2021-01-08",
-                "Date local transmission": "",
-                "Local transmission": "0",
-                "Method of surveillance": "travellers",
-                "Source": "https://www.reuters.com/article/health-coronavirus-ireland/south-african-covid-19-variant-present-in-ireland-health-chief-idINS8N2II031"
+                "Date local transmission": "2021-01-26",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://www.gov.ie/en/press-release/463de-statement-from-the-national-public-health-emergency-team-tuesday-26-january/; https://www.reuters.com/article/health-coronavirus-ireland/south-african-covid-19-variant-present-in-ireland-health-chief-idINS8N2II031"
             },
             {
                 "Country": "Canada",
@@ -565,6 +565,22 @@
                 "Local transmission": "1",
                 "Method of surveillance": "community_sequencing",
                 "Source": "GISAID"
+            },
+            {
+                "Country": "Panama",
+                "Earliest report": "2021-01-23",
+                "Date local transmission": "",
+                "Local transmission": "0",
+                "Method of surveillance": "travellers",
+                "Source": "https://www.reuters.com/article/us-health-coronavirus-panama-idUSKBN29R2R1"
+            },
+            {
+                "Country": "United States of America",
+                "Earliest report": "2021-01-27",
+                "Date local transmission": "2021-01-27",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://www.live5news.com/2021/01/28/health-department-nations-first-cases-south-african-covid-variant-found-sc/"
             }
         ],
         "aggregate_data": [
@@ -1656,6 +1672,22 @@
                 "Local transmission": "0",
                 "Method of surveillance": "community_sequencing",
                 "Source": "https://twitter.com/Tuliodna/status/1354737669914423298?s=20"
+            },
+            {
+                "Country": "Senegal",
+                "Earliest report": "2021-01-28",
+                "Date local transmission": "",
+                "Local transmission": "0",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://www.reuters.com/article/health-coronavirus-senegal/update-2-senegal-confirms-presence-of-uk-coronavirus-variant-idUSL1N2K30W7"
+            },
+            {
+                "Country": "Kuwait",
+                "Earliest report": "2021-01-19",
+                "Date local transmission": "",
+                "Local transmission": "0",
+                "Method of surveillance": "travellers",
+                "Source": "https://www.reuters.com/article/health-coronavirus-kuwait/kuwait-registers-first-cases-of-new-virus-variant-idUSL1N2JU1CP"
             }
         ],
         "aggregate_data": [
