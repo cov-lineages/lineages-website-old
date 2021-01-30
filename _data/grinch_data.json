@@ -1714,6 +1714,22 @@
                 "Local transmission": "0",
                 "Method of surveillance": "travellers",
                 "Source": "https://www.reuters.com/article/health-coronavirus-kuwait/kuwait-registers-first-cases-of-new-virus-variant-idUSL1N2JU1CP"
+            },
+            {
+                "Country": "Georgia",
+                "Earliest report": "2021-01-04",
+                "Date local transmission": "",
+                "Local transmission": "0",
+                "Method of surveillance": "travellers",
+                "Source": "http://www.businessworld.in/article/Georgia-confirms-first-case-of-UK-linked-coronavirus-strain/04-01-2021-361501/"
+            },
+            {
+                "Country": "Slovenia",
+                "Earliest report": "2021-01-25",
+                "Date local transmission": "2021-01-25",
+                "Local transmission": "1",
+                "Method of surveillance": "SGTF",
+                "Source": "https://www.gov.si/en/news/2021-01-27-according-to-the-first-analyses-the-uk-coronavirus-variant-has-not-spread-widely-in-slovenia/"
             }
         ],
         "aggregate_data": [
@@ -2167,6 +2183,14 @@
                 "Local transmission": "0",
                 "Method of surveillance": "travellers",
                 "Source": "https://twitter.com/SeanW_PHLNGS/status/1353831578342981632?s=20"
+            },
+            {
+                "Country": "Netherlands",
+                "Earliest report": "2021-01-29",
+                "Date local transmission": "",
+                "Local transmission": "0",
+                "Method of surveillance": "travellers",
+                "Source": "https://www.rivm.nl/en/news/brazilian-coronavirus-variants-p1-and-p2-found-in-netherlands"
             }
         ],
         "aggregate_data": [
