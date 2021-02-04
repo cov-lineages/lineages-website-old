@@ -1237,7 +1237,7 @@
                 "Date local transmission": "2021-01-22",
                 "Local transmission": "1",
                 "Method of surveillance": "community_sequencing",
-                "Source": "https://twitter.com/CoronaTurkey/status/1352612954454298624 | https://www.cnnturk.com/video/turkiye/son-dakika-haberi-bakan-koca-acikladi-15-kiside-mutasyonlu-virus-ingiltereden-girisler-tamamen-durduruldu-video"
+                "Source": "https://www.dailysabah.com/turkey/virus-variants-spread-to-23-provinces-in-turkey-amid-warnings/news; https://twitter.com/CoronaTurkey/status/1352612954454298624 | https://www.cnnturk.com/video/turkiye/son-dakika-haberi-bakan-koca-acikladi-15-kiside-mutasyonlu-virus-ingiltereden-girisler-tamamen-durduruldu-video"
             },
             {
                 "Country": "Belgium",
@@ -2317,6 +2317,14 @@
                 "Local transmission": "1",
                 "Method of surveillance": "community_sequencing",
                 "Source": "https://twitter.com/INSColombia/status/1356012753656422403?s=20; https://twitter.com/INSColombia/status/1355531730422263809?s=20"
+            },
+            {
+                "Country": "Turkey",
+                "Earliest report": "2021-02-03",
+                "Date local transmission": "",
+                "Local transmission": "",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://www.aa.com.tr/en/health/turkey-2-s-africa-1-brazil-variant-detected/2133077"
             }
         ],
         "aggregate_data": [
