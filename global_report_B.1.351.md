@@ -2,8 +2,8 @@
 layout: global_report_page
 lineage: "B.1.351"
 version: "1.1"
-v: "2.1.10"
-pv: "2021-02-01"
+v: "2.1.3"
+pv: "2021-02-05"
 timestamp: "2021-02-05 13:07 GMT"
 today: "2021-02-05"
 description: "South African lineage defined by new variant 501Y.V2 - A more detailed description of the lineage is here and a preprint describing the variant is <a href='https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1' style='color:#86b0a6'>here</a>."

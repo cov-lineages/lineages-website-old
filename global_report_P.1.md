@@ -2,8 +2,8 @@
 layout: global_report_page
 lineage: "P.1"
 version: "1.1"
-v: "2.1.10"
-pv: "2021-02-01"
+v: "2.1.3"
+pv: "2021-02-05"
 timestamp: "2021-02-05 13:07 GMT"
 today: "2021-02-05"
 description: "Brazilian lineage with variants of biological significants E484K, N501Y and K417T, described in a recent virological post: <a href='https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586' style='color:#86b0a6'>here</a>. P.1 lineage is an alias of lineage B.1.1.28.1. As described in <a href='https://www.nature.com/articles/s41564-020-0770-5' style='color:#86b0a6'>Rambaut et al., 2020</a> when the lineage heirarchy reaches a certain depth (length of 5) lineage names are given an alias to prevent them from becoming infinitely long."
