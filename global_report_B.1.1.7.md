@@ -2,8 +2,8 @@
 layout: global_report_page
 lineage: "B.1.1.7"
 version: "1.1"
-v: "2.1.10"
-pv: "2021-02-01"
+v: "2.1.3"
+pv: "2021-02-05"
 timestamp: "2021-02-05 13:07 GMT"
 today: "2021-02-05"
 description: "UK lineage of concern, associated with the N501Y mutation."
