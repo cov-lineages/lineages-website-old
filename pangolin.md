@@ -40,7 +40,7 @@ layout: page
   </div>
   <div class="column">
     <ul>
-      <li><a href="{{ 'pangolin_docs/dependencies.html' | absolute_url }}">Dependencies</a></li>
+      <li><a href="{{ 'pangolin_docs/requirements.html' | absolute_url }}">Dependencies</a></li>
       <li><a href="{{ 'pangolin_docs/installation.html' | absolute_url }}">Installation</a></li>
       <li><a href="{{ 'pangolin_docs/updating.html' | absolute_url }}">Updating</a></li>
     </ul>

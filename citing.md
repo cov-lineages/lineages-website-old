@@ -20,5 +20,4 @@ layout: page
         <p>There is a publication in prep for <strong>pangolin</strong>, but in the meantime please to link to this github [github.com/cov-lineages/pangolin](github.com/cov-lineages/pangolin) if you have used <strong>pangolin</strong> in your research.</p>
     </div>
 </section>
-T
 
