@@ -16,7 +16,7 @@ layout: page
 <section>
     <div class="box">
         <h3>pangolin: lineage assignment in an emerging pandemic as an epidemiological tool</h3>
-        <p>Áine O'Toole1,, Emily Scher, Anthony Underwood, Ben Jackson, Verity Hill,  JT McCrone, Chris Ruis, Khali Abu-Dahab, Ben Taylor, Corin Yeats, Louis du Plessis, David Aanensen, Eddie Holmes, Oliver Pybus, Andrew Rambaut</p>
+        <p>Áine O'Toole, Emily Scher, Anthony Underwood, Ben Jackson, Verity Hill,  JT McCrone, Chris Ruis, Khali Abu-Dahab, Ben Taylor, Corin Yeats, Louis du Plessis, David Aanensen, Eddie Holmes, Oliver Pybus, Andrew Rambaut</p>
         <p>There is a publication in prep for <strong>pangolin</strong>, but in the meantime please to link to this github [github.com/cov-lineages/pangolin](github.com/cov-lineages/pangolin) if you have used <strong>pangolin</strong> in your research.</p>
     </div>
 </section>
