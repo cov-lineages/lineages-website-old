@@ -5,7 +5,7 @@ layout: default
 <section>
     <div class="posts">
         <article>
-            <a href="./lineages.html" class="image"><img src="./assets/images/designation_tree.svg" style="max-height:300px;max-width:320px" alt="" /></a>
+            <a href="./pango_lineages.html" class="image"><img src="./assets/images/designation_tree.svg" style="max-height:300px;max-width:320px" alt="" /></a>
             <h3>lineage designation</h3>
             <p>The latest Pango lineages <br>
             More information about currently circulating global lineages
