@@ -31,6 +31,8 @@
 	.st25{fill:#8B87A6;stroke:#1D1D1B;stroke-miterlimit:10;}
 	.st26{fill:#929AC9;stroke:#1D1D1B;stroke-miterlimit:10;}
 	.st27{fill:#504A48;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.st28{fill:#FF1B1B;}
+	.st29{opacity:0.5;fill:#FF1B1B;}
 </style>
 <path class="st0" d="M230.2,307.6h-72.4c-6.6,0-12-5.4-12-12v-17.7c0-6.6,5.4-12,12-12h72.4c6.6,0,12,5.4,12,12v17.7
 	C242.2,302.2,236.8,307.6,230.2,307.6z"/>
@@ -263,4 +265,8 @@
 </g>
 <path class="st0" d="M374.4,332.4H13.6c-3.4,0-6.2-2.8-6.2-6.2v-29.2c0-3.4,2.8-6.2,6.2-6.2h360.8c3.4,0,6.2,2.8,6.2,6.2v29.2
 	C380.7,329.6,377.8,332.4,374.4,332.4z"/>
+<g>
+	<circle class="st28" cx="366.7" cy="303.7" r="1.4"/>
+	<circle class="st29" cx="366.7" cy="303.7" r="2.5"/>
+</g>
 </svg>
