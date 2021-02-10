@@ -33,4 +33,6 @@ As described in Rambaut et al. (2020), a Pango lineage is as a cluster of sequen
     <hr>
     <img src="./assets/images/capture_emerging_edge.svg" style="max-width:80%"  class="center">
     <hr>
+    <img src="./assets/images/hierarchy_tree.svg" style="max-width:80%"  class="center">
+    <hr>
 </section>
