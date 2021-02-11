@@ -23,7 +23,7 @@ layout: page
       </div>
     </section>
 
-### What is a lineage?
+## What is a lineage?
 
 As described in Rambaut et al. (2020), a Pango lineage is as a cluster of sequences that are associated with an epidemiological event, for instance an introduction of the virus into a distinct geographic area with evidence of onward spread. Lineages are designed to capture the emerging edge of the pandemic and are at a fine-grain resolution suitable to genomic epidemiological surveillance and outbreak investigation.
 
@@ -37,3 +37,19 @@ As described in Rambaut et al. (2020), a Pango lineage is as a cluster of sequen
     <p>*Note that C.1 is equivalent to B.1.1.1.1, with C being an alias for B.1.1.1 to shorten the name so it does not become infinitely long while still preserving the link to the parent lineages</p>
     <hr>
 </section>
+
+## Is this cluster of sequences a new lineage?
+  <section>
+    <div class="6u 12u$(small)">
+    <p>
+        <ul>
+            <li>Monophyly and cluster together on the global tree</li>
+            <li>Convincing support values on the base node of the lineage (e.g. transfer bootstrap or ultrafast bootstrap)</li>
+            <li>Epidemiological support (e.g. location, travel history)</li>
+            <li>Introduction into a novel geographic region</li>
+            <li>Evidence of circulation in that region (i.e. internal nodes within the lineage)</li>
+            <li>A defining SNP</li>
+        </ul>
+        </p>
+    </div>
+    </section>
