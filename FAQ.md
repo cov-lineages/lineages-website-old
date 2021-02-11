@@ -2,7 +2,11 @@
 layout: page
 ---
 
-# Frequently asked questions
+<h1>Frequently asked questions</h1>
+
+## What if I think I've discovered a new lineage?
+
+There are detailed instructions on what to do if you think you've found a new lineage in the [Pango designation guide](https://cov-lineages.org/lineage_designation.html).
 
 ## Where do you find SNPs associated with a given lineage?
 
@@ -14,6 +18,10 @@ The model trains coefficients for each input parameter, for each potential linea
 
 Legacy <strong>pangolin</strong> runs using a guide tree and alignment hosted at [<strong>cov-lineages/lineages</strong>](https://github.com/cov-lineages/lineages.git). Some of this data is sourced from GISAID, but anonymised and encrypted to fit with guidelines. Appropriate permissions have been given and acknowledgements for the teams that have worked to provide the original SARS-CoV-2 genome sequences to GISAID are also hosted [here](https://cov-lineages.org/gisaid_acknowledgements.html).
 
+
+## How often is the website updated?
+
+The website is updated on a daily basis with up-to-date lineage assignments using all full genome sequences on GISAID. 
 
 ## What support statistics are there?
 <strong>Pre-pangolin 2.0:</strong>
@@ -32,3 +40,11 @@ Recall and supporting statistics, hosted [here](https://github.com/cov-lineages/
     <p>The example schema below doesn't reflect a real lineage, but aims to demonstrate this exact situation. We see at time point 1 what looks like a clear geographic distinction, even potentially an introduction event from one location to another with evidence of onward spread reflected in the internal nodes within the pink clade. At time point 2, new data has come to light that shows the events may not be as straightforward as that. There doesn't appear to be a single introduction event, and it's even unclear whether there has been onward spread. This now no longer fits what we would describe as a lineage. This is a simple example, but shows how new data can change the narrative around a cluster of sequences.</p>
     <img src="./assets/images/new_data_new_light.svg" style="max-width:80%"  class="center">
 </section>
+
+## Why might a lineage assignment change?
+
+A lineage assignment is a "best guess" at what the lineage of an unknown sequence may be. 
+
+This assignment comes with a certain amount of noise. Our most recent estimates give an average 95.8% recall value for designated lineages, with some lineage having better recall and precision values than others. These statistics may vary depending on a number of factors, including the number of sequences in that lineage (i.e. quantity of data), the amount of ambiguity in those sequences (i.e. quality of data) and how unique the defining SNPs are for that lineage (i.e. E484K may be associated with a number of different lineages). 
+
+The assignment may change as new designations are made and new releases of the model are tagged. It may be that your sequence gets included in a new lineage designation that didn't exist when you first ran your sequence through pangolin. The full list of designated sequences can be found at <a href="https://github.com/cov-lineages/pango-designation" style="color:#7351A3">github.com/cov-lineages/pango-designation</a>.
