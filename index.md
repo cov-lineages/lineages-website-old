@@ -23,8 +23,8 @@ layout: default
             <p>Global report investigating novel coronavirus haplotypes<br>B.1.1.7, B.1.351, P.1 </p>
         </article>
         <article>
-            <a href="./assignment.html" class="image"><img src="assets/images/global_lineages_tree.png" style="height:300px;max-height:300px;max-width:450px" alt="" /></a>
-            <h3>Suggest new lineages</h3>
+            <a href="./lineage_designation.html" class="image"><img src="assets/images/global_lineages_tree.png" style="height:300px;max-height:300px;max-width:450px" alt="" /></a>
+            <h3>How to suggest new lineages</h3>
             <p>Add your sequences to the list of circulating global lineages</p>
         </article>
         <!-- </div>
