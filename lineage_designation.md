@@ -38,6 +38,6 @@ layout: page
     <p>Issues we've encountered previously are different treatment of spaces in sequence names. For example on GISAID may output sequence name `South Africa/XXXXX/2020`, as spaces are not tolerated in fasta headers, our standard is to replace spaces with an underscore, creating `South_Africa/XXXXX/2020`. We have some checks in place in the pipeline for these edge cases, however please take case to avoid systematic changes to names that may unexpectedly interfere with our ability to match names to sequences.</p>
     <h3>4. pangoLEARN data release</h3>
     <p>When the model completes training, the updated files are pushed to the <a href="https://github.com/cov-lineages/pangoLEARN" style="color:#7351A3">pangoLEARN</a> repository and a new pangoLEARN release is tagged. These new model files will be able to assign genomes similar to those in your new lineage that lineage designation. More information about how the pangoLEARN model training and assignment works can be found in the <a href="https://cov-lineages.org/pangolin.html" style="color:#7351A3">pangolin documentation</a>.</p>
-    <h3>Updates to the website</h3>
+    <h3>5. Updates to the website</h3>
     <p>The information on the <a href="https://cov-lineages.org" style="color:#7351A3">cov-lineages.org</a> website is updated once daily, always with the latest designations and assignments. Within 24 hours you should be able to find your new lineage reflected on the website.</p>
     <hr>
