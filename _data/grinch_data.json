@@ -697,6 +697,54 @@
                 "Local transmission": "",
                 "Method of surveillance": "community_sequencing",
                 "Source": "https://www.who.int/publications/m/item/weekly-epidemiological-update---09-january-2021"
+            },
+            {
+                "Country": "Denmark",
+                "Earliest report": "2021-01-04",
+                "Date local transmission": "",
+                "Local transmission": "0",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://www.reuters.com/article/health-coronavirus-denmark-idUSC7N2DT01O"
+            },
+            {
+                "Country": "Spain",
+                "Earliest report": "2020-12-24",
+                "Date local transmission": "2020-12-24",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://english.elpais.com/spanish_news/2021-02-04/coronavirus-variant-detected-in-south-africa-is-already-circulating-in-spain.html"
+            },
+            {
+                "Country": "Luxembourg",
+                "Earliest report": "2021-01-16",
+                "Date local transmission": "2021-01-16",
+                "Local transmission": "0",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://lns.lu/departement/microbiologie/revilux/"
+            },
+            {
+                "Country": "Portugal",
+                "Earliest report": "2021-01-06",
+                "Date local transmission": "2021-01-06",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://www.portugalresident.com/south-african-variant-already-circulating-in-portugal/"
+            },
+            {
+                "Country": "Democratic Republic Of The Congo",
+                "Earliest report": "2021-01-22",
+                "Date local transmission": "",
+                "Local transmission": "",
+                "Method of surveillance": "community_sequencing",
+                "Source": "GISAID"
+            },
+            {
+                "Country": "Bangladesh",
+                "Earliest report": "2021-01-24",
+                "Date local transmission": "2021-01-24",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://www.dhakatribune.com/health/coronavirus/2021/02/01/experts-south-african-coronavirus-variant-detected-in-bangladesh"
             }
         ],
         "aggregate_data": [
