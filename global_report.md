@@ -1,8 +1,8 @@
 ---
 layout: page
-title: New variant report
+title: Lineages of Concern Report
 ---
-<p>Global Report Investigating Novel Coronavirus Haplotypes</p>
+<p>grinch | Global Report Investigating Novel Coronavirus Haplotypes</p>
 <section>
     <div class="posts">
         <article>
