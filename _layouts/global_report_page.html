@@ -485,8 +485,10 @@
             <p>{{ page.description }}</p>
             <h3><strong>Data source and processing</strong></h3>
             <p> This report is recent as of {{ page.timestamp }}. All SARS-CoV-2 sequences were downloaded from GISAID and genomes were de-duplicated based on GISAID sequence name – note that the publically available metadata may not fully allow us to de-duplicate by patient. Full data processing pipeline found <a href="https://github.com/cov-lineages/grinch" style="color:#86b0a6">here</a>. The sequences were then assigned lineages with pangolin {{ page.v }}, pangoLEARN version {{ page.pv }}.</p>
+            {% if page.min_snps != "NA" %}
             <p> Pangolin assigns {{ page.lineage }} to sequences with at least {{ page.min_snps }} of the {{ page.max_snps }} defining {{ page.lineage }} SNPs – defined  <a href={{ page.source }} style="color:#86b0a6">here</a>. </p>
             <p><b>Caveat:</b> Most locations outside the original focus have not reported sustained transmission and many cases have known travel links to the focal location. Increasing numbers of international cases is currently likely due to increased surveillance and vigilance.</p>
+            {% endif %}
             <h3><strong>Acknowledgements</strong></h3>
             <p>Report created by: <a href="https://twitter.com/AineToole" style="color:#86b0a6">Áine O'Toole</a> and <a href="https://twitter.com/viralverity" style="color:#86b0a6">Verity Hill</a>, Rambaut Group, University of Edinburgh. Flight volume data from Kamran Khan, Isaac Bogoch, Alexander Watts, Oliver Pybus, Moritz Kraemer. Sequences sourced from GISAID, full acknowledgements table <a href="http://cov-lineages.org/gisaid_acknowledgements.html" style="color:#86b0a6">here</a>.</p>
             <p><strong>Citation:</strong> To cite this report, see our pre-print up on virological <a href="https://virological.org/t/tracking-the-international-spread-of-sars-cov-2-lineages-b-1-1-7-and-b-1-351-501y-v2/592" style="color:#86b0a6">here</a>.</p>
@@ -516,7 +518,7 @@
                 </tr>
                 <tr>
                   <td>First detected</td>
-                  <td>{{ grinch_data["Likely origin"] }}</td>
+                  <td>{{ page.detected }}</td>
                 </tr>
                 <tr>
                   <td>Earliest sample date</td>
@@ -542,30 +544,33 @@
                 {% endfor %}
                 
                 <br>
-              <h3><a id = "table2link"></a><strong>Table 2</strong> | Reported {{ page.lineage }} imports. <input class="searchbar" type="text" id="myInput2" onkeyup="myFunction('myInput2','myTable2')" placeholder="Search for country..." title="searchbar"></h3>
-              {% assign import_report = site.data.grinch_data[page.lineage]["import_report"] %}
-              <p><b>Country count:</b> {{ import_report | size }}
-              <table class="table table-striped"  id="myTable2">
-                <tr class="header">
-                  <th style="width:15%;">Country</th>
-                  <th style="width:10%;text-align:center">Earliest report</th>
-                  <th style="width:10%;text-align:center">Date local transmission</th>
-                  <th style="width:10%;text-align:center">Local transmission</th>
-                  <th style="width:10%;">Method of surveillance</th>
-                  <th style="width:30%;">Source</th>
-                </tr>
-                  {% for row in import_report %}
-                  <tr>
-                      <td>{{ row["Country"] }}</td>
-                      <td style="text-align:center">{{ row["Earliest report"] }}</td>
-                      <td style="text-align:center">{{ row["Date local transmission"] }}</td>
-                      <td style="text-align:center">{{ row["Local transmission"] }}</td>
-                      <td>{{ row["Method of surveillance"] }}</td>
-                      <td><a href='{{ row["Source"] }}' style="color:#86b0a6">{{ row["Source"] }}</a></td>
+
+              {% if site.data.grinch_data[page.lineage]["import_report"] != "NA" %}
+                <h3><a id = "table2link"></a><strong>Table 2</strong> | Reported {{ page.lineage }} imports. <input class="searchbar" type="text" id="myInput2" onkeyup="myFunction('myInput2','myTable2')" placeholder="Search for country..." title="searchbar"></h3>
+                {% assign import_report = site.data.grinch_data[page.lineage]["import_report"] %}
+                <p><b>Country count:</b> {{ import_report | size }}
+                <table class="table table-striped"  id="myTable2">
+                  <tr class="header">
+                    <th style="width:15%;">Country</th>
+                    <th style="width:10%;text-align:center">Earliest report</th>
+                    <th style="width:10%;text-align:center">Date local transmission</th>
+                    <th style="width:10%;text-align:center">Local transmission</th>
+                    <th style="width:10%;">Method of surveillance</th>
+                    <th style="width:30%;">Source</th>
                   </tr>
-                  {% endfor %}
-                </table>
-                </p>
+                    {% for row in import_report %}
+                    <tr>
+                        <td>{{ row["Country"] }}</td>
+                        <td style="text-align:center">{{ row["Earliest report"] }}</td>
+                        <td style="text-align:center">{{ row["Date local transmission"] }}</td>
+                        <td style="text-align:center">{{ row["Local transmission"] }}</td>
+                        <td>{{ row["Method of surveillance"] }}</td>
+                        <td><a href='{{ row["Source"] }}' style="color:#86b0a6">{{ row["Source"] }}</a></td>
+                    </tr>
+                    {% endfor %}
+                  </table>
+                  </p>
+                  {% endif %}
                 <h3><a id = "table3link"></a><strong>Table 3</strong> | Raw data for figures in the report. <input class="searchbar" type="text" id="myInput3" onkeyup="myFunction('myInput3','myTable3')" placeholder="Search for country..." title="searchbar"></h3>
                 {% assign raw_data = site.data.grinch_data[page.lineage]["aggregate_data"] %}
                 <table class="table table-striped"  id="myTable3">
