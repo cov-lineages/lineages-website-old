@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>{{ page.lineage }} report</title>
+    <title>Lineage {{ page.lineage }}</title>
     <link rel="icon" href="{{ 'assets/images/pangolin_logo.png' | absolute_url }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
@@ -476,23 +476,14 @@
               <a href="{{ 'index.html' | absolute_url }}" class="logo"><strong>grinch</strong> | global report investigating novel coronavirus haplotypes</a>
             </header>
               <section>
-                <h2>{{ page.lineage }} report
+                <h2>{{ page.lineage }} 
                     <small class="text-muted">{{ page.today }}</small>
                 </h2>
                 <br>
             <br>
             <h3><strong>Description</strong></h3>
             <p>{{ page.description }}</p>
-            <h3><strong>Data source and processing</strong></h3>
-            <p> This report is recent as of {{ page.timestamp }}. All SARS-CoV-2 sequences were downloaded from GISAID and genomes were de-duplicated based on GISAID sequence name – note that the publically available metadata may not fully allow us to de-duplicate by patient. Full data processing pipeline found <a href="https://github.com/cov-lineages/grinch" style="color:#86b0a6">here</a>. The sequences were then assigned lineages with pangolin {{ page.v }}, pangoLEARN version {{ page.pv }}.</p>
-            {% if page.min_snps != "NA" %}
-            <p> Pangolin assigns {{ page.lineage }} to sequences with at least {{ page.min_snps }} of the {{ page.max_snps }} defining {{ page.lineage }} SNPs – defined  <a href={{ page.source }} style="color:#86b0a6">here</a>. </p>
-            <p><b>Caveat:</b> Most locations outside the original focus have not reported sustained transmission and many cases have known travel links to the focal location. Increasing numbers of international cases is currently likely due to increased surveillance and vigilance.</p>
-            {% endif %}
-            <h3><strong>Acknowledgements</strong></h3>
-            <p>Report created by: <a href="https://twitter.com/AineToole" style="color:#86b0a6">Áine O'Toole</a> and <a href="https://twitter.com/viralverity" style="color:#86b0a6">Verity Hill</a>, Rambaut Group, University of Edinburgh. Flight volume data from Kamran Khan, Isaac Bogoch, Alexander Watts, Oliver Pybus, Moritz Kraemer. Sequences sourced from GISAID, full acknowledgements table <a href="http://cov-lineages.org/gisaid_acknowledgements.html" style="color:#86b0a6">here</a>.</p>
-            <p><strong>Citation:</strong> To cite this report, see our pre-print up on virological <a href="https://virological.org/t/tracking-the-international-spread-of-sars-cov-2-lineages-b-1-1-7-and-b-1-351-501y-v2/592" style="color:#86b0a6">here</a>.</p>
-            <br>
+            <p>This webpage is generated using publically available sequence data from GISAID, shared by international sequencing efforts.</p>
             {% assign grinch_data = site.data.grinch_data[page.lineage] %}
             <h3><strong>Table 1</strong> | Summary of {{ page.lineage }} data</h3>
             <table class="table table-striped">
@@ -536,9 +527,9 @@
                     <div>
                       <h3><strong>Figure {{ figure["number"] }}</strong> | {{ figure["name"] }}</h3>
                       <p>{{ figure["caption"] }}</p>
-                      <span class="image object">                      
-                        <img src="assets/images/{{ figure['file'] }}" alt="" style="max-width:{{ figure['width'] }}%"/> 
-                      </span>
+                      <div>
+                          <img src="assets/images/{{ figure['file'] }}" alt="" style="object-fit:contain; background-repeat:no-repeat; max-width:{{ figure['width'] }}%"/> 
+                      </div>
                     <br>
                     </div>
                 {% endfor %}
@@ -571,7 +562,7 @@
                   </table>
                   </p>
                   {% endif %}
-                <h3><a id = "table3link"></a><strong>Table 3</strong> | Raw data for figures in the report. <input class="searchbar" type="text" id="myInput3" onkeyup="myFunction('myInput3','myTable3')" placeholder="Search for country..." title="searchbar"></h3>
+                <h3><a id = "table3link"></a><strong>Table 3</strong> | Raw data for figures. <input class="searchbar" type="text" id="myInput3" onkeyup="myFunction('myInput3','myTable3')" placeholder="Search for country..." title="searchbar"></h3>
                 {% assign raw_data = site.data.grinch_data[page.lineage]["aggregate_data"] %}
                 <table class="table table-striped"  id="myTable3">
                 <tr class="header">
@@ -589,9 +580,18 @@
                     </tr>
                   {% endfor %}
                  </table>
-                </div>
-              </div>
-
+              <h3><strong>Data source and processing</strong></h3>
+              <p> The data on this page is recent as of {{ page.timestamp }}. All SARS-CoV-2 sequences were downloaded from GISAID and genomes were de-duplicated based on GISAID sequence name – note that the publically available metadata may not fully allow us to de-duplicate by patient. Full data processing pipeline found <a href="https://github.com/cov-lineages/grinch" style="color:#86b0a6">here</a>. The sequences were then assigned lineages with pangolin {{ page.v }}, pangoLEARN version {{ page.pv }}.</p>
+              {% if page.min_snps != "NA" %}
+              <p> Pangolin assigns {{ page.lineage }} to sequences with at least {{ page.min_snps }} of the {{ page.max_snps }} defining {{ page.lineage }} SNPs – defined  <a href={{ page.source }} style="color:#86b0a6">here</a>. </p>
+              <p><b>Caveat:</b> Most locations outside the original focus have not reported sustained transmission and many cases have known travel links to the focal location. Increasing numbers of international cases is currently likely due to increased surveillance and vigilance.</p>
+              {% endif %}
+              <h3><strong>Acknowledgements</strong></h3>
+              <p>Created by: <a href="https://twitter.com/AineToole" style="color:#86b0a6">Áine O'Toole</a> and <a href="https://twitter.com/viralverity" style="color:#86b0a6">Verity Hill</a>, Rambaut Group, University of Edinburgh. Flight volume data from Kamran Khan, Isaac Bogoch, Alexander Watts, Oliver Pybus, Moritz Kraemer. Sequences sourced from GISAID, full acknowledgements table <a href="http://cov-lineages.org/gisaid_acknowledgements.html" style="color:#86b0a6">here</a>.</p>
+              <p>We have a pre-print up on virological <a href="https://virological.org/t/tracking-the-international-spread-of-sars-cov-2-lineages-b-1-1-7-and-b-1-351-501y-v2/592" style="color:#86b0a6">here</a> describing this web tracker.</p>
+              <br>
+            </div>
+            </div>
               {% include sidebar.html %}
 
               </div>
