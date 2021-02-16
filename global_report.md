@@ -4,6 +4,7 @@ title: Global Report Investigating Novel Coronavirus Haplotypes
 ---
 <section>
     <p>These lineages are being tracked because they have mutations of interest and evidence of international spread.</p>
+    <h2>Lineages of concern</h2>
     <div class="posts">
         <article>
             <a href="./global_report_B.1.1.7.html" class="image"><img src="./assets/images/Map_of_B.1.1.7_local_transmission.svg" style="max-height:300px;max-width:450px" alt="" /></a>
@@ -23,6 +24,7 @@ title: Global Report Investigating Novel Coronavirus Haplotypes
     </div>
     <hr>
     <br>
+    <h2>Lineages of note</h2>
     <div class="posts">
         <article>
             <a href="./global_report_A.23.1.html" class="image"><img src="./assets/images/Date_of_earliest_A.23.1_detected.svg" style="max-height:300px;max-width:450px" alt="" /></a>
