@@ -2,9 +2,9 @@
     "B.1.351": {
         "Lineage": "B.1.351",
         "Country count": 35,
-        "Countries": "South Africa 735, United Kingdom 132, Belgium 71, Mozambique 41, Switzerland 40, Botswana 40, France 37, Zambia 31, Netherlands 31, Mayotte 27, Australia 16, Germany 10, Ireland 10, United States of America 8, Denmark 7, New Zealand 7, Israel 7, Kenya 6, United Arab Emirates 5, Canada 2, Finland 2, Turkey 2, Spain 2, Luxembourg 2, Singapore 1, Thailand 1, Portugal 1, Democratic Republic of the Congo 1, South Korea 1, Sweden 1, Norway 1, Panama 1, Austria 1, Bangladesh 1, Ghana 1",
+        "Countries": "South Africa 735, United Kingdom 136, Mayotte 95, Belgium 78, France 50, Switzerland 43, Mozambique 41, Botswana 40, Zambia 31, Netherlands 31, Australia 18, Germany 10, Ireland 10, United States of America 8, Denmark 7, New Zealand 7, Israel 7, Kenya 6, Finland 6, United Arab Emirates 5, Canada 2, Turkey 2, Spain 2, Luxembourg 2, Singapore 1, Thailand 1, Portugal 1, Democratic Republic of the Congo 1, South Korea 1, Sweden 1, Norway 1, Panama 1, Austria 1, Bangladesh 1, Ghana 1",
         "Earliest date": "2020-10-08",
-        "Count": 1282,
+        "Count": 1383,
         "Date": [
             {
                 "date": "2021-01-19",
@@ -12,7 +12,7 @@
             },
             {
                 "date": "2021-01-22",
-                "count": 20
+                "count": 32
             },
             {
                 "date": "2021-01-20",
@@ -20,7 +20,7 @@
             },
             {
                 "date": "2021-01-28",
-                "count": 12
+                "count": 14
             },
             {
                 "date": "2021-02-01",
@@ -36,11 +36,11 @@
             },
             {
                 "date": "2021-02-03",
-                "count": 3
+                "count": 9
             },
             {
                 "date": "2021-01-30",
-                "count": 10
+                "count": 11
             },
             {
                 "date": "2021-01-29",
@@ -48,19 +48,19 @@
             },
             {
                 "date": "2021-01-31",
-                "count": 4
+                "count": 5
             },
             {
                 "date": "2021-01-27",
-                "count": 7
+                "count": 15
             },
             {
                 "date": "2021-01-14",
-                "count": 27
+                "count": 28
             },
             {
                 "date": "2021-01-21",
-                "count": 12
+                "count": 16
             },
             {
                 "date": "2021-01-24",
@@ -68,7 +68,7 @@
             },
             {
                 "date": "2021-01-25",
-                "count": 11
+                "count": 47
             },
             {
                 "date": "2021-02-02",
@@ -76,7 +76,7 @@
             },
             {
                 "date": "2021-01-18",
-                "count": 24
+                "count": 25
             },
             {
                 "date": "2021-01-17",
@@ -92,11 +92,11 @@
             },
             {
                 "date": "2021-01-10",
-                "count": 9
+                "count": 10
             },
             {
                 "date": "2021-01-15",
-                "count": 39
+                "count": 41
             },
             {
                 "date": "2021-01-09",
@@ -104,7 +104,7 @@
             },
             {
                 "date": "2021-01-11",
-                "count": 29
+                "count": 32
             },
             {
                 "date": "2021-01-13",
@@ -141,6 +141,22 @@
             {
                 "date": "2021-01-05",
                 "count": 29
+            },
+            {
+                "date": "2021-01-23",
+                "count": 6
+            },
+            {
+                "date": "2021-01-26",
+                "count": 20
+            },
+            {
+                "date": "2021-02-05",
+                "count": 2
+            },
+            {
+                "date": "2021-02-08",
+                "count": 2
             },
             {
                 "date": "2021-01-12",
@@ -185,10 +201,6 @@
             {
                 "date": "2021-01-03",
                 "count": 15
-            },
-            {
-                "date": "2021-01-26",
-                "count": 4
             },
             {
                 "date": "2020-12-21",
@@ -279,7 +291,7 @@
                 "count": 34
             },
             {
-                "date": "2020-11-14",
+                "date": "2020-11-15",
                 "count": 2
             },
             {
@@ -287,8 +299,12 @@
                 "count": 2
             },
             {
-                "date": "2020-11-15",
-                "count": 2
+                "date": "2020-11-16",
+                "count": 1
+            },
+            {
+                "date": "2020-11-14",
+                "count": 1
             },
             {
                 "date": "2020-11-10",
@@ -319,10 +335,6 @@
                 "count": 10
             },
             {
-                "date": "2021-01-23",
-                "count": 4
-            },
-            {
                 "date": "2020-12-13",
                 "count": 4
             },
@@ -341,6 +353,10 @@
             {
                 "date": "2021-01-16",
                 "count": 13
+            },
+            {
+                "date": "2021-02-04",
+                "count": 4
             },
             {
                 "date": "2020-10-12",
@@ -429,10 +445,6 @@
             {
                 "date": "2020-10-18",
                 "count": 1
-            },
-            {
-                "date": "2021-02-04",
-                "count": 3
             }
         ],
         "Travel history": "1 Maldives/South; ",
@@ -768,8 +780,8 @@
             {
                 "Country": "United Kingdom",
                 "Earliest sequence": "2020-12-10",
-                "Number of variant sequences": "132",
-                "Total sequences since first variant sequence": "78880"
+                "Number of variant sequences": "136",
+                "Total sequences since first variant sequence": "83950"
             },
             {
                 "Country": "Denmark",
@@ -780,14 +792,14 @@
             {
                 "Country": "Belgium",
                 "Earliest sequence": "2020-12-20",
-                "Number of variant sequences": "71",
-                "Total sequences since first variant sequence": "1909"
+                "Number of variant sequences": "78",
+                "Total sequences since first variant sequence": "2148"
             },
             {
                 "Country": "Singapore",
                 "Earliest sequence": "2021-02-07",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "8"
+                "Total sequences since first variant sequence": "21"
             },
             {
                 "Country": "Thailand",
@@ -798,20 +810,20 @@
             {
                 "Country": "France",
                 "Earliest sequence": "2020-12-22",
-                "Number of variant sequences": "37",
-                "Total sequences since first variant sequence": "1769"
+                "Number of variant sequences": "50",
+                "Total sequences since first variant sequence": "1925"
             },
             {
                 "Country": "Switzerland",
                 "Earliest sequence": "2020-12-14",
-                "Number of variant sequences": "40",
-                "Total sequences since first variant sequence": "3829"
+                "Number of variant sequences": "43",
+                "Total sequences since first variant sequence": "7264"
             },
             {
                 "Country": "Canada",
                 "Earliest sequence": "2020-12-25",
                 "Number of variant sequences": "2",
-                "Total sequences since first variant sequence": "661"
+                "Total sequences since first variant sequence": "664"
             },
             {
                 "Country": "Botswana",
@@ -835,25 +847,31 @@
                 "Country": "Germany",
                 "Earliest sequence": "2020-12-21",
                 "Number of variant sequences": "10",
-                "Total sequences since first variant sequence": "635"
+                "Total sequences since first variant sequence": "638"
             },
             {
                 "Country": "Mayotte",
                 "Earliest sequence": "2021-01-07",
-                "Number of variant sequences": "27",
-                "Total sequences since first variant sequence": "92"
+                "Number of variant sequences": "95",
+                "Total sequences since first variant sequence": "207"
             },
             {
                 "Country": "United States Of America",
                 "Earliest sequence": "2021-01-08",
                 "Number of variant sequences": "8",
-                "Total sequences since first variant sequence": "10476"
+                "Total sequences since first variant sequence": "11065"
             },
             {
                 "Country": "Australia",
                 "Earliest sequence": "2020-12-10",
-                "Number of variant sequences": "16",
-                "Total sequences since first variant sequence": "455"
+                "Number of variant sequences": "18",
+                "Total sequences since first variant sequence": "462"
+            },
+            {
+                "Country": "Finland",
+                "Earliest sequence": "2020-12-19",
+                "Number of variant sequences": "6",
+                "Total sequences since first variant sequence": "273"
             },
             {
                 "Country": "Mozambique",
@@ -865,13 +883,7 @@
                 "Country": "Ireland",
                 "Earliest sequence": "2020-12-22",
                 "Number of variant sequences": "10",
-                "Total sequences since first variant sequence": "703"
-            },
-            {
-                "Country": "Finland",
-                "Earliest sequence": "2020-12-19",
-                "Number of variant sequences": "2",
-                "Total sequences since first variant sequence": "110"
+                "Total sequences since first variant sequence": "820"
             },
             {
                 "Country": "New Zealand",
@@ -895,13 +907,13 @@
                 "Country": "South Korea",
                 "Earliest sequence": "2020-12-26",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "9"
+                "Total sequences since first variant sequence": "119"
             },
             {
                 "Country": "Sweden",
                 "Earliest sequence": "2020-12-24",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "311"
+                "Total sequences since first variant sequence": "401"
             },
             {
                 "Country": "Turkey",
@@ -919,13 +931,13 @@
                 "Country": "Spain",
                 "Earliest sequence": "2020-12-24",
                 "Number of variant sequences": "2",
-                "Total sequences since first variant sequence": "1203"
+                "Total sequences since first variant sequence": "1228"
             },
             {
                 "Country": "Netherlands",
                 "Earliest sequence": "2020-12-22",
                 "Number of variant sequences": "31",
-                "Total sequences since first variant sequence": "2339"
+                "Total sequences since first variant sequence": "2340"
             },
             {
                 "Country": "Panama",
@@ -974,117 +986,117 @@
     "B.1.1.7": {
         "Lineage": "B.1.1.7",
         "Country count": 64,
-        "Countries": "United Kingdom 58296, Denmark 1614, France 739, United States of America 711, Belgium 614, Spain 590, Italy 493, Switzerland 476, Netherlands 470, Ireland 403, Israel 221, Portugal 205, Turkey 142, Austria 140, Sweden 99, Australia 91, Germany 91, Slovakia 70, Ghana 62, Singapore 51, Norway 51, Jordan 42, Finland 42, Canada 41, Romania 34, Luxembourg 32, Nigeria 28, New Zealand 26, India 22, United Arab Emirates 21, Iceland 20, Brazil 19, Czech Republic 17, South Korea 13, Poland 11, Saint Lucia 9, Sri Lanka 8, Thailand 7, Ecuador 6, Mexico 5, Macedonia 5, Hungary 5, Latvia 5, Slovenia 4, Greece 4, Hong Kong 4, Jamaica 4, Barbados 3, Bangladesh 3, Gambia 3, Cayman Islands 2, Malaysia 2, Democratic Republic of the Congo 2, Pakistan 2, Peru 1, Iran 1, Argentina 1, Oman 1, Kuwait 1, Dominican Republic 1, Trinidad and Tobago 1, South Africa 1, Bosnia and Herzegovina 1, Taiwan 1",
+        "Countries": "United Kingdom 63088, Denmark 1614, France 847, United States of America 756, Belgium 693, Spain 594, Ireland 507, Italy 495, Switzerland 488, Netherlands 471, Israel 221, Portugal 205, Sweden 148, Turkey 142, Austria 140, Finland 97, Australia 93, Germany 92, Nigeria 75, Slovakia 70, Ghana 62, Singapore 53, Norway 51, Jordan 42, Canada 41, Romania 35, India 34, Luxembourg 32, New Zealand 26, United Arab Emirates 21, Iceland 20, Brazil 19, Czech Republic 17, Sri Lanka 15, South Korea 13, Poland 11, Saint Lucia 9, Thailand 7, Ecuador 6, Mexico 5, Macedonia 5, Hungary 5, Latvia 5, Slovenia 4, Greece 4, Hong Kong 4, Jamaica 4, Barbados 3, Bangladesh 3, Gambia 3, Cayman Islands 2, Malaysia 2, Democratic Republic of the Congo 2, Pakistan 2, Peru 1, Iran 1, Argentina 1, Oman 1, Kuwait 1, Dominican Republic 1, Trinidad and Tobago 1, South Africa 1, Bosnia and Herzegovina 1, Taiwan 1",
         "Earliest date": "2020-09-20",
-        "Count": 66090,
+        "Count": 71413,
         "Date": [
             {
                 "date": "2021-01-30",
-                "count": 1452
+                "count": 1847
             },
             {
                 "date": "2021-02-04",
-                "count": 151
+                "count": 950
             },
             {
                 "date": "2021-02-05",
-                "count": 24
+                "count": 402
             },
             {
                 "date": "2021-02-03",
-                "count": 450
+                "count": 761
             },
             {
                 "date": "2021-01-12",
-                "count": 2044
+                "count": 2081
             },
             {
                 "date": "2021-01-11",
-                "count": 2037
+                "count": 2116
             },
             {
                 "date": "2021-01-09",
-                "count": 1658
+                "count": 1663
             },
             {
                 "date": "2021-01-10",
-                "count": 1195
+                "count": 1202
             },
             {
                 "date": "2021-01-07",
-                "count": 1112
+                "count": 1126
             },
             {
                 "date": "2021-01-13",
-                "count": 1301
+                "count": 1345
             },
             {
                 "date": "2021-01-25",
-                "count": 2728
+                "count": 2949
             },
             {
                 "date": "2021-01-18",
-                "count": 1878
+                "count": 1948
             },
             {
                 "date": "2021-02-01",
-                "count": 476
+                "count": 984
             },
             {
                 "date": "2021-02-02",
-                "count": 128
+                "count": 484
             },
             {
                 "date": "2021-01-04",
-                "count": 1588
+                "count": 1595
             },
             {
                 "date": "2021-01-08",
-                "count": 1310
+                "count": 1323
             },
             {
                 "date": "2021-01-15",
-                "count": 1649
+                "count": 1663
             },
             {
                 "date": "2021-01-29",
-                "count": 1970
+                "count": 2344
             },
             {
                 "date": "2021-01-27",
-                "count": 1253
+                "count": 1345
             },
             {
                 "date": "2021-01-17",
-                "count": 1333
+                "count": 1351
             },
             {
                 "date": "2021-01-14",
-                "count": 1704
+                "count": 1765
             },
             {
                 "date": "2021-01-16",
-                "count": 1078
+                "count": 1084
             },
             {
                 "date": "2021-01-28",
-                "count": 1760
+                "count": 1852
             },
             {
                 "date": "2021-01-26",
-                "count": 1742
+                "count": 1835
             },
             {
                 "date": "2021-02-06",
-                "count": 49
+                "count": 287
             },
             {
                 "date": "2021-01-19",
-                "count": 1565
+                "count": 1620
             },
             {
                 "date": "2021-01-23",
-                "count": 1328
+                "count": 1489
             },
             {
                 "date": "2021-01-03",
@@ -1092,35 +1104,35 @@
             },
             {
                 "date": "2020-12-31",
-                "count": 1027
+                "count": 1028
             },
             {
                 "date": "2020-12-30",
-                "count": 950
+                "count": 951
             },
             {
                 "date": "2021-01-06",
-                "count": 758
+                "count": 761
             },
             {
                 "date": "2021-01-21",
-                "count": 1294
+                "count": 1305
             },
             {
                 "date": "2021-01-05",
-                "count": 1357
+                "count": 1358
             },
             {
                 "date": "2021-01-31",
-                "count": 520
+                "count": 869
             },
             {
                 "date": "2021-02-07",
-                "count": 3
+                "count": 77
             },
             {
                 "date": "2021-01-20",
-                "count": 1207
+                "count": 1212
             },
             {
                 "date": "2020-12-23",
@@ -1128,7 +1140,7 @@
             },
             {
                 "date": "2021-01-24",
-                "count": 988
+                "count": 1185
             },
             {
                 "date": "2021-01-01",
@@ -1140,7 +1152,7 @@
             },
             {
                 "date": "2021-01-22",
-                "count": 1930
+                "count": 1949
             },
             {
                 "date": "2020-12-15",
@@ -1216,11 +1228,11 @@
             },
             {
                 "date": "2021-01-02",
-                "count": 1673
+                "count": 1677
             },
             {
                 "date": "2020-12-28",
-                "count": 727
+                "count": 729
             },
             {
                 "date": "2020-12-22",
@@ -1244,7 +1256,7 @@
             },
             {
                 "date": "2020-12-29",
-                "count": 1449
+                "count": 1453
             },
             {
                 "date": "2020-12-13",
@@ -1379,16 +1391,32 @@
                 "count": 35
             },
             {
+                "date": "2021-02-13",
+                "count": 1
+            },
+            {
+                "date": "2021-02-08",
+                "count": 196
+            },
+            {
+                "date": "2021-02-09",
+                "count": 6
+            },
+            {
+                "date": "2021-02-12",
+                "count": 1
+            },
+            {
+                "date": "2021-02-10",
+                "count": 1
+            },
+            {
                 "date": "2020-09-23",
                 "count": 1
             },
             {
                 "date": "2020-11-11",
                 "count": 45
-            },
-            {
-                "date": "2021-02-08",
-                "count": 1
             },
             {
                 "date": "2020-11-18",
@@ -2106,20 +2134,20 @@
             {
                 "Country": "Spain",
                 "Earliest sequence": "2020-12-14",
-                "Number of variant sequences": "590",
-                "Total sequences since first variant sequence": "1489"
+                "Number of variant sequences": "594",
+                "Total sequences since first variant sequence": "1516"
             },
             {
                 "Country": "Italy",
                 "Earliest sequence": "2020-12-14",
-                "Number of variant sequences": "493",
-                "Total sequences since first variant sequence": "1375"
+                "Number of variant sequences": "495",
+                "Total sequences since first variant sequence": "1377"
             },
             {
                 "Country": "Nigeria",
                 "Earliest sequence": "2020-12-17",
-                "Number of variant sequences": "28",
-                "Total sequences since first variant sequence": "67"
+                "Number of variant sequences": "75",
+                "Total sequences since first variant sequence": "141"
             },
             {
                 "Country": "Denmark",
@@ -2130,8 +2158,8 @@
             {
                 "Country": "United States Of America",
                 "Earliest sequence": "2020-12-17",
-                "Number of variant sequences": "711",
-                "Total sequences since first variant sequence": "23567"
+                "Number of variant sequences": "756",
+                "Total sequences since first variant sequence": "24228"
             },
             {
                 "Country": "Saint Lucia",
@@ -2148,26 +2176,26 @@
             {
                 "Country": "France",
                 "Earliest sequence": "2020-12-13",
-                "Number of variant sequences": "739",
-                "Total sequences since first variant sequence": "1949"
+                "Number of variant sequences": "847",
+                "Total sequences since first variant sequence": "2105"
             },
             {
                 "Country": "United Kingdom",
                 "Earliest sequence": "2020-09-20",
-                "Number of variant sequences": "58296",
-                "Total sequences since first variant sequence": "156670"
+                "Number of variant sequences": "63088",
+                "Total sequences since first variant sequence": "161740"
             },
             {
                 "Country": "Belgium",
                 "Earliest sequence": "2020-11-30",
-                "Number of variant sequences": "614",
-                "Total sequences since first variant sequence": "2299"
+                "Number of variant sequences": "693",
+                "Total sequences since first variant sequence": "2538"
             },
             {
                 "Country": "Sri Lanka",
                 "Earliest sequence": "2020-12-30",
-                "Number of variant sequences": "8",
-                "Total sequences since first variant sequence": "58"
+                "Number of variant sequences": "15",
+                "Total sequences since first variant sequence": "95"
             },
             {
                 "Country": "Barbados",
@@ -2184,20 +2212,20 @@
             {
                 "Country": "Australia",
                 "Earliest sequence": "2020-11-30",
-                "Number of variant sequences": "91",
-                "Total sequences since first variant sequence": "494"
+                "Number of variant sequences": "93",
+                "Total sequences since first variant sequence": "501"
             },
             {
                 "Country": "Romania",
                 "Earliest sequence": "2021-01-04",
-                "Number of variant sequences": "34",
-                "Total sequences since first variant sequence": "57"
+                "Number of variant sequences": "35",
+                "Total sequences since first variant sequence": "58"
             },
             {
                 "Country": "Singapore",
                 "Earliest sequence": "2020-12-08",
-                "Number of variant sequences": "51",
-                "Total sequences since first variant sequence": "268"
+                "Number of variant sequences": "53",
+                "Total sequences since first variant sequence": "282"
             },
             {
                 "Country": "Poland",
@@ -2208,14 +2236,14 @@
             {
                 "Country": "Switzerland",
                 "Earliest sequence": "2020-11-28",
-                "Number of variant sequences": "476",
-                "Total sequences since first variant sequence": "4333"
+                "Number of variant sequences": "488",
+                "Total sequences since first variant sequence": "7769"
             },
             {
                 "Country": "Canada",
                 "Earliest sequence": "2020-12-15",
                 "Number of variant sequences": "41",
-                "Total sequences since first variant sequence": "970"
+                "Total sequences since first variant sequence": "973"
             },
             {
                 "Country": "Turkey",
@@ -2232,8 +2260,8 @@
             {
                 "Country": "Germany",
                 "Earliest sequence": "2020-11-30",
-                "Number of variant sequences": "91",
-                "Total sequences since first variant sequence": "1030"
+                "Number of variant sequences": "92",
+                "Total sequences since first variant sequence": "1033"
             },
             {
                 "Country": "Portugal",
@@ -2244,14 +2272,14 @@
             {
                 "Country": "Ireland",
                 "Earliest sequence": "2020-12-17",
-                "Number of variant sequences": "403",
-                "Total sequences since first variant sequence": "740"
+                "Number of variant sequences": "507",
+                "Total sequences since first variant sequence": "860"
             },
             {
                 "Country": "Mexico",
                 "Earliest sequence": "2020-12-31",
                 "Number of variant sequences": "5",
-                "Total sequences since first variant sequence": "67"
+                "Total sequences since first variant sequence": "80"
             },
             {
                 "Country": "New Zealand",
@@ -2274,8 +2302,8 @@
             {
                 "Country": "Netherlands",
                 "Earliest sequence": "2020-11-12",
-                "Number of variant sequences": "470",
-                "Total sequences since first variant sequence": "3915"
+                "Number of variant sequences": "471",
+                "Total sequences since first variant sequence": "3916"
             },
             {
                 "Country": "Ecuador",
@@ -2286,8 +2314,8 @@
             {
                 "Country": "India",
                 "Earliest sequence": "2020-12-22",
-                "Number of variant sequences": "22",
-                "Total sequences since first variant sequence": "106"
+                "Number of variant sequences": "34",
+                "Total sequences since first variant sequence": "181"
             },
             {
                 "Country": "Israel",
@@ -2304,8 +2332,14 @@
             {
                 "Country": "Sweden",
                 "Earliest sequence": "2020-12-20",
-                "Number of variant sequences": "99",
-                "Total sequences since first variant sequence": "413"
+                "Number of variant sequences": "148",
+                "Total sequences since first variant sequence": "503"
+            },
+            {
+                "Country": "Finland",
+                "Earliest sequence": "2020-12-18",
+                "Number of variant sequences": "97",
+                "Total sequences since first variant sequence": "275"
             },
             {
                 "Country": "Iceland",
@@ -2329,13 +2363,7 @@
                 "Country": "Brazil",
                 "Earliest sequence": "2020-12-21",
                 "Number of variant sequences": "19",
-                "Total sequences since first variant sequence": "176"
-            },
-            {
-                "Country": "Finland",
-                "Earliest sequence": "2020-12-18",
-                "Number of variant sequences": "42",
-                "Total sequences since first variant sequence": "112"
+                "Total sequences since first variant sequence": "209"
             },
             {
                 "Country": "Iran",
@@ -2419,7 +2447,7 @@
                 "Country": "South Korea",
                 "Earliest sequence": "2020-12-14",
                 "Number of variant sequences": "13",
-                "Total sequences since first variant sequence": "15"
+                "Total sequences since first variant sequence": "241"
             },
             {
                 "Country": "Bangladesh",
@@ -2491,14 +2519,14 @@
     },
     "P.1": {
         "Lineage": "P.1",
-        "Country count": 12,
-        "Countries": "Brazil 81, Switzerland 9, Colombia 7, Japan 4, United States of America 3, Italy 3, France 3, Netherlands 2, Belgium 1, South Korea 1, Faroe Islands 1, Peru 1",
+        "Country count": 14,
+        "Countries": "Brazil 107, Switzerland 10, Colombia 7, Japan 5, Belgium 4, United States of America 3, Italy 3, France 3, French Guiana 2, Netherlands 2, Spain 1, South Korea 1, Faroe Islands 1, Peru 1",
         "Earliest date": "2020-12-04",
-        "Count": 116,
+        "Count": 150,
         "Date": [
             {
                 "date": "2021-01-29",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2021-01-30",
@@ -2514,7 +2542,7 @@
             },
             {
                 "date": "2021-01-31",
-                "count": 2
+                "count": 4
             },
             {
                 "date": "2021-01-20",
@@ -2526,7 +2554,7 @@
             },
             {
                 "date": "2021-01-25",
-                "count": 12
+                "count": 13
             },
             {
                 "date": "2021-02-01",
@@ -2538,6 +2566,42 @@
             },
             {
                 "date": "2021-01-09",
+                "count": 1
+            },
+            {
+                "date": "2021-02-09",
+                "count": 6
+            },
+            {
+                "date": "2021-01-19",
+                "count": 26
+            },
+            {
+                "date": "2021-01-08",
+                "count": 3
+            },
+            {
+                "date": "2021-01-12",
+                "count": 3
+            },
+            {
+                "date": "2021-01-22",
+                "count": 8
+            },
+            {
+                "date": "2021-02-08",
+                "count": 1
+            },
+            {
+                "date": "2021-02-06",
+                "count": 1
+            },
+            {
+                "date": "2021-01-27",
+                "count": 1
+            },
+            {
+                "date": "2021-02-11",
                 "count": 1
             },
             {
@@ -2585,27 +2649,11 @@
                 "count": 2
             },
             {
-                "date": "2021-01-19",
-                "count": 11
-            },
-            {
                 "date": "2021-01-14",
                 "count": 2
             },
             {
-                "date": "2021-01-08",
-                "count": 2
-            },
-            {
                 "date": "2021-01-21",
-                "count": 2
-            },
-            {
-                "date": "2021-01-22",
-                "count": 6
-            },
-            {
-                "date": "2021-01-12",
                 "count": 2
             },
             {
@@ -2736,7 +2784,7 @@
                 "Earliest report": "2021-02-05",
                 "Date local transmission": "",
                 "Local transmission": "0",
-                "Method of surveillance": "comunity_sequencing",
+                "Method of surveillance": "community_sequencing",
                 "Source": "https://noticias.uol.com.br/ultimas-noticias/afp/2021/02/04/peru-confirma-presenca-da-variante-brasileira-do-coronavirus.htm"
             },
             {
@@ -2768,7 +2816,7 @@
                 "Earliest report": "2021-02-10",
                 "Date local transmission": "",
                 "Local transmission": "0",
-                "Method of surveillance": "comunity_sequencing",
+                "Method of surveillance": "community_sequencing",
                 "Source": "https://www.reuters.com/article/health-coronavirus-portugal/portugal-detects-first-cases-of-brazilian-covid-19-variant-sic-tv-says-idUSL8N2KG7KT"
             },
             {
@@ -2776,7 +2824,7 @@
                 "Earliest report": "2021-02-10",
                 "Date local transmission": "",
                 "Local transmission": "0",
-                "Method of surveillance": "comunity_sequencing",
+                "Method of surveillance": "community_sequencing",
                 "Source": "https://www.who.int/publications/m/item/weekly-epidemiological-update---9-february-2021"
             },
             {
@@ -2784,40 +2832,60 @@
                 "Earliest report": "2021-02-09",
                 "Date local transmission": "",
                 "Local transmission": "0",
-                "Method of surveillance": "commnity_sequencing",
+                "Method of surveillance": "community_sequencing",
                 "Source": "https://www.thelocal.ch/20210209/switzerland-records-first-case-of-brazilian-coronavirus-mutation"
+            },
+            {
+                "Country": "Belgium",
+                "Earliest report": "2021-01-31",
+                "Date local transmission": "2021-01-31",
+                "Local transmission": "1",
+                "Method of surveillance": "community_sequencing",
+                "Source": "https://twitter.com/GuyBaele/status/1361414538281672704"
             }
         ],
         "aggregate_data": [
             {
                 "Country": "Switzerland",
-                "Earliest sequence": "2021-01-29",
-                "Number of variant sequences": "9",
-                "Total sequences since first variant sequence": "284"
+                "Earliest sequence": "2021-01-27",
+                "Number of variant sequences": "10",
+                "Total sequences since first variant sequence": "993"
             },
             {
                 "Country": "Brazil",
                 "Earliest sequence": "2020-12-04",
-                "Number of variant sequences": "81",
-                "Total sequences since first variant sequence": "248"
+                "Number of variant sequences": "107",
+                "Total sequences since first variant sequence": "281"
             },
             {
                 "Country": "United States Of America",
                 "Earliest sequence": "2021-01-09",
                 "Number of variant sequences": "3",
-                "Total sequences since first variant sequence": "9508"
+                "Total sequences since first variant sequence": "10097"
             },
             {
                 "Country": "Belgium",
-                "Earliest sequence": "2021-01-31",
+                "Earliest sequence": "2021-01-29",
+                "Number of variant sequences": "4",
+                "Total sequences since first variant sequence": "401"
+            },
+            {
+                "Country": "Japan",
+                "Earliest sequence": "2021-01-02",
+                "Number of variant sequences": "5",
+                "Total sequences since first variant sequence": "7"
+            },
+            {
+                "Country": "Spain",
+                "Earliest sequence": "2021-01-29",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "194"
+                "Total sequences since first variant sequence": "34"
             },
             {
                 "Country": "South Korea",
                 "Earliest sequence": "2021-01-10",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "1"
+                "Total sequences since first variant sequence": "47"
             },
             {
                 "Country": "Italy",
@@ -2835,7 +2903,7 @@
                 "Country": "France",
                 "Earliest sequence": "2021-01-22",
                 "Number of variant sequences": "3",
-                "Total sequences since first variant sequence": "456"
+                "Total sequences since first variant sequence": "610"
             },
             {
                 "Country": "Colombia",
@@ -2844,16 +2912,10 @@
                 "Total sequences since first variant sequence": "55"
             },
             {
-                "Country": "Japan",
-                "Earliest sequence": "2021-01-02",
-                "Number of variant sequences": "4",
-                "Total sequences since first variant sequence": "6"
-            },
-            {
                 "Country": "Netherlands",
                 "Earliest sequence": "2021-01-25",
                 "Number of variant sequences": "2",
-                "Total sequences since first variant sequence": "76"
+                "Total sequences since first variant sequence": "77"
             },
             {
                 "Country": "Peru",
@@ -2865,10 +2927,10 @@
     },
     "A.23.1": {
         "Lineage": "A.23.1",
-        "Country count": 16,
-        "Countries": "United Kingdom 121, Uganda 48, Canada 30, Rwanda 30, Cambodia 14, Denmark 6, Switzerland 3, Belgium 3, Kenya 2, Australia 1, United States of America 1, Egypt 1, United Arab Emirates 1, Netherlands 1, Ghana 1, Botswana 1",
+        "Country count": 17,
+        "Countries": "United Kingdom 125, Uganda 48, Canada 30, Rwanda 30, Cambodia 14, Denmark 6, Belgium 6, Switzerland 3, Kenya 2, United States of America 2, India 2, Australia 1, Egypt 1, United Arab Emirates 1, Netherlands 1, Ghana 1, Botswana 1",
         "Earliest date": "2020-10-21",
-        "Count": 264,
+        "Count": 274,
         "Date": [
             {
                 "date": "2021-01-16",
@@ -2884,7 +2946,7 @@
             },
             {
                 "date": "2021-01-20",
-                "count": 8
+                "count": 9
             },
             {
                 "date": "2021-01-11",
@@ -2917,6 +2979,34 @@
             {
                 "date": "2020-12-27",
                 "count": 12
+            },
+            {
+                "date": "2021-01-31",
+                "count": 2
+            },
+            {
+                "date": "2021-02-05",
+                "count": 1
+            },
+            {
+                "date": "2021-02-08",
+                "count": 1
+            },
+            {
+                "date": "2021-01-29",
+                "count": 2
+            },
+            {
+                "date": "2021-01-21",
+                "count": 5
+            },
+            {
+                "date": "2021-02-02",
+                "count": 1
+            },
+            {
+                "date": "2021-02-03",
+                "count": 2
             },
             {
                 "date": "2021-01-14",
@@ -2977,10 +3067,6 @@
             {
                 "date": "2020-12-14",
                 "count": 7
-            },
-            {
-                "date": "2021-01-31",
-                "count": 1
             },
             {
                 "date": "2020-11-27",
@@ -3051,10 +3137,6 @@
                 "count": 2
             },
             {
-                "date": "2021-01-21",
-                "count": 4
-            },
-            {
                 "date": "2020-12-13",
                 "count": 1
             },
@@ -3114,37 +3196,43 @@
                 "Country": "Canada",
                 "Earliest sequence": "2021-01-02",
                 "Number of variant sequences": "30",
-                "Total sequences since first variant sequence": "505"
+                "Total sequences since first variant sequence": "508"
             },
             {
                 "Country": "United Kingdom",
                 "Earliest sequence": "2020-11-27",
-                "Number of variant sequences": "121",
-                "Total sequences since first variant sequence": "87184"
+                "Number of variant sequences": "125",
+                "Total sequences since first variant sequence": "92254"
+            },
+            {
+                "Country": "United States Of America",
+                "Earliest sequence": "2021-01-31",
+                "Number of variant sequences": "2",
+                "Total sequences since first variant sequence": "725"
+            },
+            {
+                "Country": "Belgium",
+                "Earliest sequence": "2021-01-10",
+                "Number of variant sequences": "6",
+                "Total sequences since first variant sequence": "1653"
+            },
+            {
+                "Country": "India",
+                "Earliest sequence": "2021-01-20",
+                "Number of variant sequences": "2",
+                "Total sequences since first variant sequence": "21"
             },
             {
                 "Country": "Australia",
                 "Earliest sequence": "2021-01-02",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "177"
-            },
-            {
-                "Country": "United States Of America",
-                "Earliest sequence": "2021-01-31",
-                "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "305"
+                "Total sequences since first variant sequence": "184"
             },
             {
                 "Country": "Switzerland",
                 "Earliest sequence": "2021-01-01",
                 "Number of variant sequences": "3",
-                "Total sequences since first variant sequence": "2210"
-            },
-            {
-                "Country": "Belgium",
-                "Earliest sequence": "2021-01-10",
-                "Number of variant sequences": "3",
-                "Total sequences since first variant sequence": "1415"
+                "Total sequences since first variant sequence": "5376"
             },
             {
                 "Country": "Egypt",
@@ -3174,7 +3262,7 @@
                 "Country": "Netherlands",
                 "Earliest sequence": "2021-01-09",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "1022"
+                "Total sequences since first variant sequence": "1023"
             },
             {
                 "Country": "Ghana",
@@ -3198,22 +3286,22 @@
     },
     "B.1.525": {
         "Lineage": "B.1.525",
-        "Country count": 11,
-        "Countries": "Denmark 35, United Kingdom 33, Nigeria 12, United States of America 10, France 5, Ghana 4, Canada 3, Australia 2, Jordan 2, Belgium 1, Spain 1",
+        "Country count": 13,
+        "Countries": "United Kingdom 39, Denmark 35, Nigeria 29, United States of America 10, Canada 5, France 5, Ghana 4, Australia 2, Jordan 2, Singapore 1, Finland 1, Belgium 1, Spain 1",
         "Earliest date": "2020-12-15",
-        "Count": 108,
+        "Count": 135,
         "Date": [
             {
                 "date": "2021-01-08",
-                "count": 2
-            },
-            {
-                "date": "2021-01-07",
                 "count": 5
             },
             {
+                "date": "2021-01-07",
+                "count": 11
+            },
+            {
                 "date": "2021-02-01",
-                "count": 18
+                "count": 19
             },
             {
                 "date": "2021-01-25",
@@ -3221,7 +3309,7 @@
             },
             {
                 "date": "2021-01-30",
-                "count": 4
+                "count": 6
             },
             {
                 "date": "2021-01-18",
@@ -3237,7 +3325,7 @@
             },
             {
                 "date": "2021-01-27",
-                "count": 4
+                "count": 6
             },
             {
                 "date": "2021-02-03",
@@ -3261,15 +3349,39 @@
             },
             {
                 "date": "2021-01-14",
-                "count": 2
+                "count": 5
             },
             {
-                "date": "2021-01-04",
+                "date": "2021-01-10",
+                "count": 4
+            },
+            {
+                "date": "2021-01-06",
+                "count": 7
+            },
+            {
+                "date": "2021-01-05",
+                "count": 1
+            },
+            {
+                "date": "2021-01-31",
+                "count": 1
+            },
+            {
+                "date": "2021-01-20",
                 "count": 4
             },
             {
                 "date": "2021-01-17",
-                "count": 3
+                "count": 4
+            },
+            {
+                "date": "2021-01-23",
+                "count": 1
+            },
+            {
+                "date": "2021-01-04",
+                "count": 4
             },
             {
                 "date": "2021-01-09",
@@ -3292,24 +3404,16 @@
                 "count": 3
             },
             {
-                "date": "2021-01-06",
-                "count": 6
-            },
-            {
                 "date": "2021-01-15",
                 "count": 1
             },
             {
-                "date": "2021-01-10",
+                "date": "2021-02-05",
                 "count": 1
             },
             {
                 "date": "2021-01-21",
                 "count": 1
-            },
-            {
-                "date": "2021-01-20",
-                "count": 3
             },
             {
                 "date": "2021-01-13",
@@ -3322,8 +3426,8 @@
             {
                 "Country": "Nigeria",
                 "Earliest sequence": "2020-12-29",
-                "Number of variant sequences": "12",
-                "Total sequences since first variant sequence": "51"
+                "Number of variant sequences": "29",
+                "Total sequences since first variant sequence": "125"
             },
             {
                 "Country": "Denmark",
@@ -3334,26 +3438,38 @@
             {
                 "Country": "United Kingdom",
                 "Earliest sequence": "2020-12-15",
-                "Number of variant sequences": "33",
-                "Total sequences since first variant sequence": "70679"
+                "Number of variant sequences": "39",
+                "Total sequences since first variant sequence": "75749"
             },
             {
                 "Country": "United States Of America",
                 "Earliest sequence": "2021-01-10",
                 "Number of variant sequences": "10",
-                "Total sequences since first variant sequence": "8783"
+                "Total sequences since first variant sequence": "9372"
             },
             {
                 "Country": "Canada",
                 "Earliest sequence": "2021-01-13",
-                "Number of variant sequences": "3",
-                "Total sequences since first variant sequence": "451"
+                "Number of variant sequences": "5",
+                "Total sequences since first variant sequence": "454"
+            },
+            {
+                "Country": "Singapore",
+                "Earliest sequence": "2021-01-31",
+                "Number of variant sequences": "1",
+                "Total sequences since first variant sequence": "57"
+            },
+            {
+                "Country": "Finland",
+                "Earliest sequence": "2021-01-20",
+                "Number of variant sequences": "1",
+                "Total sequences since first variant sequence": "12"
             },
             {
                 "Country": "Australia",
                 "Earliest sequence": "2021-01-17",
                 "Number of variant sequences": "2",
-                "Total sequences since first variant sequence": "65"
+                "Total sequences since first variant sequence": "68"
             },
             {
                 "Country": "Jordan",
@@ -3365,13 +3481,13 @@
                 "Country": "France",
                 "Earliest sequence": "2021-01-06",
                 "Number of variant sequences": "5",
-                "Total sequences since first variant sequence": "1430"
+                "Total sequences since first variant sequence": "1586"
             },
             {
                 "Country": "Belgium",
                 "Earliest sequence": "2021-01-19",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "929"
+                "Total sequences since first variant sequence": "1143"
             },
             {
                 "Country": "Ghana",
@@ -3383,7 +3499,7 @@
                 "Country": "Spain",
                 "Earliest sequence": "2021-01-25",
                 "Number of variant sequences": "1",
-                "Total sequences since first variant sequence": "169"
+                "Total sequences since first variant sequence": "173"
             }
         ]
     }
