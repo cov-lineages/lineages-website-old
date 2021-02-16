@@ -21,7 +21,7 @@ layout: default
         </article>
         <article>
             <a href="./global_report.html" class="image"><img src="./assets/images/global_report.svg" style="max-height:300px;height:300px;" alt="" /></a>
-            <h3>Lineage of Concern Report</h3>
+            <h3>Lineage Reports</h3>
             <p><strong>grinch</strong> global report investigating novel coronavirus haplotypes<br>B.1.1.7, B.1.351, P.1, A.23.1 and B.1.525 </p>
         </article>
         <article>
