@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Lineages of Concern Report
+title: Global Report Investigating Novel Coronavirus Haplotypes
 ---
-<p>grinch | Global Report Investigating Novel Coronavirus Haplotypes</p>
 <section>
+    <p>These lineages are being tracked because they have mutations of interest and evidence of international spread.</p>
     <div class="posts">
         <article>
             <a href="./global_report_B.1.1.7.html" class="image"><img src="./assets/images/Map_of_B.1.1.7_local_transmission.svg" style="max-height:300px;max-width:450px" alt="" /></a>
@@ -20,6 +20,10 @@ title: Lineages of Concern Report
             <h3>P.1 report</h3>
             <p>Daily global report for lineage P.1</p>
         </article>
+    </div>
+    <hr>
+    <br>
+    <div class="posts">
         <article>
             <a href="./global_report_A.23.1.html" class="image"><img src="./assets/images/Date_of_earliest_A.23.1_detected.svg" style="max-height:300px;max-width:450px" alt="" /></a>
             <h3>A.23.1 report</h3>
