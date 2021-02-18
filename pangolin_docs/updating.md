@@ -8,6 +8,8 @@ title: Updating pangolin
 
 New feature: streamlined updating thanks to [Finlay Maguire](https://github.com/fmaguire)!
 
+Note: This flag will update versions of pangolin and pangoLEARN to the latest tagged releases. Major releases that involve any changes to dependencies (like v2.3) will need to also update the pangolin environment using the instructions below.
+
 <strong>Run:</strong>
 
 ```
