@@ -2812,7 +2812,7 @@
     "P.1": {
         "Lineage": "P.1",
         "Country count": 33,
-        "Countries": "Brazil 227, United Kingdom 37, Singapore 13, Switzerland 12, Italy 12, United States of America 10, Colombia 10, United Arab Emirates 9, Belgium 8, Portugal 7, Japan 6, Netherlands 5, France 5, Denmark 4, Germany 4, Iran 3, India 3, Czech Republic 3, Canada 3, Australia 3, French Guiana 2, Brunei 2, Ireland 1, New Zealand 1, Spain 1, Turkey 1, South Korea 1, Azerbaijan 1, China 1, Mexico 1, Faroe Islands 1, Russia 1, Peru 1",
+        "Countries": "Brazil 227, Singapore 13, Switzerland 12, Italy 12, United States of America 10, Colombia 10, United Arab Emirates 9, Belgium 8, Portugal 7, Japan 6, Netherlands 5, France 5, Denmark 4, Germany 4, Iran 3, India 3, Czech Republic 3, Canada 3, Australia 3, French Guiana 2, Brunei 2, Ireland 1, New Zealand 1, Spain 1, Turkey 1, South Korea 1, Azerbaijan 1, China 1, Mexico 1, Faroe Islands 1, Russia 1, Peru 1",
         "Earliest date": "2020-04-08",
         "Count": 399,
         "Date": [
@@ -3532,12 +3532,6 @@
                 "Earliest sequence": "2020-12-29",
                 "Number of variant sequences": "1",
                 "Total sequences since first variant sequence": "88"
-            },
-            {
-                "Country": "United Kingdom",
-                "Earliest sequence": "2020-09-07",
-                "Number of variant sequences": "31",
-                "Total sequences since first variant sequence": "192684"
             },
             {
                 "Country": "Japan",
