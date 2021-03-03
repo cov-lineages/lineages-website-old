@@ -3,5 +3,5 @@ layout: lineage_page
 title: Lineage B.1.214
 lineage: B.1.214
 parent: B.1
-children: ['B.1.214']
+children: ['B.1.214', 'B.1.214.1', 'B.1.214.2']
 ---
