@@ -1,0 +1,7 @@
+---
+layout: lineage_page
+title: Lineage P.3
+lineage: P.3
+parent: B.1.1.28
+children: ['P.3']
+---
