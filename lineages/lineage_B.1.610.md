@@ -1,0 +1,7 @@
+---
+layout: lineage_page
+title: Lineage B.1.610
+lineage: B.1.610
+parent: B.1
+children: ['B.1.610']
+---

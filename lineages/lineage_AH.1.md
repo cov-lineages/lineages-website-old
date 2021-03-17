@@ -1,0 +1,7 @@
+---
+layout: lineage_page
+title: Lineage AH.1
+lineage: AH.1
+parent: B.1.1.241
+children: ['AH.1']
+---

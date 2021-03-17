@@ -1,0 +1,7 @@
+---
+layout: lineage_page
+title: Lineage AP.1
+lineage: AP.1
+parent: B.1.1.70
+children: ['AP.1']
+---

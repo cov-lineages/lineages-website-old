@@ -1,0 +1,7 @@
+---
+layout: lineage_page
+title: Lineage C.18
+lineage: C.18
+parent: B.1.1.1
+children: ['C.18']
+---
