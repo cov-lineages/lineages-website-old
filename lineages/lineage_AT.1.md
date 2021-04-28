@@ -2,6 +2,6 @@
 layout: lineage_page
 title: Lineage AT.1
 lineage: AT.1
-parent: AT
+parent: B.1.1.370
 children: ['AT.1']
 ---
