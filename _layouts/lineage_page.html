@@ -392,6 +392,7 @@
         return false;
       });*/
 
+
       var countryCentroidMap = new Map();
 
       coordsCsv.forEach(function(country) {
@@ -584,6 +585,7 @@
         .on("mouseout", function(d) {   
             $(".maptooltip").hide();
         });
+
   };
 
   function drawBarChart(data) {
@@ -702,10 +704,12 @@
           });
 
       countryCount.append("text").text(function (d) {return d;}).attr("transform", "translate(0,9)");
+
   }
 
   function drawDateChart(data) {
-    
+
+
     var margin = {top: 20, right: 0, bottom: 35, left: 30};
 
     var width = $("#date_chart").width();
@@ -753,10 +757,16 @@
 
     var dates = [];
 
-    while (minDate <= maxDate){
+    if(data.length < 2) {
       dates.push(new Date(minDate));
       minDate.setDate(minDate.getDate() + 1);
-    };
+    } else {
+       while (minDate <= maxDate){
+        dates.push(new Date(minDate));
+        minDate.setDate(minDate.getDate() + 1);
+      };
+
+    }
 
     var maxBandSize = 100 + (width - (margin.left + margin.right));
 
@@ -829,6 +839,7 @@
       .on("mouseout", function(d) {   
           $(".maptooltip").hide();
       });
+
   }
 
 </script>
