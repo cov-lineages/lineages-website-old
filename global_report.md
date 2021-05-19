@@ -23,7 +23,7 @@ title: Global Report Investigating Novel Coronavirus Haplotypes
         </article>
         <article>
             <a href="./global_report_B.1.617.2.html" class="image"><img src="./assets/images/Date_of_earliest_B.1.617.2_detected.svg" style="max-height:300px;max-width:450px" alt="" /></a>
-            <h3>P.1 report</h3>
+            <h3>B.1.617.2 report</h3>
             <p>Daily global report for lineage P.1</p>
         </article>
     </div>
