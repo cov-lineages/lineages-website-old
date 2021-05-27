@@ -23,11 +23,14 @@ layout: page
   - python=3.7
   - snakemake-minimal=5.13
   - pandas==1.0.1
-  - git+https://github.com/cov-ert/datafunk.git
+  - usher
   - git+https://github.com/cov-lineages/pangoLEARN.git
+  - git+https://github.com/cov-lineages/pangoLEARN.git
+  - git+https://github.com/cov-lineages/scorpio.git
+  - git+https://github.com/cov-lineages/constellations.git
 ```
 
-> Recommended to install using conda
+<strong>Recommended to install using conda</strong>
 
 
 ### [Next: Installation](./installation.html)

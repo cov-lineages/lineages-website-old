@@ -27,31 +27,37 @@ layout: page
     </section>
 
 
-### QUICK LINKS
-
+## pangolin documentation
 <section>
-<div class="row">
-  <div class="column">
-    <ul>
-      <li><a href="{{ 'pangolin_docs/pangolearn.html' | absolute_url }}">How it works</a></li>
-      <li><a href="{{ 'pangolin_docs/pangolearn.html' | absolute_url }}">Model training</a></li>
-      <li><a href="{{ 'pangolin_tutorial.html' | absolute_url }}">pangolin tutorial</a></li>
-    </ul>
+<div>
+  <table id="myTable">
+    <tr class="header">
+      <th style="width:80%;">QUICK LINKS</th>
+    </tr>
+    <tr>
+      <td><a href="{{ 'pangolin_tutorial.html' | absolute_url }}">Tutorial</a></td>
+    </tr>
+    <tr>
+        <td><a href="{{ 'pangolin_docs/requirements.html' | absolute_url }}">Dependencies</a></td>
+    </tr>
+    <tr>
+        <td><a href="{{ 'pangolin_docs/installation.html' | absolute_url }}">Installation</a></td>
+    </tr>
+    <tr>
+        <td><a href="{{ 'pangolin_docs/updating.html' | absolute_url }}">Updating</a></td>
+    </tr>
+    <tr>
+        <td><a href="{{ 'pangolin_docs/usage.html' | absolute_url }}">Usage</a></td>
+    </tr>
+    <tr>
+        <td><a href="{{ 'pangolin_docs/output.html' | absolute_url }}">Output</a></td>
+    </tr>
+    <tr>
+        <td><a href="{{ 'pangolin_docs/pangolearn.html' | absolute_url }}">pangoLEARN description</a></td>
+    </tr>
+    <tr>
+        <td><a href="{{ 'pangolin_docs/references.html' | absolute_url }}">References</a></td>
+    </tr>
+  </table>
   </div>
-  <div class="column">
-    <ul>
-      <li><a href="{{ 'pangolin_docs/requirements.html' | absolute_url }}">Dependencies</a></li>
-      <li><a href="{{ 'pangolin_docs/installation.html' | absolute_url }}">Installation</a></li>
-      <li><a href="{{ 'pangolin_docs/updating.html' | absolute_url }}">Updating</a></li>
-    </ul>
-  </div>
-  <div class="column">
-    <ul>
-      <li><a href="{{ 'pangolin_docs/usage.html' | absolute_url }}">Usage</a></li>
-      <li><a href="{{ 'pangolin_docs/output.html' | absolute_url }}">Output</a></li>
-      <li><a href="{{ 'contributors.html' | absolute_url }}">Citing pangolin</a></li>
-    </ul>
-  </div>
-</div>
 </section>
-

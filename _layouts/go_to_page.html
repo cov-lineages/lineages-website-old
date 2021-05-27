@@ -21,11 +21,11 @@
                 <!-- Content -->
                 <section>
                 	<header class="main">
-                		<h2>{{ page.title }}</h2>
+                		<h1>{{ page.title }}</h1>
                 	</header>
 
                   <div id="tableWrapper">
-                      <h3><strong>Table 1</strong> | Lineage descriptions <br>  <input class="searchbar" type="text" id="myInput" onkeyup="myFunction('myInput','myTable')" placeholder="Search for lineage..." title="searchbar"></h3>
+                      <h3><br><input class="searchbar" type="text" id="myInput" onkeyup="myFunction('myInput','myTable')" placeholder="Search for lineage..." title="searchbar"></h3>
                       <br>
                   <table id="myTable">
                     <tr class="header">
@@ -34,7 +34,7 @@
                       <th style="width:10%;">Earliest date</th>
                       <th style="width:10%;">Number designated</th>
                       <th style="width:10%;">Number assigned</th>
-                      <th style="width:20%;">Description</th>
+                      <th style="width:10%;">Description</th>
                     </tr>
                       {% for child in page.children %}
 
