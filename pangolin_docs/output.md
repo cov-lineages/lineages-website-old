@@ -54,17 +54,14 @@ If any conflicts from the decision tree, this field will output the alternative 
 
 |taxon                              |lineage  |conflict|ambiguity_<br>score|scorpio_<br>call|scorpio_<br>support|scorpio_<br>conflict|version   |pangolin_<br>version|pangoLEARN_<br>version|pango_version|status   |note                                                      |
 |-----------------------------------|---------|--------|---------------|------------|---------------|----------------|----------|----------------|------------------|-------------|---------|----------------------------------------------------------|
-|Virus1                          |B.1.617.1|NA     |NA            |            |               |                |PANGO-1.2|2.4.2           |2021-05-10        |1.2          |passed_qc|                                                          |
+|Virus1                          |B.1.617.1|    |           |            |               |                |PANGO-1.2|2.4.2           |2021-05-10        |1.2          |passed_qc|   Assigned using designation hash.                                                       |
 |Virus2                               |B.1.1.7  |0.0     |1.0            |B.1.1.7     |0.695700       |0.130400        |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |passed_qc|scorpio call:<br>Alt alleles 16;<br>Ref alleles 3;<br>Amb alleles 4|
-|Virus3                         |A        |NA     |NA            |            |               |                |PANGO-1.2|2.4.2           |2021-05-10        |1.2          |passed_qc|                                                          |
+|Virus3                         |A        |    |           |            |               |                |PANGO-1.2|2.4.2           |2021-05-10        |1.2          |passed_qc|   Assigned using designation hash.                                                       |
 |Virus4                          |B        |0.0     |1.0            |            |               |                |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |passed_qc|                                                          |
 |Virus5                            |B.1.314  |0.0     |1.0            |            |               |                |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |passed_qc|                                                          |
-|Virus6 |None     |NA      |NA             |            |NA             |NA              |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |seq_len:18000                                             |
-|Virus7                 |None     |NA      |NA             |            |NA             |NA              |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |seq_len:0                                                 |
-|Virus8              |None     |NA      |NA             |            |NA             |NA              |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |seq_len:2997                                              |
-|Virus9            |None     |NA      |NA             |            |NA             |NA              |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |N_content:0.98                                            |
-|Virus10       |None     |NA      |NA             |            |NA             |NA              |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |N_content:1.0                                             |
-|Virus11               |None     |NA      |NA             |            |NA             |NA              |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |failed_to_map                                             |
+|Virus6              |None     |     |            |            |            |             |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |seq_len:2997                                              |
+|Virus7            |None     |     |            |            |            |             |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |N_content:0.98                                            |
+|Virus8               |None     |     |            |            |            |             |PLEARN-1.2|2.4.2           |2021-05-10        |1.2          |fail     |failed_to_map                                             |
 
 
 

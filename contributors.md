@@ -5,47 +5,7 @@ layout: default
 <!-- Section -->
 <section>
     <header class="major">
-        <h2>Pango team</h2>
-    </header>
-    <div class="features">
-        <article>
-            <span class="fas fa-virus fa-3x"></span>
-            <div class="content">
-                <h3>University of Edinburgh</h3>
-                <ul> Andrew Rambaut <br>
-                    Áine O'Toole <br>
-                    Verity Hill <br>
-                    JT McCrone <br>
-                    Emily Scher <br>
-                    Ben Jackson
-                </ul>
-            </div>
-        </article>
-        <article>
-            <span class="fas fa-virus fa-3x"></span>
-            <div class="content">
-                <h3>University of Sydney</h3>
-                <ul> Eddie Holmes <br></ul>
-            </div>
-        </article>
-        <article>
-            <span class="fas fa-virus fa-3x"></span>
-            <div class="content">
-                <h3>University of Oxford</h3>
-                <ul> Oliver Pybus <br>
-                Louis du Plessis</ul>
-            </div>
-        </article>
-        <article>
-            <span class="fas fa-virus fa-3x"></span>
-            <div class="content">
-                <h3>University of Cambridge</h3>
-                <ul> Chris Ruis </ul>
-            </div>
-        </article>
-    </div>
-    <header class="major">
-        <h2>pangolin developers</h2>
+        <h2>pangolin contributors</h2>
     </header>
     <div class="features">
      <article>
@@ -54,9 +14,10 @@ layout: default
                 <h3>University of Edinburgh</h3>
                 <ul> Áine O'Toole <br>
                     Emily Scher <br>
-                    Verity Hill <br>
-                    JT McCrone <br>
                     Ben Jackson <br>
+                    JT McCrone <br>
+                    Verity Hill <br>
+                    Rachel Colquhoun <br>
                     Andrew Rambaut 
                 </ul>
             </div>
@@ -72,6 +33,12 @@ layout: default
                 David Aanensen</ul>
             </div>
         </article>
+        <article>
+             <span class="fas fa-virus fa-3x"></span>
+            <div class="content">
+                <h3><a href="https://www.pango.network">Pango Network</a></h3>
+            </div>
+        </article>
     </div>
 </section>
 <section>
@@ -79,14 +46,6 @@ layout: default
         <h2>Acknowledgements</h2>
     </header>
 <div class="features">
-        <article>
-        <span class="fas fa-virus fa-3x"></span>
-            <div class="content">
-                <h3>Australian National University</h3>
-                <ul> Rob Lanfear <br>
-                </ul>
-            </div>
-        </article>
         <article>
             <span class="fas fa-virus fa-3x"></span>
             <div class="content">
