@@ -4,7 +4,7 @@ layout: page
 
 # Output
 
-pangolin outputs a csv file with taxon name and lineage assigned, one line corresponding to each sequence in the fasta file provided
+pangolin outputs a csv file with taxon name and lineage assigned, one line corresponding to each sequence in the fasta file provided. The following descriptions relate to pangolin 3.0 onwards.
 
 ## CSV column headers
 
