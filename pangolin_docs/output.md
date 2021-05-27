@@ -15,10 +15,10 @@ The name of an input query sequence. Note that spaces and commas in sequence nam
 The most likely lineage assigned to a given sequence based on the inference engine used and the SARS-CoV-2 diversity [designated](https://github.com/cov-lineages/pango-designation). This assignment may be is sensitive to missing data at key sites. 
 
 ### conflict
-In the pangoLEARN decision tree model, a given sequence gets assigned to the most likely category based on known diversity. If there are conflicting signals and a sequence can fit into more than one category with equal scoring, conflict will be greater than 0 and reflect the number of categories. If conflict is 0, this means that within the current decision tree there is one category that the sequence is most suitable for.
+In the pangoLEARN decision tree model, a given sequence gets assigned to the most likely category based on known diversity. If a sequence can fit into more than one category, the conflict score will be greater than 0 and reflect the number of categories the sequence could fit into. If the conflict score is 0, this means that within the current decision tree there is only one category that the sequence could be assigned to.
 
 ### ambiguity_score
-This score is a function of the quantity of missing data used in a given lineage assignment. 
+This score is a function of the quantity of missing data in a sequence. It represents the proportion of relevant sites in a sequnece which were imputed to the reference values. A score of 1 indicates that no sites were imputed, while a score of 0 indicates that more sites were imputed than were not imputed. This score only includes sites which are used by the decision tree to classify a sequence.
 
 ### scorpio_call
 If a query is assigned a constellation by scorpio this call is output in this column. The full set of constellations searched by default can be found at [the constellations repository](https://github.com/cov-lineages/constellations).
