@@ -1,7 +1,0 @@
----
-layout: lineage_page
-title: Lineage P.4
-lineage: P.4
-parent: B.1.1.28
-children: ['P.4']
----

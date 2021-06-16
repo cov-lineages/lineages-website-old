@@ -1,7 +1,0 @@
----
-layout: lineage_page
-title: Lineage B.1.351.2
-lineage: B.1.351.2
-parent: B.1.351
-children: ['B.1.351.2']
----

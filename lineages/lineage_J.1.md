@@ -1,7 +1,0 @@
----
-layout: lineage_page
-title: Lineage J.1
-lineage: J.1
-parent: J
-children: ['J.1']
----

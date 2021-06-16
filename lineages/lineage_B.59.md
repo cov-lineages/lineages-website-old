@@ -1,7 +1,0 @@
----
-layout: lineage_page
-title: Lineage B.59
-lineage: B.59
-parent: B
-children: ['B.59']
----
